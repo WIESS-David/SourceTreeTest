@@ -1,0 +1,886 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_dev_xorchk.dbo -source=r_dev_xorchk.c -o .\obj\gh_0000pbs1.o -list=.\obj\r_dev_xorchk.lst C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+Source File: r_dev_xorchk.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\device\d1mx\src\dev\r_dev_xorchk.c -o
+                         171 --		.\obj\r_dev_xorchk.o
+                         172 --Source File:   ..\..\..\..\..\device\d1mx\src\dev\r_dev_xorchk.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:52 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : device driver for V-Lib
+                         186 --4: FILE    : $Id: r_dev_xorchk.c 11006 2016-11-07 16:32:44Z michael.golczewski $
+                         187 --5: ============================================================================
+                         188 --6: DESCRIPTION
+                         189 --7: r7f701412 xor check unit functionality
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T
+                         192 --10: ============================================================================
+                         193 --11:                        Copyright (c) 2014
+                         194 --12:                                   by 
+                         195 --13:                        Renesas Electronics (Europe) GmbH.
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing, not for mass production
+                         202 --21: DISCLAIMER
+                         203 --23: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         204 --24: the license agreement, especially the usage rights. In any case, it is
+                         205 --25: LICENSEE's responsibility to make sure that any user of the software complies
+                         206 --26: with the terms and conditions of the signed license agreement.
+                         207 --28: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         208 --29: mass-production applications. It can only be used for evaluation and
+                         209 --30: demonstration purposes at customer's premises listed in the signed license
+                         210 --31: agreement.
+                         211 --33: ****************************************************************************
+                         212 --34: */
+                         213 --37: /*******************************************************************************
+                         214 --38:   Title: r7f701412 interrupt serivicing 
+                         215 --40:   
+                         216 --41: */
+                         217 --43: /*******************************************************************************
+                         218 --44:   Section: Includes
+                         219 --45: */
+                         220 --47: #include "r_typedefs.h"
+                         221 --50: /* The debug output for register accesses shall be only active 
+                         222 --51: on special request, otherwise the output might get "overloaded"  
+                         223 --52: If you want to see all register accesses, activate R_DBG_SHOW_INT_REGS
+                         224 --53: in your application's Makefile */
+                         225 --54: #ifndef R_DBG_SHOW_INT_REGS
+                         226 --55:   #undef  R_DBG_PRINT_DEV_REGS
+                         227 --56: #endif   
+                         228 --57: #include "r_dev_api.h"
+                         229 --59: /*******************************************************************************
+                         230 --60:   Section: Local Constants 
+                         231 --61: */
+                         232 --63: /* register addresses of XORCHK unit */
+                         233 --64: #define LOC_PRMR0CFG0               0xFFC06000u
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         234 --65: #define LOC_PRMR0CFG1               0xFFC06004u
+                         235 --66: #define LOC_PRMR0CFG2               0xFFC06008u
+                         236 --68: /* register addresses of DNFA (dig. noise filter) used for Xor check unit */
+                         237 --69: #define LOC_DNFA9CTL                0xFFC30900u
+                         238 --70: #define LOC_DNFA9EN                 0xFFC30904u
+                         239 --71: #define LOC_DNFA10CTL               0xFFC30A00u
+                         240 --72: #define LOC_DNFA10EN                0xFFC30A04u
+                         241 --74: /*******************************************************************************
+                         242 --75:   Section: Local types 
+                         243 --76: */
+                         244 --78: /*******************************************************************************
+                         245 --79:   Constant: loc_XorchkFunc_XorCtlReg
+                         246 --80:   
+                         247 --81:   Stores the PRMR0CFGn register address,
+                         248 --82:   that relates to the Xor check unit function.
+                         249 --84: */
+                         250 --85: static const uint32_t loc_XorchkFunc_XorCtlReg[R_DEV_XORCHK_FUNC_LAST] =
+                         251 --86: {
+                         252 --87:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB0O1       */
+                         253 --88:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB0O3       */
+                         254 --89:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB0O5       */
+                         255 --90:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB0O7       */
+                         256 --91:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB0O9       */
+                         257 --92:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB0O11      */
+                         258 --93:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB0O13      */
+                         259 --94:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB1O1       */
+                         260 --95:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB1O3       */
+                         261 --96:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB1O5       */
+                         262 --97:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB1O7       */
+                         263 --98:     LOC_PRMR0CFG0,   /* R_XORCHK_FUNC_TAUB1O9       */
+                         264 --99: 	LOC_PRMR0CFG1,   /* R_XORCHK_FUNC_PCMP0AP0      */
+                         265 --100: 	LOC_PRMR0CFG1,   /* R_XORCHK_FUNC_PCMP0AN0      */
+                         266 --101: 	LOC_PRMR0CFG1,   /* R_XORCHK_FUNC_PCMP0BP0      */
+                         267 --102: 	LOC_PRMR0CFG1,   /* R_XORCHK_FUNC_PCMP0BN0      */
+                         268 --103: 	LOC_PRMR0CFG1,   /* R_XORCHK_FUNC_PCMP0AP1      */
+                         269 --104: 	LOC_PRMR0CFG1,   /* R_XORCHK_FUNC_PCMP0AN1      */
+                         270 --105: 	LOC_PRMR0CFG1,   /* R_XORCHK_FUNC_PCMP0BP1      */
+                         271 --106: 	LOC_PRMR0CFG1,   /* R_XORCHK_FUNC_PCMP0BN1      */
+                         272 --107: 	LOC_PRMR0CFG2,   /* R_XORCHK_FUNC_SG0AO         */
+                         273 --108: 	LOC_PRMR0CFG2,   /* R_XORCHK_FUNC_SG0FAOL       */
+                         274 --109: 	LOC_PRMR0CFG2    /* R_XORCHK_FUNC_SG0FAO        */
+                         275 --110: };
+                         276 --112: /*******************************************************************************
+                         277 --113:   Constant: loc_XorchkFunc_XorCtlRegBit
+                         278 --114:   
+                         279 --115:   Stores the PRMR0CFGn registers control bit number,
+                         280 --116:   that relates to the Xor check unit function.
+                         281 --117:   example:
+                         282 --118:    o PRMR0XDBE01 -> bit 0 (TAUB0O1)
+                         283 --119:    o PRMR0XDBE03 -> bit 1 (TAUB0O3)
+                         284 --120:    o PRMR0XDBE05 -> bit 2 (TAUB0O5)
+                         285 --122: */
+                         286 --123: static const uint32_t loc_XorchkFunc_XorCtlRegBit[R_DEV_XORCHK_FUNC_LAST] =
+                         287 --124: {
+                         288 --125:     0u,    /* R_XORCHK_FUNC_TAUB0O1       */
+                         289 --126:     1u,    /* R_XORCHK_FUNC_TAUB0O3       */
+                         290 --127:     2u,    /* R_XORCHK_FUNC_TAUB0O5       */
+                         291 --128:     3u,    /* R_XORCHK_FUNC_TAUB0O7       */
+                         292 --129:     4u,    /* R_XORCHK_FUNC_TAUB0O9       */
+                         293 --130:     5u,    /* R_XORCHK_FUNC_TAUB0O11      */
+                         294 --131:     6u,    /* R_XORCHK_FUNC_TAUB0O13      */
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         295 --132:           /* bit 7 not used */
+                         296 --133:     8u,    /* R_XORCHK_FUNC_TAUB1O1       */
+                         297 --134:     9u,    /* R_XORCHK_FUNC_TAUB1O3       */
+                         298 --135:     10u,   /* R_XORCHK_FUNC_TAUB1O5       */
+                         299 --136:     11u,   /* R_XORCHK_FUNC_TAUB1O7       */
+                         300 --137:     12u,   /* R_XORCHK_FUNC_TAUB1O9       */
+                         301 --139: 	5u,    /* R_XORCHK_FUNC_PCMP0AP0      */
+                         302 --140: 	4u,    /* R_XORCHK_FUNC_PCMP0AN0      */
+                         303 --141: 	1u,    /* R_XORCHK_FUNC_PCMP0BP0      */
+                         304 --142: 	6u,    /* R_XORCHK_FUNC_PCMP0BN0      */
+                         305 --143: 	3u,    /* R_XORCHK_FUNC_PCMP0AP1      */
+                         306 --144: 	0u,    /* R_XORCHK_FUNC_PCMP0AN1      */
+                         307 --145: 	2u,    /* R_XORCHK_FUNC_PCMP0BP1      */
+                         308 --146: 	7u,    /* R_XORCHK_FUNC_PCMP0BN1      */
+                         309 --148: 	2u,    /* R_XORCHK_FUNC_SG0AO         */
+                         310 --149: 	1u,    /* R_XORCHK_FUNC_SG0FAOL       */
+                         311 --150: 	0u     /* R_XORCHK_FUNC_SG0FAO        */
+                         312 --151: };
+                         313 --153: /*******************************************************************************
+                         314 --154:   Constant: loc_XorchkFunc_DnfCtlReg
+                         315 --155:   
+                         316 --156:   Stores the DNFAnCTL register address,
+                         317 --157:   that relates to the Xor check unit function.
+                         318 --159: */
+                         319 --160: static const uint32_t loc_XorchkFunc_DnfCtlReg[R_DEV_XORCHK_FUNC_LAST] =
+                         320 --161: {
+                         321 --162:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB0O1       */
+                         322 --163:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB0O3       */
+                         323 --164:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB0O5       */
+                         324 --165:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB0O7       */
+                         325 --166:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB0O9       */
+                         326 --167:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB0O11      */
+                         327 --168:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB0O13      */
+                         328 --169:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB1O1       */
+                         329 --170:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB1O3       */
+                         330 --171:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB1O5       */
+                         331 --172:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB1O7       */
+                         332 --173:     LOC_DNFA9CTL,    /* R_XORCHK_FUNC_TAUB1O9       */
+                         333 --174: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_PCMP0AP0      */
+                         334 --175: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_PCMP0AN0      */
+                         335 --176: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_PCMP0BP0      */
+                         336 --177: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_PCMP0BN0      */
+                         337 --178: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_PCMP0AP1      */
+                         338 --179: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_PCMP0AN1      */
+                         339 --180: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_PCMP0BP1      */
+                         340 --181: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_PCMP0BN1      */
+                         341 --182: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_SG0AO         */
+                         342 --183: 	LOC_DNFA10CTL,   /* R_XORCHK_FUNC_SG0FAOL       */
+                         343 --184: 	LOC_DNFA10CTL    /* R_XORCHK_FUNC_SG0FAO        */
+                         344 --185: };
+                         345 --187: /*******************************************************************************
+                         346 --188:   Constant: loc_XorchkFunc_DnfEnReg
+                         347 --189:   
+                         348 --190:   Stores the DNFAnEN register address,
+                         349 --191:   that relates to the Xor check unit function.
+                         350 --193: */
+                         351 --194: static const uint32_t loc_XorchkFunc_DnfEnReg[R_DEV_XORCHK_FUNC_LAST] =
+                         352 --195: {
+                         353 --196:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB0O1       */
+                         354 --197:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB0O3       */
+                         355 --198:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB0O5       */
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         356 --199:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB0O7       */
+                         357 --200:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB0O9       */
+                         358 --201:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB0O11      */
+                         359 --202:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB0O13      */
+                         360 --203:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB1O1       */
+                         361 --204:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB1O3       */
+                         362 --205:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB1O5       */
+                         363 --206:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB1O7       */
+                         364 --207:     LOC_DNFA9EN,    /* R_XORCHK_FUNC_TAUB1O9       */
+                         365 --208: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_PCMP0AP0      */
+                         366 --209: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_PCMP0AN0      */
+                         367 --210: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_PCMP0BP0      */
+                         368 --211: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_PCMP0BN0      */
+                         369 --212: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_PCMP0AP1      */
+                         370 --213: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_PCMP0AN1      */
+                         371 --214: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_PCMP0BP1      */
+                         372 --215: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_PCMP0BN1      */
+                         373 --216: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_SG0AO         */
+                         374 --217: 	LOC_DNFA10EN,   /* R_XORCHK_FUNC_SG0FAOL       */
+                         375 --218: 	LOC_DNFA10EN    /* R_XORCHK_FUNC_SG0FAO        */
+                         376 --219: };
+                         377 --221: /*******************************************************************************
+                         378 --222:   Constant: loc_XorchkFunc_DnfEnRegBit
+                         379 --223:   
+                         380 --224:   Stores the DNFAnEN registers control bit number,
+                         381 --225:   that relates to the Xor check unit function.
+                         382 --226:   example:
+                         383 --227:    o DNFAnNFENL0 -> bit 0
+                         384 --228:    o DNFAnNFENL7 -> bit 7
+                         385 --229:    o DNFAnNFENH0 -> bit 8
+                         386 --231: */
+                         387 --232: static const uint32_t loc_XorchkFunc_DnfEnRegBit[R_DEV_XORCHK_FUNC_LAST] =
+                         388 --233: {
+                         389 --234:     0u,    /* R_XORCHK_FUNC_TAUB0O1       */
+                         390 --235:     1u,    /* R_XORCHK_FUNC_TAUB0O3       */
+                         391 --236:     2u,    /* R_XORCHK_FUNC_TAUB0O5       */
+                         392 --237:     3u,    /* R_XORCHK_FUNC_TAUB0O7       */
+                         393 --238:     4u,    /* R_XORCHK_FUNC_TAUB0O9       */
+                         394 --239:     5u,    /* R_XORCHK_FUNC_TAUB0O11      */
+                         395 --240:     6u,    /* R_XORCHK_FUNC_TAUB0O13      */
+                         396 --241:           /* bit 7 not used */
+                         397 --242:     8u,    /* R_XORCHK_FUNC_TAUB1O1       */
+                         398 --243:     9u,    /* R_XORCHK_FUNC_TAUB1O3       */
+                         399 --244:     10u,   /* R_XORCHK_FUNC_TAUB1O5       */
+                         400 --245:     11u,   /* R_XORCHK_FUNC_TAUB1O7       */
+                         401 --246:     12u,   /* R_XORCHK_FUNC_TAUB1O9       */
+                         402 --248: 	0u,    /* R_XORCHK_FUNC_PCMP0AP0      */
+                         403 --249: 	1u,    /* R_XORCHK_FUNC_PCMP0AN0      */
+                         404 --250: 	2u,    /* R_XORCHK_FUNC_PCMP0BP0      */
+                         405 --251: 	3u,    /* R_XORCHK_FUNC_PCMP0BN0      */
+                         406 --252: 	4u,    /* R_XORCHK_FUNC_PCMP0AP1      */
+                         407 --253: 	5u,    /* R_XORCHK_FUNC_PCMP0AN1      */
+                         408 --254: 	6u,    /* R_XORCHK_FUNC_PCMP0BP1      */
+                         409 --255: 	7u,    /* R_XORCHK_FUNC_PCMP0BN1      */
+                         410 --257: 	8u,    /* R_XORCHK_FUNC_SG0AO         */
+                         411 --258: 	8u,    /* R_XORCHK_FUNC_SG0FAOL  Note: all 3 SG functions share same DNF (DNF10.8) */
+                         412 --259: 	8u     /* R_XORCHK_FUNC_SG0FAO   Note: all 3 SG functions share same DNF (DNF10.8) */
+                         413 --260: };
+                         414 --263: /*******************************************************************************
+                         415 --264:   Section: Local functions
+                         416 --265: */
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         417 --267: /*******************************************************************************
+                         418 --268:   Section: Global functions
+                         419 --269: */
+                         420 --272: /*******************************************************************************
+                         421 --273:   Function: R_DEV_Xorchk_Config
+                         422 --274:   
+                         423 --275:   See: <r_dev_api.h> for details 
+                         424 --276: */
+                         425 --278: void R_DEV_Xorchk_Config(r_dev_XorchkFunc_t Func, r_dev_xorchk_Parameter_t *Config) 
+                         426 	.text
+                         427 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D024..0::
+                         428 	.align	2
+                         429 	.global	_R_DEV_Xorchk_Config
+                         430 _R_DEV_Xorchk_Config:
+00000000 0670            431 	mov	r6,r14
+00000002 07f0            432 	mov	r7,ep
+                         433 --	    .bf
+                         434 .LDW01:
+                         435 --279: {
+                         436 --280:     uint32_t regval8 = 0;
+00000004 000a            437 	mov	0,r1
+                         438 --282:     /* DNF detailed setup (filter config) */
+                         439 --283:     /*  set sample number before requection (2 .. 5) */
+                         440 --284:     if ((Config->SampleRejectAbility >= 2)
+00000006 006d            441 	sld.w	0[ep],r13
+00000008 626a            442 	cmp	2,r13
+0000000a c105*           443 	bl	.L4
+0000000c 006d            444 	sld.w	0[ep],r13
+0000000e 656a            445 	cmp	5,r13
+00000010 b305*           446 	bnh	.L7
+                         447 .L4:
+                         448 --285:         && (Config->SampleRejectAbility <= 5))
+                         449 --286:     {
+                         450 --287:         /* nothing */
+                         451 --288:     } else
+                         452 --289:     {
+                         453 --290:         /* invalid value for "SampleRejectAbility"
+                         454 --291:             -> use default value 2 */
+                         455 --292:         Config->SampleRejectAbility = 2;
+                         456 --line292
+                         457 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.1::
+                         458 .LDWlin1:
+00000012 026a            459 	mov	2,r13
+00000014 016d            460 	sst.w	r13,0[ep]
+                         461 .L7:
+                         462 --293:     }
+                         463 --294:     regval8 |= (((Config->SampleRejectAbility) - 2) << 5);
+00000016 006d            464 	sld.w	0[ep],r13
+00000018 5e6a            465 	add	-2,r13
+0000001a c56a            466 	shl	5,r13
+0000001c 0d09            467 	or	r13,r1
+                         468 --295:         
+                         469 --296:     /*  set sample clock prescaler (0 .. 7)
+                         470 --297:          -> equals 2^SampleClockPrescaler */
+                         471 --298:     if (Config->SampleClockPrescaler > 0x7)
+0000001e 026d            472 	sld.w	4[ep],r13
+00000020 676a            473 	cmp	7,r13
+00000022 a305*           474 	bnh	.L8
+                         475 --299:     {
+                         476 --300:         /* invalid value for "SampleClockPrescaler"
+                         477 --301:             -> use default value 0 (equals 2^0 = 1) */
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         478 --302:         Config->SampleClockPrescaler = 0;
+                         479 --line302
+                         480 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.2::
+                         481 .LDWlin2:
+00000024 0305            482 	sst.w	zero,4[ep]
+                         483 .L8:
+                         484 --303:     }
+                         485 --304:     regval8 |= ((Config->SampleClockPrescaler) << 0);
+00000026 026d            486 	sld.w	4[ep],r13
+00000028 0d09            487 	or	r13,r1
+                         488 --305:     
+                         489 --306:     /* write the value to DNFAnCTL register */
+                         490 --307:     R_DEV_WRITE_REG(8, loc_XorchkFunc_DnfCtlReg[Func], regval8);
+0000002a 0e68            491 	mov	r14,r13
+0000002c c26a            492 	shl	2,r13
+0000002e 2c0600000000*   493 	mov	_loc_XorchkFunc_DnfCtlReg,r12
+00000034 cc69            494 	add	r12,r13
+00000036 2d6f0100        495 	ld.w	0[r13],r13
+0000003a 4d0f0000        496 	st.b	r1,0[r13]
+                         497 --308: }
+                         498 --	    .ef
+                         499 .LDW11:
+0000003e 7f00            500 	jmp	[lp]
+                         501 	.type	_R_DEV_Xorchk_Config,@function
+                         502 	.size	_R_DEV_Xorchk_Config,.-_R_DEV_Xorchk_Config
+                         503 	.align	2
+                         504 .LDW21:
+                         505 --_regval8	r1	local
+                         506 
+                         507 --_Func	r14	param
+                         508 --_Config	ep	param
+                         509 
+                         510 	.section ".bss","awb"
+                         511 .L66:
+                         512 	.type	.L66,@object
+                         513 	.size	.L66,0
+                         514 	.section ".rodata","a"
+                         515 	.align	4
+                         516 	.global	_loc_XorchkFunc_XorCtlReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.
+                         517 _loc_XorchkFunc_XorCtlReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.:
+00000000 0060c0ff        518 _loc_XorchkFunc_XorCtlReg:	.byte	0,96,192,255
+00000004 0060c0ff        519 	.byte	0,96,192,255
+00000008 0060c0ff        520 	.byte	0,96,192,255
+0000000c 0060c0ff        521 	.byte	0,96,192,255
+00000010 0060c0ff        522 	.byte	0,96,192,255
+00000014 0060c0ff        523 	.byte	0,96,192,255
+00000018 0060c0ff        524 	.byte	0,96,192,255
+0000001c 0060c0ff        525 	.byte	0,96,192,255
+00000020 0060c0ff        526 	.byte	0,96,192,255
+00000024 0060c0ff        527 	.byte	0,96,192,255
+00000028 0060c0ff        528 	.byte	0,96,192,255
+0000002c 0060c0ff        529 	.byte	0,96,192,255
+00000030 0460c0ff        530 	.byte	4,96,192,255
+00000034 0460c0ff        531 	.byte	4,96,192,255
+00000038 0460c0ff        532 	.byte	4,96,192,255
+0000003c 0460c0ff        533 	.byte	4,96,192,255
+00000040 0460c0ff        534 	.byte	4,96,192,255
+00000044 0460c0ff        535 	.byte	4,96,192,255
+00000048 0460c0ff        536 	.byte	4,96,192,255
+0000004c 0460c0ff        537 	.byte	4,96,192,255
+00000050 0860c0ff        538 	.byte	8,96,192,255
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+00000054 0860c0ff        539 	.byte	8,96,192,255
+00000058 0860c0ff        540 	.byte	8,96,192,255
+                         541 	.type	_loc_XorchkFunc_XorCtlReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,@object
+                         542 	.size	_loc_XorchkFunc_XorCtlReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,92
+                         543 	.type	_loc_XorchkFunc_XorCtlReg,@object
+                         544 	.size	_loc_XorchkFunc_XorCtlReg,92
+                         545 	.global	_loc_XorchkFunc_XorCtlRegBit..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.
+                         546 _loc_XorchkFunc_XorCtlRegBit..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.:
+0000005c 00000000        547 _loc_XorchkFunc_XorCtlRegBit:	.space	4
+00000060 01000000        548 	.byte	1,0,0,0
+00000064 02000000        549 	.byte	2,0,0,0
+00000068 03000000        550 	.byte	3,0,0,0
+0000006c 04000000        551 	.byte	4,0,0,0
+00000070 05000000        552 	.byte	5,0,0,0
+00000074 06000000        553 	.byte	6,0,0,0
+00000078 08000000        554 	.byte	8,0,0,0
+0000007c 09000000        555 	.byte	9,0,0,0
+00000080 0a000000        556 	.byte	10,0,0,0
+00000084 0b000000        557 	.byte	11,0,0,0
+00000088 0c000000        558 	.byte	12,0,0,0
+0000008c 05000000        559 	.byte	5,0,0,0
+00000090 04000000        560 	.byte	4,0,0,0
+00000094 01000000        561 	.byte	1,0,0,0
+00000098 06000000        562 	.byte	6,0,0,0
+0000009c 03000000        563 	.byte	3,0,0,0
+000000a0 00000000        564 	.space	4
+000000a4 02000000        565 	.byte	2,0,0,0
+000000a8 07000000        566 	.byte	7,0,0,0
+000000ac 02000000        567 	.byte	2,0,0,0
+000000b0 01000000        568 	.byte	1,0,0,0
+000000b4 00000000        569 	.space	4
+                         570 	.type	_loc_XorchkFunc_XorCtlRegBit..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,@object
+                         571 	.size	_loc_XorchkFunc_XorCtlRegBit..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,92
+                         572 	.type	_loc_XorchkFunc_XorCtlRegBit,@object
+                         573 	.size	_loc_XorchkFunc_XorCtlRegBit,92
+                         574 	.global	_loc_XorchkFunc_DnfCtlReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.
+                         575 _loc_XorchkFunc_DnfCtlReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.:
+000000b8 0009c3ff        576 _loc_XorchkFunc_DnfCtlReg:	.byte	0,9,195,255
+000000bc 0009c3ff        577 	.byte	0,9,195,255
+000000c0 0009c3ff        578 	.byte	0,9,195,255
+000000c4 0009c3ff        579 	.byte	0,9,195,255
+000000c8 0009c3ff        580 	.byte	0,9,195,255
+000000cc 0009c3ff        581 	.byte	0,9,195,255
+000000d0 0009c3ff        582 	.byte	0,9,195,255
+000000d4 0009c3ff        583 	.byte	0,9,195,255
+000000d8 0009c3ff        584 	.byte	0,9,195,255
+000000dc 0009c3ff        585 	.byte	0,9,195,255
+000000e0 0009c3ff        586 	.byte	0,9,195,255
+000000e4 0009c3ff        587 	.byte	0,9,195,255
+000000e8 000ac3ff        588 	.byte	0,10,195,255
+000000ec 000ac3ff        589 	.byte	0,10,195,255
+000000f0 000ac3ff        590 	.byte	0,10,195,255
+000000f4 000ac3ff        591 	.byte	0,10,195,255
+000000f8 000ac3ff        592 	.byte	0,10,195,255
+000000fc 000ac3ff        593 	.byte	0,10,195,255
+00000100 000ac3ff        594 	.byte	0,10,195,255
+00000104 000ac3ff        595 	.byte	0,10,195,255
+00000108 000ac3ff        596 	.byte	0,10,195,255
+0000010c 000ac3ff        597 	.byte	0,10,195,255
+00000110 000ac3ff        598 	.byte	0,10,195,255
+                         599 	.type	_loc_XorchkFunc_DnfCtlReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,@object
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         600 	.size	_loc_XorchkFunc_DnfCtlReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,92
+                         601 	.type	_loc_XorchkFunc_DnfCtlReg,@object
+                         602 	.size	_loc_XorchkFunc_DnfCtlReg,92
+                         603 	.global	_loc_XorchkFunc_DnfEnReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.
+                         604 _loc_XorchkFunc_DnfEnReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.:
+00000114 0409c3ff        605 _loc_XorchkFunc_DnfEnReg:	.byte	4,9,195,255
+00000118 0409c3ff        606 	.byte	4,9,195,255
+0000011c 0409c3ff        607 	.byte	4,9,195,255
+00000120 0409c3ff        608 	.byte	4,9,195,255
+00000124 0409c3ff        609 	.byte	4,9,195,255
+00000128 0409c3ff        610 	.byte	4,9,195,255
+0000012c 0409c3ff        611 	.byte	4,9,195,255
+00000130 0409c3ff        612 	.byte	4,9,195,255
+00000134 0409c3ff        613 	.byte	4,9,195,255
+00000138 0409c3ff        614 	.byte	4,9,195,255
+0000013c 0409c3ff        615 	.byte	4,9,195,255
+00000140 0409c3ff        616 	.byte	4,9,195,255
+00000144 040ac3ff        617 	.byte	4,10,195,255
+00000148 040ac3ff        618 	.byte	4,10,195,255
+0000014c 040ac3ff        619 	.byte	4,10,195,255
+00000150 040ac3ff        620 	.byte	4,10,195,255
+00000154 040ac3ff        621 	.byte	4,10,195,255
+00000158 040ac3ff        622 	.byte	4,10,195,255
+0000015c 040ac3ff        623 	.byte	4,10,195,255
+00000160 040ac3ff        624 	.byte	4,10,195,255
+00000164 040ac3ff        625 	.byte	4,10,195,255
+00000168 040ac3ff        626 	.byte	4,10,195,255
+0000016c 040ac3ff        627 	.byte	4,10,195,255
+                         628 	.type	_loc_XorchkFunc_DnfEnReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,@object
+                         629 	.size	_loc_XorchkFunc_DnfEnReg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,92
+                         630 	.type	_loc_XorchkFunc_DnfEnReg,@object
+                         631 	.size	_loc_XorchkFunc_DnfEnReg,92
+                         632 	.global	_loc_XorchkFunc_DnfEnRegBit..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.
+                         633 _loc_XorchkFunc_DnfEnRegBit..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.:
+00000170 00000000        634 _loc_XorchkFunc_DnfEnRegBit:	.space	4
+00000174 01000000        635 	.byte	1,0,0,0
+00000178 02000000        636 	.byte	2,0,0,0
+0000017c 03000000        637 	.byte	3,0,0,0
+00000180 04000000        638 	.byte	4,0,0,0
+00000184 05000000        639 	.byte	5,0,0,0
+00000188 06000000        640 	.byte	6,0,0,0
+0000018c 08000000        641 	.byte	8,0,0,0
+00000190 09000000        642 	.byte	9,0,0,0
+00000194 0a000000        643 	.byte	10,0,0,0
+00000198 0b000000        644 	.byte	11,0,0,0
+0000019c 0c000000        645 	.byte	12,0,0,0
+000001a0 00000000        646 	.space	4
+000001a4 01000000        647 	.byte	1,0,0,0
+000001a8 02000000        648 	.byte	2,0,0,0
+000001ac 03000000        649 	.byte	3,0,0,0
+000001b0 04000000        650 	.byte	4,0,0,0
+000001b4 05000000        651 	.byte	5,0,0,0
+000001b8 06000000        652 	.byte	6,0,0,0
+000001bc 07000000        653 	.byte	7,0,0,0
+000001c0 08000000        654 	.byte	8,0,0,0
+000001c4 08000000        655 	.byte	8,0,0,0
+000001c8 08000000        656 	.byte	8,0,0,0
+                         657 	.type	_loc_XorchkFunc_DnfEnRegBit..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,@object
+                         658 	.size	_loc_XorchkFunc_DnfEnRegBit..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.,92
+                         659 	.type	_loc_XorchkFunc_DnfEnRegBit,@object
+                         660 	.size	_loc_XorchkFunc_DnfEnRegBit,92
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         661 	.data
+                         662 	.text
+                         663 
+                         664 
+                         665 --311: /*******************************************************************************
+                         666 --312:   Function: R_DEV_Xorchk_FunctionCheckEnable
+                         667 --313:   
+                         668 --314:   See: <r_dev_api.h> for details 
+                         669 --315: */
+                         670 --317: void R_DEV_Xorchk_FunctionCheckEnable(r_dev_XorchkFunc_t Func, uint8_t Enable)
+                         671 	.align	2
+                         672 	.align	2
+                         673 	.global	_R_DEV_Xorchk_FunctionCheckEnable
+                         674 _R_DEV_Xorchk_FunctionCheckEnable:
+00000040 8007c100        675 	prepare	{r28,r29},0
+00000044 0668            676 	mov	r6,r13
+00000046 c766ff00        677 	andi	255,r7,r12
+0000004a 2b0600000000*   678 	mov	_loc_XorchkFunc_XorCtlReg,r11
+00000050 2a0600000000*   679 	mov	_loc_XorchkFunc_XorCtlRegBit,r10
+00000056 290600000000*   680 	mov	_loc_XorchkFunc_DnfEnReg,r9
+0000005c 280600000000*   681 	mov	_loc_XorchkFunc_DnfEnRegBit,r8
+                         682 --	    .bf
+                         683 .LDW31:
+                         684 --318: {
+                         685 --319:     uint16_t regval16 = 0 ;
+00000062 000a            686 	mov	0,r1
+                         687 --320:     uint32_t regval32 = 0 ;
+00000064 0072            688 	mov	0,r14
+                         689 --321:     
+                         690 --322:     /* DNF setup (only enable / disable) */
+                         691 --323:     /* first read the actual value of DNFAnEN register */
+                         692 --324:     regval16 = R_DEV_READ_REG(16, loc_XorchkFunc_DnfEnReg[Func]);
+00000066 0df0            693 	mov	r13,ep
+00000068 c2f2            694 	shl	2,ep
+0000006a c9f1            695 	add	r9,ep
+0000006c 00f5            696 	sld.w	0[ep],ep
+0000006e 7008            697 	sld.hu	0[ep],r1
+                         698 --325:     
+                         699 --326:     /* clear DNFA enable bit to disable XOR check unit */
+                         700 --327:     if (R_FALSE == Enable)
+00000070 e061            701 	cmp	zero,r12
+00000072 da0d*           702 	bne	.L107
+                         703 --328:     {
+                         704 --329:         regval16 &= (uint16_t)(~(1uL << loc_XorchkFunc_DnfEnRegBit[Func]));
+                         705 --line329
+                         706 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.3::
+                         707 .LDWlin3:
+00000074 0df0            708 	mov	r13,ep
+00000076 c2f2            709 	shl	2,ep
+00000078 c8f1            710 	add	r8,ep
+0000007a 01ea            711 	mov	1,r29
+0000007c 00e5            712 	sld.w	0[ep],r28
+0000007e fcefc2e8        713 	shl	r28,r29,r29
+00000082 3de8            714 	not	r29,r29
+00000084 dd00            715 	zxh	r29
+00000086 5d09            716 	and	r29,r1
+00000088 c100            717 	zxh	r1
+0000008a b50d*           718 	br	.L109
+                         719 .L107:
+                         720 --330:     } 
+                         721 --331:     /* set DNFA enable bit to enable XOR check unit */
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+                         722 --332:     else {
+                         723 --333:         regval16 |= (uint16_t)(1uL << loc_XorchkFunc_DnfEnRegBit[Func]);
+                         724 --line333
+                         725 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.4::
+                         726 .LDWlin4:
+0000008c 0df0            727 	mov	r13,ep
+0000008e c2f2            728 	shl	2,ep
+00000090 c8f1            729 	add	r8,ep
+00000092 01ea            730 	mov	1,r29
+00000094 00e5            731 	sld.w	0[ep],r28
+00000096 fcefc2e8        732 	shl	r28,r29,r29
+0000009a dd00            733 	zxh	r29
+0000009c 1d09            734 	or	r29,r1
+0000009e c100            735 	zxh	r1
+                         736 .L109:
+                         737 --334:     }
+                         738 --335:     /* write the new value to DNFAnEN register */
+                         739 --336:     R_DEV_WRITE_REG(16, loc_XorchkFunc_DnfEnReg[Func], regval16);
+000000a0 0df0            740 	mov	r13,ep
+000000a2 c2f2            741 	shl	2,ep
+000000a4 c9f1            742 	add	r9,ep
+000000a6 00f5            743 	sld.w	0[ep],ep
+000000a8 800c            744 	sst.h	r1,0[ep]
+                         745 --337:     
+                         746 --338:     /* PRMR0CFGn setup */
+                         747 --339:     /* first read the actual value of PRMR0CFGn register */
+                         748 --340:     regval32 = R_DEV_READ_REG(32, loc_XorchkFunc_XorCtlReg[Func]); 
+000000aa 0df0            749 	mov	r13,ep
+000000ac c2f2            750 	shl	2,ep
+000000ae cbf1            751 	add	r11,ep
+000000b0 00f5            752 	sld.w	0[ep],ep
+000000b2 0075            753 	sld.w	0[ep],r14
+                         754 --341:     
+                         755 --342:     /* clear Ctrl enable bit to disable XOR check unit */
+                         756 --343:     if (R_FALSE == Enable)
+000000b4 e061            757 	cmp	zero,r12
+000000b6 ba0d*           758 	bne	.L110
+                         759 --344:     {
+                         760 --345:         regval32 &= (uint32_t)~(1uL << loc_XorchkFunc_XorCtlRegBit[Func]); 
+                         761 --line345
+                         762 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.5::
+                         763 .LDWlin5:
+000000b8 0df0            764 	mov	r13,ep
+000000ba c2f2            765 	shl	2,ep
+000000bc caf1            766 	add	r10,ep
+000000be 01ea            767 	mov	1,r29
+000000c0 00e5            768 	sld.w	0[ep],r28
+000000c2 fcefc2e8        769 	shl	r28,r29,r29
+000000c6 3de8            770 	not	r29,r29
+000000c8 5d71            771 	and	r29,r14
+000000ca 950d*           772 	br	.L112
+                         773 .L110:
+                         774 --346:     } 
+                         775 --347:     /* Set Ctrl enable bit to enable XOR check unit */
+                         776 --348:     else {
+                         777 --349:         regval32 |= (uint32_t)(1uL << loc_XorchkFunc_XorCtlRegBit[Func]);
+                         778 --line349
+                         779 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk.6::
+                         780 .LDWlin6:
+000000cc 0df0            781 	mov	r13,ep
+000000ce c2f2            782 	shl	2,ep
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pbs1.si
+000000d0 caf1            783 	add	r10,ep
+000000d2 01ea            784 	mov	1,r29
+000000d4 00e5            785 	sld.w	0[ep],r28
+000000d6 fcefc2e8        786 	shl	r28,r29,r29
+000000da 1d71            787 	or	r29,r14
+                         788 .L112:
+                         789 --350:     }
+                         790 --351:     /* write the new value to PRMR0CFGn register */
+                         791 --352:     R_DEV_WRITE_REG(32, loc_XorchkFunc_XorCtlReg[Func], regval32); 
+000000dc 0df0            792 	mov	r13,ep
+000000de c2f2            793 	shl	2,ep
+000000e0 cbf1            794 	add	r11,ep
+000000e2 00f5            795 	sld.w	0[ep],ep
+000000e4 0175            796 	sst.w	r14,0[ep]
+                         797 --353: }
+                         798 --	    .ef
+                         799 .LDW41:
+000000e6 4006df00        800 	dispose	0,{r28,r29},[lp]
+                         801 	.type	_R_DEV_Xorchk_FunctionCheckEnable,@function
+                         802 	.size	_R_DEV_Xorchk_FunctionCheckEnable,.-_R_DEV_Xorchk_FunctionCheckEnable
+                         803 	.align	2
+                         804 .LDW51:
+                         805 --_regval16	r1	local
+                         806 --_regval32	r14	local
+                         807 
+                         808 --_Func	r13	param
+                         809 --_Enable	r12	param
+                         810 
+                         811 	.section ".bss","awb"
+                         812 .L174:
+                         813 	.type	.L174,@object
+                         814 	.size	.L174,0
+                         815 	.data
+                         816 	.text
+                         817 
+                         818 	.align	2
+                         819 --_loc_XorchkFunc_XorCtlReg	_loc_XorchkFunc_XorCtlReg	static
+                         820 --_loc_XorchkFunc_XorCtlRegBit	_loc_XorchkFunc_XorCtlRegBit	static
+                         821 --_loc_XorchkFunc_DnfCtlReg	_loc_XorchkFunc_DnfCtlReg	static
+                         822 --_loc_XorchkFunc_DnfEnReg	_loc_XorchkFunc_DnfEnReg	static
+                         823 --_loc_XorchkFunc_DnfEnRegBit	_loc_XorchkFunc_DnfEnRegBit	static
+                         824 
+                         825 	.data
+                         826 	.ghsnote version,15
+                         827 	.ghsnote tools,3
+                         828 	.ghsnote options,144
+                         829 	.text
+                         830 	.align	2
+                         831 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_xorchk...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D024..0::
+                         832 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

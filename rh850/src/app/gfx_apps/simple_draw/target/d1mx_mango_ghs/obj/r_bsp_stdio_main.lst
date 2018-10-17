@@ -1,0 +1,1618 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_bsp_stdio_main.dbo -source=r_bsp_stdio_main.c -o .\obj\gh_0000pg01.o -list=.\obj\r_bsp_stdio_main.lst C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+Source File: r_bsp_stdio_main.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\bsp\stdio\src\r_bsp_stdio_main.c -o
+                         171 --		.\obj\r_bsp_stdio_main.o
+                         172 --Source File:   ..\..\..\..\..\bsp\stdio\src\r_bsp_stdio_main.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:52 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : Application test framework
+                         186 --4: FILE    : $Id: r_bsp_stdio_main.c 11006 2016-11-07 16:32:44Z michael.golczewski $
+                         187 --5: ============================================================================
+                         188 --6: DESCRIPTION
+                         189 --7: STD I/O handling support
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T                            
+                         192 --10: ============================================================================
+                         193 --11:                            Copyright (c) 2014
+                         194 --12:                                   by 
+                         195 --13:                        Renesas Electronics (Europe) GmbH. 
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing
+                         202 --21: DISCLAIMER                                                                   
+                         203 --22: This software is supplied by Renesas Electronics Corporation and is only     
+                         204 --23: intended for use with Renesas products. No other uses are authorized. This   
+                         205 --24: software is owned by Renesas Electronics Corporation and is protected under  
+                         206 --25: all applicable laws, including copyright laws.                               
+                         207 --26: THIS SOFTWARE IS PROVIDED "AS IS" AND RENESAS MAKES NO WARRANTIES REGARDING  
+                         208 --27: THIS SOFTWARE, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT      
+                         209 --28: LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE   
+                         210 --29: AND NON-INFRINGEMENT. ALL SUCH WARRANTIES ARE EXPRESSLY DISCLAIMED.          
+                         211 --30: TO THE MAXIMUM EXTENT PERMITTED NOT PROHIBITED BY LAW, NEITHER RENESAS       
+                         212 --31: ELECTRONICS CORPORATION NOR ANY OF ITS AFFILIATED COMPANIES SHALL BE LIABLE  
+                         213 --32: FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR   
+                         214 --33: ANY REASON RELATED TO THIS SOFTWARE, EVEN IF RENESAS OR ITS AFFILIATES HAVE  
+                         215 --34: BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.                             
+                         216 --35: Renesas reserves the right, without notice, to make changes to this software 
+                         217 --36: and to discontinue the availability of this software. By using this software,
+                         218 --37: you agree to the additional terms and conditions found by accessing the      
+                         219 --38: following link:                                                              
+                         220 --39: http://www.renesas.com/disclaimer *                                          
+                         221 --40: Copyright (C) 2011 Renesas Electronics Corporation. All rights reserved.     
+                         222 --42: ****************************************************************************
+                         223 --44: */
+                         224 --47: /*******************************************************************************
+                         225 --48:   Section: Includes
+                         226 --49: */
+                         227 --51: #include <stdarg.h>
+                         228 --52: #include <stdio.h>
+                         229 --53: #include <stdlib.h>
+                         230 --55: #include "r_typedefs.h"
+                         231 --56: #include "r_bsp_stdio_api.h"
+                         232 --57: #include "r_bsp_stdio_sys.h"
+                         233 --58: #include "r_bsp_board_config.h"
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         234 --61: /*******************************************************************************
+                         235 --62:   Section: Local Constants
+                         236 --63: */
+                         237 --65: /*******************************************************************************
+                         238 --66:   Define: LOC_BUFFER_MAXSIZE
+                         239 --68:   Printf buffer max size.
+                         240 --69: */
+                         241 --70: #define LOC_BUFFER_MAXSIZE 250
+                         242 --73: /*******************************************************************************
+                         243 --74:   Section: Local Variables
+                         244 --75: */
+                         245 --77: /*******************************************************************************
+                         246 --78:   Variable: loc_Buffer
+                         247 --80:   Buffer for String output
+                         248 --81: */
+                         249 --82: static char loc_Buffer[LOC_BUFFER_MAXSIZE];
+                         250 --84: /*******************************************************************************
+                         251 --85:   Variable: loc_UsedIo
+                         252 --87:   Flag indication if the internall debugger I/O pane should be used, 
+                         253 --88:   or any other interface 
+                         254 --89: */
+                         255 --90: static enum 
+                         256 --91: {
+                         257 --92:     LOC_EXTERN_IO  =  0u,
+                         258 --93:     LOC_DEBUGER_IO =  1
+                         259 --94: } loc_UsedIo = LOC_DEBUGER_IO; 
+                         260 --97: /*******************************************************************************
+                         261 --98:   Section: Local Functions 
+                         262 --99: */
+                         263 --101: /*******************************************************************************
+                         264 --102:   Section: Global Generic IO Functions
+                         265 --104:   For comments see file test_api.h
+                         266 --105: */
+                         267 --107: /*******************************************************************************
+                         268 --108:   Function: R_BSP_STDIO_Printf
+                         269 --110:     see <r_bsp_stdio_api.h> for details
+                         270 --111: */
+                         271 --112: /* va_start violates several misra rules - but it's compiler "standard" */
+                         272 --113: #if defined (__ghs__)
+                         273 --114: #pragma ghs startnomisra
+                         274 --115: #endif /* __ghs */
+                         275 --117: void R_BSP_STDIO_Printf(char *String, ...)
+                         276 	.text
+                         277 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D024..0::
+                         278 	.align	2
+                         279 	.global	_R_BSP_STDIO_Printf
+                         280 _R_BSP_STDIO_Printf:
+00000000 031ed8ff        281 	addi	-40,sp,sp
+00000004 634f2500        282 	st.w	r9,36[sp]
+00000008 63472100        283 	st.w	r8,32[sp]
+0000000c 63ff1500        284 	st.w	lp,20[sp]
+00000010 63ef0900        285 	st.w	r29,8[sp]
+00000014 63df1100        286 	st.w	r27,16[sp]
+00000018 63e70d00        287 	st.w	r28,12[sp]
+0000001c 3d0600000000*   288 	mov	.L58,r29
+00000022 633f1d00        289 	st.w	r7,28[sp]
+00000026 06e0            290 	mov	r6,r28
+00000028 1dd8            291 	mov	r29,r27
+                         292 --	    .bf
+                         293 .LDW01:
+                         294 --118: {
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         295 --119:     va_list ap;
+                         296 --121:     va_start(ap, String);
+0000002a 230e1c00        297 	movea	28,sp,r1
+0000002e 630f0100        298 	st.w	r1,0[sp]
+00000032 5c0a            299 	add	-4,r1
+00000034 c10e0700        300 	andi	7,r1,r1
+00000038 630f0500        301 	st.w	r1,4[sp]
+                         302 --122:     if (LOC_EXTERN_IO == loc_UsedIo) 
+0000003c 210600000000*   303 	mov	_loc_UsedIo,r1
+00000042 210f0100        304 	ld.w	0[r1],r1
+00000046 e009            305 	cmp	zero,r1
+00000048 da0d*           306 	bne	.L4
+                         307 --123:     {
+                         308 --124:         vsprintf(loc_Buffer, String, ap);
+                         309 --line124
+                         310 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.1::
+                         311 .LDWlin1:
+0000004a a30709400000    312 	ld.dw	0[sp],r8
+00000050 1b30            313 	mov	r27,r6
+00000052 1c38            314 	mov	r28,r7
+                         315 	jarl	_vsprintf,lp
+                         315 <EXPANSION BEGIN>
+                         315 jarl22 _vsprintf , lp 
+00000054 80ff0000*       315 <EXPANSION END>
+                         316 --125:         va_end(ap);
+                         317 --line125
+                         318 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.2::
+                         319 .LDWlin2:
+00000058 0000            320 	nop
+                         321 --126:         R_BSP_STDIO_WriteString(loc_Buffer);
+0000005a 1b30            322 	mov	r27,r6
+                         323 	jarl	_R_BSP_STDIO_WriteString,lp
+                         323 <EXPANSION BEGIN>
+                         323 jarl22 _R_BSP_STDIO_WriteString , lp 
+0000005c 80fffa00*       323 <EXPANSION END>
+00000060 950d*           324 	br	.L6
+                         325 .L4:
+                         326 --127:     } 
+                         327 --128:     else 
+                         328 --129:     {
+                         329 --130:         vprintf(String, ap);
+                         330 --line130
+                         331 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.3::
+                         332 .LDWlin3:
+00000062 23f60000        333 	movea	0,sp,ep
+00000066 1c30            334 	mov	r28,r6
+00000068 003d            335 	sld.w	0[ep],r7
+0000006a 0245            336 	sld.w	4[ep],r8
+                         337 	jarl	_vprintf,lp
+                         337 <EXPANSION BEGIN>
+                         337 jarl22 _vprintf , lp 
+0000006c 80ff0000*       337 <EXPANSION END>
+                         338 --131:         va_end(ap);
+                         339 --line131
+                         340 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.4::
+                         341 .LDWlin4:
+00000070 0000            342 	nop
+                         343 .L6:
+                         344 --132:     }
+                         345 --133: }
+                         346 --	    .ef
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         347 .LDW11:
+00000072 23ff1500        348 	ld.w	20[sp],lp
+00000076 23ef0900        349 	ld.w	8[sp],r29
+0000007a 23e70d00        350 	ld.w	12[sp],r28
+0000007e 23df1100        351 	ld.w	16[sp],r27
+00000082 031e2800        352 	addi	40,sp,sp
+00000086 7f00            353 	jmp	[lp]
+                         354 	.type	_R_BSP_STDIO_Printf,@function
+                         355 	.size	_R_BSP_STDIO_Printf,.-_R_BSP_STDIO_Printf
+                         356 	.align	2
+                         357 .LDW21:
+                         358 --_ap	0[sp]	local
+                         359 --_*VASTKARG	24[sp]	local
+                         360 
+                         361 --_String	r28	param
+                         362 --__va_param	28[sp]	param
+                         363 
+                         364 	.section ".bss","awb"
+                         365 .L58:
+                         366 	.type	.L58,@object
+                         367 	.size	.L58,0
+                         368 	.data
+                         369 	.align	4
+                         370 	.global	_loc_UsedIo..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.
+                         371 _loc_UsedIo..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.:
+00000000 01000000        372 _loc_UsedIo:	.byte	1,0,0,0
+                         373 	.type	_loc_UsedIo..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.,@object
+                         374 	.size	_loc_UsedIo..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.,4
+                         375 	.type	_loc_UsedIo,@object
+                         376 	.size	_loc_UsedIo,4
+                         377 	.section ".bss","awb"
+                         378 	.global	_loc_Buffer..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.
+                         379 _loc_Buffer..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.:
+00000000 000000000000    380 _loc_Buffer:	.space	250
+00000006 000000000000 
+0000000c 000000000000 
+00000012 000000000000 
+00000018 000000000000 
+0000001e 000000000000 
+00000024 000000000000 
+0000002a 000000000000 
+00000030 000000000000 
+00000036 000000000000 
+0000003c 000000000000 
+00000042 000000000000 
+00000048 000000000000 
+0000004e 000000000000 
+00000054 000000000000 
+0000005a 000000000000 
+00000060 000000000000 
+00000066 000000000000 
+0000006c 000000000000 
+00000072 000000000000 
+00000078 000000000000 
+0000007e 000000000000 
+00000084 000000000000 
+0000008a 000000000000 
+00000090 000000000000 
+00000096 000000000000 
+0000009c 000000000000 
+000000a2 000000000000 
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+000000a8 000000000000 
+000000ae 000000000000 
+000000b4 000000000000 
+000000ba 000000000000 
+000000c0 000000000000 
+000000c6 000000000000 
+000000cc 000000000000 
+000000d2 000000000000 
+000000d8 000000000000 
+000000de 000000000000 
+000000e4 000000000000 
+000000ea 000000000000 
+000000f0 000000000000 
+000000f6 00000000 
+                         381 	.type	_loc_Buffer..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.,@object
+                         382 	.size	_loc_Buffer..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.,250
+                         383 	.type	_loc_Buffer,@object
+                         384 	.size	_loc_Buffer,250
+                         385 	.data
+                         386 	.text
+                         387 
+                         388 
+                         389 --135: /********************************************************************************
+                         390 --136:   Function: R_BSP_STDIO_AnPrintf
+                         391 --138:     see <r_bsp_stdio_api.h> for details
+                         392 --139: */
+                         393 --141: void R_BSP_STDIO_AnPrintf(uint8_t Line, char *String,  ...)
+                         394 	.align	2
+                         395 	.align	2
+                         396 	.global	_R_BSP_STDIO_AnPrintf
+                         397 _R_BSP_STDIO_AnPrintf:
+00000088 031ed4ff        398 	addi	-44,sp,sp
+0000008c 634f2900        399 	st.w	r9,40[sp]
+00000090 63ff1900        400 	st.w	lp,24[sp]
+00000094 63ef0900        401 	st.w	r29,8[sp]
+00000098 63d71500        402 	st.w	r26,20[sp]
+0000009c 63df1100        403 	st.w	r27,16[sp]
+000000a0 63e70d00        404 	st.w	r28,12[sp]
+000000a4 07d8            405 	mov	r7,r27
+000000a6 3d0600000000*   406 	mov	_loc_Buffer,r29
+000000ac 63472500        407 	st.w	r8,36[sp]
+000000b0 c6e6ff00        408 	andi	255,r6,r28
+000000b4 1dd0            409 	mov	r29,r26
+                         410 --	    .bf
+                         411 .LDW31:
+                         412 --142: {
+                         413 --143:     va_list ap;
+                         414 --144:     va_start(ap, String);
+000000b6 230e2400        415 	movea	36,sp,r1
+000000ba 630f0100        416 	st.w	r1,0[sp]
+000000be 580a            417 	add	-8,r1
+000000c0 c10e0700        418 	andi	7,r1,r1
+000000c4 630f0500        419 	st.w	r1,4[sp]
+                         420 --145:     vsprintf(loc_Buffer, String, ap);
+000000c8 a30709400000    421 	ld.dw	0[sp],r8
+000000ce 1a30            422 	mov	r26,r6
+000000d0 1b38            423 	mov	r27,r7
+                         424 	jarl	_vsprintf,lp
+                         424 <EXPANSION BEGIN>
+                         424 jarl22 _vsprintf , lp 
+000000d2 80ff0000*       424 <EXPANSION END>
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         425 --146:     va_end(ap);
+                         426 --line146
+                         427 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.5::
+                         428 .LDWlin5:
+000000d6 0000            429 	nop
+                         430 --147:     if (R_BSP_SYS_STDIO_AnWrite(loc_Buffer, Line) != R_ERR_OK) 
+000000d8 1a30            431 	mov	r26,r6
+000000da 1c38            432 	mov	r28,r7
+                         433 	jarl	_R_BSP_SYS_STDIO_AnWrite,lp
+                         433 <EXPANSION BEGIN>
+                         433 jarl22 _R_BSP_SYS_STDIO_AnWrite , lp 
+000000dc 80ff0000*       433 <EXPANSION END>
+000000e0 e051            434 	cmp	zero,r10
+000000e2 d20d*           435 	be	.L93
+                         436 --148:     {
+                         437 --149:         /* Display output was not succesfull */
+                         438 --150:         R_BSP_STDIO_Printf(" String sent to AlphaNum Display Line %d: ", Line); 
+                         439 --line150
+                         440 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.6::
+                         441 .LDWlin6:
+000000e4 1c38            442 	mov	r28,r7
+000000e6 260600000000*   443 	mov	.L157,r6
+                         444 	jarl	_R_BSP_STDIO_Printf,lp
+                         444 <EXPANSION BEGIN>
+                         444 jarl22 _R_BSP_STDIO_Printf , lp 
+000000ec bfff14ff*       444 <EXPANSION END>
+                         445 --151:         R_BSP_STDIO_Printf("%s\n", String); 
+                         446 --line151
+                         447 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.7::
+                         448 .LDWlin7:
+000000f0 1b38            449 	mov	r27,r7
+000000f2 260600000000*   450 	mov	.L156,r6
+                         451 	jarl	_R_BSP_STDIO_Printf,lp
+                         451 <EXPANSION BEGIN>
+                         451 jarl22 _R_BSP_STDIO_Printf , lp 
+000000f8 bfff08ff*       451 <EXPANSION END>
+                         452 .L93:
+                         453 --152:     } 
+                         454 --153: } 
+                         455 --	    .ef
+                         456 .LDW41:
+                         457 --line153
+                         458 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.8::
+                         459 .LDWlin8:
+000000fc 23ff1900        460 	ld.w	24[sp],lp
+00000100 23ef0900        461 	ld.w	8[sp],r29
+00000104 23e70d00        462 	ld.w	12[sp],r28
+00000108 23df1100        463 	ld.w	16[sp],r27
+0000010c 23d71500        464 	ld.w	20[sp],r26
+00000110 031e2c00        465 	addi	44,sp,sp
+00000114 7f00            466 	jmp	[lp]
+                         467 	.type	_R_BSP_STDIO_AnPrintf,@function
+                         468 	.size	_R_BSP_STDIO_AnPrintf,.-_R_BSP_STDIO_AnPrintf
+                         469 	.align	2
+                         470 .LDW51:
+                         471 --_ap	0[sp]	local
+                         472 --_*VASTKARG	28[sp]	local
+                         473 --.L134	.L157	static
+                         474 --.L135	.L156	static
+                         475 
+                         476 --_Line	r28	param
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         477 --_String	r27	param
+                         478 --__va_param	36[sp]	param
+                         479 
+                         480 	.section ".rodata","a"
+                         481 .L156:--	"%s\n"
+00000000 25730a00        482 	.byte	37,115,10,0
+                         483 	.type	.L156,@object
+                         484 	.size	.L156,4
+                         485 .L157:--	" String sent to AlphaNum Display Line %d: "
+00000004 20537472        486 	.byte	32,83,116,114
+00000008 696e6720        487 	.byte	105,110,103,32
+0000000c 73656e74        488 	.byte	115,101,110,116
+00000010 20746f20        489 	.byte	32,116,111,32
+00000014 416c7068        490 	.byte	65,108,112,104
+00000018 614e756d        491 	.byte	97,78,117,109
+0000001c 20446973        492 	.byte	32,68,105,115
+00000020 706c6179        493 	.byte	112,108,97,121
+00000024 204c696e        494 	.byte	32,76,105,110
+00000028 65202564        495 	.byte	101,32,37,100
+0000002c 3a20            496 	.byte	58,32
+0000002e 00              497 	.byte	0
+                         498 	.type	.L157,@object
+                         499 	.size	.L157,43
+                         500 	.data
+                         501 	.text
+                         502 
+                         503 
+                         504 --154: #if defined (__ghs__)
+                         505 --155: #pragma ghs endnomisra
+                         506 --156: #endif /* __ghs */
+                         507 --159: /*******************************************************************************
+                         508 --160:   Function: R_BSP_STDIO_SetComPort
+                         509 --162:     see <r_bsp_stdio_api.h> for details
+                         510 --163: */
+                         511 --165: void R_BSP_STDIO_SetComPort(uint32_t Unit) 
+                         512 	.align	2
+                         513 	.align	2
+                         514 	.global	_R_BSP_STDIO_SetComPort
+                         515 _R_BSP_STDIO_SetComPort:
+00000116 8007e110        516 	prepare	{r27,r28,r29,r31},0
+0000011a 3d0600000000*   517 	mov	_loc_UsedIo,r29
+00000120 06e0            518 	mov	r6,r28
+00000122 1dd8            519 	mov	r29,r27
+                         520 --	    .bf
+                         521 .LDW61:
+                         522 --166: {
+                         523 --167:     
+                         524 --168:     if (Unit == 0xFF) 
+00000124 1c0601ff        525 	addi	-255,r28,zero
+00000128 aa0d*           526 	bne	.L169
+                         527 --169:     {
+                         528 --170:         loc_UsedIo = LOC_DEBUGER_IO; 
+                         529 --line170
+                         530 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.9::
+                         531 .LDWlin9:
+0000012a 010a            532 	mov	1,r1
+0000012c 7d0f0100        533 	st.w	r1,0[r29]
+                         534 --171:         printf("\n** disable UART, switch to StdI/O **\n"); 
+00000130 260600000000*   535 	mov	.L236,r6
+                         536 	jarl	_printf,lp
+                         536 <EXPANSION BEGIN>
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         536 jarl22 _printf , lp 
+00000136 80ff0000*       536 <EXPANSION END>
+0000013a c50d*           537 	br	.L171
+                         538 .L169:
+                         539 --172:     } 
+                         540 --173:     else 
+                         541 --174:     {
+                         542 --175:         loc_UsedIo = LOC_EXTERN_IO;
+                         543 --line175
+                         544 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.10::
+                         545 .LDWlin10:
+0000013c 7d070100        546 	st.w	zero,0[r29]
+                         547 --176:         printf("\n** Using UART port %d for stdio **\n", Unit); 
+00000140 1c38            548 	mov	r28,r7
+00000142 260600000000*   549 	mov	.L237,r6
+                         550 	jarl	_printf,lp
+                         550 <EXPANSION BEGIN>
+                         550 jarl22 _printf , lp 
+00000148 80ff0000*       550 <EXPANSION END>
+                         551 --177:    
+                         552 --178:         R_BSP_SYS_STDIO_SetUart(Unit); 
+                         553 --line178
+                         554 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.11::
+                         555 .LDWlin11:
+0000014c 1c30            556 	mov	r28,r6
+                         557 	jarl	_R_BSP_SYS_STDIO_SetUart,lp
+                         557 <EXPANSION BEGIN>
+                         557 jarl22 _R_BSP_SYS_STDIO_SetUart , lp 
+0000014e 80ff0000*       557 <EXPANSION END>
+                         558 .L171:
+                         559 --179:     }
+                         560 --180: }
+                         561 --	    .ef
+                         562 .LDW71:
+                         563 --line180
+                         564 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.12::
+                         565 .LDWlin12:
+00000152 4006ff10        566 	dispose	0,{r27,r28,r29,r31},[lp]
+                         567 	.type	_R_BSP_STDIO_SetComPort,@function
+                         568 	.size	_R_BSP_STDIO_SetComPort,.-_R_BSP_STDIO_SetComPort
+                         569 	.align	2
+                         570 .LDW81:
+                         571 --.L214	.L236	static
+                         572 --.L215	.L237	static
+                         573 
+                         574 --_Unit	r28	param
+                         575 
+                         576 	.section ".rodata","a"
+                         577 .L236:--	"\n** disable UART, switch to StdI/O **\n"
+0000002f 0a2a2a20        578 	.byte	10,42,42,32
+00000033 64697361        579 	.byte	100,105,115,97
+00000037 626c6520        580 	.byte	98,108,101,32
+0000003b 55415254        581 	.byte	85,65,82,84
+0000003f 2c207377        582 	.byte	44,32,115,119
+00000043 69746368        583 	.byte	105,116,99,104
+00000047 20746f20        584 	.byte	32,116,111,32
+0000004b 53746449        585 	.byte	83,116,100,73
+0000004f 2f4f202a        586 	.byte	47,79,32,42
+00000053 2a0a            587 	.byte	42,10
+00000055 00              588 	.byte	0
+                         589 	.type	.L236,@object
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         590 	.size	.L236,39
+                         591 .L237:--	"\n** Using UART port %d for stdio **\n"
+00000056 0a2a2a20        592 	.byte	10,42,42,32
+0000005a 5573696e        593 	.byte	85,115,105,110
+0000005e 67205541        594 	.byte	103,32,85,65
+00000062 52542070        595 	.byte	82,84,32,112
+00000066 6f727420        596 	.byte	111,114,116,32
+0000006a 25642066        597 	.byte	37,100,32,102
+0000006e 6f722073        598 	.byte	111,114,32,115
+00000072 7464696f        599 	.byte	116,100,105,111
+00000076 202a2a0a        600 	.byte	32,42,42,10
+0000007a 00              601 	.byte	0
+                         602 	.type	.L237,@object
+                         603 	.size	.L237,37
+                         604 	.data
+                         605 	.text
+                         606 
+                         607 
+                         608 --183: /*******************************************************************************
+                         609 --184:   Function: R_BSP_STDIO_WriteString
+                         610 --186:     see <r_bsp_stdio_api.h> for details
+                         611 --187: */
+                         612 --189: void R_BSP_STDIO_WriteString(char *Buffer) 
+                         613 	.align	2
+                         614 	.align	2
+                         615 	.global	_R_BSP_STDIO_WriteString
+                         616 _R_BSP_STDIO_WriteString:
+00000156 8007e130        617 	prepare	{r26,r27,r28,r29,r31},0
+0000015a 06d0            618 	mov	r6,r26
+                         619 --	    .bf
+                         620 .LDW91:
+                         621 --190: {
+                         622 --191:     uint32_t strt = 0u;
+0000015c 00e2            623 	mov	0,r28
+                         624 --192:     uint32_t stop = 0u;
+0000015e 00ea            625 	mov	0,r29
+                         626 --193:     uint32_t len  = 0u;
+00000160 00da            627 	mov	0,r27
+                         628 --195:     strt = 0u;
+00000162 00e2            629 	mov	0,r28
+                         630 --196:     stop = 0u;
+00000164 00ea            631 	mov	0,r29
+                         632 --197:     while ((Buffer[stop] != 0u) || (strt != stop)) 
+00000166 b525*           633 	br	.L249
+                         634 .L251:
+                         635 --198:     {
+                         636 --199:         while ((Buffer[stop] != 0u)  && (Buffer[stop] != '\n')) 
+                         637 --line199
+                         638 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.13::
+                         639 .LDWlin13:
+00000168 a505*           640 	br	.L252
+                         641 .L254:
+                         642 --200:         {
+                         643 --201:             stop++;
+                         644 --line201
+                         645 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.14::
+                         646 .LDWlin14:
+0000016a 41ea            647 	add	1,r29
+                         648 .L252:
+0000016c 1df0            649 	mov	r29,ep
+0000016e daf1            650 	add	r26,ep
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+00000170 000b            651 	sld.b	0[ep],r1
+00000172 e009            652 	cmp	zero,r1
+00000174 e205*           653 	be	.L253
+00000176 1df0            654 	mov	r29,ep
+00000178 daf1            655 	add	r26,ep
+0000017a 000b            656 	sld.b	0[ep],r1
+0000017c 6a0a            657 	cmp	10,r1
+0000017e eaf5*           658 	bne	.L254
+                         659 .L253:
+                         660 --202:         }
+                         661 --203:         len = stop - strt;
+                         662 --line203
+                         663 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.15::
+                         664 .LDWlin15:
+00000180 1dd8            665 	mov	r29,r27
+00000182 bcd9            666 	sub	r28,r27
+                         667 --204:         if (0 != len) 
+00000184 e0d9            668 	cmp	zero,r27
+00000186 f205*           669 	be	.L256
+                         670 --205:         {
+                         671 --206:             R_BSP_SYS_STDIO_Write((uint8_t*)&Buffer[strt], len);
+                         672 --line206
+                         673 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.16::
+                         674 .LDWlin16:
+00000188 1c30            675 	mov	r28,r6
+0000018a da31            676 	add	r26,r6
+0000018c 1b38            677 	mov	r27,r7
+                         678 	jarl	_R_BSP_SYS_STDIO_Write,lp
+                         678 <EXPANSION BEGIN>
+                         678 jarl22 _R_BSP_SYS_STDIO_Write , lp 
+0000018e 80ff0000*       678 <EXPANSION END>
+                         679 --207:             strt = stop;
+                         680 --line207
+                         681 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.17::
+                         682 .LDWlin17:
+00000192 1de0            683 	mov	r29,r28
+                         684 .L256:
+                         685 --208:         }
+                         686 --209:         if (Buffer[stop] == '\n') 
+00000194 1df0            687 	mov	r29,ep
+00000196 daf1            688 	add	r26,ep
+00000198 000b            689 	sld.b	0[ep],r1
+0000019a 6a0a            690 	cmp	10,r1
+0000019c 8a0d*           691 	bne	.L249
+                         692 --210:         {
+                         693 --211:             R_BSP_SYS_STDIO_Write((uint8_t *)"\r", 1);   
+                         694 --line211
+                         695 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.18::
+                         696 .LDWlin18:
+0000019e 260600000000*   697 	mov	.L416,r6
+000001a4 013a            698 	mov	1,r7
+                         699 	jarl	_R_BSP_SYS_STDIO_Write,lp
+                         699 <EXPANSION BEGIN>
+                         699 jarl22 _R_BSP_SYS_STDIO_Write , lp 
+000001a6 80ff0000*       699 <EXPANSION END>
+                         700 --212:             stop++;
+                         701 --line212
+                         702 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.19::
+                         703 .LDWlin19:
+000001aa 41ea            704 	add	1,r29
+                         705 .L249:
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+000001ac 1df0            706 	mov	r29,ep
+000001ae daf1            707 	add	r26,ep
+000001b0 000b            708 	sld.b	0[ep],r1
+000001b2 e009            709 	cmp	zero,r1
+000001b4 aadd*           710 	bne	.L251
+000001b6 fde1            711 	cmp	r29,r28
+000001b8 8add*           712 	bne	.L251
+                         713 --213:         }
+                         714 --214:         
+                         715 --215:     }
+                         716 --216:     
+                         717 --217: }
+                         718 --	    .ef
+                         719 .LDW02:
+                         720 --line217
+                         721 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.20::
+                         722 .LDWlin20:
+000001ba 4006ff30        723 	dispose	0,{r26,r27,r28,r29,r31},[lp]
+                         724 	.type	_R_BSP_STDIO_WriteString,@function
+                         725 	.size	_R_BSP_STDIO_WriteString,.-_R_BSP_STDIO_WriteString
+                         726 	.align	2
+                         727 .LDW12:
+                         728 --_strt	r28	local
+                         729 --_stop	r29	local
+                         730 --_len	r27	local
+                         731 --.L367	.L416	static
+                         732 
+                         733 --_Buffer	r26	param
+                         734 
+                         735 	.section ".bss","awb"
+                         736 .L366:
+                         737 	.type	.L366,@object
+                         738 	.size	.L366,0
+                         739 	.section ".rodata","a"
+                         740 .L416:--	"\r"
+0000007b 0d00            741 	.byte	13,0
+                         742 	.type	.L416,@object
+                         743 	.size	.L416,2
+                         744 	.data
+                         745 	.text
+                         746 
+                         747 
+                         748 --219: /*******************************************************************************
+                         749 --220:   Function: R_BSP_STDIO_ReadString
+                         750 --222:     see <r_bsp_stdio_api.h> for details
+                         751 --223: */
+                         752 --225: void R_BSP_STDIO_ReadString(char *ReceiveString, uint32_t ReceiveMaxSize, uint32_t TimeOutCnt) 
+                         753 	.align	2
+                         754 	.align	2
+                         755 	.global	_R_BSP_STDIO_ReadString
+                         756 _R_BSP_STDIO_ReadString:
+000001be 8407e170        757 	prepare	{r25,r26,r27,r28,r29,r31},2
+000001c2 06e0            758 	mov	r6,r28
+000001c4 07c8            759 	mov	r7,r25
+000001c6 63470500        760 	st.w	r8,4[sp]
+000001ca 3a0600000000*   761 	mov	_loc_UsedIo,r26
+                         762 --	    .bf
+                         763 .LDW22:
+                         764 --226: {
+                         765 --227:     uint32_t i;
+                         766 --228:     uint32_t len;
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         767 --230:     /* TimeOutCnt handling tbd */
+                         768 --231:     i = 0u;
+000001d0 00ea            769 	mov	0,r29
+                         770 --232:     do 
+000001d2 0000            771 	nop
+                         772 .L444:
+                         773 --233:     {     
+                         774 --234:         do 
+000001d4 0000            775 	nop
+                         776 .L447:
+                         777 --235:         {
+                         778 --236:             if (LOC_EXTERN_IO == loc_UsedIo) 
+000001d6 3a0f0100        779 	ld.w	0[r26],r1
+000001da e009            780 	cmp	zero,r1
+000001dc 8a0d*           781 	bne	.L448
+                         782 --237:             {
+                         783 --238:                 len = R_BSP_SYS_STDIO_Read((uint8_t*)&ReceiveString[i], 1);
+                         784 --line238
+                         785 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.21::
+                         786 .LDWlin21:
+000001de 1d30            787 	mov	r29,r6
+000001e0 dc31            788 	add	r28,r6
+000001e2 013a            789 	mov	1,r7
+                         790 	jarl	_R_BSP_SYS_STDIO_Read,lp
+                         790 <EXPANSION BEGIN>
+                         790 jarl22 _R_BSP_SYS_STDIO_Read , lp 
+000001e4 80ff0000*       790 <EXPANSION END>
+000001e8 0ad8            791 	mov	r10,r27
+000001ea f50d*           792 	br	.L446
+                         793 .L448:
+                         794 --239:             } 
+                         795 --240:             else 
+                         796 --241:             {
+                         797 --242:                 ReceiveString[i] = (char)getchar(); 
+                         798 --line242
+                         799 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.22::
+                         800 .LDWlin22:
+000001ec 1d58            801 	mov	r29,r11
+000001ee dc59            802 	add	r28,r11
+000001f0 635f0100        803 	st.w	r11,0[sp]
+000001f4 260600000000*   804 	mov	__iob,r6
+                         805 	jarl	_getc,lp
+                         805 <EXPANSION BEGIN>
+                         805 jarl22 _getc , lp 
+000001fa 80ff0000*       805 <EXPANSION END>
+000001fe 23670100        806 	ld.w	0[sp],r12
+00000202 4c570000        807 	st.b	r10,0[r12]
+                         808 --243:                 len = 1u;
+                         809 --line243
+                         810 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.23::
+                         811 .LDWlin23:
+00000206 01da            812 	mov	1,r27
+                         813 .L446:
+00000208 e0d9            814 	cmp	zero,r27
+0000020a e2e5*           815 	be	.L447
+                         816 --244:             }
+                         817 --245:         } while(0 == len); 
+                         818 --246:         if((ReceiveString[i] != '\n') && (ReceiveString[i] != '\r')) 
+                         819 --line246
+                         820 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.24::
+                         821 .LDWlin24:
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+0000020c 1df0            822 	mov	r29,ep
+0000020e dcf1            823 	add	r28,ep
+00000210 000b            824 	sld.b	0[ep],r1
+00000212 6a0a            825 	cmp	10,r1
+00000214 9215*           826 	be	.L451
+00000216 1df0            827 	mov	r29,ep
+00000218 dcf1            828 	add	r28,ep
+0000021a 000b            829 	sld.b	0[ep],r1
+0000021c 6d0a            830 	cmp	13,r1
+0000021e c20d*           831 	be	.L451
+                         832 --247:         {
+                         833 --248:             if (LOC_EXTERN_IO == loc_UsedIo) 
+                         834 --line248
+                         835 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.25::
+                         836 .LDWlin25:
+00000220 3a0f0100        837 	ld.w	0[r26],r1
+00000224 e009            838 	cmp	zero,r1
+00000226 ea05*           839 	bne	.L454
+                         840 --249:             {
+                         841 --250:                 R_BSP_SYS_STDIO_Write((uint8_t*)&ReceiveString[i], 1);
+                         842 --line250
+                         843 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.26::
+                         844 .LDWlin26:
+00000228 1d30            845 	mov	r29,r6
+0000022a dc31            846 	add	r28,r6
+0000022c 013a            847 	mov	1,r7
+                         848 	jarl	_R_BSP_SYS_STDIO_Write,lp
+                         848 <EXPANSION BEGIN>
+                         848 jarl22 _R_BSP_SYS_STDIO_Write , lp 
+0000022e 80ff0000*       848 <EXPANSION END>
+                         849 .L454:
+                         850 --251:             }
+                         851 --252:             i++;
+                         852 --line252
+                         853 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.27::
+                         854 .LDWlin27:
+00000232 41ea            855 	add	1,r29
+00000234 a515*           856 	br	.L443
+                         857 .L451:
+                         858 --253:         } 
+                         859 --254:         else 
+                         860 --255:         {
+                         861 --256:             if (LOC_EXTERN_IO == loc_UsedIo) 
+                         862 --line256
+                         863 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.28::
+                         864 .LDWlin28:
+00000236 3a0f0100        865 	ld.w	0[r26],r1
+0000023a e009            866 	cmp	zero,r1
+0000023c da0d*           867 	bne	.L457
+                         868 --257:             {
+                         869 --258:                 R_BSP_SYS_STDIO_Write((uint8_t*)"\n", 1);
+                         870 --line258
+                         871 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.29::
+                         872 .LDWlin29:
+0000023e 260600000000*   873 	mov	.L603,r6
+00000244 013a            874 	mov	1,r7
+                         875 	jarl	_R_BSP_SYS_STDIO_Write,lp
+                         875 <EXPANSION BEGIN>
+                         875 jarl22 _R_BSP_SYS_STDIO_Write , lp 
+00000246 80ff0000*       875 <EXPANSION END>
+                         876 --259:                 R_BSP_SYS_STDIO_Write((uint8_t*)"\r", 1);
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         877 --line259
+                         878 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.30::
+                         879 .LDWlin30:
+0000024a 260600000000*   880 	mov	.L604,r6
+00000250 013a            881 	mov	1,r7
+                         882 	jarl	_R_BSP_SYS_STDIO_Write,lp
+                         882 <EXPANSION BEGIN>
+                         882 jarl22 _R_BSP_SYS_STDIO_Write , lp 
+00000252 80ff0000*       882 <EXPANSION END>
+                         883 .L457:
+                         884 --260:             }
+                         885 --261:             break;
+                         886 --line261
+                         887 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.31::
+                         888 .LDWlin31:
+00000256 d505*           889 	br	.L459
+                         890 .L443:
+                         891 --line264
+                         892 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.32::
+                         893 .LDWlin32:
+00000258 190effff        894 	addi	-1,r25,r1
+0000025c e1e9            895 	cmp	r1,r29
+0000025e b1bd*           896 	bl	.L444
+                         897 .L459:
+                         898 --262:             
+                         899 --263:         }
+                         900 --264:     } while (i < (ReceiveMaxSize - 1)); 
+                         901 --265:     ReceiveString[i] = (char)0;
+                         902 --line265
+                         903 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.33::
+                         904 .LDWlin33:
+00000260 1df0            905 	mov	r29,ep
+00000262 dcf1            906 	add	r28,ep
+00000264 8003            907 	sst.b	zero,0[ep]
+                         908 --266:     
+                         909 --267: }
+                         910 --	    .ef
+                         911 .LDW32:
+00000266 4406ff70        912 	dispose	2,{r25,r26,r27,r28,r29,r31},[lp]
+                         913 	.type	_R_BSP_STDIO_ReadString,@function
+                         914 	.size	_R_BSP_STDIO_ReadString,.-_R_BSP_STDIO_ReadString
+                         915 	.align	2
+                         916 .LDW42:
+                         917 --_i	r29	local
+                         918 --_len	r27	local
+                         919 --.L555	.L603	static
+                         920 --.L556	.L604	static
+                         921 
+                         922 --_ReceiveString	r28	param
+                         923 --_ReceiveMaxSize	r25	param
+                         924 --_TimeOutCnt	4[sp]	param
+                         925 
+                         926 	.section ".bss","awb"
+                         927 .L554:
+                         928 	.type	.L554,@object
+                         929 	.size	.L554,0
+                         930 	.section ".rodata","a"
+                         931 .L603:--	"\n"
+0000007d 0a00            932 	.byte	10,0
+                         933 	.type	.L603,@object
+                         934 	.size	.L603,2
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         935 .L604:--	"\r"
+0000007f 0d00            936 	.byte	13,0
+                         937 	.type	.L604,@object
+                         938 	.size	.L604,2
+                         939 	.data
+                         940 	.text
+                         941 
+                         942 
+                         943 --270: /*******************************************************************************
+                         944 --271:   Function: R_BSP_STDIO_ReadValue
+                         945 --273:     see <r_bsp_stdio_api.h> for details
+                         946 --274: */
+                         947 --276: uint32_t R_BSP_STDIO_ReadValue(void) 
+                         948 	.align	2
+                         949 	.align	2
+                         950 	.global	_R_BSP_STDIO_ReadValue
+                         951 _R_BSP_STDIO_ReadValue:
+0000026a 8a076100        952 	prepare	{r29,r31},5
+                         953 --	    .bf
+                         954 .LDW52:
+                         955 --277: {
+                         956 --278:     uint32_t receiveval;
+                         957 --279:     char     numbers[20]; 
+                         958 --280:     
+                         959 --281:     R_BSP_STDIO_ReadString(numbers, sizeof(numbers), 0);              
+0000026e 23360000        960 	movea	0,sp,r6
+00000272 203e1400        961 	movea	20,zero,r7
+00000276 0042            962 	mov	0,r8
+                         963 	jarl	_R_BSP_STDIO_ReadString,lp
+                         963 <EXPANSION BEGIN>
+                         963 jarl22 _R_BSP_STDIO_ReadString , lp 
+00000278 bfff46ff*       963 <EXPANSION END>
+                         964 --282:     receiveval = strtol(numbers,NULL,10);
+                         965 --line282
+                         966 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.34::
+                         967 .LDWlin34:
+0000027c 23360000        968 	movea	0,sp,r6
+00000280 003a            969 	mov	0,r7
+00000282 0a42            970 	mov	10,r8
+                         971 	jarl	_strtol,lp
+                         971 <EXPANSION BEGIN>
+                         971 jarl22 _strtol , lp 
+00000284 80ff0000*       971 <EXPANSION END>
+00000288 0ae8            972 	mov	r10,r29
+                         973 --283:     return receiveval;
+                         974 --line283
+                         975 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.35::
+                         976 .LDWlin35:
+0000028a 1d50            977 	mov	r29,r10
+                         978 --	    .ef
+                         979 .LDW62:
+0000028c 4a067f00        980 	dispose	5,{r29,r31},[lp]
+                         981 	.type	_R_BSP_STDIO_ReadValue,@function
+                         982 	.size	_R_BSP_STDIO_ReadValue,.-_R_BSP_STDIO_ReadValue
+                         983 	.align	2
+                         984 .LDW72:
+                         985 --_receiveval	r29	local
+                         986 --_numbers	0[sp]	local
+                         987 
+                         988 	.section ".bss","awb"
+                         989 .L662:
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                         990 	.type	.L662,@object
+                         991 	.size	.L662,0
+                         992 	.data
+                         993 	.text
+                         994 
+                         995 --284: }
+                         996 
+                         997 --286: /*******************************************************************************
+                         998 --287:   Function: R_BSP_STDIO_ReceiveChar
+                         999 --289:     see <r_bsp_stdio_api.h> for details
+                        1000 --290: */
+                        1001 --292: void R_BSP_STDIO_ReadChar(int8_t *Character) 
+                        1002 	.align	2
+                        1003 	.align	2
+                        1004 	.global	_R_BSP_STDIO_ReadChar
+                        1005 _R_BSP_STDIO_ReadChar:
+00000290 8007e110       1006 	prepare	{r27,r28,r29,r31},0
+00000294 06e0           1007 	mov	r6,r28
+00000296 210600000000*  1008 	mov	_loc_UsedIo,r1
+0000029c 3b0600000000*  1009 	mov	__iob,r27
+                        1010 --	    .bf
+                        1011 .LDW82:
+                        1012 --293: {
+                        1013 --294:     uint8_t got_it = 0;   
+000002a2 00ea           1014 	mov	0,r29
+                        1015 --295:     if (LOC_EXTERN_IO == loc_UsedIo) 
+000002a4 210600000000*  1016 	mov	_loc_UsedIo,r1
+000002aa 210f0100       1017 	ld.w	0[r1],r1
+000002ae e009           1018 	cmp	zero,r1
+000002b0 fa0d*          1019 	bne	.L682
+                        1020 --296:     {
+                        1021 --297:          while (0 == got_it) 
+                        1022 --line297
+                        1023 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.36::
+                        1024 .LDWlin36:
+000002b2 f505*          1025 	br	.L684
+                        1026 .L686:
+                        1027 --298:          {
+                        1028 --299:             got_it = R_BSP_SYS_STDIO_Read((uint8_t *)Character, 1); 
+                        1029 --line299
+                        1030 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.37::
+                        1031 .LDWlin37:
+000002b4 1c30           1032 	mov	r28,r6
+000002b6 013a           1033 	mov	1,r7
+                        1034 	jarl	_R_BSP_SYS_STDIO_Read,lp
+                        1034 <EXPANSION BEGIN>
+                        1034 jarl22 _R_BSP_SYS_STDIO_Read , lp 
+000002b8 80ff0000*      1034 <EXPANSION END>
+000002bc 8a00           1035 	zxb	r10
+000002be 0ae8           1036 	mov	r10,r29
+                        1037 .L684:
+                        1038 --line297
+                        1039 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.38::
+                        1040 .LDWlin38:
+000002c0 e0e9           1041 	cmp	zero,r29
+000002c2 92fd*          1042 	be	.L686
+                        1043 --300:          }
+                        1044 --301:          R_BSP_SYS_STDIO_Write((uint8_t *)Character, 1); 
+                        1045 --line301
+                        1046 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.39::
+                        1047 .LDWlin39:
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+000002c4 1c30           1048 	mov	r28,r6
+000002c6 013a           1049 	mov	1,r7
+                        1050 	jarl	_R_BSP_SYS_STDIO_Write,lp
+                        1050 <EXPANSION BEGIN>
+                        1050 jarl22 _R_BSP_SYS_STDIO_Write , lp 
+000002c8 80ff0000*      1050 <EXPANSION END>
+000002cc 950d*          1051 	br	.L687
+                        1052 .L682:
+                        1053 --302:     } 
+                        1054 --303:     else 
+                        1055 --304:     {
+                        1056 --305:         *Character = getchar(); 
+                        1057 --line305
+                        1058 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.40::
+                        1059 .LDWlin40:
+000002ce 1b30           1060 	mov	r27,r6
+                        1061 	jarl	_getc,lp
+                        1061 <EXPANSION BEGIN>
+                        1061 jarl22 _getc , lp 
+000002d0 80ff0000*      1061 <EXPANSION END>
+000002d4 5c570000       1062 	st.b	r10,0[r28]
+                        1063 --306:         getchar();
+                        1064 --line306
+                        1065 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.41::
+                        1066 .LDWlin41:
+000002d8 1b30           1067 	mov	r27,r6
+                        1068 	jarl	_getc,lp
+                        1068 <EXPANSION BEGIN>
+                        1068 jarl22 _getc , lp 
+000002da 80ff0000*      1068 <EXPANSION END>
+                        1069 .L687:
+                        1070 --307:     } 
+                        1071 --308: }
+                        1072 --	    .ef
+                        1073 .LDW92:
+                        1074 --line308
+                        1075 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.42::
+                        1076 .LDWlin42:
+000002de 4006ff10       1077 	dispose	0,{r27,r28,r29,r31},[lp]
+                        1078 	.type	_R_BSP_STDIO_ReadChar,@function
+                        1079 	.size	_R_BSP_STDIO_ReadChar,.-_R_BSP_STDIO_ReadChar
+                        1080 	.align	2
+                        1081 .LDW03:
+                        1082 --_got_it	r29	local
+                        1083 
+                        1084 --_Character	r28	param
+                        1085 
+                        1086 	.data
+                        1087 	.text
+                        1088 
+                        1089 
+                        1090 --311: /*******************************************************************************
+                        1091 --312:   Function: R_BSP_STDIO_ReceiveChar
+                        1092 --314:     see <r_bsp_stdio_api.h> for details
+                        1093 --315: */
+                        1094 --317: void R_BSP_STDIO_ReceiveChar(int8_t *Character) 
+                        1095 	.align	2
+                        1096 	.align	2
+                        1097 	.global	_R_BSP_STDIO_ReceiveChar
+                        1098 _R_BSP_STDIO_ReceiveChar:
+000002e2 8007e170       1099 	prepare	{r25,r26,r27,r28,r29,r31},0
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+000002e6 3d0600000000*  1100 	mov	_loc_UsedIo,r29
+000002ec 06d8           1101 	mov	r6,r27
+000002ee 1dc8           1102 	mov	r29,r25
+000002f0 3a0600000000*  1103 	mov	__iob,r26
+                        1104 --	    .bf
+                        1105 .LDW13:
+                        1106 --318: {
+                        1107 --319:     uint32_t len = 0u;
+000002f6 00e2           1108 	mov	0,r28
+                        1109 --320:   
+                        1110 --321:     do 
+000002f8 0000           1111 	nop
+                        1112 .L780:
+                        1113 --322:     {
+                        1114 --323:         if (LOC_EXTERN_IO == loc_UsedIo) 
+000002fa 3d0f0100       1115 	ld.w	0[r29],r1
+000002fe e009           1116 	cmp	zero,r1
+00000300 fa05*          1117 	bne	.L781
+                        1118 --324:         {
+                        1119 --325:             len = R_BSP_SYS_STDIO_Read((uint8_t *)Character, 1);
+                        1120 --line325
+                        1121 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.43::
+                        1122 .LDWlin43:
+00000302 1b30           1123 	mov	r27,r6
+00000304 013a           1124 	mov	1,r7
+                        1125 	jarl	_R_BSP_SYS_STDIO_Read,lp
+                        1125 <EXPANSION BEGIN>
+                        1125 jarl22 _R_BSP_SYS_STDIO_Read , lp 
+00000306 80ff0000*      1125 <EXPANSION END>
+0000030a 0ae0           1126 	mov	r10,r28
+0000030c e50d*          1127 	br	.L779
+                        1128 .L781:
+                        1129 --326:         } 
+                        1130 --327:         else 
+                        1131 --328:         {
+                        1132 --329:            *Character = getchar();
+                        1133 --line329
+                        1134 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.44::
+                        1135 .LDWlin44:
+0000030e 1a30           1136 	mov	r26,r6
+                        1137 	jarl	_getc,lp
+                        1137 <EXPANSION BEGIN>
+                        1137 jarl22 _getc , lp 
+00000310 80ff0000*      1137 <EXPANSION END>
+00000314 5b570000       1138 	st.b	r10,0[r27]
+                        1139 --330:             if ( '\n' != *Character)
+                        1140 --line330
+                        1141 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.45::
+                        1142 .LDWlin45:
+00000318 1b0f0000       1143 	ld.b	0[r27],r1
+0000031c 6a0a           1144 	cmp	10,r1
+0000031e c205*          1145 	be	.L784
+                        1146 --331:             {
+                        1147 --332:                 getchar();
+                        1148 --line332
+                        1149 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.46::
+                        1150 .LDWlin46:
+00000320 1a30           1151 	mov	r26,r6
+                        1152 	jarl	_getc,lp
+                        1152 <EXPANSION BEGIN>
+                        1152 jarl22 _getc , lp 
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+00000322 80ff0000*      1152 <EXPANSION END>
+                        1153 .L784:
+                        1154 --333:             }
+                        1155 --334:             len = 1u;
+                        1156 --line334
+                        1157 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.47::
+                        1158 .LDWlin47:
+00000326 01e2           1159 	mov	1,r28
+                        1160 .L779:
+00000328 e0e1           1161 	cmp	zero,r28
+0000032a 82ed*          1162 	be	.L780
+                        1163 --335:         }
+                        1164 --336:     } while(0 == len);
+                        1165 --337:     if (LOC_EXTERN_IO == loc_UsedIo) 
+                        1166 --line337
+                        1167 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.48::
+                        1168 .LDWlin48:
+0000032c 3d0f0100       1169 	ld.w	0[r29],r1
+00000330 e009           1170 	cmp	zero,r1
+00000332 da05*          1171 	bne	.L786
+                        1172 --338:     {
+                        1173 --339:         R_BSP_SYS_STDIO_Write((uint8_t *)Character, 1);
+                        1174 --line339
+                        1175 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.49::
+                        1176 .LDWlin49:
+00000334 1b30           1177 	mov	r27,r6
+00000336 013a           1178 	mov	1,r7
+                        1179 	jarl	_R_BSP_SYS_STDIO_Write,lp
+                        1179 <EXPANSION BEGIN>
+                        1179 jarl22 _R_BSP_SYS_STDIO_Write , lp 
+00000338 80ff0000*      1179 <EXPANSION END>
+                        1180 .L786:
+                        1181 --340:     } 
+                        1182 --342: }
+                        1183 --	    .ef
+                        1184 .LDW23:
+                        1185 --line342
+                        1186 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.50::
+                        1187 .LDWlin50:
+0000033c 4006ff70       1188 	dispose	0,{r25,r26,r27,r28,r29,r31},[lp]
+                        1189 	.type	_R_BSP_STDIO_ReceiveChar,@function
+                        1190 	.size	_R_BSP_STDIO_ReceiveChar,.-_R_BSP_STDIO_ReceiveChar
+                        1191 	.align	2
+                        1192 .LDW33:
+                        1193 --_len	r28	local
+                        1194 
+                        1195 --_Character	r27	param
+                        1196 
+                        1197 	.data
+                        1198 	.text
+                        1199 
+                        1200 
+                        1201 --346: /*******************************************************************************
+                        1202 --347:   Function: R_BSP_STDIO_ReadHex
+                        1203 --349:     see <r_bsp_stdio_api.h> for details
+                        1204 --350: */
+                        1205 --352: void R_BSP_STDIO_ReadHex(uint32_t *ReceiveHex) 
+                        1206 	.align	2
+                        1207 	.align	2
+                        1208 	.global	_R_BSP_STDIO_ReadHex
+                        1209 _R_BSP_STDIO_ReadHex:
+
+                                                                      Page 23
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+00000340 8a076100       1210 	prepare	{r29,r31},5
+00000344 06e8           1211 	mov	r6,r29
+                        1212 --	    .bf
+                        1213 .LDW43:
+                        1214 --353: { 
+                        1215 --354:     char buffer [20];
+                        1216 --355:     
+                        1217 --356:     R_BSP_STDIO_ReadString(buffer, sizeof(buffer), 0);                   
+00000346 23360000       1218 	movea	0,sp,r6
+0000034a 203e1400       1219 	movea	20,zero,r7
+0000034e 0042           1220 	mov	0,r8
+                        1221 	jarl	_R_BSP_STDIO_ReadString,lp
+                        1221 <EXPANSION BEGIN>
+                        1221 jarl22 _R_BSP_STDIO_ReadString , lp 
+00000350 bfff6efe*      1221 <EXPANSION END>
+                        1222 --357:     sscanf(buffer, "%x", ReceiveHex);
+                        1223 --line357
+                        1224 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.51::
+                        1225 .LDWlin51:
+00000354 1d40           1226 	mov	r29,r8
+00000356 23360000       1227 	movea	0,sp,r6
+0000035a 270600000000*  1228 	mov	.L948,r7
+                        1229 	jarl	_sscanf,lp
+                        1229 <EXPANSION BEGIN>
+                        1229 jarl22 _sscanf , lp 
+00000360 80ff0000*      1229 <EXPANSION END>
+                        1230 --358: }
+                        1231 --	    .ef
+                        1232 .LDW53:
+                        1233 --line358
+                        1234 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.52::
+                        1235 .LDWlin52:
+00000364 4a067f00       1236 	dispose	5,{r29,r31},[lp]
+                        1237 	.type	_R_BSP_STDIO_ReadHex,@function
+                        1238 	.size	_R_BSP_STDIO_ReadHex,.-_R_BSP_STDIO_ReadHex
+                        1239 	.align	2
+                        1240 .LDW63:
+                        1241 --_buffer	0[sp]	local
+                        1242 --.L935	.L948	static
+                        1243 
+                        1244 --_ReceiveHex	r29	param
+                        1245 
+                        1246 	.section ".bss","awb"
+                        1247 .L934:
+                        1248 	.type	.L934,@object
+                        1249 	.size	.L934,0
+                        1250 	.section ".rodata","a"
+                        1251 .L948:--	"%x"
+00000081 2578           1252 	.byte	37,120
+00000083 00             1253 	.byte	0
+                        1254 	.type	.L948,@object
+                        1255 	.size	.L948,3
+                        1256 	.data
+                        1257 	.text
+                        1258 
+                        1259 
+                        1260 --361: /*******************************************************************************
+                        1261 --362:   Function: R_BSP_STDIO_Init
+                        1262 --364:     see <r_bsp_stdio_api.h> for details
+                        1263 --365: */
+                        1264 --366: void R_BSP_STDIO_Init(void) 
+
+                                                                      Page 24
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                        1265 	.align	2
+                        1266 	.align	2
+                        1267 	.global	_R_BSP_STDIO_Init
+                        1268 _R_BSP_STDIO_Init:
+00000368 8007e110       1269 	prepare	{r27,r28,r29,r31},0
+0000036c 3d0600000000*  1270 	mov	_loc_UsedIo,r29
+00000372 1dd8           1271 	mov	r29,r27
+                        1272 --	    .bf
+                        1273 .LDW73:
+                        1274 --367: {
+                        1275 --368:     uint8_t port = R_BSP_SYS_STDIO_GetActCh(); 
+                        1276 	jarl	_R_BSP_SYS_STDIO_GetActCh,lp
+                        1276 <EXPANSION BEGIN>
+                        1276 jarl22 _R_BSP_SYS_STDIO_GetActCh , lp 
+00000374 80ff0000*      1276 <EXPANSION END>
+00000378 0ae0           1277 	mov	r10,r28
+                        1278 --369:     R_BSP_SYS_STDIO_Init(); 
+                        1279 --line369
+                        1280 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.53::
+                        1281 .LDWlin53:
+                        1282 	jarl	_R_BSP_SYS_STDIO_Init,lp
+                        1282 <EXPANSION BEGIN>
+                        1282 jarl22 _R_BSP_SYS_STDIO_Init , lp 
+0000037a 80ff0000*      1282 <EXPANSION END>
+                        1283 --370:     if (0xFF != port)
+                        1284 --line370
+                        1285 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.54::
+                        1286 .LDWlin54:
+0000037e 1c0601ff       1287 	addi	-255,r28,zero
+00000382 a20d*          1288 	be	.L956
+                        1289 --371:     {
+                        1290 --372:         loc_UsedIo = LOC_EXTERN_IO;  
+                        1291 --line372
+                        1292 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.55::
+                        1293 .LDWlin55:
+00000384 7d070100       1294 	st.w	zero,0[r29]
+                        1295 --373:         printf("\n** Using UART port %d for stdio **\n", port); 
+00000388 1c38           1296 	mov	r28,r7
+0000038a 260600000000*  1297 	mov	.L1019,r6
+                        1298 	jarl	_printf,lp
+                        1298 <EXPANSION BEGIN>
+                        1298 jarl22 _printf , lp 
+00000390 80ff0000*      1298 <EXPANSION END>
+00000394 c505*          1299 	br	.L958
+                        1300 .L956:
+                        1301 --374:     }
+                        1302 --375:     else 
+                        1303 --376:     {
+                        1304 --377:         loc_UsedIo = LOC_DEBUGER_IO;  
+                        1305 --line377
+                        1306 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.56::
+                        1307 .LDWlin56:
+00000396 010a           1308 	mov	1,r1
+00000398 7d0f0100       1309 	st.w	r1,0[r29]
+                        1310 .L958:
+                        1311 --378:     }
+                        1312 --379: }
+                        1313 --	    .ef
+                        1314 .LDW83:
+0000039c 4006ff10       1315 	dispose	0,{r27,r28,r29,r31},[lp]
+                        1316 	.type	_R_BSP_STDIO_Init,@function
+
+                                                                      Page 25
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                        1317 	.size	_R_BSP_STDIO_Init,.-_R_BSP_STDIO_Init
+                        1318 	.align	2
+                        1319 .LDW93:
+                        1320 --_port	r28	local
+                        1321 --.L998	.L1019	static
+                        1322 
+                        1323 	.section ".rodata","a"
+                        1324 .L1019:--	"\n** Using UART port %d for stdio **\n"
+00000084 0a2a2a20       1325 	.byte	10,42,42,32
+00000088 5573696e       1326 	.byte	85,115,105,110
+0000008c 67205541       1327 	.byte	103,32,85,65
+00000090 52542070       1328 	.byte	82,84,32,112
+00000094 6f727420       1329 	.byte	111,114,116,32
+00000098 25642066       1330 	.byte	37,100,32,102
+0000009c 6f722073       1331 	.byte	111,114,32,115
+000000a0 7464696f       1332 	.byte	116,100,105,111
+000000a4 202a2a0a       1333 	.byte	32,42,42,10
+000000a8 00             1334 	.byte	0
+                        1335 	.type	.L1019,@object
+                        1336 	.size	.L1019,37
+                        1337 	.data
+                        1338 	.text
+                        1339 
+                        1340 
+                        1341 --381: /*******************************************************************************
+                        1342 --382:   Function: R_BSP_STDIO_DeInit
+                        1343 --384:     see <r_bsp_stdio_api.h> for details
+                        1344 --385: */
+                        1345 --386: void R_BSP_STDIO_DeInit(void) 
+                        1346 	.align	2
+                        1347 	.align	2
+                        1348 	.global	_R_BSP_STDIO_DeInit
+                        1349 _R_BSP_STDIO_DeInit:
+000003a0 80076100       1350 	prepare	{r29,r31},0
+000003a4 3d0600000000*  1351 	mov	_loc_UsedIo,r29
+                        1352 --	    .bf
+                        1353 .LDW04:
+                        1354 --387: {
+                        1355 --388:     R_BSP_SYS_STDIO_DeInit(); 
+                        1356 	jarl	_R_BSP_SYS_STDIO_DeInit,lp
+                        1356 <EXPANSION BEGIN>
+                        1356 jarl22 _R_BSP_SYS_STDIO_DeInit , lp 
+000003aa 80ff0000*      1356 <EXPANSION END>
+                        1357 --389:     loc_UsedIo = LOC_DEBUGER_IO;  
+                        1358 --line389
+                        1359 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main.57::
+                        1360 .LDWlin57:
+000003ae 2b0600000000*  1361 	mov	_loc_UsedIo,r11
+000003b4 010a           1362 	mov	1,r1
+000003b6 6b0f0100       1363 	st.w	r1,0[r11]
+                        1364 --390: }
+                        1365 --	    .ef
+                        1366 .LDW14:
+000003ba 40067f00       1367 	dispose	0,{r29,r31},[lp]
+                        1368 	.type	_R_BSP_STDIO_DeInit,@function
+                        1369 	.size	_R_BSP_STDIO_DeInit,.-_R_BSP_STDIO_DeInit
+                        1370 	.align	2
+                        1371 .LDW24:
+                        1372 
+                        1373 	.data
+                        1374 	.text
+
+                                                                      Page 26
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pg01.si
+                        1375 
+                        1376 	.align	2
+                        1377 --__iob	__iob	import
+                        1378 --_loc_Buffer	_loc_Buffer	static
+                        1379 --_loc_UsedIo	_loc_UsedIo	static
+                        1380 
+                        1381 	.data
+                        1382 	.ghsnote version,15
+                        1383 	.ghsnote tools,3
+                        1384 	.ghsnote options,144
+                        1385 	.text
+                        1386 	.align	2
+                        1387 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_stdio_main...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D024..0::
+                        1388 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

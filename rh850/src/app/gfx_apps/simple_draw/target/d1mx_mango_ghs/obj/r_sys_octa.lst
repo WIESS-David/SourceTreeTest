@@ -1,0 +1,1255 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_sys_octa.dbo -source=r_sys_octa.c -o .\obj\gh_0000pr41.o -list=.\obj\r_sys_octa.lst C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+Source File: r_sys_octa.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\device\d1mx\src\octa\r_sys_octa.c -o
+                         171 --		.\obj\r_sys_octa.o
+                         172 --Source File:   ..\..\..\..\..\device\d1mx\src\octa\r_sys_octa.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:55 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : OCTA driver
+                         186 --4: FILE    : $Id: r_sys_octa.c 13963 2017-06-16 06:38:44Z shinobu.uehara $
+                         187 --5: ============================================================================
+                         188 --6: DESCRIPTION
+                         189 --7: OCTA support functions for d1x
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T
+                         192 --10: ============================================================================
+                         193 --11:                            Copyright (c) 2017
+                         194 --12:                                   by
+                         195 --13:                        Renesas Electronics (Europe) GmbH.
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing, not for mass production
+                         202 --21: DISCLAIMER
+                         203 --23: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         204 --24: the license agreement, especially the usage rights. In any case, it is
+                         205 --25: LICENSEE's responsibility to make sure that any user of the software complies
+                         206 --26: with the terms and conditions of the signed license agreement.
+                         207 --28: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         208 --29: mass-production applications. It can only be used for evaluation and
+                         209 --30: demonstration purposes at customer's premises listed in the signed license
+                         210 --31: agreement.
+                         211 --33: ****************************************************************************
+                         212 --34: */
+                         213 --37: /***************************************************************************
+                         214 --38:   Title: OCTA Driver support functions
+                         215 --40:   Implementation of the OCTA support functions for the D1x device.
+                         216 --42: */
+                         217 --44: /***************************************************************************
+                         218 --45:   Section: Includes
+                         219 --46: */
+                         220 --47: #include "r_typedefs.h"
+                         221 --48: #include "r_octa_api.h"
+                         222 --49: #include "r_octa_sys.h"
+                         223 --50: #include "r_config_octa.h"
+                         224 --51: #include "r_dev_api.h"
+                         225 --54: /***************************************************************************
+                         226 --55:   Section: Local Defines
+                         227 --56: */
+                         228 --58: /***************************************************************************
+                         229 --59:   Constant: LOC_EXTERNAL_BASE_~
+                         230 --61:   Definitions to the base address of external address space.
+                         231 --62:   
+                         232 --63:   LOC_EXTERNAL_BASE_ADDR0   - Base address for Channel0.
+                         233 --64:   LOC_EXTERNAL_BASE_ADDR1   - Base address for Channel1.
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         234 --65: */
+                         235 --66: #define LOC_EXTERNAL_BASE_ADDR0      (0x60000000uL)
+                         236 --67: #define LOC_EXTERNAL_BASE_ADDR1      (0x70000000uL)
+                         237 --69: /***************************************************************************
+                         238 --70:   Constant: LOC_DEFAULT_DL_~
+                         239 --72:   Definitions to the default Dummy Length.
+                         240 --73:   
+                         241 --74:   LOC_DEFAULT_DL_FLASH   - Default Dummy Length for Flash memory.
+                         242 --75:   LOC_DEFAULT_DL_RAM     - Default Dummy Length for RAM.
+                         243 --76: */
+                         244 --77: #define LOC_DEFAULT_DL_FLASH    (20uL)
+                         245 --78: #define LOC_DEFAULT_DL_RAM      (5uL)
+                         246 --80: /*******************************************************************************
+                         247 --81:   Section: Local functions
+                         248 --82: */
+                         249 --83: static uint32_t loc_OCTA_CmdBitPosShiftGet(const uint16_t    Pos);
+                         250 --85: /***************************************************************************
+                         251 --86:   Function: loc_OCTA_CmdBitPosShiftGet
+                         252 --88:   Description:
+                         253 --89:   This function gives back the shift value of the specified bit position.
+                         254 --90:   The shift value gives priority to the lowest bit position.
+                         255 --91:   
+                         256 --92:   Parameter:
+                         257 --93:     pos      - Bit position.
+                         258 --95:   Returns:
+                         259 --96:     shift value.
+                         260 --97: */
+                         261 --98: static uint32_t loc_OCTA_CmdBitPosShiftGet(const uint16_t    Pos)
+                         262 	.text
+                         263 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D027..0::
+                         264 	.align	2
+                         265 	.global	_loc_OCTA_CmdBitPosShiftGet..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.
+                         266 _loc_OCTA_CmdBitPosShiftGet..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.:
+                         267 _loc_OCTA_CmdBitPosShiftGet:
+00000000 c66effff        268 	andi	65535,r6,r13
+                         269 --	    .bf
+                         270 .LDW01:
+                         271 --99: {
+                         272 --100:     uint32_t    shift = 0;
+00000004 0072            273 	mov	0,r14
+                         274 --101:     uint32_t    val;
+                         275 --103:     for (val = Pos; val > 0; val >>= 1)
+00000006 0d08            276 	mov	r13,r1
+00000008 e505*           277 	br	.L7
+                         278 .L6:
+                         279 --104:     {
+                         280 --105:         if ((val & 1uL) == 0)
+                         281 --line105
+                         282 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.1::
+                         283 .LDWlin1:
+0000000a c1060100        284 	andi	1,r1,zero
+0000000e aa05*           285 	bne	.L5
+                         286 --106:         {
+                         287 --107:             shift++;
+                         288 --line107
+                         289 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.2::
+                         290 .LDWlin2:
+00000010 4172            291 	add	1,r14
+                         292 .L5:
+00000012 810a            293 	shr	1,r1
+                         294 .L7:
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+00000014 e009            295 	cmp	zero,r1
+00000016 abfd*           296 	bh	.L6
+                         297 --108:         }
+                         298 --109:     }
+                         299 --110:     return shift;
+                         300 --line110
+                         301 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.3::
+                         302 .LDWlin3:
+00000018 0e50            303 	mov	r14,r10
+                         304 --	    .ef
+                         305 .LDW11:
+0000001a 7f00            306 	jmp	[lp]
+                         307 	.type	_loc_OCTA_CmdBitPosShiftGet,@function
+                         308 	.size	_loc_OCTA_CmdBitPosShiftGet,.-_loc_OCTA_CmdBitPosShiftGet
+                         309 	.type	_loc_OCTA_CmdBitPosShiftGet..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.,@function
+                         310 	.size	_loc_OCTA_CmdBitPosShiftGet..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.,.-_loc_OCTA_CmdBitPosShiftGet..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.
+                         311 	.align	2
+                         312 .LDW21:
+                         313 --_shift	r14	local
+                         314 --_val	r1	local
+                         315 
+                         316 --_Pos	r13	param
+                         317 
+                         318 	.section ".bss","awb"
+                         319 .L58:
+                         320 	.type	.L58,@object
+                         321 	.size	.L58,0
+                         322 	.data
+                         323 	.text
+                         324 
+                         325 --111: }
+                         326 
+                         327 --113: /***************************************************************************
+                         328 --114:   Section: OCTA driver support functions
+                         329 --116:   Comments see: <r_octa_sys.h>
+                         330 --117: */
+                         331 --119: /***************************************************************************
+                         332 --120:   Function: R_OCTA_Sys_Init
+                         333 --122:   see: <r_octa_sys.h>
+                         334 --123: */
+                         335 --124: r_octa_Error_t R_OCTA_Sys_Init(const uint32_t Unit)
+                         336 	.align	2
+                         337 	.align	2
+                         338 	.global	_R_OCTA_Sys_Init
+                         339 _R_OCTA_Sys_Init:
+0000001c 8007e110        340 	prepare	{r27,r28,r29,r31},0
+00000020 06d8            341 	mov	r6,r27
+                         342 --	    .bf
+                         343 .LDW31:
+                         344 --125: {
+                         345 --126:     r_octa_Error_t      sys_err = R_OCTA_ERR_OK;
+00000022 00e2            346 	mov	0,r28
+                         347 --127:     r_dev_Device_t      device;
+                         348 --128:     
+                         349 --129:     /* Check device version */
+                         350 --130:     device = R_DEV_GetDev();
+                         351 	jarl	_R_DEV_GetDev,lp
+                         351 <EXPANSION BEGIN>
+                         351 jarl22 _R_DEV_GetDev , lp 
+00000024 80ff0000*       351 <EXPANSION END>
+00000028 0ae8            352 	mov	r10,r29
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         353 --131:     if ((device != R_DEV_R7F701441) /* RH850/D1M1A */
+                         354 --line131
+                         355 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.4::
+                         356 .LDWlin4:
+0000002a 1d065ffa        357 	addi	-1441,r29,zero
+0000002e 820d*           358 	be	.L93
+00000030 1d065efa        359 	addi	-1442,r29,zero
+00000034 d205*           360 	be	.L93
+00000036 1d0676fa        361 	addi	-1418,r29,zero
+0000003a a205*           362 	be	.L93
+                         363 --132:      && (device != R_DEV_R7F701442) /* RH850/D1M1-V2 */
+                         364 --133:      && (device != R_DEV_R7F701418))
+                         365 --134:     {
+                         366 --135:         sys_err = R_OCTA_ERR_DEVICE;
+                         367 --line135
+                         368 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.5::
+                         369 .LDWlin5:
+0000003c 06e2            370 	mov	6,r28
+                         371 .L93:
+                         372 --136:     }
+                         373 --137:     
+                         374 --138:     return sys_err;
+0000003e 1c50            375 	mov	r28,r10
+                         376 --	    .ef
+                         377 .LDW41:
+00000040 4006ff10        378 	dispose	0,{r27,r28,r29,r31},[lp]
+                         379 	.type	_R_OCTA_Sys_Init,@function
+                         380 	.size	_R_OCTA_Sys_Init,.-_R_OCTA_Sys_Init
+                         381 	.align	2
+                         382 .LDW51:
+                         383 --_sys_err	r28	local
+                         384 --_device	r29	local
+                         385 
+                         386 --_Unit	r27	param
+                         387 
+                         388 	.section ".bss","awb"
+                         389 .L134:
+                         390 	.type	.L134,@object
+                         391 	.size	.L134,0
+                         392 	.data
+                         393 	.text
+                         394 
+                         395 --139: }
+                         396 
+                         397 --142: /***************************************************************************
+                         398 --143:   Function: R_OCTA_Sys_DeInit
+                         399 --145:   see: <r_octa_sys.h>
+                         400 --146: */
+                         401 --148: r_octa_Error_t R_OCTA_Sys_DeInit(const uint32_t Unit)
+                         402 	.align	2
+                         403 	.align	2
+                         404 	.global	_R_OCTA_Sys_DeInit
+                         405 _R_OCTA_Sys_DeInit:
+00000044 0608            406 	mov	r6,r1
+                         407 --	    .bf
+                         408 .LDW61:
+                         409 --149: {
+                         410 --150:     return R_OCTA_ERR_OK;
+00000046 0052            411 	mov	0,r10
+                         412 --	    .ef
+                         413 .LDW71:
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+00000048 7f00            414 	jmp	[lp]
+                         415 	.type	_R_OCTA_Sys_DeInit,@function
+                         416 	.size	_R_OCTA_Sys_DeInit,.-_R_OCTA_Sys_DeInit
+                         417 	.align	2
+                         418 .LDW81:
+                         419 
+                         420 --_Unit	r1	param
+                         421 
+                         422 	.section ".bss","awb"
+                         423 .L190:
+                         424 	.type	.L190,@object
+                         425 	.size	.L190,0
+                         426 	.data
+                         427 	.text
+                         428 
+                         429 --151: }
+                         430 
+                         431 --153: /***************************************************************************
+                         432 --154:   Function: R_OCTA_Sys_BaseAddrGet
+                         433 --156:   see: <r_octa_sys.h>
+                         434 --157: */
+                         435 --158: uint32_t R_OCTA_Sys_BaseAddrGet(const uint32_t Unit)
+                         436 	.align	2
+                         437 	.align	2
+                         438 	.global	_R_OCTA_Sys_BaseAddrGet
+                         439 _R_OCTA_Sys_BaseAddrGet:
+0000004a 0670            440 	mov	r6,r14
+                         441 --	    .bf
+                         442 .LDW91:
+                         443 --159: {
+                         444 --160:     uint32_t addr = 0;
+0000004c 000a            445 	mov	0,r1
+                         446 --162:     if (Unit == 0)
+0000004e e071            447 	cmp	zero,r14
+00000050 ca05*           448 	bne	.L204
+                         449 --163:     {
+                         450 --164:         addr = R_OCTA_BASE_ADD;
+                         451 --line164
+                         452 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.6::
+                         453 .LDWlin6:
+00000052 21060080fff2    454 	mov	-218136576,r1
+                         455 .L204:
+                         456 --165:     }
+                         457 --166:     return addr;
+00000058 0150            458 	mov	r1,r10
+                         459 --	    .ef
+                         460 .LDW02:
+0000005a 7f00            461 	jmp	[lp]
+                         462 	.type	_R_OCTA_Sys_BaseAddrGet,@function
+                         463 	.size	_R_OCTA_Sys_BaseAddrGet,.-_R_OCTA_Sys_BaseAddrGet
+                         464 	.align	2
+                         465 .LDW12:
+                         466 --_addr	r1	local
+                         467 
+                         468 --_Unit	r14	param
+                         469 
+                         470 	.section ".bss","awb"
+                         471 .L234:
+                         472 	.type	.L234,@object
+                         473 	.size	.L234,0
+                         474 	.data
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         475 	.text
+                         476 
+                         477 --167: }
+                         478 
+                         479 --169: /***************************************************************************
+                         480 --170:   Function: R_OCTA_Sys_ExternalAddrSpaceBaseAddrGet
+                         481 --172:   see: <r_octa_sys.h>
+                         482 --173: */
+                         483 --174: uint32_t R_OCTA_Sys_ExternalAddrSpaceBaseAddrGet(const uint32_t Unit, const uint32_t Channel)
+                         484 	.align	2
+                         485 	.align	2
+                         486 	.global	_R_OCTA_Sys_ExternalAddrSpaceBaseAddrGet
+                         487 _R_OCTA_Sys_ExternalAddrSpaceBaseAddrGet:
+0000005c 0670            488 	mov	r6,r14
+0000005e 0768            489 	mov	r7,r13
+                         490 --	    .bf
+                         491 .LDW22:
+                         492 --175: {
+                         493 --176:     uint32_t addr = 0;
+00000060 000a            494 	mov	0,r1
+                         495 --178:     if (Unit == 0)
+00000062 e071            496 	cmp	zero,r14
+00000064 8a0d*           497 	bne	.L257
+                         498 --179:     {
+                         499 --180:         if (Channel == 0)
+                         500 --line180
+                         501 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.7::
+                         502 .LDWlin7:
+00000066 e069            503 	cmp	zero,r13
+00000068 ca05*           504 	bne	.L259
+                         505 --181:         {
+                         506 --182:             addr = LOC_EXTERNAL_BASE_ADDR0;
+                         507 --line182
+                         508 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.8::
+                         509 .LDWlin8:
+0000006a 400e0060        510 	movhi	hi(1610612736),zero,r1
+0000006e b505*           511 	br	.L257
+                         512 .L259:
+                         513 --183:         }
+                         514 --184:         else
+                         515 --185:         {
+                         516 --186:             addr = LOC_EXTERNAL_BASE_ADDR1;
+                         517 --line186
+                         518 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.9::
+                         519 .LDWlin9:
+00000070 400e0070        520 	movhi	hi(1879048192),zero,r1
+                         521 .L257:
+                         522 --187:         }
+                         523 --188:     }
+                         524 --189:     return addr;
+00000074 0150            525 	mov	r1,r10
+                         526 --	    .ef
+                         527 .LDW32:
+00000076 7f00            528 	jmp	[lp]
+                         529 	.type	_R_OCTA_Sys_ExternalAddrSpaceBaseAddrGet,@function
+                         530 	.size	_R_OCTA_Sys_ExternalAddrSpaceBaseAddrGet,.-_R_OCTA_Sys_ExternalAddrSpaceBaseAddrGet
+                         531 	.align	2
+                         532 .LDW42:
+                         533 --_addr	r1	local
+                         534 
+                         535 --_Unit	r14	param
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         536 --_Channel	r13	param
+                         537 
+                         538 	.section ".bss","awb"
+                         539 .L306:
+                         540 	.type	.L306,@object
+                         541 	.size	.L306,0
+                         542 	.data
+                         543 	.text
+                         544 
+                         545 --190: }
+                         546 
+                         547 --192: /***************************************************************************
+                         548 --193:   Function: R_OCTA_Sys_DefaultDummyLengthGet
+                         549 --195:   see: <r_octa_sys.h>
+                         550 --196: */
+                         551 --197: uint32_t R_OCTA_Sys_DefaultDummyLengthGet(const uint32_t Unit, const uint32_t Channel,
+                         552 	.align	2
+                         553 	.align	2
+                         554 	.global	_R_OCTA_Sys_DefaultDummyLengthGet
+                         555 _R_OCTA_Sys_DefaultDummyLengthGet:
+00000078 0668            556 	mov	r6,r13
+0000007a 0760            557 	mov	r7,r12
+0000007c c876ff00        558 	andi	255,r8,r14
+                         559 --	    .bf
+                         560 .LDW52:
+                         561 --198:                                           const uint8_t DeviceType)
+                         562 --199: {
+                         563 --200:     uint32_t df_dummylength;
+                         564 --202:     if (DeviceType == 0)
+00000080 e071            565 	cmp	zero,r14
+00000082 ca05*           566 	bne	.L335
+                         567 --203:     {
+                         568 --204:         df_dummylength = LOC_DEFAULT_DL_FLASH; /* OCTA FLASH */
+                         569 --line204
+                         570 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.10::
+                         571 .LDWlin10:
+00000084 200e1400        572 	movea	20,zero,r1
+00000088 a505*           573 	br	.L337
+                         574 .L335:
+                         575 --205:     }
+                         576 --206:     else
+                         577 --207:     {
+                         578 --208:         df_dummylength = LOC_DEFAULT_DL_RAM; /* OCTA RAM */
+                         579 --line208
+                         580 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.11::
+                         581 .LDWlin11:
+0000008a 050a            582 	mov	5,r1
+                         583 .L337:
+                         584 --209:     }
+                         585 --211:     return df_dummylength;
+0000008c 0150            586 	mov	r1,r10
+                         587 --	    .ef
+                         588 .LDW62:
+0000008e 7f00            589 	jmp	[lp]
+                         590 	.type	_R_OCTA_Sys_DefaultDummyLengthGet,@function
+                         591 	.size	_R_OCTA_Sys_DefaultDummyLengthGet,.-_R_OCTA_Sys_DefaultDummyLengthGet
+                         592 	.align	2
+                         593 .LDW72:
+                         594 --_df_dummylength	r1	local
+                         595 
+                         596 --_Unit	r13	param
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         597 --_Channel	r12	param
+                         598 --_DeviceType	r14	param
+                         599 
+                         600 	.section ".bss","awb"
+                         601 .L378:
+                         602 	.type	.L378,@object
+                         603 	.size	.L378,0
+                         604 	.data
+                         605 	.text
+                         606 
+                         607 --212: }
+                         608 
+                         609 --214: /***************************************************************************
+                         610 --215:   Function: R_OCTA_Sys_ConfigRegSet
+                         611 --217:   see: <r_octa_sys.h>
+                         612 --218: */
+                         613 --219: uint16_t R_OCTA_Sys_ConfigRegSet(const uint32_t                  Unit,
+                         614 	.align	2
+                         615 	.align	2
+                         616 	.global	_R_OCTA_Sys_ConfigRegSet
+                         617 _R_OCTA_Sys_ConfigRegSet:
+00000090 8607e170        618 	prepare	{r25,r26,r27,r28,r29,r31},3
+00000094 63370500        619 	st.w	r6,4[sp]
+00000098 c95effff        620 	andi	65535,r9,r11
+0000009c 633f0900        621 	st.w	r7,8[sp]
+000000a0 08d8            622 	mov	r8,r27
+000000a2 635f0200        623 	st.h	r11,2[sp]
+000000a6 23d72500        624 	ld.w	36[sp],r26
+                         625 --	    .bf
+                         626 .LDW82:
+                         627 --220:                                  const uint32_t                  Channel,
+                         628 --221:                                  const r_octa_Config_t * const   Config,
+                         629 --222:                                  const uint16_t                  RegVal,
+                         630 --223:                                  const r_octa_StateType_t        Type)
+                         631 --224: {
+                         632 --225:     r_octa_Command_t*           cmd;
+                         633 --226:     uint32_t                    shift;
+                         634 --227:     uint16_t                    reg_val;
+                         635 --229:     cmd = Config->Command;
+000000aa 3be71d00        636 	ld.w	28[r27],r28
+                         637 --230:     reg_val = RegVal;
+000000ae e3ef0300        638 	ld.hu	2[sp],r29
+                         639 --232:     if (Type == R_OCTA_TYPE_PCM)
+000000b2 63d2            640 	cmp	3,r26
+000000b4 9a15*           641 	bne	.L401
+                         642 --233:     {
+                         643 --234:         /* PCM */
+                         644 --235:         if (Config->PreCycle == 0)
+                         645 --line235
+                         646 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.12::
+                         647 .LDWlin12:
+000000b6 3b0f2500        648 	ld.w	36[r27],r1
+000000ba e009            649 	cmp	zero,r1
+000000bc 8a0d*           650 	bne	.L403
+                         651 --236:         {
+                         652 --237:             reg_val &= (uint16_t)~cmd->PreCycle.BitPosition;
+                         653 --line237
+                         654 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.13::
+                         655 .LDWlin13:
+000000be fc0f2f00        656 	ld.hu	46[r28],r1
+000000c2 2108            657 	not	r1,r1
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+000000c4 c100            658 	zxh	r1
+000000c6 41e9            659 	and	r1,r29
+000000c8 dd00            660 	zxh	r29
+000000ca 953d*           661 	br	.L406
+                         662 .L403:
+                         663 --238:         }
+                         664 --239:         else
+                         665 --240:         {
+                         666 --241:             reg_val |= cmd->PreCycle.BitPosition;
+                         667 --line241
+                         668 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.14::
+                         669 .LDWlin14:
+000000cc fc0f2f00        670 	ld.hu	46[r28],r1
+000000d0 01e9            671 	or	r1,r29
+000000d2 dd00            672 	zxh	r29
+000000d4 c535*           673 	br	.L406
+                         674 .L401:
+                         675 --242:         }
+                         676 --243:     }
+                         677 --244:     else if (Type == R_OCTA_TYPE_DTM)
+                         678 --line244
+                         679 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.15::
+                         680 .LDWlin15:
+000000d6 64d2            681 	cmp	4,r26
+000000d8 ca15*           682 	bne	.L407
+                         683 --245:     {
+                         684 --246:         shift = loc_OCTA_CmdBitPosShiftGet(cmd->FlashTransferType.BitPosition);
+                         685 --line246
+                         686 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.16::
+                         687 .LDWlin16:
+000000da fc373b00        688 	ld.hu	58[r28],r6
+                         689 	jarl	_loc_OCTA_CmdBitPosShiftGet,lp
+                         689 <EXPANSION BEGIN>
+                         689 jarl22 _loc_OCTA_CmdBitPosShiftGet , lp 
+000000de bfff22ff*       689 <EXPANSION END>
+000000e2 0ac8            690 	mov	r10,r25
+                         691 --247:         /* DTM */
+                         692 --248:         reg_val &= (uint16_t)~cmd->FlashTransferType.BitPosition;
+                         693 --line248
+                         694 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.17::
+                         695 .LDWlin17:
+000000e4 fc0f3b00        696 	ld.hu	58[r28],r1
+000000e8 2108            697 	not	r1,r1
+000000ea c100            698 	zxh	r1
+000000ec 41e9            699 	and	r1,r29
+000000ee dd00            700 	zxh	r29
+                         701 --249:         reg_val |= (uint16_t)((uint32_t)Config->DataTransferMode << shift);
+000000f0 3b0f0900        702 	ld.w	8[r27],r1
+000000f4 f90fc208        703 	shl	r25,r1,r1
+000000f8 c100            704 	zxh	r1
+000000fa 01e9            705 	or	r1,r29
+000000fc dd00            706 	zxh	r29
+000000fe f51d*           707 	br	.L406
+                         708 .L407:
+                         709 --250:     }
+                         710 --251:     else if (Type == R_OCTA_TYPE_DOS)
+                         711 --line251
+                         712 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.18::
+                         713 .LDWlin18:
+00000100 65d2            714 	cmp	5,r26
+00000102 9a15*           715 	bne	.L410
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         716 --252:     {
+                         717 --253:         /* DOS */
+                         718 --254:         if (Config->DataTransferMode == R_OCTA_MODE_OPI)
+                         719 --line254
+                         720 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.19::
+                         721 .LDWlin19:
+00000104 3b0f0900        722 	ld.w	8[r27],r1
+00000108 610a            723 	cmp	1,r1
+0000010a ea05*           724 	bne	.L412
+                         725 --255:         {
+                         726 --256:             reg_val |= cmd->DOS.BitPosition;
+                         727 --line256
+                         728 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.20::
+                         729 .LDWlin20:
+0000010c fc0f4700        730 	ld.hu	70[r28],r1
+00000110 01e9            731 	or	r1,r29
+00000112 dd00            732 	zxh	r29
+00000114 c515*           733 	br	.L406
+                         734 .L412:
+                         735 --257:         }
+                         736 --258:         else
+                         737 --259:         {
+                         738 --260:             reg_val &= (uint16_t)~cmd->DOS.BitPosition;
+                         739 --line260
+                         740 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.21::
+                         741 .LDWlin21:
+00000116 fc0f4700        742 	ld.hu	70[r28],r1
+0000011a 2108            743 	not	r1,r1
+0000011c c100            744 	zxh	r1
+0000011e 41e9            745 	and	r1,r29
+00000120 dd00            746 	zxh	r29
+00000122 d50d*           747 	br	.L406
+                         748 .L410:
+                         749 --261:         }
+                         750 --262:     }
+                         751 --263:     else if (Type == R_OCTA_TYPE_DL)
+                         752 --line263
+                         753 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.22::
+                         754 .LDWlin22:
+00000124 66d2            755 	cmp	6,r26
+00000126 ba0d*           756 	bne	.L406
+                         757 --264:     {
+                         758 --265:         /* DL */
+                         759 --266:         reg_val &= (uint16_t)~cmd->DummyCycle.BitMask;
+                         760 --line266
+                         761 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.23::
+                         762 .LDWlin23:
+00000128 fc0f5300        763 	ld.hu	82[r28],r1
+0000012c 2108            764 	not	r1,r1
+0000012e c100            765 	zxh	r1
+00000130 41e9            766 	and	r1,r29
+00000132 dd00            767 	zxh	r29
+                         768 --267:         reg_val |= cmd->DummyCycle.BitSet;
+00000134 fc0f5500        769 	ld.hu	84[r28],r1
+00000138 01e9            770 	or	r1,r29
+0000013a dd00            771 	zxh	r29
+                         772 .L406:
+                         773 --268:     }
+                         774 --269:     else
+                         775 --270:     {
+                         776 --271:         /* check end */
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         777 --272:     }
+                         778 --274:     return reg_val;
+0000013c 1d50            779 	mov	r29,r10
+                         780 --	    .ef
+                         781 .LDW92:
+0000013e 4606ff70        782 	dispose	3,{r25,r26,r27,r28,r29,r31},[lp]
+                         783 	.type	_R_OCTA_Sys_ConfigRegSet,@function
+                         784 	.size	_R_OCTA_Sys_ConfigRegSet,.-_R_OCTA_Sys_ConfigRegSet
+                         785 	.align	2
+                         786 .LDW03:
+                         787 --_cmd	r28	local
+                         788 --_shift	r25	local
+                         789 --_reg_val	r29	local
+                         790 
+                         791 --_Unit	4[sp]	param
+                         792 --_Channel	8[sp]	param
+                         793 --_Config	r27	param
+                         794 --_RegVal	2[sp]	param
+                         795 --_Type	r26	param
+                         796 
+                         797 	.section ".bss","awb"
+                         798 .L514:
+                         799 	.type	.L514,@object
+                         800 	.size	.L514,0
+                         801 	.data
+                         802 	.text
+                         803 
+                         804 --275: }
+                         805 
+                         806 --277: /***************************************************************************
+                         807 --278:   Function: R_OCTA_Sys_StatusRegCheck
+                         808 --280:   see: <r_octa_sys.h>
+                         809 --281: */
+                         810 --282: r_octa_Error_t R_OCTA_Sys_StatusRegCheck(const uint32_t           Unit, 
+                         811 	.align	2
+                         812 	.align	2
+                         813 	.global	_R_OCTA_Sys_StatusRegCheck
+                         814 _R_OCTA_Sys_StatusRegCheck:
+00000142 8007c100        815 	prepare	{r28,r29},0
+00000146 c96effff        816 	andi	65535,r9,r13
+0000014a c876ffff        817 	andi	65535,r8,r14
+0000014e 235f0d00        818 	ld.w	12[sp],r11
+00000152 07e8            819 	mov	r7,r29
+00000154 23670900        820 	ld.w	8[sp],r12
+00000158 0650            821 	mov	r6,r10
+                         822 --	    .bf
+                         823 .LDW13:
+                         824 --283:                                          const uint32_t           Channel,
+                         825 --284:                                          const uint16_t           RegPos,
+                         826 --285:                                          const uint16_t           RegVal,
+                         827 --286:                                          const r_octa_StateType_t Type,
+                         828 --287:                                          const uint32_t           Count)
+                         829 --288: {
+                         830 --289:     r_octa_Error_t      sys_err = R_OCTA_ERR_OK;
+0000015a 000a            831 	mov	0,r1
+                         832 --290:     
+                         833 --291:     /* Check Timeout */
+                         834 --292:     if (Count >= R_OCTA_STATUS_TIMEOUT)
+0000015c 3c0600530700    835 	mov	480000,r28
+00000162 fc59            836 	cmp	r28,r11
+00000164 b105*           837 	bl	.L579
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         838 --293:     {
+                         839 --294:         sys_err = R_OCTA_ERR_TIMEOUT;
+                         840 --line294
+                         841 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.24::
+                         842 .LDWlin24:
+00000166 0a0a            843 	mov	10,r1
+00000168 a515*           844 	br	.L581
+                         845 .L579:
+                         846 --295:     }
+                         847 --296:     else
+                         848 --297:     {
+                         849 --298:         if (Type == R_OCTA_TYPE_WEL)
+                         850 --line298
+                         851 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.25::
+                         852 .LDWlin25:
+0000016a e061            853 	cmp	zero,r12
+0000016c 8a0d*           854 	bne	.L582
+                         855 --299:         {
+                         856 --300:             /** Read Status Register (repeat until SR[1]=1) **/
+                         857 --301:             if ((RegVal & RegPos) == 0)
+                         858 --line301
+                         859 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.26::
+                         860 .LDWlin26:
+0000016e 0ee0            861 	mov	r14,r28
+00000170 4de1            862 	and	r13,r28
+00000172 ba05*           863 	bne	.L584
+                         864 --302:             {
+                         865 --303:                 sys_err = R_OCTA_ERR_NOT_ACCEPTABLE;
+                         866 --line303
+                         867 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.27::
+                         868 .LDWlin27:
+00000174 050a            869 	mov	5,r1
+00000176 b50d*           870 	br	.L581
+                         871 .L584:
+                         872 --304:             }
+                         873 --305:             else
+                         874 --306:             {
+                         875 --307:                 sys_err = R_OCTA_ERR_OK;
+                         876 --line307
+                         877 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.28::
+                         878 .LDWlin28:
+00000178 000a            879 	mov	0,r1
+0000017a 950d*           880 	br	.L581
+                         881 .L582:
+                         882 --308:             }
+                         883 --309:         }
+                         884 --310:         else if (Type == R_OCTA_TYPE_WIP)
+                         885 --line310
+                         886 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.29::
+                         887 .LDWlin29:
+0000017c 6162            888 	cmp	1,r12
+0000017e fa05*           889 	bne	.L581
+                         890 --311:         {
+                         891 --312:             /** Read Status Register (repeat until SR[0]=0) **/
+                         892 --313:             if ((RegVal & RegPos) != 0)
+                         893 --line313
+                         894 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.30::
+                         895 .LDWlin30:
+00000180 0ee0            896 	mov	r14,r28
+00000182 4de1            897 	and	r13,r28
+00000184 b205*           898 	be	.L590
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                         899 --314:             {
+                         900 --315:                 sys_err = R_OCTA_ERR_NOT_ACCEPTABLE;
+                         901 --line315
+                         902 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.31::
+                         903 .LDWlin31:
+00000186 050a            904 	mov	5,r1
+00000188 a505*           905 	br	.L581
+                         906 .L590:
+                         907 --316:             }
+                         908 --317:             else
+                         909 --318:             {
+                         910 --319:                 sys_err = R_OCTA_ERR_OK;
+                         911 --line319
+                         912 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.32::
+                         913 .LDWlin32:
+0000018a 000a            914 	mov	0,r1
+                         915 .L581:
+                         916 --320:             }
+                         917 --321:         }
+                         918 --322:         else
+                         919 --323:         {
+                         920 --324:             /* Nothing */
+                         921 --325:         }
+                         922 --326:     }
+                         923 --327:     return sys_err;
+0000018c 0000            924 	nop
+                         925 --	    .ef
+                         926 .LDW23:
+0000018e 0150            927 	mov	r1,r10
+00000190 4006df00        928 	dispose	0,{r28,r29},[lp]
+                         929 	.type	_R_OCTA_Sys_StatusRegCheck,@function
+                         930 	.size	_R_OCTA_Sys_StatusRegCheck,.-_R_OCTA_Sys_StatusRegCheck
+                         931 	.align	2
+                         932 .LDW33:
+                         933 --_sys_err	r1	local
+                         934 
+                         935 --_Unit	r10	param
+                         936 --_Channel	r29	param
+                         937 --_RegPos	r14	param
+                         938 --_RegVal	r13	param
+                         939 --_Type	r12	param
+                         940 --_Count	r11	param
+                         941 
+                         942 	.section ".bss","awb"
+                         943 .L666:
+                         944 	.type	.L666,@object
+                         945 	.size	.L666,0
+                         946 	.data
+                         947 	.text
+                         948 
+                         949 --328: }
+                         950 
+                         951 --330: /***************************************************************************
+                         952 --331:   Function: R_OCTA_Sys_StatusRegSet
+                         953 --333:   see: <r_octa_sys.h>
+                         954 --334: */
+                         955 --335: uint16_t R_OCTA_Sys_StatusRegSet(const uint32_t Unit,
+                         956 	.align	2
+                         957 	.align	2
+                         958 	.global	_R_OCTA_Sys_StatusRegSet
+                         959 _R_OCTA_Sys_StatusRegSet:
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+00000194 80074100        960 	prepare	{r29},0
+00000198 0658            961 	mov	r6,r11
+0000019a 0750            962 	mov	r7,r10
+0000019c c876ffff        963 	andi	65535,r8,r14
+000001a0 c96effff        964 	andi	65535,r9,r13
+000001a4 83670500        965 	ld.bu	4[sp],r12
+                         966 --	    .bf
+                         967 .LDW43:
+                         968 --336:                                  const uint32_t Channel,
+                         969 --337:                                  const uint16_t RegPos,
+                         970 --338:                                  const uint16_t RegVal,
+                         971 --339:                                  const uint8_t  Mode)
+                         972 --340: {
+                         973 --341:     uint16_t                    reg_val;
+                         974 --343:     reg_val = RegVal;
+000001a8 0d08            975 	mov	r13,r1
+                         976 --345:     /* Set Block protection */
+                         977 --346:     if (Mode == R_OCTA_MODE_UNPROTECT)
+000001aa 6162            978 	cmp	1,r12
+000001ac ea05*           979 	bne	.L713
+                         980 --347:     {
+                         981 --348:         reg_val &= (uint16_t)~RegPos;
+                         982 --line348
+                         983 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.33::
+                         984 .LDWlin33:
+000001ae 2ee8            985 	not	r14,r29
+000001b0 dd00            986 	zxh	r29
+000001b2 5d09            987 	and	r29,r1
+000001b4 c100            988 	zxh	r1
+000001b6 b505*           989 	br	.L715
+                         990 .L713:
+                         991 --349:     }
+                         992 --350:     else
+                         993 --351:     {
+                         994 --352:         reg_val |= RegPos;
+                         995 --line352
+                         996 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.34::
+                         997 .LDWlin34:
+000001b8 0e09            998 	or	r14,r1
+000001ba c100            999 	zxh	r1
+                        1000 .L715:
+                        1001 --353:     } 
+                        1002 --355:     return reg_val;
+000001bc 0000           1003 	nop
+                        1004 --	    .ef
+                        1005 .LDW53:
+000001be 0150           1006 	mov	r1,r10
+000001c0 40065f00       1007 	dispose	0,{r29},[lp]
+                        1008 	.type	_R_OCTA_Sys_StatusRegSet,@function
+                        1009 	.size	_R_OCTA_Sys_StatusRegSet,.-_R_OCTA_Sys_StatusRegSet
+                        1010 	.align	2
+                        1011 .LDW63:
+                        1012 --_reg_val	r1	local
+                        1013 
+                        1014 --_Unit	r11	param
+                        1015 --_Channel	r10	param
+                        1016 --_RegPos	r14	param
+                        1017 --_RegVal	r13	param
+                        1018 --_Mode	r12	param
+                        1019 
+                        1020 	.section ".bss","awb"
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                        1021 .L750:
+                        1022 	.type	.L750,@object
+                        1023 	.size	.L750,0
+                        1024 	.data
+                        1025 	.text
+                        1026 
+                        1027 --356: }
+                        1028 
+                        1029 --358: /***************************************************************************
+                        1030 --359:   Function: R_OCTA_Sys_SyncPeripheral
+                        1031 --361:   see: <r_octa_sys.h>
+                        1032 --362: */
+                        1033 --363: void R_OCTA_Sys_SyncPeripheral(void)
+                        1034 	.align	2
+                        1035 	.align	2
+                        1036 	.global	_R_OCTA_Sys_SyncPeripheral
+                        1037 _R_OCTA_Sys_SyncPeripheral:
+000001c4 80072100       1038 	prepare	{r31},0
+                        1039 --	    .bf
+                        1040 .LDW73:
+                        1041 --364: {
+                        1042 --365:     R_DEV_SyncP();
+                        1043 	jarl	_R_DEV_SyncP,lp
+                        1043 <EXPANSION BEGIN>
+                        1043 jarl22 _R_DEV_SyncP , lp 
+000001c8 80ff0000*      1043 <EXPANSION END>
+                        1044 --366: }
+                        1045 --	    .ef
+                        1046 .LDW83:
+                        1047 --line366
+                        1048 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa.35::
+                        1049 .LDWlin35:
+000001cc 40063f00       1050 	dispose	0,{r31},[lp]
+                        1051 	.type	_R_OCTA_Sys_SyncPeripheral,@function
+                        1052 	.size	_R_OCTA_Sys_SyncPeripheral,.-_R_OCTA_Sys_SyncPeripheral
+                        1053 	.align	2
+                        1054 .LDW93:
+                        1055 
+                        1056 	.section ".bss","awb"
+                        1057 .L802:
+                        1058 	.type	.L802,@object
+                        1059 	.size	.L802,0
+                        1060 	.data
+                        1061 	.text
+                        1062 
+                        1063 
+                        1064 --368: /***************************************************************************
+                        1065 --369:   Function: R_OCTA_Sys_Lock
+                        1066 --371:   see: <r_octa_sys.h>
+                        1067 --372: */
+                        1068 --373: r_octa_Error_t R_OCTA_Sys_Lock(const uint32_t Unit)
+                        1069 	.align	2
+                        1070 	.align	2
+                        1071 	.global	_R_OCTA_Sys_Lock
+                        1072 _R_OCTA_Sys_Lock:
+000001d0 0608           1073 	mov	r6,r1
+                        1074 --	    .bf
+                        1075 .LDW04:
+                        1076 --374: {
+                        1077 --375:     return R_OCTA_ERR_OK;
+000001d2 0052           1078 	mov	0,r10
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                        1079 --	    .ef
+                        1080 .LDW14:
+000001d4 7f00           1081 	jmp	[lp]
+                        1082 	.type	_R_OCTA_Sys_Lock,@function
+                        1083 	.size	_R_OCTA_Sys_Lock,.-_R_OCTA_Sys_Lock
+                        1084 	.align	2
+                        1085 .LDW24:
+                        1086 
+                        1087 --_Unit	r1	param
+                        1088 
+                        1089 	.section ".bss","awb"
+                        1090 .L846:
+                        1091 	.type	.L846,@object
+                        1092 	.size	.L846,0
+                        1093 	.data
+                        1094 	.text
+                        1095 
+                        1096 --376: }
+                        1097 
+                        1098 --378: /***************************************************************************
+                        1099 --379:   Function: R_OCTA_Sys_Unlock
+                        1100 --381:   see: <r_octa_sys.h>
+                        1101 --382: */
+                        1102 --383: r_octa_Error_t R_OCTA_Sys_Unlock(const uint32_t Unit)
+                        1103 	.align	2
+                        1104 	.align	2
+                        1105 	.global	_R_OCTA_Sys_Unlock
+                        1106 _R_OCTA_Sys_Unlock:
+000001d6 0608           1107 	mov	r6,r1
+                        1108 --	    .bf
+                        1109 .LDW34:
+                        1110 --384: {
+                        1111 --385:     return R_OCTA_ERR_OK;
+000001d8 0052           1112 	mov	0,r10
+                        1113 --	    .ef
+                        1114 .LDW44:
+000001da 7f00           1115 	jmp	[lp]
+                        1116 	.type	_R_OCTA_Sys_Unlock,@function
+                        1117 	.size	_R_OCTA_Sys_Unlock,.-_R_OCTA_Sys_Unlock
+                        1118 	.align	2
+                        1119 .LDW54:
+                        1120 
+                        1121 --_Unit	r1	param
+                        1122 
+                        1123 	.section ".bss","awb"
+                        1124 .L878:
+                        1125 	.type	.L878,@object
+                        1126 	.size	.L878,0
+                        1127 	.data
+                        1128 	.text
+                        1129 
+                        1130 --386: }
+                        1131 
+                        1132 --388: /***************************************************************************
+                        1133 --389:   Function: R_OCTA_Sys_Relax
+                        1134 --391:   see: <r_octa_sys.h>
+                        1135 --392: */
+                        1136 --393: r_octa_Error_t R_OCTA_Sys_Relax(const uint32_t Unit)
+                        1137 	.align	2
+                        1138 	.align	2
+                        1139 	.global	_R_OCTA_Sys_Relax
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pr41.si
+                        1140 _R_OCTA_Sys_Relax:
+000001dc 0608           1141 	mov	r6,r1
+                        1142 --	    .bf
+                        1143 .LDW64:
+                        1144 --394: {
+                        1145 --395:     return R_OCTA_ERR_OK;
+000001de 0052           1146 	mov	0,r10
+                        1147 --	    .ef
+                        1148 .LDW74:
+000001e0 7f00           1149 	jmp	[lp]
+                        1150 	.type	_R_OCTA_Sys_Relax,@function
+                        1151 	.size	_R_OCTA_Sys_Relax,.-_R_OCTA_Sys_Relax
+                        1152 	.align	2
+                        1153 .LDW84:
+                        1154 
+                        1155 --_Unit	r1	param
+                        1156 
+                        1157 	.section ".bss","awb"
+                        1158 .L910:
+                        1159 	.type	.L910,@object
+                        1160 	.size	.L910,0
+                        1161 	.data
+                        1162 	.text
+                        1163 
+                        1164 --396: }
+                        1165 	.align	2
+                        1166 
+                        1167 	.data
+                        1168 	.ghsnote version,15
+                        1169 	.ghsnote tools,3
+                        1170 	.ghsnote options,144
+                        1171 	.text
+                        1172 	.align	2
+                        1173 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_octa...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D027..0::
+                        1174 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

@@ -1,0 +1,629 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_sys_spea.dbo -source=r_sys_spea.c -o .\obj\gh_0000ps01.o -list=.\obj\r_sys_spea.lst C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+Source File: r_sys_spea.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\device\d1x_common\src\spea\r_sys_spea.c -o
+                         171 --		.\obj\r_sys_spea.o
+                         172 --Source File:   ..\..\..\..\..\device\d1x_common\src\spea\r_sys_spea.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:56 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : VLIB macro device level driver
+                         186 --4: FILE    : $Id: r_sys_spea.c 9449 2016-07-27 11:36:01Z florian.zimmermann $
+                         187 --5: ============================================================================ 
+                         188 --6: DESCRIPTION
+                         189 --7: SPEA system functions for d1x
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T
+                         192 --10: ============================================================================
+                         193 --11:                        Copyright (c) 2013 - 2014
+                         194 --12:                                   by 
+                         195 --13:                        Renesas Electronics (Europe) GmbH. 
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing, not for mass production
+                         202 --21: DISCLAIMER
+                         203 --23: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         204 --24: the license agreement, especially the usage rights. In any case, it is
+                         205 --25: LICENSEE's responsibility to make sure that any user of the software complies
+                         206 --26: with the terms and conditions of the signed license agreement.
+                         207 --28: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         208 --29: mass-production applications. It can only be used for evaluation and
+                         209 --30: demonstration purposes at customer's premises listed in the signed license
+                         210 --31: agreement.
+                         211 --33: ****************************************************************************
+                         212 --34: */
+                         213 --37: /*******************************************************************************
+                         214 --38:   Title: dev_spea SPEA device functions
+                         215 --40:   Implementation of the SPEA support functions for the 
+                         216 --41:   device dev_spea.
+                         217 --42: */
+                         218 --44: /*******************************************************************************
+                         219 --45:   Section: Includes
+                         220 --46: */
+                         221 --48: #include "r_typedefs.h"
+                         222 --49: #include "r_dev_api.h"
+                         223 --50: #include "r_spea_api.h"
+                         224 --51: #include "r_spea_sys.h"
+                         225 --52: #include "r_config_spea.h"
+                         226 --54: #if defined (R_DBG_PRINT_DEV_REGS) || defined (R_DBG_PRINT_MSG)
+                         227 --55:    #include <stdio.h> 
+                         228 --56:    #include "r_dbg_api.h"
+                         229 --57: #endif
+                         230 --61: /*******************************************************************************
+                         231 --62:   Section: Local Constants
+                         232 --63: */
+                         233 --65: /* Sprite Engine update timing control register */
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+                         234 --66: #define LOC_SPEAUPDEN   0xFFC06048u
+                         235 --67: /*******************************************************************************
+                         236 --68:   Section: Global varaibles
+                         237 --69: */
+                         238 --70: static r_dev_Device_t device = R_DEV_LAST_DX_DEV; /* set invalid */
+                         239 --72: /*******************************************************************************
+                         240 --73:   Section: Global Functions
+                         241 --75: */
+                         242 --77: /*******************************************************************************
+                         243 --78:   Function: R_SPEA_SPEA_BaseAddr
+                         244 --79:   
+                         245 --80:   See: r_spea_sys.h for details
+                         246 --81: */
+                         247 --83: uint32_t R_SPEA_SYS_BaseAddr(uint32_t Unit) 
+                         248 	.text
+                         249 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D028..0::
+                         250 	.align	2
+                         251 	.global	_R_SPEA_SYS_BaseAddr
+                         252 _R_SPEA_SYS_BaseAddr:
+00000000 80076100        253 	prepare	{r29,r31},0
+00000004 06e8            254 	mov	r6,r29
+                         255 --	    .bf
+                         256 .LDW01:
+                         257 --84: {
+                         258 --85:     if(1 == R_SPEA_SYS_IsD1M1A())
+                         259 	jarl	_R_SPEA_SYS_IsD1M1A,lp
+                         259 <EXPANSION BEGIN>
+                         259 jarl22 _R_SPEA_SYS_IsD1M1A , lp 
+00000006 80ff8c00*       259 <EXPANSION END>
+0000000a 6152            260 	cmp	1,r10
+0000000c da05*           261 	bne	.L4
+                         262 --86:     {
+                         263 --87:         if (Unit >= R_SPEA_D1M1A_MACRO_NUM)
+                         264 --line87
+                         265 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.1::
+                         266 .LDWlin1:
+0000000e 64ea            267 	cmp	4,r29
+00000010 f105*           268 	bl	.L9
+                         269 --88:         {
+                         270 --89:             return R_SPEA_ERR_NG;
+                         271 --line89
+                         272 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.2::
+                         273 .LDWlin2:
+00000012 0152            274 	mov	1,r10
+00000014 850d*           275 	br	.L2
+                         276 .L4:
+                         277 --90:         }
+                         278 --91:     }
+                         279 --92:     else
+                         280 --93:     {
+                         281 --94:         if (Unit >= R_SPEA_MACRO_NUM)
+                         282 --line94
+                         283 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.3::
+                         284 .LDWlin3:
+00000016 61ea            285 	cmp	1,r29
+00000018 b105*           286 	bl	.L9
+                         287 --95:         {
+                         288 --96:             return R_SPEA_ERR_NG;
+                         289 --line96
+                         290 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.4::
+                         291 .LDWlin4:
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+0000001a 0152            292 	mov	1,r10
+0000001c c505*           293 	br	.L2
+                         294 .L9:
+                         295 --97:         }
+                         296 --98:     }
+                         297 --100:     return R_SPEA_BASE;
+                         298 --line100
+                         299 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.5::
+                         300 .LDWlin5:
+0000001e 2a060040fdff    301 	mov	-180224,r10
+                         302 .L2:
+                         303 --	    .ef
+                         304 .LDW11:
+00000024 40067f00        305 	dispose	0,{r29,r31},[lp]
+                         306 	.type	_R_SPEA_SYS_BaseAddr,@function
+                         307 	.size	_R_SPEA_SYS_BaseAddr,.-_R_SPEA_SYS_BaseAddr
+                         308 	.align	2
+                         309 .LDW21:
+                         310 
+                         311 --_Unit	r29	param
+                         312 
+                         313 	.section ".bss","awb"
+                         314 .L50:
+                         315 	.type	.L50,@object
+                         316 	.size	.L50,0
+                         317 	.data
+                         318 	.text
+                         319 
+                         320 --101: }
+                         321 
+                         322 --103: /*******************************************************************************
+                         323 --104:   Function: R_SPEA_SYS_HardwareInit
+                         324 --105:   
+                         325 --106:   See: r_spea_sys.h for details
+                         326 --107: */
+                         327 --109: r_spea_Error_t R_SPEA_SYS_HardwareInit(uint32_t Unit) 
+                         328 	.align	2
+                         329 	.align	2
+                         330 	.align	2
+                         331 	.global	_R_SPEA_SYS_HardwareInit
+                         332 _R_SPEA_SYS_HardwareInit:
+00000028 8007e100        333 	prepare	{r28,r29,r31},0
+0000002c 06e0            334 	mov	r6,r28
+0000002e 3d0600000000*   335 	mov	.L138,r29
+                         336 --	    .bf
+                         337 .LDW31:
+                         338 --110: {
+                         339 --111:     device = R_DEV_GetDev();
+                         340 	jarl	_R_DEV_GetDev,lp
+                         340 <EXPANSION BEGIN>
+                         340 jarl22 _R_DEV_GetDev , lp 
+00000034 80ff0000*       340 <EXPANSION END>
+00000038 7d570100        341 	st.w	r10,0[r29]
+                         342 --113:     if(1 == R_SPEA_SYS_IsD1M1A())
+                         343 --line113
+                         344 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.6::
+                         345 .LDWlin6:
+                         346 	jarl	_R_SPEA_SYS_IsD1M1A,lp
+                         346 <EXPANSION BEGIN>
+                         346 jarl22 _R_SPEA_SYS_IsD1M1A , lp 
+0000003c 80ff5600*       346 <EXPANSION END>
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+00000040 6152            347 	cmp	1,r10
+00000042 da05*           348 	bne	.L79
+                         349 --114:     {
+                         350 --115:         if (Unit >= R_SPEA_D1M1A_MACRO_NUM)
+                         351 --line115
+                         352 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.7::
+                         353 .LDWlin7:
+00000044 64e2            354 	cmp	4,r28
+00000046 f105*           355 	bl	.L84
+                         356 --116:         {
+                         357 --117:             return R_SPEA_ERR_NG;
+                         358 --line117
+                         359 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.8::
+                         360 .LDWlin8:
+00000048 0152            361 	mov	1,r10
+0000004a b50d*           362 	br	.L77
+                         363 .L79:
+                         364 --118:         }
+                         365 --119:     }
+                         366 --120:     else
+                         367 --121:     {
+                         368 --122:         if (Unit >= R_SPEA_MACRO_NUM)
+                         369 --line122
+                         370 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.9::
+                         371 .LDWlin9:
+0000004c 61e2            372 	cmp	1,r28
+0000004e b105*           373 	bl	.L84
+                         374 --123:         {
+                         375 --124:             return R_SPEA_ERR_NG;
+                         376 --line124
+                         377 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.10::
+                         378 .LDWlin10:
+00000050 0152            379 	mov	1,r10
+00000052 f505*           380 	br	.L77
+                         381 .L84:
+                         382 --125:         }
+                         383 --126:     }
+                         384 --128:     R_DEV_WRITE_REG(32, LOC_SPEAUPDEN, 0x0F0Fu);
+                         385 --line128
+                         386 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.11::
+                         387 .LDWlin11:
+00000054 200e0f0f        388 	movea	3855,zero,r1
+00000058 80078f0cc080    389 	st.w	r1,4290797640[zero]
+                         390 --129:     return R_SPEA_ERR_OK;
+0000005e 0052            391 	mov	0,r10
+                         392 .L77:
+                         393 --	    .ef
+                         394 .LDW41:
+00000060 4006ff00        395 	dispose	0,{r28,r29,r31},[lp]
+                         396 	.type	_R_SPEA_SYS_HardwareInit,@function
+                         397 	.size	_R_SPEA_SYS_HardwareInit,.-_R_SPEA_SYS_HardwareInit
+                         398 	.align	2
+                         399 .LDW51:
+                         400 
+                         401 --_Unit	r28	param
+                         402 
+                         403 	.data
+                         404 	.align	4
+                         405 .L138:
+                         406 	.type	.L138,@object
+                         407 	.size	.L138,0
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+                         408 	.global	_device..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.
+                         409 _device..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.:
+00000000 b5050000        410 _device:	.byte	181,5,0,0
+                         411 	.type	_device..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.,@object
+                         412 	.size	_device..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.,4
+                         413 	.type	_device,@object
+                         414 	.size	_device,4
+                         415 	.text
+                         416 
+                         417 --130: }
+                         418 
+                         419 --133: /*******************************************************************************
+                         420 --134:   Function: R_SPEA_SYS_HardwareDeInit
+                         421 --135:   
+                         422 --136:   See: r_spea_sys.h for details
+                         423 --137: */
+                         424 --139: r_spea_Error_t R_SPEA_SYS_HardwareDeInit(uint32_t Unit) 
+                         425 	.align	2
+                         426 	.align	2
+                         427 	.global	_R_SPEA_SYS_HardwareDeInit
+                         428 _R_SPEA_SYS_HardwareDeInit:
+00000064 0670            429 	mov	r6,r14
+00000066 210600000000*   430 	mov	_device,r1
+                         431 --	    .bf
+                         432 .LDW61:
+                         433 --140: {
+                         434 --141:     device = R_DEV_LAST_DX_DEV; /* set invalid */
+0000006c 206eb505        435 	movea	1461,zero,r13
+00000070 2b0600000000*   436 	mov	_device,r11
+00000076 6b6f0100        437 	st.w	r13,0[r11]
+                         438 --142:     return R_SPEA_ERR_OK;
+0000007a 0052            439 	mov	0,r10
+                         440 --	    .ef
+                         441 .LDW71:
+0000007c 7f00            442 	jmp	[lp]
+                         443 	.type	_R_SPEA_SYS_HardwareDeInit,@function
+                         444 	.size	_R_SPEA_SYS_HardwareDeInit,.-_R_SPEA_SYS_HardwareDeInit
+                         445 	.align	2
+                         446 .LDW81:
+                         447 
+                         448 --_Unit	r14	param
+                         449 
+                         450 	.data
+                         451 	.text
+                         452 
+                         453 --143: }
+                         454 
+                         455 --145: /*******************************************************************************
+                         456 --146:   Function: R_SPEA_SYS_ErrorHandler
+                         457 --147:   See: r_spea_sys.h for details
+                         458 --148: */
+                         459 --150: void R_SPEA_SYS_ErrorHandler(uint32_t Unit, r_spea_Error_t Error)
+                         460 	.align	2
+                         461 	.align	2
+                         462 	.global	_R_SPEA_SYS_ErrorHandler
+                         463 _R_SPEA_SYS_ErrorHandler:
+0000007e 8007e100        464 	prepare	{r28,r29,r31},0
+00000082 06e8            465 	mov	r6,r29
+00000084 07e0            466 	mov	r7,r28
+                         467 --	    .bf
+                         468 .LDW91:
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+                         469 --151: {
+                         470 --152:     R_DEV_ERROR(Unit, (uint32_t)Error, "SPEA: Error occured");
+00000086 1d30            471 	mov	r29,r6
+00000088 1c38            472 	mov	r28,r7
+                         473 	jarl	_R_DEV_ErrorHandler,lp
+                         473 <EXPANSION BEGIN>
+                         473 jarl22 _R_DEV_ErrorHandler , lp 
+0000008a 80ff0000*       473 <EXPANSION END>
+                         474 --153: }
+                         475 --	    .ef
+                         476 .LDW02:
+                         477 --line153
+                         478 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.12::
+                         479 .LDWlin12:
+0000008e 4006ff00        480 	dispose	0,{r28,r29,r31},[lp]
+                         481 	.type	_R_SPEA_SYS_ErrorHandler,@function
+                         482 	.size	_R_SPEA_SYS_ErrorHandler,.-_R_SPEA_SYS_ErrorHandler
+                         483 	.align	2
+                         484 .LDW12:
+                         485 
+                         486 --_Unit	r29	param
+                         487 --_Error	r28	param
+                         488 
+                         489 	.section ".bss","awb"
+                         490 .L242:
+                         491 	.type	.L242,@object
+                         492 	.size	.L242,0
+                         493 	.data
+                         494 	.text
+                         495 
+                         496 
+                         497 --155: /*******************************************************************************
+                         498 --156:   Function: R_SPEA_SYS_IsD1M1A
+                         499 --157:   See: r_spea_sys.h for details
+                         500 --158: */
+                         501 --160: int8_t R_SPEA_SYS_IsD1M1A(void)
+                         502 	.align	2
+                         503 	.align	2
+                         504 	.global	_R_SPEA_SYS_IsD1M1A
+                         505 _R_SPEA_SYS_IsD1M1A:
+00000092 210600000000*   506 	mov	_device,r1
+00000098 0168            507 	mov	r1,r13
+                         508 --	    .bf
+                         509 .LDW22:
+                         510 --161: {
+                         511 --162:     int8_t d1m1a;
+                         512 --164:     if(R_DEV_R7F701441 == device)
+0000009a 21770100        513 	ld.w	0[r1],r14
+0000009e 0e065ffa        514 	addi	-1441,r14,zero
+000000a2 ba05*           515 	bne	.L259
+                         516 --165:     {
+                         517 --166:         d1m1a = 1;
+                         518 --line166
+                         519 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.13::
+                         520 .LDWlin13:
+000000a4 0172            521 	mov	1,r14
+000000a6 950d*           522 	br	.L261
+                         523 .L259:
+                         524 --167:     }
+                         525 --168:     else if(R_DEV_R7F701460 == device)
+                         526 --line168
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ps01.si
+                         527 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.14::
+                         528 .LDWlin14:
+000000a8 21770100        529 	ld.w	0[r1],r14
+000000ac 0e064cfa        530 	addi	-1460,r14,zero
+000000b0 ba05*           531 	bne	.L262
+                         532 --169:     {
+                         533 --170:         d1m1a = 1;
+                         534 --line170
+                         535 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.15::
+                         536 .LDWlin15:
+000000b2 0172            537 	mov	1,r14
+000000b4 a505*           538 	br	.L261
+                         539 .L262:
+                         540 --171:     }
+                         541 --172:     else
+                         542 --173:     {
+                         543 --174:         d1m1a = 0;
+                         544 --line174
+                         545 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea.16::
+                         546 .LDWlin16:
+000000b6 0072            547 	mov	0,r14
+                         548 .L261:
+                         549 --175:     }
+                         550 --176:     return d1m1a;
+000000b8 0e50            551 	mov	r14,r10
+                         552 --	    .ef
+                         553 .LDW32:
+000000ba 7f00            554 	jmp	[lp]
+                         555 	.type	_R_SPEA_SYS_IsD1M1A,@function
+                         556 	.size	_R_SPEA_SYS_IsD1M1A,.-_R_SPEA_SYS_IsD1M1A
+                         557 	.align	2
+                         558 .LDW42:
+                         559 --_d1m1a	r14	local
+                         560 
+                         561 	.data
+                         562 	.text
+                         563 
+                         564 --177: }
+                         565 	.align	2
+                         566 --_device	_device	static
+                         567 
+                         568 	.data
+                         569 	.ghsnote version,15
+                         570 	.ghsnote tools,3
+                         571 	.ghsnote options,144
+                         572 	.text
+                         573 	.align	2
+                         574 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_sys_spea...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D028..0::
+                         575 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

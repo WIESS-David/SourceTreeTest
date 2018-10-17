@@ -1,0 +1,2487 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_bsp_sys_gfx_d1m2.dbo -source=r_bsp_sys_gfx_d1m2.c -o .\obj\gh_0000o1k1.o -list=.\obj\r_bsp_sys_gfx_d1m2.lst C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+Source File: r_bsp_sys_gfx_d1m2.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\bsp\board\d1mx_mango\src\gfx\r_bsp_sys_gfx_d1m2.c
+                         171 --		-o .\obj\r_bsp_sys_gfx_d1m2.o
+                         172 --Source File:   ..\..\..\..\..\bsp\board\d1mx_mango\src\gfx\r_bsp_sys_gfx_d1m2.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:53 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : BSP - GFX 
+                         186 --4: FILE    : $Id: r_bsp_sys_gfx_d1m2.c 13578 2017-05-29 13:31:52Z matthias.nippert $
+                         187 --5: ============================================================================
+                         188 --6: DESCRIPTION
+                         189 --7: BSP Implementation D1M2(H) MANGO Board
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T
+                         192 --10: ============================================================================
+                         193 --11:                            Copyright (c) 2016
+                         194 --12:                                   by
+                         195 --13:                     Renesas Electronics (Europe) GmbH. 
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing
+                         202 --21: DISCLAIMER                                                                   
+                         203 --22: This software is supplied by Renesas Electronics Corporation and is only     
+                         204 --23: intended for use with Renesas products. No other uses are authorized. This   
+                         205 --24: software is owned by Renesas Electronics Corporation and is protected under  
+                         206 --25: all applicable laws, including copyright laws.                               
+                         207 --26: THIS SOFTWARE IS PROVIDED "AS IS" AND RENESAS MAKES NO WARRANTIES REGARDING  
+                         208 --27: THIS SOFTWARE, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT      
+                         209 --28: LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE   
+                         210 --29: AND NON-INFRINGEMENT. ALL SUCH WARRANTIES ARE EXPRESSLY DISCLAIMED.          
+                         211 --30: TO THE MAXIMUM EXTENT PERMITTED NOT PROHIBITED BY LAW, NEITHER RENESAS       
+                         212 --31: ELECTRONICS CORPORATION NOR ANY OF ITS AFFILIATED COMPANIES SHALL BE LIABLE  
+                         213 --32: FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR   
+                         214 --33: ANY REASON RELATED TO THIS SOFTWARE, EVEN IF RENESAS OR ITS AFFILIATES HAVE  
+                         215 --34: BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.                             
+                         216 --35: Renesas reserves the right, without notice, to make changes to this software 
+                         217 --36: and to discontinue the availability of this software. By using this software,
+                         218 --37: you agree to the additional terms and conditions found by accessing the      
+                         219 --38: following link:                                                              
+                         220 --39: http://www.renesas.com/disclaimer *                                          
+                         221 --40: Copyright (C) 2014 Renesas Electronics Corporation. All rights reserved.     
+                         222 --42: ****************************************************************************
+                         223 --43: */
+                         224 --45: /*
+                         225 --46:   Section: BSP SYS GFX description 
+                         226 --47:   
+                         227 --48:   This is the board specific GFX implementation for the BSP. 
+                         228 --49:         
+                         229 --50: */
+                         230 --53: /*******************************************************************************
+                         231 --54:   Section: Includes
+                         232 --55: */
+                         233 --57: #include "r_typedefs.h"     /* Renesas basic types, e.g. uint32_t */
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         234 --59: #include "r_tick_api.h"
+                         235 --60: #include "r_dev_api.h"
+                         236 --61: #include "r_gpio_api.h"
+                         237 --62: #include "r_xbus_api.h"
+                         238 --64: #include "r_bsp_gfx_api.h"
+                         239 --65: #include "r_bsp_gfx_sys.h"
+                         240 --66: #include "r_bsp_board_config.h"
+                         241 --69: /*******************************************************************************
+                         242 --70:   Section: Local Defines
+                         243 --71: */
+                         244 --73: /* video config */
+                         245 --74: /* set USE_ITU_INSTEAD_VO0DATAENAB = 1 to enable
+                         246 --75:    the ITU video input instead of VO0 data enable (that is requried for HDMI on VO0).
+                         247 --76:    Note: Enabling ITU will cause that HDMI on VO0 can not work. */
+                         248 --77: #ifndef USE_ITU_INSTEAD_VO0DATAENAB
+                         249 --78:   #define USE_ITU_INSTEAD_VO0DATAENAB       (0u)
+                         250 --79: #endif
+                         251 --81: /* set USE_DATAENAB_INSTEAD_VO1HSYNC = 1 to enable
+                         252 --82:    the data enable signal for VO1 that replaces the hsync (that is requried for HDMI on VO1).
+                         253 --83:    To mirror the data enable signal (from portpin P47_9)
+                         254 --84:     to the data enable signal the VO1 HDMI converter (signal VO1HDMI_EN, respectively SEL_VO1DE)
+                         255 --85:     the following jumper setting is required:
+                         256 --86:     o Set Jumper JP82 1-2 and remove Jumper JP83.   
+                         257 --87:    Note: Enabling replacing of hsync will cause that regular HS/VS displays on parallel VO1 can not work. */
+                         258 --88: #ifndef USE_DATAENAB_INSTEAD_VO1HSYNC
+                         259 --89:   #define USE_DATAENAB_INSTEAD_VO1HSYNC     (0u)
+                         260 --90: #endif
+                         261 --92: /*
+                         262 --93: The following flags are used in several files.
+                         263 --94: Thus, please set these flags globally, e.g. in a Makefile.
+                         264 --96:     USE_VDCE_RSDS   -   Configure VDCE to use RSDS on Pins "VDCE0 Out"
+                         265 --97: */
+                         266 --98: /* USE_VDCE_RSDS
+                         267 --99:     0 = LVTTL, (default, if undefined)
+                         268 --100:     1 = RSDS
+                         269 --101: */
+                         270 --102: #ifndef USE_VDCE_RSDS
+                         271 --103:     #define USE_VDCE_RSDS    (0)
+                         272 --104: #endif
+                         273 --108: /* Module reset control register */
+                         274 --109: #define LOC_MRSTC           0xFFF8F400u
+                         275 --110: #define LOC_PROTSMRST		0xFFF8F484u
+                         276 --111: #define LOC_PROTCMDMRST     0xFFF8F480u
+                         277 --113: /* Module reset control register bits (only for SDRB) */
+                         278 --114: #define MRSTC_XC0RES		((uint32_t)(1ul<<13u))
+                         279 --115: #define MRSTC_SDRB0RES		((uint32_t)(1ul<<12u))
+                         280 --118: /* SDRB (DBSC3) DDR2-SDRAM MemC registers (for D1M2(H) MANGO) */
+                         281 --120:  #define DBSVCR         0xFFFA0004u
+                         282 --121:  #define DBSTATE0       0xFFFA0008u
+                         283 --122:  #define DBSTATE1       0xFFFA000cu
+                         284 --123:  #define DBACEN         0xFFFA0010u
+                         285 --124:  #define DBRFEN         0xFFFA0014u
+                         286 --125:  #define DBCMD          0xFFFA0018u
+                         287 --126:  #define DBWAIT         0xFFFA001cu
+                         288 --127:  #define DBKIND         0xFFFA0020u
+                         289 --128:  #define DBCONF0        0xFFFA0024u
+                         290 --129:  #define DBCONF1        0xFFFA0028u
+                         291 --130:  #define DBPHYTYPE      0xFFFA0030u
+                         292 --131:  #define DBTR0          0xFFFA0040u
+                         293 --132:  #define DBTR1          0xFFFA0044u
+                         294 --133:  #define DBTR2          0xFFFA0048u
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         295 --134:  #define DBTR3          0xFFFA0050u
+                         296 --135:  #define DBTR4          0xFFFA0054u
+                         297 --136:  #define DBTR5          0xFFFA0058u
+                         298 --137:  #define DBTR6          0xFFFA005cu
+                         299 --138:  #define DBTR7          0xFFFA0060u
+                         300 --139:  #define DBTR8          0xFFFA0064u
+                         301 --140:  #define DBTR9          0xFFFA0068u
+                         302 --141:  #define DBTR10         0xFFFA006cu
+                         303 --142:  #define DBTR11         0xFFFA0070u
+                         304 --143:  #define DBTR12         0xFFFA0074u
+                         305 --144:  #define DBTR13         0xFFFA0078u
+                         306 --145:  #define DBTR14         0xFFFA007cu
+                         307 --146:  #define DBTR15         0xFFFA0080u
+                         308 --147:  #define DBTR16         0xFFFA0084u
+                         309 --148:  #define DBTR17         0xFFFA0088u
+                         310 --149:  #define DBTR18         0xFFFA008cu
+                         311 --150:  #define DBTR19         0xFFFA0090u
+                         312 --151:  #define DBBL           0xFFFA00b0u
+                         313 --152:  #define DBADJ0         0xFFFA00c0u
+                         314 --153:  #define DBADJ2         0xFFFA00c8u
+                         315 --154:  #define DBRFCNF0       0xFFFA00e0u
+                         316 --155:  #define DBRFCNF1       0xFFFA00e4u
+                         317 --156:  #define DBRFCNF2       0xFFFA00e8u
+                         318 --157:  #define DBRNK0         0xFFFA0100u
+                         319 --158:  #define DBPDNCNF       0xFFFA0180u
+                         320 --159:  #define DBPDCNT0       0xFFFA0200u
+                         321 --160:  #define DBPDCNT1       0xFFFA0204u
+                         322 --161:  #define DBPDCNT2       0xFFFA0208u
+                         323 --162:  #define DBPDCNT3       0xFFFA020cu
+                         324 --163:  #define DBPDLCK        0xFFFA0280u
+                         325 --164:  #define DBPDRGA        0xFFFA0290u
+                         326 --165:  #define DBPDRGD        0xFFFA02a0u
+                         327 --167:  #define DBBS0CNT1      0xFFFA0304u
+                         328 --169:  #define DBLGCNT0       0xFFFA1000u
+                         329 --170:  #define DBTMVAL00      0xFFFA1004u
+                         330 --171:  #define DBRQCTR0       0xFFFA1014u
+                         331 --172:  #define DBTHRES00      0xFFFA1018u
+                         332 --173:  #define DBTHRES10      0xFFFA101cu
+                         333 --174:  #define DBTHRES20      0xFFFA1020u
+                         334 --175:  #define DBLGSTS0       0xFFFA1024u
+                         335 --176:  #define DBLGQON0       0xFFFA1028u
+                         336 --178:  #define DBLGCNT1       0xFFFA1100u
+                         337 --179:  #define DBTMVAL01      0xFFFA1104u
+                         338 --180:  #define DBRQCTR1       0xFFFA1114u
+                         339 --181:  #define DBTHRES01      0xFFFA1118u
+                         340 --182:  #define DBTHRES11      0xFFFA111cu
+                         341 --183:  #define DBTHRES21      0xFFFA1120u
+                         342 --184:  #define DBLGSTS1       0xFFFA1124u
+                         343 --185:  #define DBLGQON1       0xFFFA1128u
+                         344 --187:  #define DBLGCNT2       0xFFFA1200u
+                         345 --188:  #define DBTMVAL02      0xFFFA1204u
+                         346 --189:  #define DBRQCTR2       0xFFFA1214u
+                         347 --190:  #define DBTHRES02      0xFFFA1218u
+                         348 --191:  #define DBTHRES12      0xFFFA121cu
+                         349 --192:  #define DBTHRES22      0xFFFA1220u
+                         350 --193:  #define DBLGSTS2       0xFFFA1224u
+                         351 --194:  #define DBLGQON2       0xFFFA1228u
+                         352 --196:  #define DBLGCNT3       0xFFFA1300u
+                         353 --197:  #define DBTMVAL03      0xFFFA1304u
+                         354 --198:  #define DBRQCTR3       0xFFFA1314u
+                         355 --199:  #define DBTHRES03      0xFFFA1318u
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         356 --200:  #define DBTHRES13      0xFFFA131cu
+                         357 --201:  #define DBTHRES23      0xFFFA1320u
+                         358 --202:  #define DBLGSTS3       0xFFFA1324u
+                         359 --203:  #define DBLGQON3       0xFFFA1328u
+                         360 --205:  #define DBLGCNT4       0xFFFA1400u
+                         361 --206:  #define DBTMVAL04      0xFFFA1404u
+                         362 --207:  #define DBRQCTR4       0xFFFA1414u
+                         363 --208:  #define DBTHRES04      0xFFFA1418u
+                         364 --209:  #define DBTHRES14      0xFFFA141cu
+                         365 --210:  #define DBTHRES24      0xFFFA1420u
+                         366 --211:  #define DBLGSTS4       0xFFFA1424u
+                         367 --212:  #define DBLGQON4       0xFFFA1428u
+                         368 --214:  #define DBLGCNT5       0xFFFA1500u
+                         369 --215:  #define DBTMVAL05      0xFFFA1504u
+                         370 --216:  #define DBRQCTR5       0xFFFA1514u
+                         371 --217:  #define DBTHRES05      0xFFFA1518u
+                         372 --218:  #define DBTHRES15      0xFFFA151cu
+                         373 --219:  #define DBTHRES25      0xFFFA1520u
+                         374 --220:  #define DBLGSTS5       0xFFFA1524u
+                         375 --221:  #define DBLGQON5       0xFFFA1528u
+                         376 --223:  #define DBLGCNT6       0xFFFA1600u
+                         377 --224:  #define DBTMVAL06      0xFFFA1604u
+                         378 --225:  #define DBRQCTR6       0xFFFA1614u
+                         379 --226:  #define DBTHRES06      0xFFFA1618u
+                         380 --227:  #define DBTHRES16      0xFFFA161cu
+                         381 --228:  #define DBTHRES26      0xFFFA1620u
+                         382 --229:  #define DBLGSTS6       0xFFFA1624u
+                         383 --230:  #define DBLGQON6       0xFFFA1628u
+                         384 --232:  #define DBLGCNT7       0xFFFA1700u
+                         385 --233:  #define DBTMVAL07      0xFFFA1704u
+                         386 --234:  #define DBRQCTR7       0xFFFA1714u
+                         387 --235:  #define DBTHRES07      0xFFFA1718u
+                         388 --236:  #define DBTHRES17      0xFFFA171cu
+                         389 --237:  #define DBTHRES27      0xFFFA1720u
+                         390 --238:  #define DBLGSTS7       0xFFFA1724u
+                         391 --239:  #define DBLGQON7       0xFFFA1728u
+                         392 --240: 	
+                         393 --243: /* video selection registers */
+                         394 --244: #define VDCECTL         0xFFC0601Cu
+                         395 --246: #define VDCECTL_UPDT1   (1ul<<5)
+                         396 --247: #define VDCECTL_UPDT0   (1ul<<4)
+                         397 --248: #define VDCECTL_PXSL    (1ul<<3)
+                         398 --249: #define VDCECTL_VOSL    (1ul<<2)
+                         399 --250: #define VDCECTL_VISL1   (1ul<<1)
+                         400 --251: #define VDCECTL_VISL0   (1ul<<0)
+                         401 --253: /* RSDS and other video output control register */
+                         402 --254: #define RSDSCFG         0xFFC06020u
+                         403 --256: #define RSDSCFG_ROEN        (1ul<<3)
+                         404 --257: #define RSDSCFG_RPHSL(x)    ((x)<<1)
+                         405 --258: #define RSDSCFG_RBSW        (1ul<<0)
+                         406 --261: /* VRAM Aribter Settings */
+                         407 --263: #define VRAM1CONTROL    0xfffd1000u
+                         408 --264: #define VRAM2CONTROL    0xfffd2000u
+                         409 --265: /* IdlTime, NoOfBursts */
+                         410 --266: #define VRMTRCTL        0x40u
+                         411 --267: /* Window Size for the restricted master */
+                         412 --268: #define VRMTRINTVL      0x44u
+                         413 --271: /*******************************************************************************
+                         414 --272:   Section: Local Constants
+                         415 --273: */
+                         416 --275: static const r_dev_PinConfig_t loc_D1M2H_VoDefaultPinConfig[] = 
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         417 --276: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         418 --277: {
+                         419 --278:     /* VDCE0 Output 24bit parallel, HSync+VSync */
+                         420 --279:     {44, 0,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out Data 23 */
+                         421 --280:     {44, 1,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         422 --281:     {44, 2,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         423 --282:     {44, 3,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         424 --283:     {44, 4,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         425 --284:     {44, 5,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         426 --285:     {44, 6,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         427 --286:     {44, 7,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         428 --287:     {44, 8,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         429 --288:     {44, 9,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         430 --289:     {44, 10, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         431 --290:     {44, 11, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out Data 12 */
+                         432 --291:     {45, 0,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out CLKP */
+                         433 --292: /*  45, 1,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1,  VDCE0 Out CLKN */
+                         434 --293:     {45, 2,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out Data 11 */
+                         435 --294:     {45, 3,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         436 --295:     {45, 4,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         437 --296:     {45, 5,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         438 --297:     {45, 6,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         439 --298:     {45, 7,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         440 --299:     {45, 8,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         441 --300:     {45, 9,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         442 --301:     {45, 10, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         443 --302:     {45, 11, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         444 --303:     {45, 12, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         445 --304:     {45, 13, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out Data 0 */
+                         446 --305:     {43, 0,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out TCON2 HS */
+                         447 --306:     {43, 1,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out TCON0 VS */
+                         448 --307:     {45, 1,  4u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out TCON3 DE (alt. location P45_1 AF4) */
+                         449 --308: #if USE_ITU_INSTEAD_VO0DATAENAB != 1
+                         450 --309:     {43, 2,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE0 Out TCON3 DE */
+                         451 --310: #endif  /* USE_ITU_INSTEAD_VO0DATAENAB */
+                         452 --311:     
+                         453 --312:     /* VDCE1 Output 24bit parallel, HSync+VSync */
+                         454 --313:     {46, 0,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE1 Out Data 23 */
+                         455 --314:     {46, 1,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         456 --315:     {46, 2,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         457 --316:     {46, 3,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         458 --317:     {46, 4,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         459 --318:     {46, 5,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         460 --319:     {46, 6,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         461 --320:     {46, 7,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         462 --321:     {46, 8,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         463 --322:     {46, 9,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         464 --323:     {46, 10, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         465 --324:     {46, 11, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         466 --325:     {46, 12, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         467 --326:     {46, 13, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         468 --327:     {46, 14, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         469 --328:     {46, 15, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         470 --329:     {47, 0,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         471 --330:     {47, 1,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         472 --331:     {47, 2,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         473 --332:     {47, 3,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         474 --333:     {47, 4,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         475 --334:     {47, 5,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         476 --335:     {47, 6,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         477 --336:     {47, 7,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE1 Out Data 0 */
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         478 --337:     {47, 8,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE1 Out CLK */
+                         479 --338:     {43, 6,  2u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE1 Out TCON3 DE (alt. location P43_6 AF2) */
+                         480 --339: #if USE_DATAENAB_INSTEAD_VO1HSYNC == 0
+                         481 --340:     {47, 9,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE1 Out HSYNC */
+                         482 --341: #else
+                         483 --342:     {47, 9,  2u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE1 Out DE (on original HSYNC location) */
+                         484 --343: #endif /* USE_DATAENAB_INSTEAD_VO1HSYNC */
+                         485 --344:     {47, 10, 1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* VDCE1 Out VSYNC */
+                         486 --345:     
+                         487 --346:     /* delimiter - do not remove */
+                         488 --347:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+                         489 --348: };
+                         490 --350: static const r_dev_PinConfig_t loc_D1M2H_ViDefaultPinConfig[] = 
+                         491 --351: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         492 --352: {
+                         493 --353:     /* VDCE0 Input MIPI CSI-2 */
+                         494 --354:     {40, 0,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI DATA0P */
+                         495 --355:     {40, 1,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, 
+                         496 --356:     {40, 2,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, 
+                         497 --357:     {40, 3,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI DATA1N */
+                         498 --358:     {40, 4,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI CLKP */
+                         499 --359:     {40, 5,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI CLKN */
+                         500 --361: #if USE_ITU_INSTEAD_VO0DATAENAB == 1
+                         501 --362:     /* VDCE1 Input ITU on P43_[12:2] AF2_In; BT656 from CVBS source via SAA71xx video converter */
+                         502 --363:     {43, 2,  2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE1 In ITU DATA7 */
+                         503 --364:     {43, 3,  2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         504 --365:     {43, 4,  2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         505 --366:     {43, 5,  2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         506 --367:     {43, 6,  2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         507 --368:     {43, 7,  2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         508 --369:     {43, 8,  2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         509 --370:     {43, 9,  2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE1 In ITU DATA0 */
+                         510 --371:     {43, 10, 2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE1 In ITU CLK */
+                         511 --372:     {43, 11, 2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE1 In ITU HSYNC */
+                         512 --373:     {43, 12, 2u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE1 In ITU VSYNC */
+                         513 --374: #endif  /* USE_ITU_INSTEAD_VO0DATAENAB */
+                         514 --375:     
+                         515 --376:     /* delimiter - do not remove */
+                         516 --377:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+                         517 --378: };
+                         518 --380: /*******************************************************************************
+                         519 --381:   Section: Local Types 
+                         520 --382: */
+                         521 --383: /* --------------------------- */
+                         522 --384: /* SDRB ARBITER INITIALISATION */
+                         523 --386: typedef struct {
+                         524 --387:     uint32_t enable;                    /* Arbiter -> 0: Disabled; 1: Enabled */
+                         525 --388:     /* Signed values from [-8192..+8191] */
+                         526 --389:     int32_t initial_value;              /* Initial value, must be bigger or equal to 1 */
+                         527 --390:     int32_t threshold0;                 /* 1st threshold, must be smaller than initial_value */
+                         528 --391:     int32_t threshold1;                 /* 2nd threshold, must be smaller than 1st threshold */
+                         529 --392:     int32_t threshold2;                 /* 3rd threshold, must be smaller than 2nd threshold */
+                         530 --393:     uint32_t act_to_idle_type;          /* Count the -> 0: Requests; 1: Bytes */
+                         531 --394:     uint32_t act_to_idle_threshold;     /* Max number of granted bytes/requests before returning to arbitration mode */
+                         532 --395:     uint32_t reload_type;               /* Reload counter value -> 0: Without carry-over; 1: With carry over */
+                         533 --396:     uint32_t counter_values_are_signed; /* Interprets initial_value and threshold<n> as -> 0: unsigned; 1: signed values. Signed values will be converted. */
+                         534 --397: } r_sdrb_arbiter_config_t;
+                         535 --400: /*******************************************************************************
+                         536 --401:   Section: Local Functions declarations 
+                         537 --402: */
+                         538 --404: void loc_SysGfxInitD1M2(void);  
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         539 --405: void loc_SysLowInitD1M2(void); 
+                         540 --407: void loc_InitVideoIOPortD1M2(uint32_t *VoPinsAddr, uint32_t *ViPinsAddr);
+                         541 --409: static void loc_SDRB_ConfigureArbiter(uint32_t port, r_sdrb_arbiter_config_t *config);
+                         542 --410: static void loc_InitSDRBMemArbiter(void);
+                         543 --411: static void loc_InitSDRBMemMangoRaw(void);
+                         544 --413: /*******************************************************************************
+                         545 --414:   Function: loc_InitVideoIOPortD1M2
+                         546 --415:   
+                         547 --416:   Init port pins of Video I/O and select a video configuration.
+                         548 --417: */
+                         549 --419: void loc_InitVideoIOPortD1M2(uint32_t *VoPinsAddr, uint32_t *ViPinsAddr)
+                         550 	.text
+                         551 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                         552 	.align	2
+                         553 	.global	_loc_InitVideoIOPortD1M2
+                         554 _loc_InitVideoIOPortD1M2:
+00000000 06f0            555 	mov	r6,ep
+00000002 0770            556 	mov	r7,r14
+                         557 --	    .bf
+                         558 .LDW01:
+                         559 --420: {
+                         560 --421:     uint32_t val;
+                         561 --422:     
+                         562 --423:     *VoPinsAddr = (uint32_t) &(loc_D1M2H_VoDefaultPinConfig[0]);
+00000004 210600000000*   563 	mov	_loc_D1M2H_VoDefaultPinConfig,r1
+0000000a 010d            564 	sst.w	r1,0[ep]
+                         565 --424:     *ViPinsAddr = (uint32_t) &(loc_D1M2H_ViDefaultPinConfig[0]);
+0000000c 210600000000*   566 	mov	_loc_D1M2H_ViDefaultPinConfig,r1
+00000012 6e0f0100        567 	st.w	r1,0[r14]
+                         568 --426:     val = 0;
+00000016 000a            569 	mov	0,r1
+                         570 --427:     /* video input selection VDCE0 */
+                         571 --428: #if 1
+                         572 --429:     /* select MIPI on VDCE0 Input */
+                         573 --430: 	val |= VDCECTL_PXSL;
+00000018 810e0800        574 	ori	8,r1,r1
+                         575 --431: #else
+                         576 --432:     /* select ITU on 2nd alternative input on VDCE0 Input */
+                         577 --433: 	val &= ~VDCECTL_PXSL;
+                         578 --434: 	val &= ~VDCECTL_VISL0;
+                         579 --435: #endif
+                         580 --437:     /* video input selection VDCE1 */
+                         581 --438:     /* select ITU on 2nd alternative input
+                         582 --439:         (VDCE0_VI_xxx_ITU of P43_[12:2]) on VDCE1 Input */
+                         583 --440: 	val &= ~VDCECTL_VISL1;
+0000001c 1d6a            584 	mov	-3,r13
+0000001e 4d09            585 	and	r13,r1
+                         586 --441: 	
+                         587 --442:     /* video output assignment */
+                         588 --443: #if 1
+                         589 --444: 	/* staight assignment */
+                         590 --445: 	/* VDCE0 video channel 0 to VDCE0_VO port pins */
+                         591 --446: 	/* VDCE1 video channel 1 to VDCE1_VO port pins */
+                         592 --447: 	val &= ~VDCECTL_VOSL;
+00000020 1b6a            593 	mov	-5,r13
+00000022 4d09            594 	and	r13,r1
+                         595 --448: #else
+                         596 --449: 	/* swapped channel assignment */
+                         597 --450: 	/* VDCE0 video channel 0 to VDCE1_VO port pins */
+                         598 --451: 	/* VDCE1 video channel 1 to VDCE0_VO port pins */
+                         599 --452: 	val |= VDCECTL_VOSL;
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                         600 --453: #endif
+                         601 --454:     R_DEV_WRITE_REG(32, VDCECTL, ((val & 0x3Fu) | 0x10000u));
+00000024 c16e3f00        602 	andi	63,r1,r13
+00000028 40660100        603 	movhi	hi(65536),zero,r12
+0000002c 0c69            604 	or	r12,r13
+0000002e 8007cf69c080    605 	st.w	r13,4290797596[zero]
+                         606 --455:     
+                         607 --456:     /* RSDS settings for VDCE0_VO port pins */
+                         608 --457:     val = 0;
+00000034 000a            609 	mov	0,r1
+                         610 --458: #if USE_VDCE_RSDS
+                         611 --459:     /* RSDS output enabled*/
+                         612 --460:     val |= RSDSCFG_ROEN;
+                         613 --461:     val |= RSDSCFG_RPHSL(0ul);    /* RSDS phase shift (0..3) x 90degree shift */
+                         614 --462:     val &= ~RSDSCFG_RBSW;   /* RSDS no swap; even number bit (i.e. data bits 0, 2, 4, 6) first */
+                         615 --463: #else
+                         616 --464:     /* RSDS output disabled (use LVTTL) */
+                         617 --465:     val &= ~RSDSCFG_ROEN;
+00000036 176a            618 	mov	-9,r13
+00000038 4d09            619 	and	r13,r1
+                         620 --466: #endif /* USE_VDCE_RSDS */
+                         621 --467:     R_DEV_WRITE_REG(32, RSDSCFG, (val & 0xFu));
+0000003a c16e0f00        622 	andi	15,r1,r13
+0000003e 80070f6ac080    623 	st.w	r13,4290797600[zero]
+                         624 --468: }
+                         625 --	    .ef
+                         626 .LDW11:
+00000044 7f00            627 	jmp	[lp]
+                         628 	.type	_loc_InitVideoIOPortD1M2,@function
+                         629 	.size	_loc_InitVideoIOPortD1M2,.-_loc_InitVideoIOPortD1M2
+                         630 	.align	2
+                         631 .LDW21:
+                         632 --_val	r1	local
+                         633 
+                         634 --_VoPinsAddr	ep	param
+                         635 --_ViPinsAddr	r14	param
+                         636 
+                         637 	.section ".bss","awb"
+                         638 .L70:
+                         639 	.type	.L70,@object
+                         640 	.size	.L70,0
+                         641 	.section ".rodata","a"
+                         642 	.align	4
+                         643 	.global	_loc_D1M2H_VoDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.
+                         644 _loc_D1M2H_VoDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.:
+00000000 2c              645 _loc_D1M2H_VoDefaultPinConfig:	.byte	44
+00000001 00              646 	.space	1
+00000002 01              647 	.byte	1
+00000003 00              648 	.space	1
+00000004 00000000        649 	.space	4
+00000008 00              650 	.space	1
+00000009 000000          651 	.space	3
+0000000c 00000000        652 	.space	4
+00000010 00              653 	.space	1
+00000011 00              654 	.space	1
+00000012 0101            655 	.byte	1,1
+00000014 2c01            656 	.byte	44,1
+00000016 01              657 	.byte	1
+00000017 00              658 	.space	1
+00000018 00000000        659 	.space	4
+0000001c 00              660 	.space	1
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+0000001d 000000          661 	.space	3
+00000020 00000000        662 	.space	4
+00000024 00              663 	.space	1
+00000025 00              664 	.space	1
+00000026 0101            665 	.byte	1,1
+00000028 2c02            666 	.byte	44,2
+0000002a 01              667 	.byte	1
+0000002b 00              668 	.space	1
+0000002c 00000000        669 	.space	4
+00000030 00              670 	.space	1
+00000031 000000          671 	.space	3
+00000034 00000000        672 	.space	4
+00000038 00              673 	.space	1
+00000039 00              674 	.space	1
+0000003a 0101            675 	.byte	1,1
+0000003c 2c03            676 	.byte	44,3
+0000003e 01              677 	.byte	1
+0000003f 00              678 	.space	1
+00000040 00000000        679 	.space	4
+00000044 00              680 	.space	1
+00000045 000000          681 	.space	3
+00000048 00000000        682 	.space	4
+0000004c 00              683 	.space	1
+0000004d 00              684 	.space	1
+0000004e 0101            685 	.byte	1,1
+00000050 2c04            686 	.byte	44,4
+00000052 01              687 	.byte	1
+00000053 00              688 	.space	1
+00000054 00000000        689 	.space	4
+00000058 00              690 	.space	1
+00000059 000000          691 	.space	3
+0000005c 00000000        692 	.space	4
+00000060 00              693 	.space	1
+00000061 00              694 	.space	1
+00000062 0101            695 	.byte	1,1
+00000064 2c05            696 	.byte	44,5
+00000066 01              697 	.byte	1
+00000067 00              698 	.space	1
+00000068 00000000        699 	.space	4
+0000006c 00              700 	.space	1
+0000006d 000000          701 	.space	3
+00000070 00000000        702 	.space	4
+00000074 00              703 	.space	1
+00000075 00              704 	.space	1
+00000076 0101            705 	.byte	1,1
+00000078 2c06            706 	.byte	44,6
+0000007a 01              707 	.byte	1
+0000007b 00              708 	.space	1
+0000007c 00000000        709 	.space	4
+00000080 00              710 	.space	1
+00000081 000000          711 	.space	3
+00000084 00000000        712 	.space	4
+00000088 00              713 	.space	1
+00000089 00              714 	.space	1
+0000008a 0101            715 	.byte	1,1
+0000008c 2c07            716 	.byte	44,7
+0000008e 01              717 	.byte	1
+0000008f 00              718 	.space	1
+00000090 00000000        719 	.space	4
+00000094 00              720 	.space	1
+00000095 000000          721 	.space	3
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000098 00000000        722 	.space	4
+0000009c 00              723 	.space	1
+0000009d 00              724 	.space	1
+0000009e 0101            725 	.byte	1,1
+000000a0 2c08            726 	.byte	44,8
+000000a2 01              727 	.byte	1
+000000a3 00              728 	.space	1
+000000a4 00000000        729 	.space	4
+000000a8 00              730 	.space	1
+000000a9 000000          731 	.space	3
+000000ac 00000000        732 	.space	4
+000000b0 00              733 	.space	1
+000000b1 00              734 	.space	1
+000000b2 0101            735 	.byte	1,1
+000000b4 2c09            736 	.byte	44,9
+000000b6 01              737 	.byte	1
+000000b7 00              738 	.space	1
+000000b8 00000000        739 	.space	4
+000000bc 00              740 	.space	1
+000000bd 000000          741 	.space	3
+000000c0 00000000        742 	.space	4
+000000c4 00              743 	.space	1
+000000c5 00              744 	.space	1
+000000c6 0101            745 	.byte	1,1
+000000c8 2c0a            746 	.byte	44,10
+000000ca 01              747 	.byte	1
+000000cb 00              748 	.space	1
+000000cc 00000000        749 	.space	4
+000000d0 00              750 	.space	1
+000000d1 000000          751 	.space	3
+000000d4 00000000        752 	.space	4
+000000d8 00              753 	.space	1
+000000d9 00              754 	.space	1
+000000da 0101            755 	.byte	1,1
+000000dc 2c0b            756 	.byte	44,11
+000000de 01              757 	.byte	1
+000000df 00              758 	.space	1
+000000e0 00000000        759 	.space	4
+000000e4 00              760 	.space	1
+000000e5 000000          761 	.space	3
+000000e8 00000000        762 	.space	4
+000000ec 00              763 	.space	1
+000000ed 00              764 	.space	1
+000000ee 0101            765 	.byte	1,1
+000000f0 2d              766 	.byte	45
+000000f1 00              767 	.space	1
+000000f2 01              768 	.byte	1
+000000f3 00              769 	.space	1
+000000f4 00000000        770 	.space	4
+000000f8 00              771 	.space	1
+000000f9 000000          772 	.space	3
+000000fc 00000000        773 	.space	4
+00000100 00              774 	.space	1
+00000101 00              775 	.space	1
+00000102 0101            776 	.byte	1,1
+00000104 2d02            777 	.byte	45,2
+00000106 01              778 	.byte	1
+00000107 00              779 	.space	1
+00000108 00000000        780 	.space	4
+0000010c 00              781 	.space	1
+0000010d 000000          782 	.space	3
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000110 00000000        783 	.space	4
+00000114 00              784 	.space	1
+00000115 00              785 	.space	1
+00000116 0101            786 	.byte	1,1
+00000118 2d03            787 	.byte	45,3
+0000011a 01              788 	.byte	1
+0000011b 00              789 	.space	1
+0000011c 00000000        790 	.space	4
+00000120 00              791 	.space	1
+00000121 000000          792 	.space	3
+00000124 00000000        793 	.space	4
+00000128 00              794 	.space	1
+00000129 00              795 	.space	1
+0000012a 0101            796 	.byte	1,1
+0000012c 2d04            797 	.byte	45,4
+0000012e 01              798 	.byte	1
+0000012f 00              799 	.space	1
+00000130 00000000        800 	.space	4
+00000134 00              801 	.space	1
+00000135 000000          802 	.space	3
+00000138 00000000        803 	.space	4
+0000013c 00              804 	.space	1
+0000013d 00              805 	.space	1
+0000013e 0101            806 	.byte	1,1
+00000140 2d05            807 	.byte	45,5
+00000142 01              808 	.byte	1
+00000143 00              809 	.space	1
+00000144 00000000        810 	.space	4
+00000148 00              811 	.space	1
+00000149 000000          812 	.space	3
+0000014c 00000000        813 	.space	4
+00000150 00              814 	.space	1
+00000151 00              815 	.space	1
+00000152 0101            816 	.byte	1,1
+00000154 2d06            817 	.byte	45,6
+00000156 01              818 	.byte	1
+00000157 00              819 	.space	1
+00000158 00000000        820 	.space	4
+0000015c 00              821 	.space	1
+0000015d 000000          822 	.space	3
+00000160 00000000        823 	.space	4
+00000164 00              824 	.space	1
+00000165 00              825 	.space	1
+00000166 0101            826 	.byte	1,1
+00000168 2d07            827 	.byte	45,7
+0000016a 01              828 	.byte	1
+0000016b 00              829 	.space	1
+0000016c 00000000        830 	.space	4
+00000170 00              831 	.space	1
+00000171 000000          832 	.space	3
+00000174 00000000        833 	.space	4
+00000178 00              834 	.space	1
+00000179 00              835 	.space	1
+0000017a 0101            836 	.byte	1,1
+0000017c 2d08            837 	.byte	45,8
+0000017e 01              838 	.byte	1
+0000017f 00              839 	.space	1
+00000180 00000000        840 	.space	4
+00000184 00              841 	.space	1
+00000185 000000          842 	.space	3
+00000188 00000000        843 	.space	4
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+0000018c 00              844 	.space	1
+0000018d 00              845 	.space	1
+0000018e 0101            846 	.byte	1,1
+00000190 2d09            847 	.byte	45,9
+00000192 01              848 	.byte	1
+00000193 00              849 	.space	1
+00000194 00000000        850 	.space	4
+00000198 00              851 	.space	1
+00000199 000000          852 	.space	3
+0000019c 00000000        853 	.space	4
+000001a0 00              854 	.space	1
+000001a1 00              855 	.space	1
+000001a2 0101            856 	.byte	1,1
+000001a4 2d0a            857 	.byte	45,10
+000001a6 01              858 	.byte	1
+000001a7 00              859 	.space	1
+000001a8 00000000        860 	.space	4
+000001ac 00              861 	.space	1
+000001ad 000000          862 	.space	3
+000001b0 00000000        863 	.space	4
+000001b4 00              864 	.space	1
+000001b5 00              865 	.space	1
+000001b6 0101            866 	.byte	1,1
+000001b8 2d0b            867 	.byte	45,11
+000001ba 01              868 	.byte	1
+000001bb 00              869 	.space	1
+000001bc 00000000        870 	.space	4
+000001c0 00              871 	.space	1
+000001c1 000000          872 	.space	3
+000001c4 00000000        873 	.space	4
+000001c8 00              874 	.space	1
+000001c9 00              875 	.space	1
+000001ca 0101            876 	.byte	1,1
+000001cc 2d0c            877 	.byte	45,12
+000001ce 01              878 	.byte	1
+000001cf 00              879 	.space	1
+000001d0 00000000        880 	.space	4
+000001d4 00              881 	.space	1
+000001d5 000000          882 	.space	3
+000001d8 00000000        883 	.space	4
+000001dc 00              884 	.space	1
+000001dd 00              885 	.space	1
+000001de 0101            886 	.byte	1,1
+000001e0 2d0d            887 	.byte	45,13
+000001e2 01              888 	.byte	1
+000001e3 00              889 	.space	1
+000001e4 00000000        890 	.space	4
+000001e8 00              891 	.space	1
+000001e9 000000          892 	.space	3
+000001ec 00000000        893 	.space	4
+000001f0 00              894 	.space	1
+000001f1 00              895 	.space	1
+000001f2 0101            896 	.byte	1,1
+000001f4 2b              897 	.byte	43
+000001f5 00              898 	.space	1
+000001f6 01              899 	.byte	1
+000001f7 00              900 	.space	1
+000001f8 00000000        901 	.space	4
+000001fc 00              902 	.space	1
+000001fd 000000          903 	.space	3
+00000200 00000000        904 	.space	4
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000204 00              905 	.space	1
+00000205 00              906 	.space	1
+00000206 0101            907 	.byte	1,1
+00000208 2b01            908 	.byte	43,1
+0000020a 01              909 	.byte	1
+0000020b 00              910 	.space	1
+0000020c 00000000        911 	.space	4
+00000210 00              912 	.space	1
+00000211 000000          913 	.space	3
+00000214 00000000        914 	.space	4
+00000218 00              915 	.space	1
+00000219 00              916 	.space	1
+0000021a 0101            917 	.byte	1,1
+0000021c 2d01            918 	.byte	45,1
+0000021e 04              919 	.byte	4
+0000021f 00              920 	.space	1
+00000220 00000000        921 	.space	4
+00000224 00              922 	.space	1
+00000225 000000          923 	.space	3
+00000228 00000000        924 	.space	4
+0000022c 00              925 	.space	1
+0000022d 00              926 	.space	1
+0000022e 0101            927 	.byte	1,1
+00000230 2b02            928 	.byte	43,2
+00000232 01              929 	.byte	1
+00000233 00              930 	.space	1
+00000234 00000000        931 	.space	4
+00000238 00              932 	.space	1
+00000239 000000          933 	.space	3
+0000023c 00000000        934 	.space	4
+00000240 00              935 	.space	1
+00000241 00              936 	.space	1
+00000242 0101            937 	.byte	1,1
+00000244 2e              938 	.byte	46
+00000245 00              939 	.space	1
+00000246 01              940 	.byte	1
+00000247 00              941 	.space	1
+00000248 00000000        942 	.space	4
+0000024c 00              943 	.space	1
+0000024d 000000          944 	.space	3
+00000250 00000000        945 	.space	4
+00000254 00              946 	.space	1
+00000255 00              947 	.space	1
+00000256 0101            948 	.byte	1,1
+00000258 2e01            949 	.byte	46,1
+0000025a 01              950 	.byte	1
+0000025b 00              951 	.space	1
+0000025c 00000000        952 	.space	4
+00000260 00              953 	.space	1
+00000261 000000          954 	.space	3
+00000264 00000000        955 	.space	4
+00000268 00              956 	.space	1
+00000269 00              957 	.space	1
+0000026a 0101            958 	.byte	1,1
+0000026c 2e02            959 	.byte	46,2
+0000026e 01              960 	.byte	1
+0000026f 00              961 	.space	1
+00000270 00000000        962 	.space	4
+00000274 00              963 	.space	1
+00000275 000000          964 	.space	3
+00000278 00000000        965 	.space	4
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+0000027c 00              966 	.space	1
+0000027d 00              967 	.space	1
+0000027e 0101            968 	.byte	1,1
+00000280 2e03            969 	.byte	46,3
+00000282 01              970 	.byte	1
+00000283 00              971 	.space	1
+00000284 00000000        972 	.space	4
+00000288 00              973 	.space	1
+00000289 000000          974 	.space	3
+0000028c 00000000        975 	.space	4
+00000290 00              976 	.space	1
+00000291 00              977 	.space	1
+00000292 0101            978 	.byte	1,1
+00000294 2e04            979 	.byte	46,4
+00000296 01              980 	.byte	1
+00000297 00              981 	.space	1
+00000298 00000000        982 	.space	4
+0000029c 00              983 	.space	1
+0000029d 000000          984 	.space	3
+000002a0 00000000        985 	.space	4
+000002a4 00              986 	.space	1
+000002a5 00              987 	.space	1
+000002a6 0101            988 	.byte	1,1
+000002a8 2e05            989 	.byte	46,5
+000002aa 01              990 	.byte	1
+000002ab 00              991 	.space	1
+000002ac 00000000        992 	.space	4
+000002b0 00              993 	.space	1
+000002b1 000000          994 	.space	3
+000002b4 00000000        995 	.space	4
+000002b8 00              996 	.space	1
+000002b9 00              997 	.space	1
+000002ba 0101            998 	.byte	1,1
+000002bc 2e06            999 	.byte	46,6
+000002be 01             1000 	.byte	1
+000002bf 00             1001 	.space	1
+000002c0 00000000       1002 	.space	4
+000002c4 00             1003 	.space	1
+000002c5 000000         1004 	.space	3
+000002c8 00000000       1005 	.space	4
+000002cc 00             1006 	.space	1
+000002cd 00             1007 	.space	1
+000002ce 0101           1008 	.byte	1,1
+000002d0 2e07           1009 	.byte	46,7
+000002d2 01             1010 	.byte	1
+000002d3 00             1011 	.space	1
+000002d4 00000000       1012 	.space	4
+000002d8 00             1013 	.space	1
+000002d9 000000         1014 	.space	3
+000002dc 00000000       1015 	.space	4
+000002e0 00             1016 	.space	1
+000002e1 00             1017 	.space	1
+000002e2 0101           1018 	.byte	1,1
+000002e4 2e08           1019 	.byte	46,8
+000002e6 01             1020 	.byte	1
+000002e7 00             1021 	.space	1
+000002e8 00000000       1022 	.space	4
+000002ec 00             1023 	.space	1
+000002ed 000000         1024 	.space	3
+000002f0 00000000       1025 	.space	4
+000002f4 00             1026 	.space	1
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+000002f5 00             1027 	.space	1
+000002f6 0101           1028 	.byte	1,1
+000002f8 2e09           1029 	.byte	46,9
+000002fa 01             1030 	.byte	1
+000002fb 00             1031 	.space	1
+000002fc 00000000       1032 	.space	4
+00000300 00             1033 	.space	1
+00000301 000000         1034 	.space	3
+00000304 00000000       1035 	.space	4
+00000308 00             1036 	.space	1
+00000309 00             1037 	.space	1
+0000030a 0101           1038 	.byte	1,1
+0000030c 2e0a           1039 	.byte	46,10
+0000030e 01             1040 	.byte	1
+0000030f 00             1041 	.space	1
+00000310 00000000       1042 	.space	4
+00000314 00             1043 	.space	1
+00000315 000000         1044 	.space	3
+00000318 00000000       1045 	.space	4
+0000031c 00             1046 	.space	1
+0000031d 00             1047 	.space	1
+0000031e 0101           1048 	.byte	1,1
+00000320 2e0b           1049 	.byte	46,11
+00000322 01             1050 	.byte	1
+00000323 00             1051 	.space	1
+00000324 00000000       1052 	.space	4
+00000328 00             1053 	.space	1
+00000329 000000         1054 	.space	3
+0000032c 00000000       1055 	.space	4
+00000330 00             1056 	.space	1
+00000331 00             1057 	.space	1
+00000332 0101           1058 	.byte	1,1
+00000334 2e0c           1059 	.byte	46,12
+00000336 01             1060 	.byte	1
+00000337 00             1061 	.space	1
+00000338 00000000       1062 	.space	4
+0000033c 00             1063 	.space	1
+0000033d 000000         1064 	.space	3
+00000340 00000000       1065 	.space	4
+00000344 00             1066 	.space	1
+00000345 00             1067 	.space	1
+00000346 0101           1068 	.byte	1,1
+00000348 2e0d           1069 	.byte	46,13
+0000034a 01             1070 	.byte	1
+0000034b 00             1071 	.space	1
+0000034c 00000000       1072 	.space	4
+00000350 00             1073 	.space	1
+00000351 000000         1074 	.space	3
+00000354 00000000       1075 	.space	4
+00000358 00             1076 	.space	1
+00000359 00             1077 	.space	1
+0000035a 0101           1078 	.byte	1,1
+0000035c 2e0e           1079 	.byte	46,14
+0000035e 01             1080 	.byte	1
+0000035f 00             1081 	.space	1
+00000360 00000000       1082 	.space	4
+00000364 00             1083 	.space	1
+00000365 000000         1084 	.space	3
+00000368 00000000       1085 	.space	4
+0000036c 00             1086 	.space	1
+0000036d 00             1087 	.space	1
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+0000036e 0101           1088 	.byte	1,1
+00000370 2e0f           1089 	.byte	46,15
+00000372 01             1090 	.byte	1
+00000373 00             1091 	.space	1
+00000374 00000000       1092 	.space	4
+00000378 00             1093 	.space	1
+00000379 000000         1094 	.space	3
+0000037c 00000000       1095 	.space	4
+00000380 00             1096 	.space	1
+00000381 00             1097 	.space	1
+00000382 0101           1098 	.byte	1,1
+00000384 2f             1099 	.byte	47
+00000385 00             1100 	.space	1
+00000386 01             1101 	.byte	1
+00000387 00             1102 	.space	1
+00000388 00000000       1103 	.space	4
+0000038c 00             1104 	.space	1
+0000038d 000000         1105 	.space	3
+00000390 00000000       1106 	.space	4
+00000394 00             1107 	.space	1
+00000395 00             1108 	.space	1
+00000396 0101           1109 	.byte	1,1
+00000398 2f01           1110 	.byte	47,1
+0000039a 01             1111 	.byte	1
+0000039b 00             1112 	.space	1
+0000039c 00000000       1113 	.space	4
+000003a0 00             1114 	.space	1
+000003a1 000000         1115 	.space	3
+000003a4 00000000       1116 	.space	4
+000003a8 00             1117 	.space	1
+000003a9 00             1118 	.space	1
+000003aa 0101           1119 	.byte	1,1
+000003ac 2f02           1120 	.byte	47,2
+000003ae 01             1121 	.byte	1
+000003af 00             1122 	.space	1
+000003b0 00000000       1123 	.space	4
+000003b4 00             1124 	.space	1
+000003b5 000000         1125 	.space	3
+000003b8 00000000       1126 	.space	4
+000003bc 00             1127 	.space	1
+000003bd 00             1128 	.space	1
+000003be 0101           1129 	.byte	1,1
+000003c0 2f03           1130 	.byte	47,3
+000003c2 01             1131 	.byte	1
+000003c3 00             1132 	.space	1
+000003c4 00000000       1133 	.space	4
+000003c8 00             1134 	.space	1
+000003c9 000000         1135 	.space	3
+000003cc 00000000       1136 	.space	4
+000003d0 00             1137 	.space	1
+000003d1 00             1138 	.space	1
+000003d2 0101           1139 	.byte	1,1
+000003d4 2f04           1140 	.byte	47,4
+000003d6 01             1141 	.byte	1
+000003d7 00             1142 	.space	1
+000003d8 00000000       1143 	.space	4
+000003dc 00             1144 	.space	1
+000003dd 000000         1145 	.space	3
+000003e0 00000000       1146 	.space	4
+000003e4 00             1147 	.space	1
+000003e5 00             1148 	.space	1
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+000003e6 0101           1149 	.byte	1,1
+000003e8 2f05           1150 	.byte	47,5
+000003ea 01             1151 	.byte	1
+000003eb 00             1152 	.space	1
+000003ec 00000000       1153 	.space	4
+000003f0 00             1154 	.space	1
+000003f1 000000         1155 	.space	3
+000003f4 00000000       1156 	.space	4
+000003f8 00             1157 	.space	1
+000003f9 00             1158 	.space	1
+000003fa 0101           1159 	.byte	1,1
+000003fc 2f06           1160 	.byte	47,6
+000003fe 01             1161 	.byte	1
+000003ff 00             1162 	.space	1
+00000400 00000000       1163 	.space	4
+00000404 00             1164 	.space	1
+00000405 000000         1165 	.space	3
+00000408 00000000       1166 	.space	4
+0000040c 00             1167 	.space	1
+0000040d 00             1168 	.space	1
+0000040e 0101           1169 	.byte	1,1
+00000410 2f07           1170 	.byte	47,7
+00000412 01             1171 	.byte	1
+00000413 00             1172 	.space	1
+00000414 00000000       1173 	.space	4
+00000418 00             1174 	.space	1
+00000419 000000         1175 	.space	3
+0000041c 00000000       1176 	.space	4
+00000420 00             1177 	.space	1
+00000421 00             1178 	.space	1
+00000422 0101           1179 	.byte	1,1
+00000424 2f08           1180 	.byte	47,8
+00000426 01             1181 	.byte	1
+00000427 00             1182 	.space	1
+00000428 00000000       1183 	.space	4
+0000042c 00             1184 	.space	1
+0000042d 000000         1185 	.space	3
+00000430 00000000       1186 	.space	4
+00000434 00             1187 	.space	1
+00000435 00             1188 	.space	1
+00000436 0101           1189 	.byte	1,1
+00000438 2b06           1190 	.byte	43,6
+0000043a 02             1191 	.byte	2
+0000043b 00             1192 	.space	1
+0000043c 00000000       1193 	.space	4
+00000440 00             1194 	.space	1
+00000441 000000         1195 	.space	3
+00000444 00000000       1196 	.space	4
+00000448 00             1197 	.space	1
+00000449 00             1198 	.space	1
+0000044a 0101           1199 	.byte	1,1
+0000044c 2f09           1200 	.byte	47,9
+0000044e 01             1201 	.byte	1
+0000044f 00             1202 	.space	1
+00000450 00000000       1203 	.space	4
+00000454 00             1204 	.space	1
+00000455 000000         1205 	.space	3
+00000458 00000000       1206 	.space	4
+0000045c 00             1207 	.space	1
+0000045d 00             1208 	.space	1
+0000045e 0101           1209 	.byte	1,1
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000460 2f0a           1210 	.byte	47,10
+00000462 01             1211 	.byte	1
+00000463 00             1212 	.space	1
+00000464 00000000       1213 	.space	4
+00000468 00             1214 	.space	1
+00000469 000000         1215 	.space	3
+0000046c 00000000       1216 	.space	4
+00000470 00             1217 	.space	1
+00000471 00             1218 	.space	1
+00000472 0101           1219 	.byte	1,1
+00000474 00             1220 	.space	1
+00000475 ff             1221 	.byte	255
+00000476 00             1222 	.space	1
+00000477 00             1223 	.space	1
+00000478 00000000       1224 	.space	4
+0000047c 00             1225 	.space	1
+0000047d 000000         1226 	.space	3
+00000480 00000000       1227 	.space	4
+00000484 00             1228 	.space	1
+00000485 00             1229 	.space	1
+00000486 00             1230 	.space	1
+00000487 01             1231 	.byte	1
+                        1232 	.type	_loc_D1M2H_VoDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,@object
+                        1233 	.size	_loc_D1M2H_VoDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,1160
+                        1234 	.type	_loc_D1M2H_VoDefaultPinConfig,@object
+                        1235 	.size	_loc_D1M2H_VoDefaultPinConfig,1160
+                        1236 	.global	_loc_D1M2H_ViDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.
+                        1237 _loc_D1M2H_ViDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.:
+00000488 28             1238 _loc_D1M2H_ViDefaultPinConfig:	.byte	40
+00000489 00             1239 	.space	1
+0000048a 01             1240 	.byte	1
+0000048b 00             1241 	.space	1
+0000048c 01000000       1242 	.byte	1,0,0,0
+00000490 00             1243 	.space	1
+00000491 000000         1244 	.space	3
+00000494 00000000       1245 	.space	4
+00000498 00             1246 	.space	1
+00000499 00             1247 	.space	1
+0000049a 00             1248 	.space	1
+0000049b 01             1249 	.byte	1
+0000049c 2801           1250 	.byte	40,1
+0000049e 01             1251 	.byte	1
+0000049f 00             1252 	.space	1
+000004a0 01000000       1253 	.byte	1,0,0,0
+000004a4 00             1254 	.space	1
+000004a5 000000         1255 	.space	3
+000004a8 00000000       1256 	.space	4
+000004ac 00             1257 	.space	1
+000004ad 00             1258 	.space	1
+000004ae 00             1259 	.space	1
+000004af 01             1260 	.byte	1
+000004b0 2802           1261 	.byte	40,2
+000004b2 01             1262 	.byte	1
+000004b3 00             1263 	.space	1
+000004b4 01000000       1264 	.byte	1,0,0,0
+000004b8 00             1265 	.space	1
+000004b9 000000         1266 	.space	3
+000004bc 00000000       1267 	.space	4
+000004c0 00             1268 	.space	1
+000004c1 00             1269 	.space	1
+000004c2 00             1270 	.space	1
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+000004c3 01             1271 	.byte	1
+000004c4 2803           1272 	.byte	40,3
+000004c6 01             1273 	.byte	1
+000004c7 00             1274 	.space	1
+000004c8 01000000       1275 	.byte	1,0,0,0
+000004cc 00             1276 	.space	1
+000004cd 000000         1277 	.space	3
+000004d0 00000000       1278 	.space	4
+000004d4 00             1279 	.space	1
+000004d5 00             1280 	.space	1
+000004d6 00             1281 	.space	1
+000004d7 01             1282 	.byte	1
+000004d8 2804           1283 	.byte	40,4
+000004da 01             1284 	.byte	1
+000004db 00             1285 	.space	1
+000004dc 01000000       1286 	.byte	1,0,0,0
+000004e0 00             1287 	.space	1
+000004e1 000000         1288 	.space	3
+000004e4 00000000       1289 	.space	4
+000004e8 00             1290 	.space	1
+000004e9 00             1291 	.space	1
+000004ea 00             1292 	.space	1
+000004eb 01             1293 	.byte	1
+000004ec 2805           1294 	.byte	40,5
+000004ee 01             1295 	.byte	1
+000004ef 00             1296 	.space	1
+000004f0 01000000       1297 	.byte	1,0,0,0
+000004f4 00             1298 	.space	1
+000004f5 000000         1299 	.space	3
+000004f8 00000000       1300 	.space	4
+000004fc 00             1301 	.space	1
+000004fd 00             1302 	.space	1
+000004fe 00             1303 	.space	1
+000004ff 01             1304 	.byte	1
+00000500 00             1305 	.space	1
+00000501 ff             1306 	.byte	255
+00000502 00             1307 	.space	1
+00000503 00             1308 	.space	1
+00000504 00000000       1309 	.space	4
+00000508 00             1310 	.space	1
+00000509 000000         1311 	.space	3
+0000050c 00000000       1312 	.space	4
+00000510 00             1313 	.space	1
+00000511 00             1314 	.space	1
+00000512 00             1315 	.space	1
+00000513 01             1316 	.byte	1
+                        1317 	.type	_loc_D1M2H_ViDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,@object
+                        1318 	.size	_loc_D1M2H_ViDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,140
+                        1319 	.type	_loc_D1M2H_ViDefaultPinConfig,@object
+                        1320 	.size	_loc_D1M2H_ViDefaultPinConfig,140
+                        1321 	.data
+                        1322 	.text
+                        1323 
+                        1324 
+                        1325 --471: static void loc_SDRB_ConfigureArbiter(uint32_t port, r_sdrb_arbiter_config_t *config)
+                        1326 	.align	2
+                        1327 	.align	2
+                        1328 	.global	_loc_SDRB_ConfigureArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.
+                        1329 _loc_SDRB_ConfigureArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.:
+                        1330 _loc_SDRB_ConfigureArbiter:
+00000046 0668           1331 	mov	r6,r13
+
+                                                                      Page 23
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000048 07f0           1332 	mov	r7,ep
+                        1333 --	    .bf
+                        1334 .LDW31:
+                        1335 --472: {
+                        1336 --473:     uint32_t addr_offset = 0x100 * port;
+0000004a 0d70           1337 	mov	r13,r14
+0000004c c872           1338 	shl	8,r14
+0000004e 0e08           1339 	mov	r14,r1
+                        1340 --474:     uint32_t zero_offset = 0x2000; /* 8192: Equals '0' */
+00000050 20760020       1341 	movea	8192,zero,r14
+                        1342 --475:     
+                        1343 --476:     /* Compensate signed values by applying an offset */
+                        1344 --477:     if (1 == config->counter_values_are_signed)
+00000054 1065           1345 	sld.w	32[ep],r12
+00000056 6162           1346 	cmp	1,r12
+00000058 da0d*          1347 	bne	.L114
+                        1348 --478:     {
+                        1349 --479:         config->initial_value += zero_offset;
+                        1350 --line479
+                        1351 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.1::
+                        1352 .LDWlin1:
+0000005a 0265           1353 	sld.w	4[ep],r12
+0000005c ce61           1354 	add	r14,r12
+0000005e 0365           1355 	sst.w	r12,4[ep]
+                        1356 --480:         config->threshold0 +=    zero_offset;
+00000060 0465           1357 	sld.w	8[ep],r12
+00000062 ce61           1358 	add	r14,r12
+00000064 0565           1359 	sst.w	r12,8[ep]
+                        1360 --481:         config->threshold1 +=    zero_offset;
+00000066 0665           1361 	sld.w	12[ep],r12
+00000068 ce61           1362 	add	r14,r12
+0000006a 0765           1363 	sst.w	r12,12[ep]
+                        1364 --482:         config->threshold2 +=    zero_offset;
+0000006c 0865           1365 	sld.w	16[ep],r12
+0000006e ce61           1366 	add	r14,r12
+00000070 0965           1367 	sst.w	r12,16[ep]
+                        1368 .L114:
+                        1369 --483:     }
+                        1370 --484:     
+                        1371 --485:     /* Simple sanity check */
+                        1372 --486:     if ((0x3FFF < config->initial_value) || (0x3FFF < config->threshold0)
+00000072 0265           1373 	sld.w	4[ep],r12
+00000074 0c0601c0       1374 	addi	-16383,r12,zero
+00000078 df0d*          1375 	bgt	.L117
+0000007a 0465           1376 	sld.w	8[ep],r12
+0000007c 0c0601c0       1377 	addi	-16383,r12,zero
+00000080 9f0d*          1378 	bgt	.L117
+00000082 0665           1379 	sld.w	12[ep],r12
+00000084 0c0601c0       1380 	addi	-16383,r12,zero
+00000088 df05*          1381 	bgt	.L117
+0000008a 0865           1382 	sld.w	16[ep],r12
+0000008c 0c0601c0       1383 	addi	-16383,r12,zero
+00000090 a705*          1384 	ble	.L116
+                        1385 .L117:
+                        1386 --487:      || (0x3FFF < config->threshold1)    || (0x3FFF < config->threshold2))
+                        1387 --488:     {
+                        1388 --489:         for (;;) 
+                        1389 .L123:
+                        1390 --490:         {};   /* Value too big! */
+                        1391 --line489
+                        1392 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.2::
+
+                                                                      Page 24
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        1393 .LDWlin2:
+00000092 8505*          1394 	br	.L123
+                        1395 .L116:
+                        1396 --491:     }
+                        1397 --492:     else if ((zero_offset >= config->initial_value) || (0 > config->threshold0) 
+                        1398 --line492
+                        1399 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.3::
+                        1400 .LDWlin3:
+00000094 0265           1401 	sld.w	4[ep],r12
+00000096 ec71           1402 	cmp	r12,r14
+00000098 a90d*          1403 	bnl	.L127
+0000009a 0465           1404 	sld.w	8[ep],r12
+0000009c e061           1405 	cmp	zero,r12
+0000009e f605*          1406 	blt	.L127
+000000a0 0665           1407 	sld.w	12[ep],r12
+000000a2 e061           1408 	cmp	zero,r12
+000000a4 c605*          1409 	blt	.L127
+000000a6 0865           1410 	sld.w	16[ep],r12
+000000a8 e061           1411 	cmp	zero,r12
+000000aa ae05*          1412 	bge	.L126
+                        1413 .L127:
+                        1414 --493:           || (0 > config->threshold1) || (0 > config->threshold2))
+                        1415 --494:     {
+                        1416 --495:         for (;;) 
+                        1417 .L133:
+                        1418 --496:         {};   /* Value too small! */
+                        1419 --line495
+                        1420 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.4::
+                        1421 .LDWlin4:
+000000ac 8505*          1422 	br	.L133
+                        1423 .L126:
+                        1424 --497:     }
+                        1425 --498:     else if ((config->threshold1 > config->threshold0) 
+                        1426 --line498
+                        1427 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.5::
+                        1428 .LDWlin5:
+000000ae 0465           1429 	sld.w	8[ep],r12
+000000b0 065d           1430 	sld.w	12[ep],r11
+000000b2 ec59           1431 	cmp	r12,r11
+000000b4 df05*          1432 	bgt	.L137
+000000b6 0665           1433 	sld.w	12[ep],r12
+000000b8 085d           1434 	sld.w	16[ep],r11
+000000ba ec59           1435 	cmp	r12,r11
+000000bc a705*          1436 	ble	.L125
+                        1437 .L137:
+                        1438 --499:           || (config->threshold2 > config->threshold1))
+                        1439 --500:     {
+                        1440 --501:         for (;;) 
+                        1441 .L141:
+                        1442 --502:         {};   /* Conditions not met! */
+                        1443 --line501
+                        1444 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.6::
+                        1445 .LDWlin6:
+000000be 8505*          1446 	br	.L141
+                        1447 .L125:
+                        1448 --503:     }
+                        1449 --504:     else 
+                        1450 --505:     {
+                        1451 --506:         
+                        1452 --507:     }
+                        1453 --508:     /* Configure arbiter */
+
+                                                                      Page 25
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        1454 --509:     R_DEV_WRITE_REG(32, DBLGCNT0  + addr_offset,  
+                        1455 --line509
+                        1456 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.7::
+                        1457 .LDWlin7:
+000000c0 0a65           1458 	sld.w	20[ep],r12
+000000c2 0e5d           1459 	sld.w	28[ep],r11
+000000c4 cc660100       1460 	andi	1,r12,r12
+000000c8 d062           1461 	shl	16,r12
+000000ca cb5e0100       1462 	andi	1,r11,r11
+000000ce c85a           1463 	shl	8,r11
+000000d0 cc59           1464 	add	r12,r11
+000000d2 81070f5820f4   1465 	st.w	r11,-389120[r1]
+                        1466 --510:         (((config->act_to_idle_type)&0x1u)<<16u) + (((config->reload_type) & 0x1u)<<8u) );
+                        1467 --512:     R_DEV_WRITE_REG(32, DBTMVAL00 + addr_offset,  
+000000d8 0265           1468 	sld.w	4[ep],r12
+000000da 2b06ffff0300   1469 	mov	262143,r11
+000000e0 4b61           1470 	and	r11,r12
+000000e2 81074f6020f4   1471 	st.w	r12,-389116[r1]
+                        1472 --513:         ((uint32_t)config->initial_value) & 0x3FFFFu);
+                        1473 --514:         
+                        1474 --515:     R_DEV_WRITE_REG(32, DBRQCTR0  + addr_offset,  
+000000e8 0c65           1475 	sld.w	24[ep],r12
+000000ea 2b06ffff0300   1476 	mov	262143,r11
+000000f0 4b61           1477 	and	r11,r12
+000000f2 81074f6120f4   1478 	st.w	r12,-389100[r1]
+                        1479 --516:         (config->act_to_idle_threshold) & 0x3FFFFu);
+                        1480 --517:         
+                        1481 --518:     R_DEV_WRITE_REG(32, DBTHRES00 + addr_offset,  
+000000f8 0465           1482 	sld.w	8[ep],r12
+000000fa 2b06ffff0300   1483 	mov	262143,r11
+00000100 4b61           1484 	and	r11,r12
+00000102 81078f6120f4   1485 	st.w	r12,-389096[r1]
+                        1486 --519:         ((uint32_t)config->threshold0) & 0x3FFFFu);
+                        1487 --520:     R_DEV_WRITE_REG(32, DBTHRES10 + addr_offset,
+00000108 0665           1488 	sld.w	12[ep],r12
+0000010a 2b06ffff0300   1489 	mov	262143,r11
+00000110 4b61           1490 	and	r11,r12
+00000112 8107cf6120f4   1491 	st.w	r12,-389092[r1]
+                        1492 --521:         ((uint32_t)config->threshold1) & 0x3FFFFu);
+                        1493 --522:     R_DEV_WRITE_REG(32, DBTHRES20 + addr_offset,
+00000118 0865           1494 	sld.w	16[ep],r12
+0000011a 2b06ffff0300   1495 	mov	262143,r11
+00000120 4b61           1496 	and	r11,r12
+00000122 81070f6220f4   1497 	st.w	r12,-389088[r1]
+                        1498 --523:         ((uint32_t)config->threshold2) & 0x3FFFFu);
+                        1499 --524:         
+                        1500 --525:     R_DEV_WRITE_REG(32, DBLGQON0  + addr_offset,((config->enable)& 0x1u));
+00000128 0065           1501 	sld.w	0[ep],r12
+0000012a cc660100       1502 	andi	1,r12,r12
+0000012e 81078f6220f4   1503 	st.w	r12,-389080[r1]
+                        1504 --526: }
+                        1505 --	    .ef
+                        1506 .LDW41:
+00000134 7f00           1507 	jmp	[lp]
+                        1508 	.type	_loc_SDRB_ConfigureArbiter,@function
+                        1509 	.size	_loc_SDRB_ConfigureArbiter,.-_loc_SDRB_ConfigureArbiter
+                        1510 	.type	_loc_SDRB_ConfigureArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,@function
+                        1511 	.size	_loc_SDRB_ConfigureArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,.-_loc_SDRB_ConfigureArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.
+                        1512 	.align	2
+                        1513 .LDW51:
+                        1514 --_addr_offset	r1	local
+
+                                                                      Page 26
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        1515 --_zero_offset	r14	local
+                        1516 
+                        1517 --_port	r13	param
+                        1518 --_config	ep	param
+                        1519 
+                        1520 	.section ".bss","awb"
+                        1521 .L278:
+                        1522 	.type	.L278,@object
+                        1523 	.size	.L278,0
+                        1524 	.data
+                        1525 	.text
+                        1526 
+                        1527 
+                        1528 --528: static void loc_InitSDRBMemArbiter(void)
+                        1529 	.align	2
+                        1530 	.align	2
+                        1531 	.global	_loc_InitSDRBMemArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.
+                        1532 _loc_InitSDRBMemArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.:
+                        1533 _loc_InitSDRBMemArbiter:
+00000136 be076100       1534 	prepare	{r29,r31},31
+0000013a 031e5cff       1535 	addi	-164,sp,sp
+                        1536 --	    .bf
+                        1537 .LDW61:
+                        1538 --529: {
+                        1539 --530:     uint32_t cnt = 0;
+0000013e 00ea           1540 	mov	0,r29
+                        1541 --531:     
+                        1542 --532:     /* configuration of SDRB memory arbitration */
+                        1543 --533:     r_sdrb_arbiter_config_t config[] = {
+00000140 3e0600000000*  1544 	mov	.L456,ep
+00000146 230e0000       1545 	movea	0,sp,r1
+0000014a 1e762001       1546 	addi	288,ep,r14
+                        1547 .L428:
+0000014e be0709600000   1548 	ld.dw	0[ep],r12
+00000154 48f2           1549 	add	8,ep
+00000156 a1070f600000   1550 	st.dw	r12,0[r1]
+0000015c 480a           1551 	add	8,r1
+0000015e fe71           1552 	cmp	ep,r14
+00000160 faf5*          1553 	bne	.L428
+                        1554 --534:       /*                                           ActiveToIdle                      */
+                        1555 --535:       /* EN, Start,  Thresh 0, Thresh 1, Thresh 2, Type, Thresh, ReloadType, Signed  */
+                        1556 --537:         /* SDRAM2 Read  from VDC  */
+                        1557 --538:         {   1, 0x2001, 0x3fff,   0x3001,   0x2001,   1,4096,     1,         0},
+                        1558 --539:         /* SDRAM3 Read  from VDC  */
+                        1559 --540:         {   1, 0x2001, 0x3fff,   0x3001,   0x2001,   1,4096,     1,         0},
+                        1560 --541:         /* SDRAM0 Read  from ACC  */
+                        1561 --542:         {   1, 0x2001, 0x1f89,   0x1f00,   0x1e00,   1,   1,     0,         0},
+                        1562 --543:         /* SDRAM1 Read  for  DAVE */
+                        1563 --544:         {   1, 0x2001, 0x1f89,   0x1f00,   0x1e00,   1,   1,     0,         0},
+                        1564 --545:         /* SDRAM3 Write from VDC  */
+                        1565 --546:         {   1, 0x2001, 0x3fff,   0x3001,   0x2001,   1,4096,     1,         0},
+                        1566 --547:         /* SDRAM4 Write from VDC  */
+                        1567 --548:         {   1, 0x2001, 0x3fff,   0x3001,   0x2001,   1,4096,     1,         0},
+                        1568 --549:         /* SDRAM0 Write for  ACC  */
+                        1569 --550:         /* Max config for ACC is not necessary to get max out VDC performance. 
+                        1570 --551:          Using read configuration instead. */
+                        1571 --552:       /*    1, 0x2001, 0x3fff,   0x3001,   0x2001,   1,4096,     0,         0, */
+                        1572 --553:         {   1, 0x2001, 0x1f89,   0x1f00,   0x1e00,   1,   1,     0,         0},
+                        1573 --554:         /* SDRAM2 Write for  DAVE */
+                        1574 --555:         {   1, 0x2001, 0x1f89,   0x1f00,   0x1e00,   0,   5,     0,         0},
+                        1575 --556:     };
+
+                                                                      Page 27
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        1576 --558:     for (cnt = 0; cnt < 8; cnt++)
+                        1577 --line558
+                        1578 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.8::
+                        1579 .LDWlin8:
+00000162 00ea           1580 	mov	0,r29
+00000164 0000           1581 	nop
+                        1582 .L384:
+                        1583 --559:     {
+                        1584 --560:         loc_SDRB_ConfigureArbiter(cnt, &config[cnt]);
+00000166 1d08           1585 	mov	r29,r1
+00000168 e100           1586 	sxh	r1
+0000016a e10e2400       1587 	mulhi	36,r1,r1
+0000016e 23760000       1588 	movea	0,sp,r14
+00000172 1d30           1589 	mov	r29,r6
+00000174 ce09           1590 	add	r14,r1
+00000176 0138           1591 	mov	r1,r7
+                        1592 	jarl	_loc_SDRB_ConfigureArbiter,lp
+                        1592 <EXPANSION BEGIN>
+                        1592 jarl22 _loc_SDRB_ConfigureArbiter , lp 
+00000178 bfffcefe*      1592 <EXPANSION END>
+                        1593 --line558
+                        1594 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.9::
+                        1595 .LDWlin9:
+0000017c 41ea           1596 	add	1,r29
+0000017e 68ea           1597 	cmp	8,r29
+00000180 b1f5*          1598 	bl	.L384
+                        1599 --561:     }
+                        1600 --562: }
+                        1601 --	    .ef
+                        1602 .LDW71:
+                        1603 --line562
+                        1604 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.10::
+                        1605 .LDWlin10:
+00000182 031ea400       1606 	addi	164,sp,sp
+00000186 7e067f00       1607 	dispose	31,{r29,r31},[lp]
+                        1608 	.type	_loc_InitSDRBMemArbiter,@function
+                        1609 	.size	_loc_InitSDRBMemArbiter,.-_loc_InitSDRBMemArbiter
+                        1610 	.type	_loc_InitSDRBMemArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,@function
+                        1611 	.size	_loc_InitSDRBMemArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,.-_loc_InitSDRBMemArbiter..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.
+                        1612 	.align	2
+                        1613 .LDW81:
+                        1614 --_cnt	r29	local
+                        1615 --_config	0[sp]	local
+                        1616 --.L427	.L456	static
+                        1617 
+                        1618 	.section ".bss","awb"
+                        1619 .L426:
+                        1620 	.type	.L426,@object
+                        1621 	.size	.L426,0
+                        1622 	.section ".rodata","a"
+00000514 01000000       1623 .L456:	.byte	1,0,0,0
+00000518 01200000       1624 	.byte	1,32,0,0
+0000051c ff3f0000       1625 	.byte	255,63,0,0
+00000520 01300000       1626 	.byte	1,48,0,0
+00000524 01200000       1627 	.byte	1,32,0,0
+00000528 01000000       1628 	.byte	1,0,0,0
+0000052c 00100000       1629 	.byte	0,16,0,0
+00000530 01000000       1630 	.byte	1,0,0,0
+00000534 00000000       1631 	.space	4
+00000538 01000000       1632 	.byte	1,0,0,0
+0000053c 01200000       1633 	.byte	1,32,0,0
+
+                                                                      Page 28
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000540 ff3f0000       1634 	.byte	255,63,0,0
+00000544 01300000       1635 	.byte	1,48,0,0
+00000548 01200000       1636 	.byte	1,32,0,0
+0000054c 01000000       1637 	.byte	1,0,0,0
+00000550 00100000       1638 	.byte	0,16,0,0
+00000554 01000000       1639 	.byte	1,0,0,0
+00000558 00000000       1640 	.space	4
+0000055c 01000000       1641 	.byte	1,0,0,0
+00000560 01200000       1642 	.byte	1,32,0,0
+00000564 891f0000       1643 	.byte	137,31,0,0
+00000568 001f0000       1644 	.byte	0,31,0,0
+0000056c 001e0000       1645 	.byte	0,30,0,0
+00000570 01000000       1646 	.byte	1,0,0,0
+00000574 01000000       1647 	.byte	1,0,0,0
+00000578 00000000       1648 	.space	4
+0000057c 00000000       1649 	.space	4
+00000580 01000000       1650 	.byte	1,0,0,0
+00000584 01200000       1651 	.byte	1,32,0,0
+00000588 891f0000       1652 	.byte	137,31,0,0
+0000058c 001f0000       1653 	.byte	0,31,0,0
+00000590 001e0000       1654 	.byte	0,30,0,0
+00000594 01000000       1655 	.byte	1,0,0,0
+00000598 01000000       1656 	.byte	1,0,0,0
+0000059c 00000000       1657 	.space	4
+000005a0 00000000       1658 	.space	4
+000005a4 01000000       1659 	.byte	1,0,0,0
+000005a8 01200000       1660 	.byte	1,32,0,0
+000005ac ff3f0000       1661 	.byte	255,63,0,0
+000005b0 01300000       1662 	.byte	1,48,0,0
+000005b4 01200000       1663 	.byte	1,32,0,0
+000005b8 01000000       1664 	.byte	1,0,0,0
+000005bc 00100000       1665 	.byte	0,16,0,0
+000005c0 01000000       1666 	.byte	1,0,0,0
+000005c4 00000000       1667 	.space	4
+000005c8 01000000       1668 	.byte	1,0,0,0
+000005cc 01200000       1669 	.byte	1,32,0,0
+000005d0 ff3f0000       1670 	.byte	255,63,0,0
+000005d4 01300000       1671 	.byte	1,48,0,0
+000005d8 01200000       1672 	.byte	1,32,0,0
+000005dc 01000000       1673 	.byte	1,0,0,0
+000005e0 00100000       1674 	.byte	0,16,0,0
+000005e4 01000000       1675 	.byte	1,0,0,0
+000005e8 00000000       1676 	.space	4
+000005ec 01000000       1677 	.byte	1,0,0,0
+000005f0 01200000       1678 	.byte	1,32,0,0
+000005f4 891f0000       1679 	.byte	137,31,0,0
+000005f8 001f0000       1680 	.byte	0,31,0,0
+000005fc 001e0000       1681 	.byte	0,30,0,0
+00000600 01000000       1682 	.byte	1,0,0,0
+00000604 01000000       1683 	.byte	1,0,0,0
+00000608 00000000       1684 	.space	4
+0000060c 00000000       1685 	.space	4
+00000610 01000000       1686 	.byte	1,0,0,0
+00000614 01200000       1687 	.byte	1,32,0,0
+00000618 891f0000       1688 	.byte	137,31,0,0
+0000061c 001f0000       1689 	.byte	0,31,0,0
+00000620 001e0000       1690 	.byte	0,30,0,0
+00000624 00000000       1691 	.space	4
+00000628 05000000       1692 	.byte	5,0,0,0
+0000062c 00000000       1693 	.space	4
+00000630 00000000       1694 	.space	4
+
+                                                                      Page 29
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        1695 	.type	.L456,@object
+                        1696 	.size	.L456,288
+                        1697 	.data
+                        1698 	.text
+                        1699 
+                        1700 
+                        1701 --564: /*******************************************************************************
+                        1702 --565:   Function: loc_InitSDRBMemMangoRaw
+                        1703 --566:   
+                        1704 --567:   Init SDRB (DBSC3; DDR2-SDRAM) Memc of D1M2(H) Mango with 512 MByte
+                        1705 --568:   2 pieces of external Micron SDRAM "MT47H128M16RT-25E IT".
+                        1706 --569:   (2x 128Mx16bit = 2x 2Gbit = 2x 256 MByte = 512 MByte)
+                        1707 --570:   Use the register based setup.
+                        1708 --571: */
+                        1709 --572: static void loc_InitSDRBMemMangoRaw(void)
+                        1710 	.align	2
+                        1711 	.align	2
+                        1712 	.global	_loc_InitSDRBMemMangoRaw..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.
+                        1713 _loc_InitSDRBMemMangoRaw..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.:
+                        1714 _loc_InitSDRBMemMangoRaw:
+0000018a 8007e110       1715 	prepare	{r27,r28,r29,r31},0
+0000018e 3d0642060028   1716 	mov	671090242,r29
+00000194 40de0029       1717 	movhi	hi(687865856),zero,r27
+                        1718 --	    .bf
+                        1719 .LDW91:
+                        1720 --573: {
+                        1721 --574:     uint32_t regval;
+                        1722 --575:     uint32_t use_32bit;
+                        1723 --576:     r_dev_Device_t dev = R_DEV_GetDev();
+                        1724 	jarl	_R_DEV_GetDev,lp
+                        1724 <EXPANSION BEGIN>
+                        1724 jarl22 _R_DEV_GetDev , lp 
+00000198 80ff0000*      1724 <EXPANSION END>
+0000019c 0ae0           1725 	mov	r10,r28
+                        1726 --578:     /* This BSP covers the initialisation of the D1M2H (1412) and the D1M2 (1410) 
+                        1727 --579:        As the D1M2 only has 16bit SDRAM, the SDRB initialisation needs to be adjusted accordingly */
+                        1728 --580:     if ((dev >= R_DEV_R7F701411) && (dev <= R_DEV_R7F701412))
+                        1729 --line580
+                        1730 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.11::
+                        1731 .LDWlin11:
+0000019e 1c067dfa       1732 	addi	-1411,r28,zero
+000001a2 e905*          1733 	bnl	.L470
+000001a4 1c067bfa       1734 	addi	-1413,r28,zero
+000001a8 b105*          1735 	bl	.L470
+                        1736 --581:     {
+                        1737 --582:         use_32bit = 1u;
+                        1738 --line582
+                        1739 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.12::
+                        1740 .LDWlin12:
+000001aa 010a           1741 	mov	1,r1
+000001ac a505*          1742 	br	.L473
+                        1743 .L470:
+                        1744 --583:     } 
+                        1745 --584:     else 
+                        1746 --585:     {
+                        1747 --586:         use_32bit = 0u;
+                        1748 --line586
+                        1749 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.13::
+                        1750 .LDWlin13:
+000001ae 000a           1751 	mov	0,r1
+                        1752 .L473:
+
+                                                                      Page 30
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        1753 --587:     }
+                        1754 --589: 	/* DBKIND */
+                        1755 --590:     R_DEV_WRITE_REG(32, 0xFFFA0020u,  0x00000005u); /* 3'b101:DDR2-SDRAM */
+000001b0 0572           1756 	mov	5,r14
+000001b2 80070f7200f4   1757 	st.w	r14,4294574112[zero]
+                        1758 --591:     /* DBPDNCNF */
+                        1759 --592:     R_DEV_WRITE_REG(32, 0xFFFA0180u,  0x00001000u); /* PDWAIT = 8'h10, PDDLL=0, PDMODE=0 */
+000001b8 20760010       1760 	movea	4096,zero,r14
+000001bc 80070f7003f4   1761 	st.w	r14,4294574464[zero]
+                        1762 --594:     if (1u == use_32bit)
+000001c2 610a           1763 	cmp	1,r1
+000001c4 8a0d*          1764 	bne	.L474
+                        1765 --595:     {    /* DBCONF0 */
+                        1766 --596:         R_DEV_WRITE_REG(32, 0xFFFA0024u,  0x0e030a02u); /* AWRW0=5'h0e(14bit),AWRK=0,AWBK=2'b11(8bank),AWCL0=4'ha(10bit),DW0=2'b10(32bit),2'b10(32bit) */
+                        1767 --line596
+                        1768 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.14::
+                        1769 .LDWlin14:
+000001c6 2e06020a030e   1770 	mov	235080194,r14
+000001cc 80074f7200f4   1771 	st.w	r14,4294574116[zero]
+000001d2 f505*          1772 	br	.L476
+                        1773 .L474:
+                        1774 --597:     } 
+                        1775 --598:     else 
+                        1776 --599:     {
+                        1777 --600:         /* DBCONF0 */
+                        1778 --601:         R_DEV_WRITE_REG(32, 0xFFFA0024u,  0x0e030a01u); /* AWRW0=5'h0e(14bit),AWRK=0,AWBK=2'b11(8bank),AWCL0=4'ha(10bit),DW0=2'b10(32bit),2'b01(16bit) */
+                        1779 --line601
+                        1780 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.15::
+                        1781 .LDWlin15:
+000001d4 2e06010a030e   1782 	mov	235080193,r14
+000001da 80074f7200f4   1783 	st.w	r14,4294574116[zero]
+                        1784 .L476:
+                        1785 --602:     }
+                        1786 --603:     /* DBPHYTYPE */
+                        1787 --604:     R_DEV_WRITE_REG(32, 0xFFFA0030u,  0x00000000u); /* PHYTYPE=2'b00(MSPAD1) */
+000001e0 80070f0300f4   1788 	st.w	zero,4294574128[zero]
+                        1789 --605:     /* DBTR0 */
+                        1790 --606:     R_DEV_WRITE_REG(32, 0xFFFA0040u,  0x00000004u); /* CL=4'h4(CL=4) */
+000001e6 0472           1791 	mov	4,r14
+000001e8 80070f7400f4   1792 	st.w	r14,4294574144[zero]
+                        1793 --607:     /* DBTR1 */
+                        1794 --608:     R_DEV_WRITE_REG(32, 0xFFFA0044u,  0x00000003u); /* CWL=4'h3(CWL=3) */
+000001ee 0372           1795 	mov	3,r14
+000001f0 80074f7400f4   1796 	st.w	r14,4294574148[zero]
+                        1797 --609:     /* DBTR2 */
+                        1798 --610:     R_DEV_WRITE_REG(32, 0xFFFA0048u,  0x00000000u); /* AL=0 */
+000001f6 80078f0400f4   1799 	st.w	zero,4294574152[zero]
+                        1800 --611:     /* DBTR3 */
+                        1801 --612:     R_DEV_WRITE_REG(32, 0xFFFA0050u,  0x00000004u); /* TRCD=4'h4(TRCD=4) */
+000001fc 0472           1802 	mov	4,r14
+000001fe 80070f7500f4   1803 	st.w	r14,4294574160[zero]
+                        1804 --613:     /* DBTR4 */
+                        1805 --614:     R_DEV_WRITE_REG(32, 0xFFFA0054u,  0x00050004u); /* PREAtoACT=5'h5(PREA=5), PREtoACT=5'h4(TRP=4) */
+00000204 2e0604000500   1806 	mov	327684,r14
+0000020a 80074f7500f4   1807 	st.w	r14,4294574164[zero]
+                        1808 --615:     /* DBTR5 */
+                        1809 --616:     R_DEV_WRITE_REG(32, 0xFFFA0058u,  0x0000000Eu); /* TRC=6'h0e(ACTtoACT=14) */
+00000210 0e72           1810 	mov	14,r14
+00000212 80078f7500f4   1811 	st.w	r14,4294574168[zero]
+                        1812 --617:     /* DBTR6 */
+                        1813 --618:     R_DEV_WRITE_REG(32, 0xFFFA005Cu,  0x0000000Au); /* TRAS=6'h0a(ACTtoPRE=10) */
+
+                                                                      Page 31
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000218 0a72           1814 	mov	10,r14
+0000021a 8007cf7500f4   1815 	st.w	r14,4294574172[zero]
+                        1816 --619:     /* DBTR7 */
+                        1817 --620:     R_DEV_WRITE_REG(32, 0xFFFA0060u,  0x00000003u); /* TRRD=4'h3(ACTtoACT(diffbank)=3) */
+00000220 0372           1818 	mov	3,r14
+00000222 80070f7600f4   1819 	st.w	r14,4294574176[zero]
+                        1820 --621:     /* DBTR8 */
+                        1821 --622:     R_DEV_WRITE_REG(32, 0xFFFA0064u,  0x0000000Bu); /* TFAW=8'hb(TFAW=12) */
+00000228 0b72           1822 	mov	11,r14
+0000022a 80074f7600f4   1823 	st.w	r14,4294574180[zero]
+                        1824 --623:     /* DBTR9 */
+                        1825 --624:     if (1u == use_32bit)
+00000230 610a           1826 	cmp	1,r1
+00000232 ea05*          1827 	bne	.L477
+                        1828 --625:     {
+                        1829 --626:         R_DEV_WRITE_REG(32, 0xFFFA0068u,  0x00000002u); /* TRDPR=4'h2(READtoPRE=2) */
+                        1830 --line626
+                        1831 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.16::
+                        1832 .LDWlin16:
+00000234 0272           1833 	mov	2,r14
+00000236 80078f7600f4   1834 	st.w	r14,4294574184[zero]
+0000023c d505*          1835 	br	.L479
+                        1836 .L477:
+                        1837 --627:     } 
+                        1838 --628:     else 
+                        1839 --629:     {
+                        1840 --630:         R_DEV_WRITE_REG(32, 0xFFFA0068u,  0x00000004u); /* TRDPR=4'h4(READtoPRE=4) */
+                        1841 --line630
+                        1842 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.17::
+                        1843 .LDWlin17:
+0000023e 0472           1844 	mov	4,r14
+00000240 80078f7600f4   1845 	st.w	r14,4294574184[zero]
+                        1846 .L479:
+                        1847 --631:     }
+                        1848 --632:     /* DBTR10 */
+                        1849 --633:     R_DEV_WRITE_REG(32, 0xFFFA006cu,  0x00000004u); /* TWR=4'h4(WRrecovery=4) */
+00000246 0472           1850 	mov	4,r14
+00000248 8007cf7600f4   1851 	st.w	r14,4294574188[zero]
+                        1852 --634:     /* DBTR11 */
+                        1853 --635:     if (1u == use_32bit)
+0000024e 610a           1854 	cmp	1,r1
+00000250 ea05*          1855 	bne	.L480
+                        1856 --636:     {
+                        1857 --637:         R_DEV_WRITE_REG(32, 0xFFFA0070u,  0x00000007u); /* TRDWR=6'h7(READtoWRITE=7) */
+                        1858 --line637
+                        1859 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.18::
+                        1860 .LDWlin18:
+00000252 0772           1861 	mov	7,r14
+00000254 80070f7700f4   1862 	st.w	r14,4294574192[zero]
+0000025a d505*          1863 	br	.L482
+                        1864 .L480:
+                        1865 --638:     } 
+                        1866 --639:     else 
+                        1867 --640:     {
+                        1868 --641:         R_DEV_WRITE_REG(32, 0xFFFA0070u,  0x00000009u); /* TRDWR=6'h9(READtoWRITE=9) */
+                        1869 --line641
+                        1870 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.19::
+                        1871 .LDWlin19:
+0000025c 0972           1872 	mov	9,r14
+0000025e 80070f7700f4   1873 	st.w	r14,4294574192[zero]
+                        1874 .L482:
+
+                                                                      Page 32
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        1875 --642:     }
+                        1876 --643:     /* DBTR12 */
+                        1877 --644:     if (1u == use_32bit)
+00000264 610a           1878 	cmp	1,r1
+00000266 ea05*          1879 	bne	.L483
+                        1880 --645:     {
+                        1881 --646:         R_DEV_WRITE_REG(32, 0xFFFA0074u,  0x00000007u); /* NEEDS CONFIRMATION! >>TWRRD=6'h7(WRITEtoREAD=7=CWL(3)+BL4/2+tWTR(2)) */
+                        1882 --line646
+                        1883 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.20::
+                        1884 .LDWlin20:
+00000268 0772           1885 	mov	7,r14
+0000026a 80074f7700f4   1886 	st.w	r14,4294574196[zero]
+00000270 d505*          1887 	br	.L485
+                        1888 .L483:
+                        1889 --647:     } 
+                        1890 --648:     else 
+                        1891 --649:     {
+                        1892 --650:         R_DEV_WRITE_REG(32, 0xFFFA0074u,  0x00000009u); /* NEEDS CONFIRMATION! >>TWRRD=6'h9(WRITEtoREAD=9=CWL(3)+BL4/2+tWTR(2)) */
+                        1893 --line650
+                        1894 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.21::
+                        1895 .LDWlin21:
+00000272 0972           1896 	mov	9,r14
+00000274 80074f7700f4   1897 	st.w	r14,4294574196[zero]
+                        1898 .L485:
+                        1899 --651:     }
+                        1900 --652:     /* DBTR13 */
+                        1901 --653:     R_DEV_WRITE_REG(32, 0xFFFA0078u,  0x0000002fu); /* TRFC=9'h2f(REFtoACT=47) */
+0000027a 20762f00       1902 	movea	47,zero,r14
+0000027e 80078f7700f4   1903 	st.w	r14,4294574200[zero]
+                        1904 --654:     /* DBTR14 */
+                        1905 --655:     R_DEV_WRITE_REG(32, 0xFFFA007cu,  0x00060002u); /* TCKEHDLL=8'h06,TCKEH=8'h2 */
+00000284 2e0602000600   1906 	mov	393218,r14
+0000028a 8007cf7700f4   1907 	st.w	r14,4294574204[zero]
+                        1908 --656:     /* DBTR15 */
+                        1909 --657:     R_DEV_WRITE_REG(32, 0xFFFA0080u,  0x00000003u); /* TCKEL=4'h3 */
+00000290 0372           1910 	mov	3,r14
+00000292 80070f7001f4   1911 	st.w	r14,4294574208[zero]
+                        1912 --658:     /* DBTR16 */
+                        1913 --659:     R_DEV_WRITE_REG(32, 0xFFFA0084u,  0x12091001u); /* DQIENLTNCY=1, DQLOFFSET=2, dqltncy=9, dqenltncy=1,WDQL=1 */
+00000298 2e0601100912   1914 	mov	302583809,r14
+0000029e 80074f7001f4   1915 	st.w	r14,4294574212[zero]
+                        1916 --660:     /* DBTR17 */
+                        1917 --661:     R_DEV_WRITE_REG(32, 0xFFFA0088u,  0x00080000u); /* TMOD=6'h08 */
+000002a4 40760800       1918 	movhi	hi(524288),zero,r14
+000002a8 80078f7001f4   1919 	st.w	r14,4294574216[zero]
+                        1920 --662:     /* DBTR18 */
+                        1921 --663:     if (1u == use_32bit)
+000002ae 610a           1922 	cmp	1,r1
+000002b0 8a0d*          1923 	bne	.L486
+                        1924 --664:     {
+                        1925 --665:         R_DEV_WRITE_REG(32, 0xFFFA008cu,  0x00070007u); /* RODTL=0,RODTA=7,WODTL=0,WODTA=7 */
+                        1926 --line665
+                        1927 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.22::
+                        1928 .LDWlin22:
+000002b2 2e0607000700   1929 	mov	458759,r14
+000002b8 8007cf7001f4   1930 	st.w	r14,4294574220[zero]
+000002be f505*          1931 	br	.L488
+                        1932 .L486:
+                        1933 --666:     }
+                        1934 --667:     else
+                        1935 --668:     {
+
+                                                                      Page 33
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        1936 --669:         R_DEV_WRITE_REG(32, 0xFFFA008cu,  0x00090009u); /* RODTL=0,RODTA=9,WODTL=0,WODTA=9 */
+                        1937 --line669
+                        1938 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.23::
+                        1939 .LDWlin23:
+000002c0 2e0609000900   1940 	mov	589833,r14
+000002c6 8007cf7001f4   1941 	st.w	r14,4294574220[zero]
+                        1942 .L488:
+                        1943 --670:     }
+                        1944 --671:     
+                        1945 --672:     /* DBBL */
+                        1946 --673:     if (1u == use_32bit)
+000002cc 610a           1947 	cmp	1,r1
+000002ce ea05*          1948 	bne	.L489
+                        1949 --674:     {
+                        1950 --675:         R_DEV_WRITE_REG(32, 0xFFFA00b0u,  0x00000002u); /* BL=2(4burst), BL=0(8burst) */
+                        1951 --line675
+                        1952 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.24::
+                        1953 .LDWlin24:
+000002d0 0272           1954 	mov	2,r14
+000002d2 80070f7301f4   1955 	st.w	r14,4294574256[zero]
+000002d8 c505*          1956 	br	.L491
+                        1957 .L489:
+                        1958 --676:     }
+                        1959 --677:     else
+                        1960 --678:     {
+                        1961 --679:         R_DEV_WRITE_REG(32, 0xFFFA00b0u,  0x00000000u); /* BL=0(2burst), BL=0(8burst) */
+                        1962 --line679
+                        1963 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.25::
+                        1964 .LDWlin25:
+000002da 80070f0301f4   1965 	st.w	zero,4294574256[zero]
+                        1966 .L491:
+                        1967 --680:     }
+                        1968 --681:     /* DBRNK0 */
+                        1969 --682:     R_DEV_WRITE_REG(32, 0xFFFA0100u,  0x00000001u); /* RODTOUT0=0, WODTOUT0=1 */
+000002e0 0172           1970 	mov	1,r14
+000002e2 80070f7002f4   1971 	st.w	r14,4294574336[zero]
+                        1972 --683:     /* DBADJ0 */
+                        1973 --684:     R_DEV_WRITE_REG(32, 0xFFFA00c0u,  0x00010000u); /* FREQRATIO = 1(1:2), CAMODE=0(1/1 command) */
+000002e8 40760100       1974 	movhi	hi(65536),zero,r14
+000002ec 80070f7401f4   1975 	st.w	r14,4294574272[zero]
+                        1976 --685:     /* DBADJ2 */
+                        1977 --686:     #if 1
+                        1978 --687:     /*Original*/
+                        1979 --688:     /* ACAPC0=8'h20(32cell), ACAP0=4'h8(8transaction) */
+                        1980 --689:     R_DEV_WRITE_REG(32, 0xFFFA00c8u,  0x00002002u); /* Shorten pipeline to 2 gives best performance */
+000002f2 20760220       1981 	movea	8194,zero,r14
+000002f6 80078f7401f4   1982 	st.w	r14,4294574280[zero]
+                        1983 --690:     /* R_DEV_WRITE_REG(32, 0xFFFA00c8,  0x00002006); */
+                        1984 --691:     /* R_DEV_WRITE_REG(32, 0xFFFA00c8,  0x00002008); */
+                        1985 --692:     #else
+                        1986 --693:     /*Under Test*/
+                        1987 --694:     R_DEV_WRITE_REG(32, 0xFFFA00c8u,  0x00002002u); /* ACAPC0=8'h20(32cell), ACAP0=4'h1(1transaction) */
+                        1988 --695:     #endif
+                        1989 --696:            
+                        1990 --697:     /* Configuration for MSPAD1E */
+                        1991 --698:     /* DBPDCNT0 */
+                        1992 --699:     R_DEV_WRITE_REG(32, 0xFFFA0200u,  0x00000000u); /* dw32=0, dw16=1 */
+000002fc 80070f0004f4   1993 	st.w	zero,4294574592[zero]
+                        1994 --700:     /* DBPDCNT1 */
+                        1995 --701:     R_DEV_WRITE_REG(32, 0xFFFA0204u,  0x44000044u); /* db_offset=2, db_enoffset=4, db_ewc_open_offset0=3'b100, db_ewc_open_offset1=3'b100 */
+00000302 2e0644000044   1996 	mov	1140850756,r14
+
+                                                                      Page 34
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000308 80074f7004f4   1997 	st.w	r14,4294574596[zero]
+                        1998 --702:     /* DBPDCNT3 */
+                        1999 --703:     R_DEV_WRITE_REG(32, 0xFFFA020cu,  0x10000000u); /* release the db_stby_n to 1 */
+0000030e 40760010       2000 	movhi	hi(268435456),zero,r14
+00000312 8007cf7004f4   2001 	st.w	r14,4294574604[zero]
+                        2002 --705:     /* WAIT */
+                        2003 --706:     regval = R_DEV_READ_REG(32, 0xFFFA001Cu); /* wait until read DBWAIT */
+00000318 8007c97100f4   2004 	ld.w	4294574108[zero],r14
+                        2005 --708:     /* reset release MRSTC */   
+                        2006 --709:     /* - Release reset for SDRB */
+                        2007 --710:     regval  = R_DEV_READ_REG(32, LOC_MRSTC);
+0000031e 80070970e8f1   2008 	ld.w	4294505472[zero],r14
+                        2009 --711:     regval |= (MRSTC_XC0RES | MRSTC_SDRB0RES);
+00000324 8e760030       2010 	ori	12288,r14,r14
+                        2011 --712:     R_DEV_WRITE_PROT_REG(LOC_PROTCMDMRST, LOC_MRSTC, regval);
+                        2012 --	    .bs
+                        2013 .LDW02:
+00000328 006a           2014 	mov	0,r13
+0000032a 0062           2015 	mov	0,r12
+                        2016 .L494:
+0000032c 205ea500       2017 	movea	165,zero,r11
+00000330 80070f58e9f1   2018 	st.w	r11,4294505600[zero]
+00000336 80070f70e8f1   2019 	st.w	r14,4294505472[zero]
+0000033c 2e58           2020 	not	r14,r11
+0000033e 80070f58e8f1   2021 	st.w	r11,4294505472[zero]
+00000344 80070f70e8f1   2022 	st.w	r14,4294505472[zero]
+0000034a 80074968e9f1   2023 	ld.w	4294505604[zero],r13
+00000350 80070960e8f1   2024 	ld.w	4294505472[zero],r12
+00000356 ee61           2025 	cmp	r14,r12
+00000358 b205*          2026 	be	.L492
+0000035a e069           2027 	cmp	zero,r13
+0000035c 8aed*          2028 	bne	.L494
+                        2029 .L492:
+                        2030 --	    .es
+                        2031 .LDW12:
+                        2032 --713:     while (0 != R_DEV_READ_REG(32, LOC_PROTSMRST))  /* Read PROTSMRST */
+                        2033 .L496:
+                        2034 --714:     {
+                        2035 --line713
+                        2036 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.26::
+                        2037 .LDWlin26:
+0000035e 80074958e9f1   2038 	ld.w	4294505604[zero],r11
+00000364 e059           2039 	cmp	zero,r11
+00000366 cafd*          2040 	bne	.L496
+                        2041 --715:         /* PROTSMRST - register protection sequence fail */
+                        2042 --716:     }
+                        2043 --717:     
+                        2044 --718:     /* DBCMD */
+                        2045 --719:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x10040010u); /* power down exit */
+                        2046 --line719
+                        2047 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.27::
+                        2048 .LDWlin27:
+00000368 2b0610000410   2049 	mov	268697616,r11
+0000036e 80078f5900f4   2050 	st.w	r11,4294574104[zero]
+                        2051 --720:     /* DBCMD */
+                        2052 --721:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x0000c000u); /* wait(49152cycle=203usec) */
+00000374 805e00c0       2053 	ori	49152,zero,r11
+00000378 80078f5900f4   2054 	st.w	r11,4294574104[zero]
+                        2055 --722:     /* DBCMD */
+                        2056 --723:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x11040061u); /* CKE to high */
+0000037e 2b0661000411   2057 	mov	285474913,r11
+
+                                                                      Page 35
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+00000384 80078f5900f4   2058 	st.w	r11,4294574104[zero]
+                        2059 --724:     /* DBCMD */
+                        2060 --725:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x0b000000u); /* PREA */
+0000038a 405e000b       2061 	movhi	hi(184549376),zero,r11
+0000038e 80078f5900f4   2062 	st.w	r11,4294574104[zero]
+                        2063 --726:     /* DBCMD */
+                        2064 --727:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x2a000080u); /* EMRS2 > 2x refresh rate*/
+00000394 2b068000002a   2065 	mov	704643200,r11
+0000039a 80078f5900f4   2066 	st.w	r11,4294574104[zero]
+                        2067 --728:     /* DBCMD */
+                        2068 --729:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x2b000000u); /* EMRS3 */
+000003a0 405e002b       2069 	movhi	hi(721420288),zero,r11
+000003a4 80078f5900f4   2070 	st.w	r11,4294574104[zero]
+                        2071 --730:     /* DBCMD */
+                        2072 --731:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x29000000u); /* EMRS1 */
+000003aa 80078fd900f4   2073 	st.w	r27,4294574104[zero]
+                        2074 --732:     /* DBCMD */
+                        2075 --733:     if (1u == use_32bit)
+000003b0 610a           2076 	cmp	1,r1
+000003b2 fa05*          2077 	bne	.L499
+                        2078 --734:     {
+                        2079 --735:         R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x28000742u); /* EMRS0 */
+                        2080 --line735
+                        2081 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.28::
+                        2082 .LDWlin28:
+000003b4 1d5e0001       2083 	addi	256,r29,r11
+000003b8 80078f5900f4   2084 	st.w	r11,4294574104[zero]
+000003be e505*          2085 	br	.L501
+                        2086 .L499:
+                        2087 --736:     }
+                        2088 --737:     else
+                        2089 --738:     {
+                        2090 --739:         R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x28000743u); /* EMRS0 */
+                        2091 --line739
+                        2092 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.29::
+                        2093 .LDWlin29:
+000003c0 1d5e0101       2094 	addi	257,r29,r11
+000003c4 80078f5900f4   2095 	st.w	r11,4294574104[zero]
+                        2096 .L501:
+                        2097 --740:     }
+                        2098 --741:     /* DBCMD */
+                        2099 --742:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x0b000000u); /* PREA */
+000003ca 405e000b       2100 	movhi	hi(184549376),zero,r11
+000003ce 80078f5900f4   2101 	st.w	r11,4294574104[zero]
+                        2102 --743:     /* DBCMD */
+                        2103 --744:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x0c000000u); /* REF */
+000003d4 405e000c       2104 	movhi	hi(201326592),zero,r11
+000003d8 80078f5900f4   2105 	st.w	r11,4294574104[zero]
+                        2106 --745:     /* DBCMD */
+                        2107 --746:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x0c000000u); /* REF */
+000003de 405e000c       2108 	movhi	hi(201326592),zero,r11
+000003e2 80078f5900f4   2109 	st.w	r11,4294574104[zero]
+                        2110 --747:     /* DBCMD */
+                        2111 --748:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x00000100u); /* wait(256cycle) */
+000003e8 205e0001       2112 	movea	256,zero,r11
+000003ec 80078f5900f4   2113 	st.w	r11,4294574104[zero]
+                        2114 --749:     /* DBCMD */
+                        2115 --750:     if (1u == use_32bit)
+000003f2 610a           2116 	cmp	1,r1
+000003f4 da05*          2117 	bne	.L502
+                        2118 --751:     {
+
+                                                                      Page 36
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        2119 --752:         R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x28000642u); /* MRS0 */
+                        2120 --line752
+                        2121 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.30::
+                        2122 .LDWlin30:
+000003f6 80078fe900f4   2123 	st.w	r29,4294574104[zero]
+000003fc e505*          2124 	br	.L504
+                        2125 .L502:
+                        2126 --753:     }
+                        2127 --754:     else
+                        2128 --755:     {
+                        2129 --756:         R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x28000643u); /* MRS0 */
+                        2130 --line756
+                        2131 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.31::
+                        2132 .LDWlin31:
+000003fe 1d5e0100       2133 	addi	1,r29,r11
+00000402 80078f5900f4   2134 	st.w	r11,4294574104[zero]
+                        2135 .L504:
+                        2136 --757:     }
+                        2137 --759:     /* DBCMD */
+                        2138 --760:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x000000c8u); /* wait(200cycle) */
+00000408 205ec800       2139 	movea	200,zero,r11
+0000040c 80078f5900f4   2140 	st.w	r11,4294574104[zero]
+                        2141 --761:     /* DBCMD */
+                        2142 --762:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x29000380u); /* EMRS1 */
+00000412 1b5e8003       2143 	addi	896,r27,r11
+00000416 80078f5900f4   2144 	st.w	r11,4294574104[zero]
+                        2145 --763:     /* DBCMD */
+                        2146 --764:     R_DEV_WRITE_REG(32, 0xFFFA0018u,  0x29000000u); /* EMRS1 */
+0000041c 80078fd900f4   2147 	st.w	r27,4294574104[zero]
+                        2148 --765:     /* DBRFCNF0 */
+                        2149 --766:     if (1u == use_32bit)
+00000422 610a           2150 	cmp	1,r1
+00000424 fa05*          2151 	bne	.L505
+                        2152 --767:     {
+                        2153 --768:         R_DEV_WRITE_REG(32, 0xFFFA00e0u,  0x00000080u); /* REFTHF=12'h080(128cycle) */
+                        2154 --line768
+                        2155 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.32::
+                        2156 .LDWlin32:
+00000426 205e8000       2157 	movea	128,zero,r11
+0000042a 80070f5e01f4   2158 	st.w	r11,4294574304[zero]
+00000430 e505*          2159 	br	.L507
+                        2160 .L505:
+                        2161 --769:     }
+                        2162 --770:     else
+                        2163 --771:     {
+                        2164 --772:         R_DEV_WRITE_REG(32, 0xFFFA00e0u,  0x00000082u); /* REFTHF=12'h082(???cycle) */
+                        2165 --line772
+                        2166 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.33::
+                        2167 .LDWlin33:
+00000432 205e8200       2168 	movea	130,zero,r11
+00000436 80070f5e01f4   2169 	st.w	r11,4294574304[zero]
+                        2170 .L507:
+                        2171 --773:     }
+                        2172 --774:     /* DBRFCNF1 */
+                        2173 --775:     R_DEV_WRITE_REG(32, 0xFFFA00e4u,  0x00100753u); /* REFPMAX=16'h2, REFINT=16'h753(1875) */
+0000043c 2b0653071000   2174 	mov	1050451,r11
+00000442 80074f5e01f4   2175 	st.w	r11,4294574308[zero]
+                        2176 --776:     /* DBRFCNF2 */
+                        2177 --777:     R_DEV_WRITE_REG(32, 0xFFFA00e8u,  0x00010001u); /* REFPMIN=1,REFINTS=1 (3.9us automotive refresh)*/
+00000448 2b0601000100   2178 	mov	65537,r11
+0000044e 80078f5e01f4   2179 	st.w	r11,4294574312[zero]
+
+                                                                      Page 37
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        2180 --778:     /* DBRFEN */
+                        2181 --779:     R_DEV_WRITE_REG(32, 0xFFFA0014u,  0x00000001u); /* ARFEN=1 */
+00000454 015a           2182 	mov	1,r11
+00000456 80074f5900f4   2183 	st.w	r11,4294574100[zero]
+                        2184 --780:     /* DBACEN */
+                        2185 --781:     R_DEV_WRITE_REG(32, 0xFFFA0010u,  0x00000001u); /* ACCEN=1 */
+0000045c 015a           2186 	mov	1,r11
+0000045e 80070f5900f4   2187 	st.w	r11,4294574096[zero]
+                        2188 --783:     /* WAIT */
+                        2189 --784:     regval = R_DEV_READ_REG(32, 0xFFFA001Cu);      /* wait until read DBWAIT */
+00000464 8007c97100f4   2190 	ld.w	4294574108[zero],r14
+                        2191 --785: }
+                        2192 --	    .ef
+                        2193 .LDW22:
+0000046a 4006ff10       2194 	dispose	0,{r27,r28,r29,r31},[lp]
+                        2195 	.type	_loc_InitSDRBMemMangoRaw,@function
+                        2196 	.size	_loc_InitSDRBMemMangoRaw,.-_loc_InitSDRBMemMangoRaw
+                        2197 	.type	_loc_InitSDRBMemMangoRaw..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,@function
+                        2198 	.size	_loc_InitSDRBMemMangoRaw..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.,.-_loc_InitSDRBMemMangoRaw..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.
+                        2199 	.align	2
+                        2200 .LDW32:
+                        2201 --_regval	r14	local
+                        2202 --_use_32bit	r1	local
+                        2203 --_dev	r28	local
+                        2204 --_prot_stat	r13	local
+                        2205 --_new_val	r12	local
+                        2206 
+                        2207 	.section ".bss","awb"
+                        2208 .L890:
+                        2209 	.type	.L890,@object
+                        2210 	.size	.L890,0
+                        2211 	.data
+                        2212 	.text
+                        2213 
+                        2214 
+                        2215 --788: /*******************************************************************************
+                        2216 --789:   Function: loc_SysGfxInitD1M2
+                        2217 --790:   
+                        2218 --791:     Board and device specific init 
+                        2219 --792: */
+                        2220 --793: void loc_SysGfxInitD1M2(void) 
+                        2221 	.align	2
+                        2222 	.align	2
+                        2223 	.global	_loc_SysGfxInitD1M2
+                        2224 _loc_SysGfxInitD1M2:
+                        2225 --	    .bf
+                        2226 .LDW42:
+                        2227 --794: {
+                        2228 --795:     /* Setup of the VRAM arbiter */
+                        2229 --796:     
+                        2230 --797: #if 0   /* Values for 0% and 30% load */
+                        2231 --798:     /* Restrict write transactions, allow 3 x 16-beat read bursts before going back to arbitration */
+                        2232 --799:     R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRCTL,   0x10010030u); /* 3 x 16-beat = 48 = 0x30 */
+                        2233 --800:     R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRINTVL, 0x00000001u); /* Set the time window for write transactions */
+                        2234 --801:     R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRCTL,   0x10010030u); /* */
+                        2235 --802:     R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRINTVL, 0x00000001u); /* */
+                        2236 --803: #endif
+                        2237 --804: #if 0   /* Values for 60% load */
+                        2238 --805:     /* Restrict write transactions, allow 3 x 16-beat read bursts before going back to arbitration */
+                        2239 --806:     R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRCTL,   0x20010060u); /* 3 x 16-beat = 48 = 0x30 */
+                        2240 --807:     R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRINTVL, 0x00000001u); /* Set the time window for write transactions */
+
+                                                                      Page 38
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        2241 --808:     R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRCTL,   0x20010060u); /* */
+                        2242 --809:     R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRINTVL, 0x00000001u); /* */
+                        2243 --810: #endif
+                        2244 --811: #if 0
+                        2245 --812:     /* Values from Kawahito-san
+                        2246 --813:        IDLTIM	128
+                        2247 --814:        RCTL	0b01
+                        2248 --815:        RTOVFL	0
+                        2249 --816:        WTOVFL	32, 49, 66
+                        2250 --817:     */
+                        2251 --818:     
+                        2252 --819:     #if 0 /* Single layer 48 MHz best case */
+                        2253 --820:         R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRCTL,   32<<24 | 1<<16 | 16);
+                        2254 --821:         R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRCTL,   32<<24 | 1<<16 | 16);
+                        2255 --822:     #endif
+                        2256 --823:     #if 1 /* Lowest possible settings that have any effect are IDLTIM 29 and WTOVFL 16
+                        2257 --824:              Good for up to 40 MHz singl layer. To reach higher frquency the IDLTIM has
+                        2258 --825:              to be increased. WTOVFL lower than 16 has no effect. IDLTIM lower than 29
+                        2259 --826:              has no effect. */
+                        2260 --827:         R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRCTL,   32<<24 | 1<<16 | 16);
+                        2261 --828:         R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRCTL,   32<<24 | 1<<16 | 16);
+                        2262 --829:     #endif
+                        2263 --830:     #if 0
+                        2264 --831:         R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRCTL,   128<<24 | 1<<16 | 32);
+                        2265 --832:         R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRCTL,   128<<24 | 1<<16 | 32);
+                        2266 --833:     #endif
+                        2267 --834:     #if 0
+                        2268 --835:         R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRCTL,   128<<24 | 1<<16 | 49);
+                        2269 --836:         R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRCTL,   128<<24 | 1<<16 | 49);
+                        2270 --837:     #endif
+                        2271 --838:     #if 0
+                        2272 --839:         R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRCTL,   128<<24 | 1<<16 | 66);
+                        2273 --840:         R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRCTL,   128<<24 | 1<<16 | 66);
+                        2274 --841:     #endif
+                        2275 --843:     R_DEV_WRITE_REG(32, VRAM1CONTROL+VRMTRINTVL, 0x00000000u);
+                        2276 --844:     R_DEV_WRITE_REG(32, VRAM2CONTROL+VRMTRINTVL, 0x00000000u);
+                        2277 --845: #endif
+                        2278 --846: }
+                        2279 --	    .ef
+                        2280 .LDW52:
+0000046e 7f00           2281 	jmp	[lp]
+                        2282 	.type	_loc_SysGfxInitD1M2,@function
+                        2283 	.size	_loc_SysGfxInitD1M2,.-_loc_SysGfxInitD1M2
+                        2284 	.align	2
+                        2285 .LDW62:
+                        2286 
+                        2287 	.section ".bss","awb"
+                        2288 .L1198:
+                        2289 	.type	.L1198,@object
+                        2290 	.size	.L1198,0
+                        2291 	.data
+                        2292 	.text
+                        2293 
+                        2294 
+                        2295 --848: /*******************************************************************************
+                        2296 --849:   Function: loc_SysLowInitD1M2
+                        2297 --850:   
+                        2298 --851:     Board and device specific init 
+                        2299 --852: */
+                        2300 --853: void loc_SysLowInitD1M2(void)
+                        2301 	.align	2
+
+                                                                      Page 39
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000o1k1.si
+                        2302 	.align	2
+                        2303 	.global	_loc_SysLowInitD1M2
+                        2304 _loc_SysLowInitD1M2:
+00000470 80072100       2305 	prepare	{r31},0
+                        2306 --	    .bf
+                        2307 .LDW72:
+                        2308 --854: {
+                        2309 --855:     loc_InitSDRBMemMangoRaw();   /* use register based SDRB setup */
+                        2310 	jarl	_loc_InitSDRBMemMangoRaw,lp
+                        2310 <EXPANSION BEGIN>
+                        2310 jarl22 _loc_InitSDRBMemMangoRaw , lp 
+00000474 bfff16fd*      2310 <EXPANSION END>
+                        2311 --857:     loc_InitSDRBMemArbiter();
+                        2312 --line857
+                        2313 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.34::
+                        2314 .LDWlin34:
+                        2315 	jarl	_loc_InitSDRBMemArbiter,lp
+                        2315 <EXPANSION BEGIN>
+                        2315 jarl22 _loc_InitSDRBMemArbiter , lp 
+00000478 bfffbefc*      2315 <EXPANSION END>
+                        2316 --858: }
+                        2317 --	    .ef
+                        2318 .LDW82:
+                        2319 --line858
+                        2320 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2.35::
+                        2321 .LDWlin35:
+0000047c 40063f00       2322 	dispose	0,{r31},[lp]
+                        2323 	.type	_loc_SysLowInitD1M2,@function
+                        2324 	.size	_loc_SysLowInitD1M2,.-_loc_SysLowInitD1M2
+                        2325 	.align	2
+                        2326 .LDW92:
+                        2327 
+                        2328 	.section ".bss","awb"
+                        2329 .L1238:
+                        2330 	.type	.L1238,@object
+                        2331 	.size	.L1238,0
+                        2332 	.data
+                        2333 	.text
+                        2334 
+                        2335 	.align	2
+                        2336 --_loc_D1M2H_VoDefaultPinConfig	_loc_D1M2H_VoDefaultPinConfig	static
+                        2337 --_loc_D1M2H_ViDefaultPinConfig	_loc_D1M2H_ViDefaultPinConfig	static
+                        2338 
+                        2339 	.data
+                        2340 	.ghsnote version,15
+                        2341 	.ghsnote tools,3
+                        2342 	.ghsnote options,144
+                        2343 	.text
+                        2344 	.align	2
+                        2345 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx_d1m2...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                        2346 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

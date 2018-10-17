@@ -1,0 +1,648 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_tick_main.dbo -source=r_tick_main.c -o .\obj\gh_0000om41.o -list=.\obj\r_tick_main.lst C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+Source File: r_tick_main.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c ..\..\..\..\..\macro\tick\src\r_tick_main.c -o
+                         170 --		.\obj\r_tick_main.o
+                         171 --Source File:   ..\..\..\..\..\macro\tick\src\r_tick_main.c
+                         172 --Directory:     
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                         173 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         174 --Compile Date:  Tue Oct 16 19:48:54 2018
+                         175 --Host OS:       Win32
+                         176 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         177 --Release:       Compiler v2014.1.7
+                         178 --Revision Date: Fri Sep 05 14:10:46 2014
+                         179 --Release Date:  Fri Sep 05 14:44:23 2014
+                         180 -- ecom  -g -w
+                         181 
+                         182 --1: /*
+                         183 --2: ****************************************************************************
+                         184 --3: PROJECT : VLIB
+                         185 --4: FILE    : $Id: r_tick_main.c 7402 2016-01-27 15:43:39Z florian.zimmermann $
+                         186 --5: ============================================================================ 
+                         187 --6: DESCRIPTION
+                         188 --7: Driver for TICK macro
+                         189 --8: ============================================================================
+                         190 --9:                             C O P Y R I G H T
+                         191 --10: ============================================================================
+                         192 --11:                        Copyright (c) 2013 - 2014
+                         193 --12:                                   by 
+                         194 --13:                        Renesas Electronics (Europe) GmbH. 
+                         195 --14:                            Arcadiastrasse 10
+                         196 --15:                           D-40472 Duesseldorf
+                         197 --16:                                Germany
+                         198 --17:                           All rights reserved.
+                         199 --18: ============================================================================
+                         200 --19: Purpose: only for testing, not for mass production
+                         201 --21: DISCLAIMER
+                         202 --23: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         203 --24: the license agreement, especially the usage rights. In any case, it is
+                         204 --25: LICENSEE's responsibility to make sure that any user of the software complies
+                         205 --26: with the terms and conditions of the signed license agreement.
+                         206 --28: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         207 --29: mass-production applications. It can only be used for evaluation and
+                         208 --30: demonstration purposes at customer's premises listed in the signed license
+                         209 --31: agreement.
+                         210 --33: ****************************************************************************
+                         211 --34: */
+                         212 --36: /*******************************************************************************
+                         213 --37:   Title: Main Module
+                         214 --39:   Implementation of the API and other global functions.
+                         215 --40: */
+                         216 --42: /*******************************************************************************
+                         217 --43:   Section: Includes
+                         218 --44: */
+                         219 --46: #include "r_typedefs.h"
+                         220 --47: #include "r_config_tick.h"
+                         221 --48: #include "r_tick_api.h"
+                         222 --49: #define TICK_MAIN_GLOBALS_
+                         223 --50: #include "r_tick_main.h"
+                         224 --51: #include "r_tick_sys.h"
+                         225 --54: /*******************************************************************************
+                         226 --55:   Section: Global API Functions
+                         227 --56:   
+                         228 --57:   Comments see: <tick_api.h>
+                         229 --58: */
+                         230 --62: /*******************************************************************************
+                         231 --63:   Function: R_TICK_Init
+                         232 --64: */
+                         233 --66:  r_tick_Error_t R_TICK_Init(uint32_t Unit) 
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                         234 	.text
+                         235 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D026..0::
+                         236 	.align	2
+                         237 	.global	_R_TICK_Init
+                         238 _R_TICK_Init:
+00000000 8007e130        239 	prepare	{r26,r27,r28,r29,r31},0
+00000004 06e0            240 	mov	r6,r28
+00000006 3d0600000000*   241 	mov	.L42,r29
+0000000c 3a0600000000*   242 	mov	_r_tick_Dev,r26
+                         243 --	    .bf
+                         244 .LDW01:
+                         245 --67:  {
+                         246 --68:     r_tick_Error_t err;
+                         247 --70:     r_tick_Dev[Unit].Isr    = (void*)0;
+00000012 1cf0            248 	mov	r28,ep
+00000014 c3f2            249 	shl	3,ep
+00000016 daf1            250 	add	r26,ep
+00000018 0305            251 	sst.w	zero,4[ep]
+                         252 --71:     r_tick_Dev[Unit].TimeMS = 0u;
+0000001a 1cf0            253 	mov	r28,ep
+0000001c c3f2            254 	shl	3,ep
+0000001e daf1            255 	add	r26,ep
+00000020 0105            256 	sst.w	zero,0[ep]
+                         257 --72:     err = R_SYS_TICK_HardwareInit(Unit);
+00000022 1c30            258 	mov	r28,r6
+                         259 	jarl	_R_SYS_TICK_HardwareInit,lp
+                         259 <EXPANSION BEGIN>
+                         259 jarl22 _R_SYS_TICK_HardwareInit , lp 
+00000024 80ff0000*       259 <EXPANSION END>
+00000028 0ad8            260 	mov	r10,r27
+                         261 --73:     return err;
+                         262 --line73
+                         263 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.1::
+                         264 .LDWlin1:
+0000002a 1b50            265 	mov	r27,r10
+                         266 --	    .ef
+                         267 .LDW11:
+0000002c 4006ff30        268 	dispose	0,{r26,r27,r28,r29,r31},[lp]
+                         269 	.type	_R_TICK_Init,@function
+                         270 	.size	_R_TICK_Init,.-_R_TICK_Init
+                         271 	.align	2
+                         272 .LDW21:
+                         273 --_err	r27	local
+                         274 
+                         275 --_Unit	r28	param
+                         276 
+                         277 	.section ".bss","awb"
+                         278 .L42:
+                         279 	.type	.L42,@object
+                         280 	.size	.L42,0
+                         281 	.data
+                         282 	.text
+                         283 
+                         284 --74: }
+                         285 
+                         286 --77: /*******************************************************************************
+                         287 --78:   Function: R_TICK_DeInit
+                         288 --79: */
+                         289 --81:  r_tick_Error_t R_TICK_DeInit(uint32_t Unit) 
+                         290 	.align	2
+                         291 	.align	2
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                         292 	.global	_R_TICK_DeInit
+                         293 _R_TICK_DeInit:
+00000030 8007e100        294 	prepare	{r28,r29,r31},0
+00000034 06e0            295 	mov	r6,r28
+                         296 --	    .bf
+                         297 .LDW31:
+                         298 --82:  {
+                         299 --83:     r_tick_Error_t err;
+                         300 --85:     err = R_SYS_TICK_HardwareDeInit(Unit);
+00000036 1c30            301 	mov	r28,r6
+                         302 	jarl	_R_SYS_TICK_HardwareDeInit,lp
+                         302 <EXPANSION BEGIN>
+                         302 jarl22 _R_SYS_TICK_HardwareDeInit , lp 
+00000038 80ff0000*       302 <EXPANSION END>
+0000003c 0ae8            303 	mov	r10,r29
+                         304 --86:     return err;
+                         305 --line86
+                         306 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.2::
+                         307 .LDWlin2:
+0000003e 1d50            308 	mov	r29,r10
+                         309 --	    .ef
+                         310 .LDW41:
+00000040 4006ff00        311 	dispose	0,{r28,r29,r31},[lp]
+                         312 	.type	_R_TICK_DeInit,@function
+                         313 	.size	_R_TICK_DeInit,.-_R_TICK_DeInit
+                         314 	.align	2
+                         315 .LDW51:
+                         316 --_err	r29	local
+                         317 
+                         318 --_Unit	r28	param
+                         319 
+                         320 	.section ".bss","awb"
+                         321 .L82:
+                         322 	.type	.L82,@object
+                         323 	.size	.L82,0
+                         324 	.data
+                         325 	.text
+                         326 
+                         327 --87: }
+                         328 
+                         329 --89: /*******************************************************************************
+                         330 --90:   Function: R_TICK_GetTimeMS
+                         331 --91: */
+                         332 --93:  uint32_t R_TICK_GetTimeMS(uint32_t Unit) 
+                         333 	.align	2
+                         334 	.align	2
+                         335 	.global	_R_TICK_GetTimeMS
+                         336 _R_TICK_GetTimeMS:
+00000044 0608            337 	mov	r6,r1
+                         338 --	    .bf
+                         339 .LDW61:
+                         340 --94:  {
+                         341 --95:     return r_tick_Dev[Unit].TimeMS;
+00000046 01f0            342 	mov	r1,ep
+00000048 c3f2            343 	shl	3,ep
+0000004a 2d0600000000*   344 	mov	_r_tick_Dev,r13
+00000050 cdf1            345 	add	r13,ep
+00000052 0055            346 	sld.w	0[ep],r10
+                         347 --	    .ef
+                         348 .LDW71:
+00000054 7f00            349 	jmp	[lp]
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                         350 	.type	_R_TICK_GetTimeMS,@function
+                         351 	.size	_R_TICK_GetTimeMS,.-_R_TICK_GetTimeMS
+                         352 	.align	2
+                         353 .LDW81:
+                         354 
+                         355 --_Unit	r1	param
+                         356 
+                         357 	.section ".bss","awb"
+                         358 .L126:
+                         359 	.type	.L126,@object
+                         360 	.size	.L126,0
+                         361 	.data
+                         362 	.text
+                         363 
+                         364 --96: }
+                         365 
+                         366 --99: /*******************************************************************************
+                         367 --100:   Function: R_TICK_GetTimeUS
+                         368 --101: */
+                         369 --103:  uint32_t R_TICK_GetTimeUS(uint32_t Unit) 
+                         370 	.align	2
+                         371 	.align	2
+                         372 	.global	_R_TICK_GetTimeUS
+                         373 _R_TICK_GetTimeUS:
+00000056 8007e130        374 	prepare	{r26,r27,r28,r29,r31},0
+0000005a 06e8            375 	mov	r6,r29
+0000005c 3a0600000000*   376 	mov	_r_tick_Dev,r26
+                         377 --	    .bf
+                         378 .LDW91:
+                         379 --104:  {
+                         380 --105:     uint32_t tick_us;
+                         381 --106:     uint32_t timeMS;
+                         382 --107:     
+                         383 --108:     do 
+00000062 0000            384 	nop
+                         385 .L142:
+                         386 --109:     {
+                         387 --110:         timeMS  = r_tick_Dev[Unit].TimeMS;
+00000064 1df0            388 	mov	r29,ep
+00000066 c3f2            389 	shl	3,ep
+00000068 daf1            390 	add	r26,ep
+0000006a 00e5            391 	sld.w	0[ep],r28
+                         392 --111:         tick_us = R_SYS_TICK_GetTimeUS(Unit, timeMS);
+0000006c 1d30            393 	mov	r29,r6
+0000006e 1c38            394 	mov	r28,r7
+                         395 	jarl	_R_SYS_TICK_GetTimeUS,lp
+                         395 <EXPANSION BEGIN>
+                         395 jarl22 _R_SYS_TICK_GetTimeUS , lp 
+00000070 80ff0000*       395 <EXPANSION END>
+00000074 0ad8            396 	mov	r10,r27
+                         397 --line112
+                         398 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.3::
+                         399 .LDWlin3:
+00000076 1df0            400 	mov	r29,ep
+00000078 c3f2            401 	shl	3,ep
+0000007a daf1            402 	add	r26,ep
+0000007c 000d            403 	sld.w	0[ep],r1
+0000007e e1e1            404 	cmp	r1,r28
+00000080 aaf5*           405 	bne	.L142
+                         406 --112:     } while (timeMS != r_tick_Dev[Unit].TimeMS);
+                         407 --113:     return tick_us;
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                         408 --line113
+                         409 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.4::
+                         410 .LDWlin4:
+00000082 1b50            411 	mov	r27,r10
+                         412 --	    .ef
+                         413 .LDW02:
+00000084 4006ff30        414 	dispose	0,{r26,r27,r28,r29,r31},[lp]
+                         415 	.type	_R_TICK_GetTimeUS,@function
+                         416 	.size	_R_TICK_GetTimeUS,.-_R_TICK_GetTimeUS
+                         417 	.align	2
+                         418 .LDW12:
+                         419 --_tick_us	r27	local
+                         420 --_timeMS	r28	local
+                         421 
+                         422 --_Unit	r29	param
+                         423 
+                         424 	.section ".bss","awb"
+                         425 .L174:
+                         426 	.type	.L174,@object
+                         427 	.size	.L174,0
+                         428 	.data
+                         429 	.text
+                         430 
+                         431 --114: }
+                         432 
+                         433 --117: /*******************************************************************************
+                         434 --118:   Function: R_TICK_WaitMS
+                         435 --119: */
+                         436 --121: void R_TICK_WaitMS(uint32_t Unit, uint32_t TickMS) 
+                         437 	.align	2
+                         438 	.align	2
+                         439 	.global	_R_TICK_WaitMS
+                         440 _R_TICK_WaitMS:
+00000088 8007e130        441 	prepare	{r26,r27,r28,r29,r31},0
+0000008c 06d8            442 	mov	r6,r27
+0000008e 07d0            443 	mov	r7,r26
+                         444 --	    .bf
+                         445 .LDW22:
+                         446 --122: {
+                         447 --123:     int32_t tnow;
+                         448 --124:     int32_t tend;
+                         449 --125:     
+                         450 --126:     /* Wait for <TickMS> ms. */
+                         451 --127:     tend = R_TICK_GetTimeMS(Unit) + TickMS;
+00000090 1b30            452 	mov	r27,r6
+                         453 	jarl	_R_TICK_GetTimeMS,lp
+                         453 <EXPANSION BEGIN>
+                         453 jarl22 _R_TICK_GetTimeMS , lp 
+00000092 bfffb2ff*       453 <EXPANSION END>
+00000096 1ae0            454 	mov	r26,r28
+00000098 cae1            455 	add	r10,r28
+                         456 --128:     do 
+                         457 --line128
+                         458 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.5::
+                         459 .LDWlin5:
+0000009a 0000            460 	nop
+                         461 .L202:
+                         462 --129:     {
+                         463 --130:         tnow = tend - R_TICK_GetTimeMS(Unit);
+0000009c 1b30            464 	mov	r27,r6
+                         465 	jarl	_R_TICK_GetTimeMS,lp
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                         465 <EXPANSION BEGIN>
+                         465 jarl22 _R_TICK_GetTimeMS , lp 
+0000009e bfffa6ff*       465 <EXPANSION END>
+000000a2 1ce8            466 	mov	r28,r29
+000000a4 aae9            467 	sub	r10,r29
+                         468 --line131
+                         469 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.6::
+                         470 .LDWlin6:
+000000a6 e0e9            471 	cmp	zero,r29
+000000a8 affd*           472 	bgt	.L202
+                         473 --131:     } while (tnow > 0);
+                         474 --132: }
+                         475 --	    .ef
+                         476 .LDW32:
+                         477 --line132
+                         478 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.7::
+                         479 .LDWlin7:
+000000aa 4006ff30        480 	dispose	0,{r26,r27,r28,r29,r31},[lp]
+                         481 	.type	_R_TICK_WaitMS,@function
+                         482 	.size	_R_TICK_WaitMS,.-_R_TICK_WaitMS
+                         483 	.align	2
+                         484 .LDW42:
+                         485 --_tnow	r29	local
+                         486 --_tend	r28	local
+                         487 
+                         488 --_Unit	r27	param
+                         489 --_TickMS	r26	param
+                         490 
+                         491 	.section ".bss","awb"
+                         492 .L238:
+                         493 	.type	.L238,@object
+                         494 	.size	.L238,0
+                         495 	.data
+                         496 	.text
+                         497 
+                         498 
+                         499 --135: /*******************************************************************************
+                         500 --136:   Function: R_TICK_WaitUS
+                         501 --137: */
+                         502 --139: void R_TICK_WaitUS(uint32_t Unit, uint32_t TickUS) 
+                         503 	.align	2
+                         504 	.align	2
+                         505 	.global	_R_TICK_WaitUS
+                         506 _R_TICK_WaitUS:
+000000ae 8007e130        507 	prepare	{r26,r27,r28,r29,r31},0
+000000b2 06d8            508 	mov	r6,r27
+000000b4 07d0            509 	mov	r7,r26
+                         510 --	    .bf
+                         511 .LDW52:
+                         512 --140: {
+                         513 --141:     int32_t tnow;
+                         514 --142:     int32_t tend;
+                         515 --143:     
+                         516 --144:     /* Wait for <TickUS> us. */
+                         517 --145:     tend = R_TICK_GetTimeUS(Unit) + TickUS;
+000000b6 1b30            518 	mov	r27,r6
+                         519 	jarl	_R_TICK_GetTimeUS,lp
+                         519 <EXPANSION BEGIN>
+                         519 jarl22 _R_TICK_GetTimeUS , lp 
+000000b8 bfff9eff*       519 <EXPANSION END>
+000000bc 1ae0            520 	mov	r26,r28
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+000000be cae1            521 	add	r10,r28
+                         522 --146:     do 
+                         523 --line146
+                         524 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.8::
+                         525 .LDWlin8:
+000000c0 0000            526 	nop
+                         527 .L266:
+                         528 --147:     {
+                         529 --148:         tnow = tend - R_TICK_GetTimeUS(Unit);
+000000c2 1b30            530 	mov	r27,r6
+                         531 	jarl	_R_TICK_GetTimeUS,lp
+                         531 <EXPANSION BEGIN>
+                         531 jarl22 _R_TICK_GetTimeUS , lp 
+000000c4 bfff92ff*       531 <EXPANSION END>
+000000c8 1ce8            532 	mov	r28,r29
+000000ca aae9            533 	sub	r10,r29
+                         534 --line149
+                         535 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.9::
+                         536 .LDWlin9:
+000000cc e0e9            537 	cmp	zero,r29
+000000ce affd*           538 	bgt	.L266
+                         539 --149:     } while (tnow > 0);
+                         540 --150: }
+                         541 --	    .ef
+                         542 .LDW62:
+                         543 --line150
+                         544 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main.10::
+                         545 .LDWlin10:
+000000d0 4006ff30        546 	dispose	0,{r26,r27,r28,r29,r31},[lp]
+                         547 	.type	_R_TICK_WaitUS,@function
+                         548 	.size	_R_TICK_WaitUS,.-_R_TICK_WaitUS
+                         549 	.align	2
+                         550 .LDW72:
+                         551 --_tnow	r29	local
+                         552 --_tend	r28	local
+                         553 
+                         554 --_Unit	r27	param
+                         555 --_TickUS	r26	param
+                         556 
+                         557 	.section ".bss","awb"
+                         558 .L302:
+                         559 	.type	.L302,@object
+                         560 	.size	.L302,0
+                         561 	.data
+                         562 	.text
+                         563 
+                         564 	.align	2
+                         565 
+                         566 	.data
+                         567 	.section ".bss","awb"
+                         568 	.align	4
+                         569 	.align	4
+                         570 	.global	_r_tick_Dev
+00000000 000000000000    571 _r_tick_Dev:	.space	8
+00000006 0000 
+                         572 	.type	_r_tick_Dev,@object
+                         573 	.size	_r_tick_Dev,8
+                         574 	.data
+                         575 	.ghsnote version,15
+                         576 	.ghsnote tools,3
+                         577 	.ghsnote options,144
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000om41.si
+                         578 	.text
+                         579 	.align	2
+                         580 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_tick_main...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D026..0::
+                         581 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

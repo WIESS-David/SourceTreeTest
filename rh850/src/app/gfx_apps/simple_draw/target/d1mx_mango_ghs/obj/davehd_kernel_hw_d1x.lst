@@ -1,0 +1,988 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\davehd_kernel_hw_d1x.dbo -source=davehd_kernel_hw_d1x.c -o .\obj\gh_0000p7g1.o -list=.\obj\davehd_kernel_hw_d1x.lst C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+Source File: davehd_kernel_hw_d1x.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\davehd_kernel_hw_d1x.c
+                         171 --		-o .\obj\davehd_kernel_hw_d1x.o
+                         172 --Source File:   ..\..\..\..\..\macro\gpu\davehd\kernel\platform\d1mx\davehd_kernel_hw_d1x.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:55 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 	.text
+                         183 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D027..0::
+                         184 	.align	2
+                         185 	.global	_dhd_gpu_debug_note..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.
+                         186 _dhd_gpu_debug_note..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.:
+                         187 _dhd_gpu_debug_note:
+00000000 501a            188 	add	-16,sp
+00000002 0608            189 	mov	r6,r1
+00000004 634f0d00        190 	st.w	r9,12[sp]
+00000008 0770            191 	mov	r7,r14
+0000000a 63470900        192 	st.w	r8,8[sp]
+                         193 --	    .bf
+                         194 .LDW01:
+                         195 --	    .ef
+                         196 .LDW11:
+0000000e 031e1000        197 	addi	16,sp,sp
+00000012 7f00            198 	jmp	[lp]
+                         199 	.type	_dhd_gpu_debug_note,@function
+                         200 	.size	_dhd_gpu_debug_note,.-_dhd_gpu_debug_note
+                         201 	.type	_dhd_gpu_debug_note..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.,@function
+                         202 	.size	_dhd_gpu_debug_note..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.,.-_dhd_gpu_debug_note..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.
+                         203 	.align	2
+                         204 .LDW21:
+                         205 
+                         206 --_a_device	r1	param
+                         207 --_a_format	r14	param
+                         208 --__va_param	8[sp]	param
+                         209 
+                         210 	.section ".bss","awb"
+                         211 .L30:
+                         212 	.type	.L30,@object
+                         213 	.size	.L30,0
+                         214 	.data
+                         215 	.text
+                         216 
+                         217 --1: /****************************************************************************
+                         218 --2:  *  License : All rights reserved for TES Electronic Solutions GmbH
+                         219 --3:  *            See included /docs/license.txt for details
+                         220 --4:  *  Project : D/AVE HD
+                         221 --5:  *  Purpose : Direct hardware access (register IO / IRQ access)
+                         222 --6:  *  Platform: Micro SoftDave (dummy implementation)
+                         223 --7:  ****************************************************************************
+                         224 --8:  * Version Control Information :
+                         225 --9:  *  $Revision: 4170 $
+                         226 --10:  *  $Date: 2014-10-22 16:51:50 +0200 (Mi, 22 Okt 2014) $
+                         227 --11:  *  $LastChangedBy: florian.zimmermann $
+                         228 --12:  ****************************************************************************
+                         229 --13:  * Change History (autogenerated):
+                         230 --14:  ****************************************************************************/
+                         231 --16: #include "r_typedefs.h"
+                         232 --17: #include "davehd_kernel_driver.h"
+                         233 --18: #include "davehd_kernel_os.h"
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         234 --19: #include "davehd_kernel_hw.h"
+                         235 --20: #include "davehd_stcregistermap.h"
+                         236 --21: #include "davehd_registertypes.h"
+                         237 --22: #include "davehd_os_hw.h"
+                         238 --23: #include "davehd_kernel_debug.h"
+                         239 --24: #include "davehd_guards.h"
+                         240 --26: /*----------------------------------------------------------------------------------------------------------*/
+                         241 --27: /* Write a HW register.*/
+                         242 --28: /**/
+                         243 --29: /* Parameters:*/
+                         244 --30: /*  a_base_address - register base address as specified in dhd_gpu_config_t when kernel mode was setup.*/
+                         245 --31: /*  a_index - register index.*/
+                         246 --32: /*  a_data - data to write.*/
+                         247 --33: /**/
+                         248 --34: void dhd_gpu_write_reg(void *a_base_address, dhd_uint32_t a_index, dhd_uint32_t a_data) {
+                         249 	.align	2
+                         250 	.align	2
+                         251 	.global	_dhd_gpu_write_reg
+                         252 _dhd_gpu_write_reg:
+00000014 8007e110        253 	prepare	{r27,r28,r29,r31},0
+00000018 06e8            254 	mov	r6,r29
+0000001a 07e0            255 	mov	r7,r28
+0000001c 08d8            256 	mov	r8,r27
+                         257 --	    .bf
+                         258 .LDW31:
+                         259 --36:   dhd_sys_regwrite( a_base_address, a_index, a_data );
+0000001e 1d30            260 	mov	r29,r6
+00000020 1c38            261 	mov	r28,r7
+00000022 1b40            262 	mov	r27,r8
+                         263 	jarl	_dhd_sys_regwrite,lp
+                         263 <EXPANSION BEGIN>
+                         263 jarl22 _dhd_sys_regwrite , lp 
+00000024 80ff0000*       263 <EXPANSION END>
+                         264 --37: }
+                         265 --	    .ef
+                         266 .LDW41:
+                         267 --line37
+                         268 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.1::
+                         269 .LDWlin1:
+00000028 4006ff10        270 	dispose	0,{r27,r28,r29,r31},[lp]
+                         271 	.type	_dhd_gpu_write_reg,@function
+                         272 	.size	_dhd_gpu_write_reg,.-_dhd_gpu_write_reg
+                         273 	.align	2
+                         274 .LDW51:
+                         275 
+                         276 --_a_base_address	r29	param
+                         277 --_a_index	r28	param
+                         278 --_a_data	r27	param
+                         279 
+                         280 	.section ".bss","awb"
+                         281 .L66:
+                         282 	.type	.L66,@object
+                         283 	.size	.L66,0
+                         284 	.data
+                         285 	.text
+                         286 
+                         287 
+                         288 --39: /*----------------------------------------------------------------------------------------------------------*/
+                         289 --40: /* Write a HW register.*/
+                         290 --41: /**/
+                         291 --42: /* Parameters:*/
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         292 --43: /*  a_base_address - register base address as specified in dhd_gpu_config_t when kernel mode was setup.*/
+                         293 --44: /*  a_index - register index.*/
+                         294 --45: /**/
+                         295 --46: /* Returns:*/
+                         296 --47: /*  32 bit data from register*/
+                         297 --48: /**/
+                         298 --49: dhd_uint32_t dhd_gpu_read_reg(void *a_base_address, dhd_uint32_t a_index) {
+                         299 	.align	2
+                         300 	.align	2
+                         301 	.global	_dhd_gpu_read_reg
+                         302 _dhd_gpu_read_reg:
+0000002c 8007e100        303 	prepare	{r28,r29,r31},0
+00000030 06e8            304 	mov	r6,r29
+00000032 07e0            305 	mov	r7,r28
+                         306 --	    .bf
+                         307 .LDW61:
+                         308 --51:   return dhd_sys_regread( a_base_address, a_index );
+00000034 1d30            309 	mov	r29,r6
+00000036 1c38            310 	mov	r28,r7
+                         311 	jarl	_dhd_sys_regread,lp
+                         311 <EXPANSION BEGIN>
+                         311 jarl22 _dhd_sys_regread , lp 
+00000038 80ff0000*       311 <EXPANSION END>
+                         312 --	    .ef
+                         313 .LDW71:
+                         314 --line52
+                         315 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.2::
+                         316 .LDWlin2:
+0000003c 4006ff00        317 	dispose	0,{r28,r29,r31},[lp]
+                         318 	.type	_dhd_gpu_read_reg,@function
+                         319 	.size	_dhd_gpu_read_reg,.-_dhd_gpu_read_reg
+                         320 	.align	2
+                         321 .LDW81:
+                         322 
+                         323 --_a_base_address	r29	param
+                         324 --_a_index	r28	param
+                         325 
+                         326 	.section ".bss","awb"
+                         327 .L110:
+                         328 	.type	.L110,@object
+                         329 	.size	.L110,0
+                         330 	.data
+                         331 	.text
+                         332 
+                         333 --52: }
+                         334 
+                         335 --54: /*----------------------------------------------------------------------------------------------------------*/
+                         336 --55: /* Perform a HW reset. Depending on the platform this can be quite complicated, as the core has no single*/
+                         337 --56: /* reset line.*/
+                         338 --57: /**/
+                         339 --58: /* Parameters:*/
+                         340 --59: /*  a_device - kernel device structure.*/
+                         341 --60: /**/
+                         342 --61: /* Returns:*/
+                         343 --62: /*  E_DHD_OK on success E_DHD_ERROR otherwise*/
+                         344 --63: dhd_enum_t dhd_gpu_reset_hw(dhd_gpu_device_data_t *a_device) {
+                         345 	.align	2
+                         346 	.align	2
+                         347 	.global	_dhd_gpu_reset_hw
+                         348 _dhd_gpu_reset_hw:
+00000040 8407e170        349 	prepare	{r25,r26,r27,r28,r29,r31},2
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+00000044 63370500        350 	st.w	r6,4[sp]
+                         351 --	    .bf
+                         352 .LDW91:
+                         353 --64:   void* base_address = a_device->m_gpu_config.m_register_base_address;
+00000048 235f0500        354 	ld.w	4[sp],r11
+0000004c 2be70500        355 	ld.w	4[r11],r28
+                         356 --65:   dhd_reg_stc_control_t control;
+                         357 --66:   dhd_reg_stc_interrupt_status_t irq_clear;
+                         358 --67:   dhd_uint32_t status;
+                         359 --69:   /* disable full control register, including all interrupts*/
+                         360 --70:   control.m_value = 0;
+00000050 00d2            361 	mov	0,r26
+                         362 --71:   dhd_gpu_write_reg(base_address, DHD_REG_STC_CONTROL, control.m_value);
+00000052 1c30            363 	mov	r28,r6
+00000054 1a40            364 	mov	r26,r8
+00000056 053a            365 	mov	5,r7
+                         366 	jarl	_dhd_gpu_write_reg,lp
+                         366 <EXPANSION BEGIN>
+                         366 jarl22 _dhd_gpu_write_reg , lp 
+00000058 bfffbcff*       366 <EXPANSION END>
+                         367 --73:   /* clear interrupt status*/
+                         368 --74:   irq_clear.m_value = 0;
+                         369 --line74
+                         370 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.3::
+                         371 .LDWlin3:
+0000005c 00ea            372 	mov	0,r29
+                         373 --75:   irq_clear.m_fields.m_mbierror_irq = 1;
+0000005e 9d0e0800        374 	ori	8,r29,r1
+00000062 01e8            375 	mov	r1,r29
+                         376 --76:   irq_clear.m_fields.m_pause_irq = 1;
+00000064 9d0e0200        377 	ori	2,r29,r1
+00000068 01e8            378 	mov	r1,r29
+                         379 --77:   irq_clear.m_fields.m_stall_irq = 1;
+0000006a 9d0e0400        380 	ori	4,r29,r1
+0000006e 01e8            381 	mov	r1,r29
+                         382 --78:   irq_clear.m_fields.m_stop_irq = 1;
+00000070 9d0e0100        383 	ori	1,r29,r1
+00000074 01e8            384 	mov	r1,r29
+                         385 --79:   dhd_gpu_write_reg(base_address, DHD_REG_STC_INTERRUPT_CLEAR, irq_clear.m_value);
+00000076 1c30            386 	mov	r28,r6
+00000078 1d40            387 	mov	r29,r8
+0000007a 063a            388 	mov	6,r7
+                         389 	jarl	_dhd_gpu_write_reg,lp
+                         389 <EXPANSION BEGIN>
+                         389 jarl22 _dhd_gpu_write_reg , lp 
+0000007c bfff98ff*       389 <EXPANSION END>
+                         390 --81:   /* get hw status*/
+                         391 --82:   status = dhd_gpu_read_reg(base_address, DHD_REG_STC_BUSY_STATUS);
+                         392 --line82
+                         393 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.4::
+                         394 .LDWlin4:
+00000080 1c30            395 	mov	r28,r6
+00000082 043a            396 	mov	4,r7
+                         397 	jarl	_dhd_gpu_read_reg,lp
+                         397 <EXPANSION BEGIN>
+                         397 jarl22 _dhd_gpu_read_reg , lp 
+00000084 bfffa8ff*       397 <EXPANSION END>
+00000088 0ad8            398 	mov	r10,r27
+                         399 --84:   /* stop the hw if needed*/
+                         400 --85:   if (0 != status) {
+                         401 --line85
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         402 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.5::
+                         403 .LDWlin5:
+0000008a e0d9            404 	cmp	zero,r27
+0000008c e255*           405 	be	.L124
+                         406 --	    .bs
+                         407 .LDW02:
+                         408 --86:     static const dhd_int32_t wait_timeout = 50;
+                         409 --87:     dhd_int32_t i;
+                         410 --89:     dhd_reg_stc_interrupt_status_t irq_status;
+                         411 --91:     if (status != 0x1) {
+                         412 --line91
+                         413 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.6::
+                         414 .LDWlin6:
+0000008e 61da            415 	cmp	1,r27
+00000090 b20d*           416 	be	.L126
+                         417 --92:       /* this is not as expected: when the hw is busy, it should be waiting in the ring at the pause address*/
+                         418 --93:       /* and only the STC should be busy*/
+                         419 --94:       dhd_gpu_debug_note(a_device, "HW is in unexpected state for reset: Status is 0x%03x.", status);
+                         420 --line94
+                         421 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.7::
+                         422 .LDWlin7:
+00000092 23370500        423 	ld.w	4[sp],r6
+00000096 1b40            424 	mov	r27,r8
+00000098 270600000000*   425 	mov	.L362,r7
+                         426 	jarl	_dhd_gpu_debug_note,lp
+                         426 <EXPANSION BEGIN>
+                         426 jarl22 _dhd_gpu_debug_note , lp 
+0000009e bfff62ff*       426 <EXPANSION END>
+                         427 --95:       return E_DHD_ERROR;
+                         428 --line95
+                         429 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.8::
+                         430 .LDWlin8:
+000000a2 0152            431 	mov	1,r10
+000000a4 b54d*           432 	br	.L122
+                         433 .L126:
+                         434 --96:     }
+                         435 --98:     /* issue a halt request*/
+                         436 --99:     control.m_fields.m_stream_halt_request = 1;
+                         437 --line99
+                         438 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.9::
+                         439 .LDWlin9:
+000000a6 9a0e0020        440 	ori	8192,r26,r1
+000000aa 01d0            441 	mov	r1,r26
+                         442 --100:     dhd_gpu_write_reg(base_address, DHD_REG_STC_CONTROL, control.m_value);
+000000ac 1c30            443 	mov	r28,r6
+000000ae 1a40            444 	mov	r26,r8
+000000b0 053a            445 	mov	5,r7
+                         446 	jarl	_dhd_gpu_write_reg,lp
+                         446 <EXPANSION BEGIN>
+                         446 jarl22 _dhd_gpu_write_reg , lp 
+000000b2 bfff62ff*       446 <EXPANSION END>
+                         447 --102:     /* release the pause address to let the halt finish*/
+                         448 --103:     dhd_gpu_write_reg(base_address, DHD_REG_STC_RING_PAUSE_ADDRESS, 0);
+                         449 --line103
+                         450 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.10::
+                         451 .LDWlin10:
+000000b6 1c30            452 	mov	r28,r6
+000000b8 083a            453 	mov	8,r7
+000000ba 0042            454 	mov	0,r8
+                         455 	jarl	_dhd_gpu_write_reg,lp
+                         455 <EXPANSION BEGIN>
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         455 jarl22 _dhd_gpu_write_reg , lp 
+000000bc bfff58ff*       455 <EXPANSION END>
+                         456 --105:     /* wait some time for the hw to stop TODO: could use stop IRQ here*/
+                         457 --106:     for (i=0; (0 != status) && (i<wait_timeout); i++) {
+                         458 --line106
+                         459 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.11::
+                         460 .LDWlin11:
+000000c0 00ca            461 	mov	0,r25
+000000c2 b50d*           462 	br	.L132
+                         463 .L131:
+                         464 --107:       dhd_gpu_relax_cpu(a_device);
+                         465 --line107
+                         466 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.12::
+                         467 .LDWlin12:
+000000c4 23370500        468 	ld.w	4[sp],r6
+                         469 	jarl	_dhd_gpu_relax_cpu,lp
+                         469 <EXPANSION BEGIN>
+                         469 jarl22 _dhd_gpu_relax_cpu , lp 
+000000c8 80ffd200*       469 <EXPANSION END>
+                         470 --108:       status = dhd_gpu_read_reg(base_address, DHD_REG_STC_BUSY_STATUS);
+                         471 --line108
+                         472 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.13::
+                         473 .LDWlin13:
+000000cc 1c30            474 	mov	r28,r6
+000000ce 043a            475 	mov	4,r7
+                         476 	jarl	_dhd_gpu_read_reg,lp
+                         476 <EXPANSION BEGIN>
+                         476 jarl22 _dhd_gpu_read_reg , lp 
+000000d0 bfff5cff*       476 <EXPANSION END>
+000000d4 0ad8            477 	mov	r10,r27
+                         478 --line106
+                         479 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.14::
+                         480 .LDWlin14:
+000000d6 41ca            481 	add	1,r25
+                         482 .L132:
+000000d8 e0d9            483 	cmp	zero,r27
+000000da c205*           484 	be	.L129
+000000dc 1906ceff        485 	addi	-50,r25,zero
+000000e0 a6f5*           486 	blt	.L131
+                         487 .L129:
+                         488 --109:     }
+                         489 --111:     if (0 != status) {
+                         490 --line111
+                         491 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.15::
+                         492 .LDWlin15:
+000000e2 e0d9            493 	cmp	zero,r27
+000000e4 b20d*           494 	be	.L134
+                         495 --112:       dhd_gpu_debug_note(a_device, "HW could not be stopped during dhd_gpu_reset_hw. Status is still 0x%03x after timeout.", status);
+                         496 --line112
+                         497 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.16::
+                         498 .LDWlin16:
+000000e6 23370500        499 	ld.w	4[sp],r6
+000000ea 1b40            500 	mov	r27,r8
+000000ec 270600000000*   501 	mov	.L363,r7
+                         502 	jarl	_dhd_gpu_debug_note,lp
+                         502 <EXPANSION BEGIN>
+                         502 jarl22 _dhd_gpu_debug_note , lp 
+000000f2 bfff0eff*       502 <EXPANSION END>
+                         503 --113:       return E_DHD_ERROR;
+                         504 --line113
+                         505 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.17::
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         506 .LDWlin17:
+000000f6 0152            507 	mov	1,r10
+000000f8 9525*           508 	br	.L122
+                         509 .L134:
+                         510 --114:     }
+                         511 --116:     /* get irq status*/
+                         512 --117:     irq_status.m_value = dhd_gpu_read_reg(base_address, DHD_REG_STC_INTERRUPT_STATUS);
+                         513 --line117
+                         514 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.18::
+                         515 .LDWlin18:
+000000fa 1c30            516 	mov	r28,r6
+000000fc 063a            517 	mov	6,r7
+                         518 	jarl	_dhd_gpu_read_reg,lp
+                         518 <EXPANSION BEGIN>
+                         518 jarl22 _dhd_gpu_read_reg , lp 
+000000fe bfff2eff*       518 <EXPANSION END>
+00000102 63570100        519 	st.w	r10,0[sp]
+                         520 --119:     if (irq_status.m_fields.m_stop_code != E_STOP_IRQ_CODE_STREAM_HALT) {
+                         521 --line119
+                         522 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.19::
+                         523 .LDWlin19:
+00000106 230f0100        524 	ld.w	0[sp],r1
+0000010a d50a            525 	shl	21,r1
+0000010c 9d0a            526 	shr	29,r1
+0000010e 610a            527 	cmp	1,r1
+00000110 f20d*           528 	be	.L137
+                         529 --120:       dhd_gpu_debug_note(a_device, "HW stopped during dhd_gpu_reset_hw, but stop IRQ code is not as expected: 0x%x.", irq_status.m_fields.m_stop_code);
+                         530 --line120
+                         531 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.20::
+                         532 .LDWlin20:
+00000112 230f0100        533 	ld.w	0[sp],r1
+00000116 23370500        534 	ld.w	4[sp],r6
+0000011a 270600000000*   535 	mov	.L364,r7
+00000120 d50a            536 	shl	21,r1
+00000122 9d0a            537 	shr	29,r1
+00000124 0140            538 	mov	r1,r8
+                         539 	jarl	_dhd_gpu_debug_note,lp
+                         539 <EXPANSION BEGIN>
+                         539 jarl22 _dhd_gpu_debug_note , lp 
+00000126 bfffdafe*       539 <EXPANSION END>
+                         540 --121:       return E_DHD_ERROR;
+                         541 --line121
+                         542 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.21::
+                         543 .LDWlin21:
+0000012a 0152            544 	mov	1,r10
+0000012c f505*           545 	br	.L122
+                         546 .L137:
+                         547 --122:     }
+                         548 --124:     /* finally clear interrupt status*/
+                         549 --125:     dhd_gpu_write_reg(base_address, DHD_REG_STC_INTERRUPT_CLEAR, irq_clear.m_value);
+                         550 --line125
+                         551 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.22::
+                         552 .LDWlin22:
+0000012e 1c30            553 	mov	r28,r6
+00000130 1d40            554 	mov	r29,r8
+00000132 063a            555 	mov	6,r7
+                         556 	jarl	_dhd_gpu_write_reg,lp
+                         556 <EXPANSION BEGIN>
+                         556 jarl22 _dhd_gpu_write_reg , lp 
+00000134 bfffe0fe*       556 <EXPANSION END>
+                         557 --	    .es
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         558 .LDW12:
+                         559 .L124:
+                         560 --126:   }
+                         561 --127:   return E_DHD_OK;
+                         562 --line127
+                         563 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.23::
+                         564 .LDWlin23:
+00000138 0052            565 	mov	0,r10
+                         566 .L122:
+                         567 --	    .ef
+                         568 .LDW22:
+0000013a 4406ff70        569 	dispose	2,{r25,r26,r27,r28,r29,r31},[lp]
+                         570 	.type	_dhd_gpu_reset_hw,@function
+                         571 	.size	_dhd_gpu_reset_hw,.-_dhd_gpu_reset_hw
+                         572 	.align	2
+                         573 .LDW32:
+                         574 --_base_address	r28	local
+                         575 --_control	r26	local
+                         576 --_irq_clear	r29	local
+                         577 --_status	r27	local
+                         578 --_i	r25	local
+                         579 --_irq_status	0[sp]	local
+                         580 --.L287	.L362	static
+                         581 --.L288	.L363	static
+                         582 --.L289	.L364	static
+                         583 
+                         584 --_a_device	4[sp]	param
+                         585 
+                         586 	.section ".bss","awb"
+                         587 .L286:
+                         588 	.type	.L286,@object
+                         589 	.size	.L286,0
+                         590 	.section ".rodata","a"
+                         591 .L362:--	"HW is in unexpected state for reset: Status is 0x%03x."
+00000000 48572069        592 	.byte	72,87,32,105
+00000004 7320696e        593 	.byte	115,32,105,110
+00000008 20756e65        594 	.byte	32,117,110,101
+0000000c 78706563        595 	.byte	120,112,101,99
+00000010 74656420        596 	.byte	116,101,100,32
+00000014 73746174        597 	.byte	115,116,97,116
+00000018 6520666f        598 	.byte	101,32,102,111
+0000001c 72207265        599 	.byte	114,32,114,101
+00000020 7365743a        600 	.byte	115,101,116,58
+00000024 20537461        601 	.byte	32,83,116,97
+00000028 74757320        602 	.byte	116,117,115,32
+0000002c 69732030        603 	.byte	105,115,32,48
+00000030 78253033        604 	.byte	120,37,48,51
+00000034 782e            605 	.byte	120,46
+00000036 00              606 	.byte	0
+                         607 	.type	.L362,@object
+                         608 	.size	.L362,55
+                         609 .L363:--	"HW could not be stopped during dhd_gpu_reset_hw. Status is still 0x%0..."
+00000037 48572063        610 	.byte	72,87,32,99
+0000003b 6f756c64        611 	.byte	111,117,108,100
+0000003f 206e6f74        612 	.byte	32,110,111,116
+00000043 20626520        613 	.byte	32,98,101,32
+00000047 73746f70        614 	.byte	115,116,111,112
+0000004b 70656420        615 	.byte	112,101,100,32
+0000004f 64757269        616 	.byte	100,117,114,105
+00000053 6e672064        617 	.byte	110,103,32,100
+00000057 68645f67        618 	.byte	104,100,95,103
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+0000005b 70755f72        619 	.byte	112,117,95,114
+0000005f 65736574        620 	.byte	101,115,101,116
+00000063 5f68772e        621 	.byte	95,104,119,46
+00000067 20537461        622 	.byte	32,83,116,97
+0000006b 74757320        623 	.byte	116,117,115,32
+0000006f 69732073        624 	.byte	105,115,32,115
+00000073 74696c6c        625 	.byte	116,105,108,108
+00000077 20307825        626 	.byte	32,48,120,37
+0000007b 30337820        627 	.byte	48,51,120,32
+0000007f 61667465        628 	.byte	97,102,116,101
+00000083 72207469        629 	.byte	114,32,116,105
+00000087 6d656f75        630 	.byte	109,101,111,117
+0000008b 742e            631 	.byte	116,46
+0000008d 00              632 	.byte	0
+                         633 	.type	.L363,@object
+                         634 	.size	.L363,87
+                         635 .L364:--	"HW stopped during dhd_gpu_reset_hw, but stop IRQ code is not as expec..."
+0000008e 48572073        636 	.byte	72,87,32,115
+00000092 746f7070        637 	.byte	116,111,112,112
+00000096 65642064        638 	.byte	101,100,32,100
+0000009a 7572696e        639 	.byte	117,114,105,110
+0000009e 67206468        640 	.byte	103,32,100,104
+000000a2 645f6770        641 	.byte	100,95,103,112
+000000a6 755f7265        642 	.byte	117,95,114,101
+000000aa 7365745f        643 	.byte	115,101,116,95
+000000ae 68772c20        644 	.byte	104,119,44,32
+000000b2 62757420        645 	.byte	98,117,116,32
+000000b6 73746f70        646 	.byte	115,116,111,112
+000000ba 20495251        647 	.byte	32,73,82,81
+000000be 20636f64        648 	.byte	32,99,111,100
+000000c2 65206973        649 	.byte	101,32,105,115
+000000c6 206e6f74        650 	.byte	32,110,111,116
+000000ca 20617320        651 	.byte	32,97,115,32
+000000ce 65787065        652 	.byte	101,120,112,101
+000000d2 63746564        653 	.byte	99,116,101,100
+000000d6 3a203078        654 	.byte	58,32,48,120
+000000da 25782e00        655 	.byte	37,120,46,0
+                         656 	.type	.L364,@object
+                         657 	.size	.L364,80
+                         658 	.data
+                         659 	.text
+                         660 
+                         661 --128: }
+                         662 
+                         663 --131: #ifdef DHD_USE_SYNC_IRQ
+                         664 --132: /*----------------------------------------------------------------------------------------------------------*/
+                         665 --133: /* Handle sync IRQ. called to handle platform specific stuff in case of a sync irq (e.g. wakeup kernel thread)*/
+                         666 --134: /**/
+                         667 --135: /* Parameters:*/
+                         668 --136: /*  a_device - kernel device structure.*/
+                         669 --137: void dhd_gpu_sync_irq(dhd_gpu_device_data_t *a_device) {
+                         670 --139: }
+                         671 --140: #endif /* DHD_USE_SYNC_IRQ */
+                         672 --142: /*----------------------------------------------------------------------------------------------------------*/
+                         673 --143: /* trampoline for irq callbacks ( used to hide signature difference between softdave and driver )*/
+                         674 --144: /**/
+                         675 --145: static void dhd_irq_callback(dhd_sys_handle_t a_caller);
+                         676 --146: static void dhd_irq_callback(dhd_sys_handle_t a_caller) {  
+                         677 	.align	2
+                         678 	.align	2
+                         679 	.global	_dhd_irq_callback..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         680 _dhd_irq_callback..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.:
+                         681 _dhd_irq_callback:
+0000013e 8007e110        682 	prepare	{r27,r28,r29,r31},0
+00000142 06e0            683 	mov	r6,r28
+                         684 --	    .bf
+                         685 .LDW42:
+                         686 --147:   dhd_sys_irq_t callback;
+                         687 --148:   dhd_gpu_device_data_t *device;
+                         688 --150:   callback = (dhd_sys_irq_t) dhd_sys_get_callback( a_caller );
+00000144 1c30            689 	mov	r28,r6
+                         690 	jarl	_dhd_sys_get_callback,lp
+                         690 <EXPANSION BEGIN>
+                         690 jarl22 _dhd_sys_get_callback , lp 
+00000146 80ff0000*       690 <EXPANSION END>
+0000014a 0ae8            691 	mov	r10,r29
+                         692 --151:   device = (dhd_gpu_device_data_t *) dhd_sys_get_device( a_caller );
+                         693 --line151
+                         694 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.24::
+                         695 .LDWlin24:
+0000014c 1c30            696 	mov	r28,r6
+                         697 	jarl	_dhd_sys_get_device,lp
+                         697 <EXPANSION BEGIN>
+                         697 jarl22 _dhd_sys_get_device , lp 
+0000014e 80ff0000*       697 <EXPANSION END>
+00000152 0ad8            698 	mov	r10,r27
+                         699 --152:   if (0 != callback) {
+                         700 --line152
+                         701 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.25::
+                         702 .LDWlin25:
+00000154 e0e9            703 	cmp	zero,r29
+00000156 c205*           704 	be	.L402
+                         705 --153:     callback( device );
+                         706 --line153
+                         707 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.26::
+                         708 .LDWlin26:
+00000158 1b30            709 	mov	r27,r6
+0000015a fdc760f9        710 	jarl	[r29],lp
+                         711 .L402:
+                         712 --154:   }
+                         713 --155: }
+                         714 --	    .ef
+                         715 .LDW52:
+                         716 --line155
+                         717 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.27::
+                         718 .LDWlin27:
+0000015e 4006ff10        719 	dispose	0,{r27,r28,r29,r31},[lp]
+                         720 	.type	_dhd_irq_callback,@function
+                         721 	.size	_dhd_irq_callback,.-_dhd_irq_callback
+                         722 	.type	_dhd_irq_callback..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.,@function
+                         723 	.size	_dhd_irq_callback..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.,.-_dhd_irq_callback..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.
+                         724 	.align	2
+                         725 .LDW62:
+                         726 --_callback	r29	local
+                         727 --_device	r27	local
+                         728 
+                         729 --_a_caller	r28	param
+                         730 
+                         731 	.section ".bss","awb"
+                         732 .L446:
+                         733 	.type	.L446,@object
+                         734 	.size	.L446,0
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         735 	.data
+                         736 	.text
+                         737 
+                         738 
+                         739 --157: /*----------------------------------------------------------------------------------------------------------*/
+                         740 --158: /* Register IRQ callback.*/
+                         741 --159: /**/
+                         742 --160: /* Parameters:*/
+                         743 --161: /*  a_device - kernel device structure.*/
+                         744 --162: /*  a_callback - function pointer to IRQ handler (will be used by the driver to register it's IRQ)*/
+                         745 --163: /**/
+                         746 --164: void dhd_gpu_setup_irq(dhd_gpu_device_data_t *a_device, dhd_irq_t a_callback) {
+                         747 	.align	2
+                         748 	.align	2
+                         749 	.global	_dhd_gpu_setup_irq
+                         750 _dhd_gpu_setup_irq:
+00000162 8007e110        751 	prepare	{r27,r28,r29,r31},0
+00000166 06e0            752 	mov	r6,r28
+00000168 07d8            753 	mov	r7,r27
+                         754 --	    .bf
+                         755 .LDW72:
+                         756 --165:   void *handle = a_device->m_gpu_config.m_register_base_address;
+0000016a 3cef0500        757 	ld.w	4[r28],r29
+                         758 --167:   dhd_sys_register_isr( handle, 0 );
+0000016e 1d30            759 	mov	r29,r6
+00000170 003a            760 	mov	0,r7
+                         761 	jarl	_dhd_sys_register_isr,lp
+                         761 <EXPANSION BEGIN>
+                         761 jarl22 _dhd_sys_register_isr , lp 
+00000172 80ff0000*       761 <EXPANSION END>
+                         762 --168:   if (0 != a_callback) {
+                         763 --line168
+                         764 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.28::
+                         765 .LDWlin28:
+00000176 e0d9            766 	cmp	zero,r27
+00000178 f20d*           767 	be	.L472
+                         768 --169:     dhd_sys_set_callback( handle, (a_callback));
+                         769 --line169
+                         770 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.29::
+                         771 .LDWlin29:
+0000017a 1d30            772 	mov	r29,r6
+0000017c 1b38            773 	mov	r27,r7
+                         774 	jarl	_dhd_sys_set_callback,lp
+                         774 <EXPANSION BEGIN>
+                         774 jarl22 _dhd_sys_set_callback , lp 
+0000017e 80ff0000*       774 <EXPANSION END>
+                         775 --170:     dhd_sys_set_device( handle, a_device );
+                         776 --line170
+                         777 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.30::
+                         778 .LDWlin30:
+00000182 1d30            779 	mov	r29,r6
+00000184 1c38            780 	mov	r28,r7
+                         781 	jarl	_dhd_sys_set_device,lp
+                         781 <EXPANSION BEGIN>
+                         781 jarl22 _dhd_sys_set_device , lp 
+00000186 80ff0000*       781 <EXPANSION END>
+                         782 --171:     dhd_sys_register_isr( handle, &dhd_irq_callback );
+                         783 --line171
+                         784 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.31::
+                         785 .LDWlin31:
+0000018a 1d30            786 	mov	r29,r6
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+0000018c 270600000000*   787 	mov	_dhd_irq_callback,r7
+                         788 	jarl	_dhd_sys_register_isr,lp
+                         788 <EXPANSION BEGIN>
+                         788 jarl22 _dhd_sys_register_isr , lp 
+00000192 80ff0000*       788 <EXPANSION END>
+                         789 .L472:
+                         790 --172:   }
+                         791 --173: }
+                         792 --	    .ef
+                         793 .LDW82:
+                         794 --line173
+                         795 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.32::
+                         796 .LDWlin32:
+00000196 4006ff10        797 	dispose	0,{r27,r28,r29,r31},[lp]
+                         798 	.type	_dhd_gpu_setup_irq,@function
+                         799 	.size	_dhd_gpu_setup_irq,.-_dhd_gpu_setup_irq
+                         800 	.align	2
+                         801 .LDW92:
+                         802 --_handle	r29	local
+                         803 
+                         804 --_a_device	r28	param
+                         805 --_a_callback	r27	param
+                         806 
+                         807 	.section ".bss","awb"
+                         808 .L518:
+                         809 	.type	.L518,@object
+                         810 	.size	.L518,0
+                         811 	.data
+                         812 	.text
+                         813 
+                         814 
+                         815 --175: /*----------------------------------------------------------------------------------------------------------*/
+                         816 --176: /* Waste some cycles to ease polling loops. In polling mode the driver will have to relax in order to avoid*/
+                         817 --177: /* stressing the bus with too many register read requests.*/
+                         818 --178: /**/
+                         819 --179: /* Parameters:*/
+                         820 --180: /*  a_device - kernel device structure.*/
+                         821 --182: void dhd_gpu_relax_cpu(dhd_gpu_device_data_t *a_device) {
+                         822 	.align	2
+                         823 	.align	2
+                         824 	.global	_dhd_gpu_relax_cpu
+                         825 _dhd_gpu_relax_cpu:
+0000019a 0608            826 	mov	r6,r1
+                         827 --	    .bf
+                         828 .LDW03:
+                         829 --183:   asm("nop");
+                         830 ..gh.beginasm.0:
+                         831 	.type	..gh.beginasm.0,@object
+                         832 	.size	..gh.beginasm.0,0
+0000019c 0000            833 nop
+                         834 
+                         835 ..gh.endasm.1:
+                         836 	.type	..gh.endasm.1,@object
+                         837 	.size	..gh.endasm.1,0
+                         838 --184: }
+                         839 --	    .ef
+                         840 .LDW13:
+                         841 --line184
+                         842 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x.33::
+                         843 .LDWlin33:
+0000019e 7f00            844 	jmp	[lp]
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p7g1.si
+                         845 	.type	_dhd_gpu_relax_cpu,@function
+                         846 	.size	_dhd_gpu_relax_cpu,.-_dhd_gpu_relax_cpu
+                         847 	.align	2
+                         848 .LDW23:
+                         849 
+                         850 --_a_device	r1	param
+                         851 
+                         852 	.section ".bss","awb"
+                         853 .L578:
+                         854 	.type	.L578,@object
+                         855 	.size	.L578,0
+                         856 	.data
+                         857 	.text
+                         858 
+                         859 	.align	2
+                         860 
+                         861 	.data
+                         862 	.ghsnote version,15
+                         863 	.ghsnote tools,8195
+                         864 	.ghsnote options,144
+                         865 	.text
+                         866 	.align	2
+                         867 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cdavehd_kernel_hw_d1x...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D027..0::
+                         868 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

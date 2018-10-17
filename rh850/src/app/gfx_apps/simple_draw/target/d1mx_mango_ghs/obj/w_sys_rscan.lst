@@ -1,0 +1,1224 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\w_sys_rscan.dbo -source=w_sys_rscan.c -o .\obj\gh_0000nks1.o -list=.\obj\w_sys_rscan.lst C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+Source File: w_sys_rscan.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\gfx_apps\simple_draw\src\w_sys_rscan.c -o
+                         171 --		.\obj\w_sys_rscan.o
+                         172 --Source File:   ..\..\..\..\gfx_apps\simple_draw\src\w_sys_rscan.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:57 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: #include "r_dev_api.h"
+                         184 --2: #include "r_bsp_stdio_api.h"
+                         185 --3: #include "w_system.h"
+                         186 --4: #include "w_sys_rscan.h"
+                         187 --6: /* Rx Rule Table */
+                         188 --7: const can_cre_type RX_RULE_TABLE_LIST[RX_RULE_NUM] =
+                         189 --8: {
+                         190 --9:     //  RSCAN0GAFLIDj,RSCAN0GAFLMj,RSCAN0GAFLP0j, RSCAN0GAFLP1j
+                         191 --10:     /* CAN 0 reception rules */
+                         192 --11:     {0x00000286UL, 0xDFFFFFFFUL, 0xF0000000UL, 0x00000001UL}, /* FIFO RX 0 - for future FW update*/
+                         193 --12:     {0x00000287UL, 0xDFFFFFFFUL, 0xF1008000UL, 0x00000000UL}, /* wiess control */
+                         194 --13:     {0x00000133UL, 0xDFFFFFFFUL, 0xF2008100UL, 0x00000000UL}, /* std, data frame, check DLC(8), recv buffer enabled as number 1 */
+                         195 --14:     {0x00000134UL, 0xDFFFFFFFUL, 0xF3008200UL, 0x00000000UL}, 
+                         196 --15:     {0x0000053EUL, 0xDFFFFFFFUL, 0xF4008300UL, 0x00000000UL}, 
+                         197 --16:     {0x0000053FUL, 0xDFFFFFFFUL, 0xF5008400UL, 0x00000000UL},  
+                         198 --17:     {0x00000434UL, 0xDFFFFFFFUL, 0xF6008500UL, 0x00000000UL},
+                         199 --18:     {0x00000340UL, 0xDFFFFFFFUL, 0xF7008600UL, 0x00000000UL},
+                         200 --19:     {0x0000056BUL, 0xDFFFFFFFUL, 0xF8008700UL, 0x00000000UL},
+                         201 --20:     
+                         202 --22: /* CAN 1 reception rules */
+                         203 --23:     //{0x00000030UL, 0xDFFFFFF0UL, 0x00008800UL, 0x00000000UL}, /* NO.002 : std data frm ID = H'30~3F will be accepted, destination Rx Buffer8 */
+                         204 --24:     //{0x00000040UL, 0xDFFFFFF0UL, 0x00008900UL, 0x00000000UL}, /* NO.003 : std data frm ID = H'40~4F will be accepted, destination Rx Buffer9 */
+                         205 --25:     //{0x00000050UL, 0xDFFFFFFFUL, 0x00008a00UL, 0x00000000UL}, /* NO.004 : std data frm ID = H'50 will be accepted, destination Rx Buffer10 */
+                         206 --26:     //{0x00000060UL, 0xDFFFFFFFUL, 0x00008b00UL, 0x00000000UL}, /* NO.005 : std data frm ID = H'60 will be accepted, destination Rx Buffer11 */
+                         207 --27: };
+                         208 --29: const r_dev_PinConfig_t ccan0_pin_config[] = 
+                         209 --30: {
+                         210 --31:     /* CAN TX - CAN0 pins */
+                         211 --32:     {0, 4, 4, R_DEV_PIN_OUT   , 0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  tx Output */ 
+                         212 --33:     /* CAN RX - CAN0 pins */
+                         213 --34:     {0, 5, 4, R_DEV_PIN_IN   , 0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  rx input */ 
+                         214 --36:     /* delimiter - do not remove */
+                         215 --37:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1}
+                         216 --38: }; 
+                         217 --40: const r_dev_PinConfig_t ccan1_pin_config[] = 
+                         218 --41: {
+                         219 --42:     /* CAN TX - CAN1 pins */
+                         220 --43:     {0, 6, 4, R_DEV_PIN_OUT   , 0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  tx Output */ 
+                         221 --44:     /* CAN RX - CAN1 pins */
+                         222 --45:     {0, 7, 4, R_DEV_PIN_IN   , 0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  rx input */ 
+                         223 --47:     /* delimiter - do not remove */
+                         224 --48:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1}
+                         225 --49: };
+                         226 --52: //===================================================================================================================
+                         227 --53: // Functions
+                         228 --54: //===================================================================================================================
+                         229 --56: /*****************************************************************************
+                         230 --57: ** Function:    W_CAN_GPIO_Init
+                         231 --58: ** Description: Configures the CAN0/CAN1 GPIO
+                         232 --59: ** Parameter:   None
+                         233 --60: ** Return:      None
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         234 --61: ******************************************************************************/
+                         235 --62: void W_CAN_GPIO_Init(void)
+                         236 	.text
+                         237 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02A..0::
+                         238 	.align	2
+                         239 	.global	_W_CAN_GPIO_Init
+                         240 _W_CAN_GPIO_Init:
+00000000 80072100        241 	prepare	{r31},0
+                         242 --	    .bf
+                         243 .LDW01:
+                         244 --63: {
+                         245 --64:     /* Set CAN0TX as P0_4 and CAN0RX as P0_5 */
+                         246 --65:     R_DEV_PinInit(ccan0_pin_config);    // Receive data from ECU
+00000004 260600000000*   247 	mov	_ccan0_pin_config,r6
+                         248 	jarl	_R_DEV_PinInit,lp
+                         248 <EXPANSION BEGIN>
+                         248 jarl22 _R_DEV_PinInit , lp 
+0000000a 80ff0000*       248 <EXPANSION END>
+                         249 --66:     R_DEV_PinInit(ccan1_pin_config);    // Send Data for OBDII
+                         250 --line66
+                         251 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.1::
+                         252 .LDWlin1:
+0000000e 260600000000*   253 	mov	_ccan1_pin_config,r6
+                         254 	jarl	_R_DEV_PinInit,lp
+                         254 <EXPANSION BEGIN>
+                         254 jarl22 _R_DEV_PinInit , lp 
+00000014 80ff0000*       254 <EXPANSION END>
+                         255 --67: }
+                         256 --	    .ef
+                         257 .LDW11:
+                         258 --line67
+                         259 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.2::
+                         260 .LDWlin2:
+00000018 40063f00        261 	dispose	0,{r31},[lp]
+                         262 	.type	_W_CAN_GPIO_Init,@function
+                         263 	.size	_W_CAN_GPIO_Init,.-_W_CAN_GPIO_Init
+                         264 	.align	2
+                         265 .LDW21:
+                         266 
+                         267 	.section ".bss","awb"
+                         268 .L38:
+                         269 	.type	.L38,@object
+                         270 	.size	.L38,0
+                         271 	.data
+                         272 	.text
+                         273 
+                         274 
+                         275 --69: /*****************************************************************************
+                         276 --70: ** Function:    W_RSCAN_Init
+                         277 --71: ** Description: Configures the CAN0/CAN1 macros
+                         278 --72: ** Parameter:   None
+                         279 --73: ** Return:      None
+                         280 --74: ******************************************************************************/
+                         281 --75: Can_RtnType W_RSCAN_Init(uint8_t u8retry_counter)
+                         282 	.align	2
+                         283 	.align	2
+                         284 	.global	_W_RSCAN_Init
+                         285 _W_RSCAN_Init:
+0000001c 8007e100        286 	prepare	{r28,r29,r31},0
+00000020 c6e6ff00        287 	andi	255,r6,r28
+                         288 --	    .bf
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         289 .LDW31:
+                         290 --76: {
+                         291 --77:     uint8_t u8retry_temp;
+                         292 --78:     uint32_t u32_mem_view;
+                         293 --79:     
+                         294 --80:     W_CAN_GPIO_Init();
+                         295 	jarl	_W_CAN_GPIO_Init,lp
+                         295 <EXPANSION BEGIN>
+                         295 jarl22 _W_CAN_GPIO_Init , lp 
+00000024 bfffdcff*       295 <EXPANSION END>
+                         296 --82:     u8retry_temp = u8retry_counter;
+                         297 --line82
+                         298 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.3::
+                         299 .LDWlin3:
+00000028 1ce8            300 	mov	r28,r29
+                         301 --83:     /* Wait while CAN RAM initialization is ongoing */
+                         302 --84:     while((RSCAN0GSTS & 0x00000008) && u8retry_temp-- > 0);
+                         303 .L58:
+0000002a 8007c90801a0    304 	ld.w	4291821708[zero],r1
+00000030 840a            305 	shr	4,r1
+00000032 e905*           306 	bnl	.L59
+00000034 1d08            307 	mov	r29,r1
+00000036 5fea            308 	add	-1,r29
+00000038 e009            309 	cmp	zero,r1
+0000003a 9d00            310 	zxb	r29
+0000003c fbf5*           311 	bh	.L58
+                         312 .L59:
+                         313 --85:     if(u8retry_counter == 0)
+                         314 --line85
+                         315 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.4::
+                         316 .LDWlin4:
+0000003e e0e1            317 	cmp	zero,r28
+00000040 ca05*           318 	bne	.L62
+                         319 --86:         return CAN_RETRY_ERROR;
+                         320 --line86
+                         321 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.5::
+                         322 .LDWlin5:
+00000042 2056fe00        323 	movea	254,zero,r10
+00000046 c57d*           324 	br	.L56
+                         325 .L62:
+                         326 --88:     /* Switch to global/channel reset mode */
+                         327 --89:     RSCAN0GCTR &= 0xfffffffb;	//set the 3rd bit to 0 -- global stop mdoe  
+                         328 --line89
+                         329 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.6::
+                         330 .LDWlin6:
+00000048 8007890801a0    331 	ld.w	4291821704[zero],r1
+0000004e 1b72            332 	mov	-5,r14
+00000050 4e09            333 	and	r14,r1
+00000052 80078f0801a0    334 	st.w	r1,4291821704[zero]
+                         335 --90:     RSCAN0C0CTR &= 0xfffffffb;
+00000058 8007490800a0    336 	ld.w	4291821572[zero],r1
+0000005e 1b72            337 	mov	-5,r14
+00000060 4e09            338 	and	r14,r1
+00000062 80074f0800a0    339 	st.w	r1,4291821572[zero]
+                         340 --92:     /* Configure clk_xincan as CAN-ClockSource */
+                         341 --93:     RSCAN0GCFG = 0x00000010;
+00000068 200e1000        342 	movea	16,zero,r1
+0000006c 80074f0801a0    343 	st.w	r1,4291821700[zero]
+                         344 --95:     /* When fCAN is 8MHz, 
+                         345 --96:     Bitrate = fCAN/(BRP+1)/(1+TSEG1+TSEG2) = 8/1/16 = 0.5Mbps(500Kbps) */
+                         346 --98:     RSCAN0C0CFG = 0x023a0000; //SJW =3TQ, TSEG1=10TQ, TSEG2=4TQ, BRP=0
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+00000072 400e3a02        347 	movhi	hi(37355520),zero,r1
+00000076 80070f0800a0    348 	st.w	r1,4291821568[zero]
+                         349 --100:     /* ==== Rx rule setting ==== */
+                         350 --101:     W_RSCAN_SetRxRule();
+                         351 	jarl	_W_RSCAN_SetRxRule,lp
+                         351 <EXPANSION BEGIN>
+                         351 jarl22 _W_RSCAN_SetRxRule , lp 
+0000007c 80ffc600*       351 <EXPANSION END>
+                         352 --103:     /* ==== buffer setting ==== */    
+                         353 --104:     RSCAN0RMNB = 0x08;  //Can_SetGlobalBuffer--8
+                         354 --line104
+                         355 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.7::
+                         356 .LDWlin7:
+00000080 080a            357 	mov	8,r1
+00000082 80074f0a01a0    358 	st.w	r1,4291821732[zero]
+                         359 --106:     /* Set THLEIE disabled, MEIE(FIFO Message Lost Interrupt disabled)  */
+                         360 --107:     RSCAN0GCTR &= 0xfffff8ff;    
+00000088 8007890801a0    361 	ld.w	4291821704[zero],r1
+0000008e 2076fff8        362 	movea	-1793,zero,r14
+00000092 4e09            363 	and	r14,r1
+00000094 80078f0801a0    364 	st.w	r1,4291821704[zero]
+                         365 --110:     // set receive FIFO 0	(0x7102U)										
+                         366 --111: 	RSCAN0.RFCC0.UINT16[L]	= 0x7100U;						// RFIGCV[2:0] : Receive FIFO Interrupt Request Timing : When FIFO is 4/8 full.
+0000009a 200e0071        367 	movea	28928,zero,r1
+0000009e a0078d0b01a0    368 	st.h	r1,4291821752[zero]
+                         369 --112: 															// RFIM : Receive FIFO Interrupt Source : An interrupt occurs each time a message has been received.
+                         370 --113: 															// RFDC[2:0] : Receive FIFO Buffer Depth : 4 messages
+                         371 --114: 															// RFIE : Receive FIFO interrupt is enable
+                         372 --115: 															// RFE : Receive FIFO Buffer disable (only can be enabled in global operating mode or global test mode)
+                         373 --117: 	// set & enable CAN receive FIFO interrupt
+                         374 --118:     //INTC1.ICRCANGRECC0.BIT.MKRCANGRECC0 = 1U;				// Disables interrupt processing
+                         375 --119:     //INTC1.ICRCANGRECC0.BIT.RFRCANGRECC0 = 0U;				// clear interrupt request flag
+                         376 --120:     //INTC1.ICRCANGRECC0.BIT.TBRCANGRECC0 = 1U;				// Table reference for interrupt vector
+                         377 --121:     //INTC1.ICRCANGRECC0.BIT.MKRCANGRECC0 = 0U;				// Enables interrupt processing
+                         378 --122:     //INTC1.ICRCANGRECC0.UINT16 |= 0x01;				        // set interrupt priority
+                         379 --125:     /* Global reset mode -> Global operating mode */
+                         380 --126: 	RSCAN0.GCTR.UINT8[LL] = 0x00;							// GSLPR bit : 0 -> set as Other than global stop mode
+000000a4 80078d0001a0    381 	st.b	zero,4291821704[zero]
+                         382 --127: 															// GMDC[1:0] : 00 -> Global operating mode
+                         383 --128: 	while((RSCAN0.GSTS.UINT8[LL] & 0x01) != 0){}			// GSLPSTS : check status Not in global reset mode
+                         384 .L65:
+000000aa a007c50801a0    385 	ld.bu	4291821708[zero],r1
+000000b0 810a            386 	shr	1,r1
+000000b2 c1fd*           387 	bl	.L65
+                         388 --129: 	
+                         389 --130: 	/* Channel reset mode -> Channel communication mode (Channel 0) */
+                         390 --131: 	RSCAN0.C0CTR.UINT8[LL] = 0x00;							// CSLPR bit : 0 -> set as Other than channel stop mode
+                         391 --line131
+                         392 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.8::
+                         393 .LDWlin8:
+000000b4 80074d0000a0    394 	st.b	zero,4291821572[zero]
+                         395 --132: 															// CHMDC[1:0] : 01 -> Channel communication mode
+                         396 --133:                                                             // (CSLPSTS bit) check status Not in channel reset mode
+                         397 --134:     u8retry_temp = u8retry_counter;
+000000ba 1ce8            398 	mov	r28,r29
+                         399 --135:     while ((RSCAN0.C0STS.UINT8[LL] & 0x01) == 1 && u8retry_temp-- > 0) {
+                         400 .L68:
+000000bc a007850800a0    401 	ld.bu	4291821576[zero],r1
+000000c2 810a            402 	shr	1,r1
+000000c4 e905*           403 	bnl	.L69
+000000c6 1d08            404 	mov	r29,r1
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+000000c8 5fea            405 	add	-1,r29
+000000ca e009            406 	cmp	zero,r1
+000000cc 9d00            407 	zxb	r29
+000000ce fbf5*           408 	bh	.L68
+                         409 .L69:
+                         410 --136:     }
+                         411 --137:     if(u8retry_counter == 0)
+                         412 --line137
+                         413 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.9::
+                         414 .LDWlin9:
+000000d0 e0e1            415 	cmp	zero,r28
+000000d2 ca05*           416 	bne	.L72
+                         417 --138:         return CAN_RETRY_ERROR;
+                         418 --line138
+                         419 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.10::
+                         420 .LDWlin10:
+000000d4 2056fe00        421 	movea	254,zero,r10
+000000d8 b535*           422 	br	.L56
+                         423 .L72:
+                         424 --140:     /* Channel reset mode -> Channel communication mode (Channel 1) */
+                         425 --141: 	RSCAN0.C1CTR.UINT8[LL] = 0x00;							// CSLPR bit : 0 -> set as Other than channel stop mode
+                         426 --line141
+                         427 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.11::
+                         428 .LDWlin11:
+000000da 80074d0100a0    429 	st.b	zero,4291821588[zero]
+                         430 --142: 															// CHMDC[1:0] : 00 -> Channel communication mode
+                         431 --143:                                                     		// (CSLPSTS bit) check status Not in channel reset mode
+                         432 --144: 	u8retry_temp = u8retry_counter;
+000000e0 1ce8            433 	mov	r28,r29
+                         434 --145:     while ((RSCAN0.C1STS.UINT8[LL] & 0x01) == 1 && u8retry_temp-- > 0) {
+                         435 .L75:
+000000e2 a007850900a0    436 	ld.bu	4291821592[zero],r1
+000000e8 810a            437 	shr	1,r1
+000000ea e905*           438 	bnl	.L76
+000000ec 1d08            439 	mov	r29,r1
+000000ee 5fea            440 	add	-1,r29
+000000f0 e009            441 	cmp	zero,r1
+000000f2 9d00            442 	zxb	r29
+000000f4 fbf5*           443 	bh	.L75
+                         444 .L76:
+                         445 --146:     }
+                         446 --147:     if(u8retry_counter == 0)
+                         447 --line147
+                         448 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.12::
+                         449 .LDWlin12:
+000000f6 e0e1            450 	cmp	zero,r28
+000000f8 ca05*           451 	bne	.L79
+                         452 --148:         return CAN_RETRY_ERROR;
+                         453 --line148
+                         454 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.13::
+                         455 .LDWlin13:
+000000fa 2056fe00        456 	movea	254,zero,r10
+000000fe 8525*           457 	br	.L56
+                         458 .L79:
+                         459 --150: 	/* Channel reset mode -> Channel communication mode (Channel 2) */
+                         460 --151: 	RSCAN0.C2CTR.UINT8[LL] = 0x00;							// CSLPR bit : 0 -> set as Other than channel stop mode
+                         461 --line151
+                         462 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.14::
+                         463 .LDWlin14:
+00000100 80074d0200a0    464 	st.b	zero,4291821604[zero]
+                         465 --152: 															// CHMDC[1:0] : 01 -> Channel communication mode
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         466 --153:                                                             // (CSLPSTS bit) check status Not in channel reset mode
+                         467 --154: 	
+                         468 --155:     u8retry_temp = u8retry_counter;
+00000106 1ce8            469 	mov	r28,r29
+                         470 --156:     while ((RSCAN0.C2STS.UINT8[LL] & 0x01) == 1 && u8retry_temp-- > 0) {
+                         471 .L82:
+00000108 a007850a00a0    472 	ld.bu	4291821608[zero],r1
+0000010e 810a            473 	shr	1,r1
+00000110 e905*           474 	bnl	.L83
+00000112 1d08            475 	mov	r29,r1
+00000114 5fea            476 	add	-1,r29
+00000116 e009            477 	cmp	zero,r1
+00000118 9d00            478 	zxb	r29
+0000011a fbf5*           479 	bh	.L82
+                         480 .L83:
+                         481 --157:     }
+                         482 --158:     if(u8retry_counter == 0)
+                         483 --line158
+                         484 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.15::
+                         485 .LDWlin15:
+0000011c e0e1            486 	cmp	zero,r28
+0000011e ca05*           487 	bne	.L86
+                         488 --159:         return CAN_RETRY_ERROR;
+                         489 --line159
+                         490 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.16::
+                         491 .LDWlin16:
+00000120 2056fe00        492 	movea	254,zero,r10
+00000124 d50d*           493 	br	.L56
+                         494 .L86:
+                         495 --161:     RSCAN0.RFCC0.UINT16[L] |= 0x0001U;
+                         496 --line161
+                         497 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.17::
+                         498 .LDWlin17:
+00000126 a007870b01a0    499 	ld.hu	4291821752[zero],r1
+0000012c 810e0100        500 	ori	1,r1,r1
+00000130 a0078d0b01a0    501 	st.h	r1,4291821752[zero]
+                         502 --162:     u32_mem_view = RSCAN0.RFCC0.UINT32;
+00000136 8007890b01a0    503 	ld.w	4291821752[zero],r1
+                         504 --163:     
+                         505 --164:     return CAN_RTN_OK;
+0000013c 0052            506 	mov	0,r10
+                         507 .L56:
+                         508 --	    .ef
+                         509 .LDW41:
+0000013e 4006ff00        510 	dispose	0,{r28,r29,r31},[lp]
+                         511 	.type	_W_RSCAN_Init,@function
+                         512 	.size	_W_RSCAN_Init,.-_W_RSCAN_Init
+                         513 	.align	2
+                         514 .LDW51:
+                         515 --_u8retry_temp	r29	local
+                         516 --_u32_mem_view	r1	local
+                         517 
+                         518 --_u8retry_counter	r28	param
+                         519 
+                         520 	.section ".bss","awb"
+                         521 .L274:
+                         522 	.type	.L274,@object
+                         523 	.size	.L274,0
+                         524 	.data
+                         525 	.text
+                         526 
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         527 --165: }
+                         528 
+                         529 --167: /******************************************************************************
+                         530 --168: ** Function:    W_RSCAN_SetRxRule
+                         531 --169: ** Description: Set all Rx rules
+                         532 --170: ** Parameter:   None
+                         533 --171: ** Return:      None
+                         534 --172: ******************************************************************************/
+                         535 --173: static void W_RSCAN_SetRxRule(void)
+                         536 	.align	2
+                         537 	.align	2
+                         538 	.global	_W_RSCAN_SetRxRule..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.
+                         539 _W_RSCAN_SetRxRule..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.:
+                         540 _W_RSCAN_SetRxRule:
+                         541 --	    .bf
+                         542 .LDW61:
+                         543 --174: {
+                         544 --175:     uint16_t RxRuleIdx;
+                         545 --176:     uint8_t PageRxRuleIdx;
+                         546 --177:     volatile CAN_RX_RULE_TYPE* pCRE;
+                         547 --179:     /* Set Rx rule number per channel */
+                         548 --180:     RSCAN0GAFLCFG0 |= 0x08000000;   //Channel0 rule number is 8
+00000142 8007c90901a0    549 	ld.w	4291821724[zero],r1
+00000148 40760008        550 	movhi	hi(134217728),zero,r14
+0000014c 0e09            551 	or	r14,r1
+0000014e 8007cf0901a0    552 	st.w	r1,4291821724[zero]
+                         553 --182:     /* Get access base address of Rx rule */
+                         554 --183:     pCRE = (volatile CAN_RX_RULE_TYPE*)&(RSCAN0GAFLID0);
+00000154 2d060005d0ff    555 	mov	-3144448,r13
+                         556 --185:     /* Receive Rule Table Write Enable */
+                         557 --186:     RSCAN0GAFLECTR |= 0x00000100;	//set bit8 to 1, Receive rule table write is enabled
+0000015a 8007890901a0    558 	ld.w	4291821720[zero],r1
+00000160 810e0001        559 	ori	256,r1,r1
+00000164 80078f0901a0    560 	st.w	r1,4291821720[zero]
+                         561 --188:     /* Copy Rx rule one by one */
+                         562 --189:     for (RxRuleIdx = 0U; RxRuleIdx < CAN_RX_RULE_NUM; RxRuleIdx++) //CAN_RX_RULE_NUM=12, refer to cab_table.h
+0000016a 000a            563 	mov	0,r1
+0000016c 0000            564 	nop
+                         565 .L413:
+                         566 --190:     {
+                         567 --191:         PageRxRuleIdx = (uint8_t) (RxRuleIdx & CAN_PAGE_RX_RULE_IDX_MASK); //CAN_PAGE_RX_RULE_IDX_MASK= 0xF
+0000016e c1760f00        568 	andi	15,r1,r14
+00000172 8e00            569 	zxb	r14
+                         570 --193:         /* Update target Rx rule page if necessary. */
+                         571 --194:         if (PageRxRuleIdx == 0U) 
+00000174 e071            572 	cmp	zero,r14
+00000176 aa0d*           573 	bne	.L414
+                         574 --195:         {
+                         575 --196:             RSCAN0GAFLECTR |= RxRuleIdx >> CAN_RX_RULE_PAGE_IDX_BIT_POS; //CAN_RX_RULE_PAGE_IDX_BIT_POS= 4U
+                         576 --line196
+                         577 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.18::
+                         578 .LDWlin18:
+00000178 8007895901a0    579 	ld.w	4291821720[zero],r11
+0000017e 0160            580 	mov	r1,r12
+00000180 a462            581 	sar	4,r12
+00000182 0c59            582 	or	r12,r11
+00000184 80078f5901a0    583 	st.w	r11,4291821720[zero]
+                         584 .L414:
+                         585 --197:         }
+                         586 --199:         /* Set a single Rx rule.*/
+                         587 --200:         pCRE[PageRxRuleIdx] = CAN_RX_RULE_TABLE[RxRuleIdx];
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+0000018a 0160            588 	mov	r1,r12
+0000018c c462            589 	shl	4,r12
+0000018e 2b0600000000*   590 	mov	_RX_RULE_TABLE_LIST,r11
+00000194 cb61            591 	add	r11,r12
+00000196 0ef0            592 	mov	r14,ep
+00000198 ac0709500000    593 	ld.dw	0[r12],r10
+0000019e ac0789400000    594 	ld.dw	8[r12],r8
+000001a4 c4f2            595 	shl	4,ep
+000001a6 cdf1            596 	add	r13,ep
+000001a8 be070f500000    597 	st.dw	r10,0[ep]
+000001ae be078f400000    598 	st.dw	r8,8[ep]
+000001b4 410a            599 	add	1,r1
+000001b6 c100            600 	zxh	r1
+000001b8 690a            601 	cmp	9,r1
+000001ba a1dd*           602 	bl	.L413
+                         603 --201:     }
+                         604 --203:     /* Rx rule write disable */
+                         605 --204:     RSCAN0GAFLECTR &= 0xfffffeff;
+                         606 --line204
+                         607 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.19::
+                         608 .LDWlin19:
+000001bc 8007896101a0    609 	ld.w	4291821720[zero],r12
+000001c2 205efffe        610 	movea	-257,zero,r11
+000001c6 4b61            611 	and	r11,r12
+000001c8 80078f6101a0    612 	st.w	r12,4291821720[zero]
+                         613 --205: }
+                         614 --	    .ef
+                         615 .LDW71:
+000001ce 7f00            616 	jmp	[lp]
+                         617 	.type	_W_RSCAN_SetRxRule,@function
+                         618 	.size	_W_RSCAN_SetRxRule,.-_W_RSCAN_SetRxRule
+                         619 	.type	_W_RSCAN_SetRxRule..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.,@function
+                         620 	.size	_W_RSCAN_SetRxRule..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.,.-_W_RSCAN_SetRxRule..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.
+                         621 	.align	2
+                         622 .LDW81:
+                         623 --_RxRuleIdx	r1	local
+                         624 --_PageRxRuleIdx	r14	local
+                         625 --_pCRE	r13	local
+                         626 
+                         627 	.section ".bss","awb"
+                         628 .L478:
+                         629 	.type	.L478,@object
+                         630 	.size	.L478,0
+                         631 	.data
+                         632 	.text
+                         633 
+                         634 
+                         635 --207: /*****************************************************************************
+                         636 --208: ** Function:    W_RSCAN_ReadRxBuffer
+                         637 --209: ** Description: This code shows how to read message from Rx buffer
+                         638 --210: ** Parameter:   pRxBufIdx - Pointer to Rx buffer that receives frame
+                         639 --211: ** Return:      CAN_RTN_OK           - A frame is successfully read out
+                         640 --212: **              CAN_RTN_BUFFER_EMPTY - No frame is read out   
+                         641 --213: ******************************************************************************/
+                         642 --214: Can_RtnType W_RSCAN_ReadRxBuffer(Can_FrameType* pFrame )
+                         643 	.align	2
+                         644 	.align	2
+                         645 	.global	_W_RSCAN_ReadRxBuffer
+                         646 _W_RSCAN_ReadRxBuffer:
+000001d0 8007c130        647 	prepare	{r26,r27,r28,r29},0
+000001d4 0648            648 	mov	r6,r9
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         649 --	    .bf
+                         650 .LDW91:
+                         651 --215: {
+                         652 --216:     uint8_t BufIdx;
+                         653 --217:     uint8_t CRBRCFiBufIdx;
+                         654 --218:     uint8_t OverwrittenFlag;
+                         655 --219:     uint32_t TempCRBRCF0;
+                         656 --220:     uint32_t TempCRBRCF1;
+                         657 --221:     Can_FrameType* pRxBuffer;
+                         658 --222:     volatile uint32_t* pCRBRCF;
+                         659 --223:     Can_RtnType RtnValue;
+                         660 --225:     /* Judge if new messages are available */
+                         661 --226: #ifdef RSCAN_RX_FIFO
+                         662 --227: 	if (RSCAN0RFEMP == 1) { //RSCAN0RFEMP or  RSCAN0CFEMP
+                         663 --228:         RtnValue = CAN_RTN_BUFFER_EMPTY;	// buffer empty, no new data 
+                         664 --229:         return RtnValue;
+                         665 --230:     }
+                         666 --231: #endif
+                         667 --232: 	
+                         668 --233:     TempCRBRCF0 = RSCAN0RMND0;	//Receive Buffer New Data Register, if it is true, new data is coming
+000001d6 8007896a01a0    669 	ld.w	4291821736[zero],r13
+                         670 --234:     TempCRBRCF1 = RSCAN0RMND1;
+000001dc 8007c95a01a0    671 	ld.w	4291821740[zero],r11
+                         672 --236:     //if ((TempCRBRCF0 == CAN_EMPTY) && (TempCRBRCF1 == CAN_EMPTY)) //CAN_EMPTY==0
+                         673 --237:     if (TempCRBRCF0 == CAN_EMPTY) //CAN_CLR==0
+000001e2 e069            674 	cmp	zero,r13
+000001e4 ba05*           675 	bne	.L528
+                         676 --238:     {
+                         677 --239:         RtnValue = CAN_RTN_BUFFER_EMPTY;	// buffer empty, no new data 
+                         678 --line239
+                         679 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.20::
+                         680 .LDWlin20:
+000001e6 0252            681 	mov	2,r10
+                         682 --240:         return RtnValue;
+000001e8 b55d*           683 	br	.L526
+                         684 .L528:
+                         685 --241:     }
+                         686 --242:     
+                         687 --243:     //while(RSCAN0RMND0 || RSCAN0RMND1)
+                         688 --244:     while(RSCAN0RMND0)
+                         689 --line244
+                         690 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.21::
+                         691 .LDWlin21:
+000001ea d555*           692 	br	.L531
+                         693 .L533:
+                         694 --245:     {
+                         695 --246:             /* Get Rx buffer that has new message */
+                         696 --247:             if (TempCRBRCF0 != CAN_EMPTY) 
+                         697 --line247
+                         698 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.22::
+                         699 .LDWlin22:
+000001ec e069            700 	cmp	zero,r13
+000001ee 9215*           701 	be	.L534
+                         702 --248:             {
+                         703 --249:                 pCRBRCF = (volatile uint32_t*)&(RSCAN0RMND0);
+                         704 --line249
+                         705 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.23::
+                         706 .LDWlin23:
+000001f0 3e06a800d0ff    707 	mov	-3145560,ep
+                         708 --250:                 for (BufIdx = 0U; BufIdx < CAN_CRBRCF0_RX_BUF_NUM; ++BufIdx) //CAN_CRBRCF0_RX_BUF_NUM=32
+000001f6 000a            709 	mov	0,r1
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+000001f8 0000            710 	nop
+                         711 .L538:
+                         712 --251:                 {
+                         713 --252:                     if ((TempCRBRCF0 & CAN_1_BIT_MASK) == CAN_SET) //CAN_1_BIT_MASK==0x1; CAN_SET=0x1
+000001fa cd060100        714 	andi	1,r13,zero
+000001fe a205*           715 	be	.L539
+                         716 --253:                     {
+                         717 --254:                         break;	//if checked bit is 1, that means there is a new message in corresponding receive buffer 
+                         718 --line254
+                         719 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.24::
+                         720 .LDWlin24:
+00000200 c51d*           721 	br	.L543
+                         722 .L539:
+                         723 --255:                     }
+                         724 --256:                     TempCRBRCF0 = TempCRBRCF0 >> CAN_B1_BIT_POS; //CAN_B1_BIT_POS=0x1
+                         725 --line256
+                         726 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.25::
+                         727 .LDWlin25:
+00000202 816a            728 	shr	1,r13
+00000204 410a            729 	add	1,r1
+00000206 8100            730 	zxb	r1
+00000208 0106e0ff        731 	addi	-32,r1,zero
+0000020c f9f5*           732 	bnl	.L538
+0000020e d515*           733 	br	.L543
+                         734 .L534:
+                         735 --257:                 }
+                         736 --258:             }
+                         737 --259:             else if (TempCRBRCF1 != CAN_EMPTY)
+                         738 --line259
+                         739 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.26::
+                         740 .LDWlin26:
+00000210 e059            741 	cmp	zero,r11
+00000212 b215*           742 	be	.L543
+                         743 --260:             {
+                         744 --261:                 pCRBRCF = (volatile uint32_t*)&(RSCAN0RMND1);
+                         745 --line261
+                         746 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.27::
+                         747 .LDWlin27:
+00000214 3e06ac00d0ff    748 	mov	-3145556,ep
+                         749 --262:                 for (BufIdx = 0U; BufIdx < CAN_CRBRCF1_RX_BUF_NUM; ++BufIdx) 
+0000021a 000a            750 	mov	0,r1
+0000021c 0000            751 	nop
+                         752 .L548:
+                         753 --263:                 {
+                         754 --264:                     if ((TempCRBRCF1 & CAN_1_BIT_MASK) == CAN_SET) 
+0000021e cb060100        755 	andi	1,r11,zero
+00000222 a205*           756 	be	.L549
+                         757 --265:                     {
+                         758 --266:                         break;
+                         759 --line266
+                         760 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.28::
+                         761 .LDWlin28:
+00000224 f505*           762 	br	.L551
+                         763 .L549:
+                         764 --267:                     }
+                         765 --268:                     TempCRBRCF1 = TempCRBRCF1 >> CAN_B1_BIT_POS;
+                         766 --line268
+                         767 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.29::
+                         768 .LDWlin29:
+00000226 815a            769 	shr	1,r11
+00000228 410a            770 	add	1,r1
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+0000022a 8100            771 	zxb	r1
+0000022c 0106e0ff        772 	addi	-32,r1,zero
+00000230 f9f5*           773 	bnl	.L548
+                         774 .L551:
+                         775 --269:                 }
+                         776 --270:                 BufIdx += CAN_CRBRCF0_RX_BUF_NUM;	//CAN_CRBRCF0_RX_BUF_NUM ==32U
+                         777 --line270
+                         778 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.30::
+                         779 .LDWlin30:
+00000232 010e2000        780 	addi	32,r1,r1
+00000236 8100            781 	zxb	r1
+                         782 .L543:
+                         783 --271:             }
+                         784 --272:             /* Calculate index value in CRBRCFi */
+                         785 --273:             CRBRCFiBufIdx = BufIdx & CAN_5_BIT_MASK;	//CAN_5_BIT_MASK  0x1fU  0B11111
+00000238 c1761f00        786 	andi	31,r1,r14
+0000023c 8e00            787 	zxb	r14
+                         788 --275:             do 
+0000023e 0000            789 	nop
+                         790 .L555:
+                         791 --276:             {
+                         792 --277:                 /* Clear Rx complete flag of corresponding Rx buffer */
+                         793 --278:                 do 
+00000240 0000            794 	nop
+                         795 .L558:
+                         796 --279:                 {
+                         797 --280:                     CLR_BIT(*pCRBRCF, CRBRCFiBufIdx);	//To clear a flag to 0, the program must write 0 to the flag
+00000242 0152            798 	mov	1,r10
+00000244 ee57c250        799 	shl	r14,r10,r10
+00000248 2a38            800 	not	r10,r7
+0000024a 0055            801 	sld.w	0[ep],r10
+0000024c 4751            802 	and	r7,r10
+0000024e 0155            803 	sst.w	r10,0[ep]
+00000250 0055            804 	sld.w	0[ep],r10
+00000252 ee578250        805 	shr	r14,r10,r10
+00000256 8152            806 	shr	1,r10
+00000258 d1f5*           807 	bl	.L558
+                         808 --281:                 } while (GET_BIT(*pCRBRCF, CRBRCFiBufIdx) == CAN_SET);
+                         809 --283:                 /* Read out message from Rx buffer */
+                         810 --284:                 pRxBuffer = (Can_FrameType*) &(RSCAN0RMID0);
+                         811 --line284
+                         812 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.31::
+                         813 .LDWlin31:
+0000025a 28060006d0ff    814 	mov	-3144192,r8
+                         815 --285:                 *pFrame = pRxBuffer[BufIdx];
+00000260 0150            816 	mov	r1,r10
+00000262 c452            817 	shl	4,r10
+00000264 c851            818 	add	r8,r10
+00000266 aa0709e00000    819 	ld.dw	0[r10],r28
+0000026c aa0789d00000    820 	ld.dw	8[r10],r26
+00000272 a9070fe00000    821 	st.dw	r28,0[r9]
+00000278 a9078fd00000    822 	st.dw	r26,8[r9]
+                         823 --287:                 /* Judge if current message is overwritten */
+                         824 --288:                 OverwrittenFlag = GET_BIT(*pCRBRCF, CRBRCFiBufIdx);
+0000027e 0055            825 	sld.w	0[ep],r10
+00000280 ee578250        826 	shr	r14,r10,r10
+00000284 ca660100        827 	andi	1,r10,r12
+00000288 8c00            828 	zxb	r12
+                         829 --289:                 /* message is overwritten */
+                         830 --290:                 if (OverwrittenFlag == CAN_SET) 
+0000028a 0000            831 	nop
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         832 --291:                 {
+0000028c 6162            833 	cmp	1,r12
+0000028e 92dd*           834 	be	.L555
+                         835 --292:                     /* User process for message overwritten */
+                         836 --293:                     //Usr_HandleRxBufOverwritten(BufIdx);
+                         837 --294:                 }
+                         838 --295:             } while (OverwrittenFlag == CAN_SET);
+                         839 --297:             RtnValue = CAN_RTN_OK;
+                         840 --line297
+                         841 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.32::
+                         842 .LDWlin32:
+00000290 0052            843 	mov	0,r10
+                         844 --298:             return RtnValue;
+00000292 e505*           845 	br	.L526
+                         846 .L531:
+                         847 --line244
+                         848 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.33::
+                         849 .LDWlin33:
+00000294 8007890a01a0    850 	ld.w	4291821736[zero],r1
+0000029a e009            851 	cmp	zero,r1
+0000029c 8aad*           852 	bne	.L533
+                         853 --299:     }
+                         854 --300: }
+                         855 .L526:
+                         856 --	    .ef
+                         857 .LDW02:
+                         858 --line300
+                         859 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.34::
+                         860 .LDWlin34:
+0000029e 4006df30        861 	dispose	0,{r26,r27,r28,r29},[lp]
+                         862 	.type	_W_RSCAN_ReadRxBuffer,@function
+                         863 	.size	_W_RSCAN_ReadRxBuffer,.-_W_RSCAN_ReadRxBuffer
+                         864 	.align	2
+                         865 .LDW12:
+                         866 --_BufIdx	r1	local
+                         867 --_CRBRCFiBufIdx	r14	local
+                         868 --_OverwrittenFlag	r12	local
+                         869 --_TempCRBRCF0	r13	local
+                         870 --_TempCRBRCF1	r11	local
+                         871 --_pRxBuffer	r8	local
+                         872 --_pCRBRCF	ep	local
+                         873 --_RtnValue	r10	local
+                         874 
+                         875 --_pFrame	r9	param
+                         876 
+                         877 	.section ".bss","awb"
+                         878 .L771:
+                         879 	.type	.L771,@object
+                         880 	.size	.L771,0
+                         881 	.data
+                         882 	.text
+                         883 
+                         884 
+                         885 --303: /*****************************************************************************
+                         886 --304: ** Function:    W_RSCAN_SendTxBuffer
+                         887 --305: ** Description: This code shows how to send message from Tx buffer
+                         888 --306: ** Parameter:   pRxBufIdx - Pointer to Rx buffer that receives frame
+                         889 --307: ** Return:      CAN_RTN_OK           - A frame is successfully read out
+                         890 --308: **              CAN_RTN_BUFFER_EMPTY - No frame is read out   
+                         891 --309: ******************************************************************************/
+                         892 --310: Can_RtnType W_RSCAN_SendTxBuffer(uint8_t TxBufIdx, const Can_FrameType* pFrame, uint8_t u8retry_counter)
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         893 	.align	2
+                         894 	.align	2
+                         895 	.global	_W_RSCAN_SendTxBuffer
+                         896 _W_RSCAN_SendTxBuffer:
+000002a2 80076130        897 	prepare	{r26,r27,r29,r31},0
+000002a6 c676ff00        898 	andi	255,r6,r14
+000002aa 0760            899 	mov	r7,r12
+000002ac c84eff00        900 	andi	255,r8,r9
+                         901 --	    .bf
+                         902 .LDW22:
+                         903 --311: {
+                         904 --312:     volatile uint8_t* pTBSR;
+                         905 --313:     Can_FrameType* pTxBuffer;
+                         906 --314:     volatile uint8_t* pTBCR;
+                         907 --315:     uint8_t u8retry_temp;
+                         908 --317:     pTBSR = &(RSCAN0TMSTS0);
+000002b0 2d06d002d0ff    909 	mov	-3145008,r13
+                         910 --318:     pTBCR = &(RSCAN0TMC0);
+000002b6 2a065002d0ff    911 	mov	-3145136,r10
+                         912 --320:     /* ---- Return if Tx Buffer is transmitting. ---- */    
+                         913 --321:     if( (pTBSR[TxBufIdx] & (uint8_t)0x01) == CAN_TBTST_TRANSMITTING )
+000002bc 0ef0            914 	mov	r14,ep
+000002be cdf1            915 	add	r13,ep
+000002c0 6008            916 	sld.bu	0[ep],r1
+000002c2 810a            917 	shr	1,r1
+000002c4 c905*           918 	bnl	.L901
+                         919 --322:     {
+                         920 --323:         return CAN_RTN_ERR;
+                         921 --line323
+                         922 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.35::
+                         923 .LDWlin35:
+000002c6 20eeff00        924 	movea	255,zero,r29
+000002ca c52d*           925 	br	.L899
+                         926 .L901:
+                         927 --324:     }
+                         928 --326:     u8retry_temp = u8retry_counter;
+                         929 --line326
+                         930 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.36::
+                         931 .LDWlin36:
+000002cc 0908            932 	mov	r9,r1
+                         933 --327:     /* Clear Tx buffer status */
+                         934 --328:     do 
+000002ce 0000            935 	nop
+                         936 .L906:
+                         937 --329:     {
+                         938 --330:         pTBSR[TxBufIdx] = CAN_CLR;
+000002d0 0ef0            939 	mov	r14,ep
+000002d2 cdf1            940 	add	r13,ep
+000002d4 8003            941 	sst.b	zero,0[ep]
+000002d6 0ef0            942 	mov	r14,ep
+000002d8 cdf1            943 	add	r13,ep
+000002da 6058            944 	sld.bu	0[ep],r11
+000002dc e059            945 	cmp	zero,r11
+000002de e205*           946 	be	.L904
+000002e0 0158            947 	mov	r1,r11
+000002e2 5f0a            948 	add	-1,r1
+000002e4 e059            949 	cmp	zero,r11
+000002e6 8100            950 	zxb	r1
+000002e8 cbf5*           951 	bh	.L906
+                         952 .L904:
+                         953 --331:     } while (pTBSR[TxBufIdx] != CAN_CLR && u8retry_temp-- > 0);
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                         954 --333:     if(u8retry_temp == 0)
+                         955 --line333
+                         956 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.37::
+                         957 .LDWlin37:
+000002ea e009            958 	cmp	zero,r1
+000002ec ca05*           959 	bne	.L908
+                         960 --334:         return CAN_RETRY_ERROR;
+                         961 --line334
+                         962 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.38::
+                         963 .LDWlin38:
+000002ee 20eefe00        964 	movea	254,zero,r29
+000002f2 851d*           965 	br	.L899
+                         966 .L908:
+                         967 --335:     
+                         968 --336:     /* Store message to tx buffer */
+                         969 --337:     pTxBuffer = (Can_FrameType*) &(RSCAN0TMID0);
+                         970 --line337
+                         971 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan.39::
+                         972 .LDWlin39:
+000002f4 2b060010d0ff    973 	mov	-3141632,r11
+                         974 --338:     pTxBuffer[TxBufIdx] = *pFrame;
+000002fa ac0709d00000    975 	ld.dw	0[r12],r26
+00000300 ac0789f00000    976 	ld.dw	8[r12],ep
+00000306 0ee8            977 	mov	r14,r29
+00000308 c4ea            978 	shl	4,r29
+0000030a cbe9            979 	add	r11,r29
+0000030c bd070fd00000    980 	st.dw	r26,0[r29]
+00000312 bd078ff00000    981 	st.dw	ep,8[r29]
+                         982 --340:     /* Set transmission request */
+                         983 --341:     pTBCR[TxBufIdx] = CAN_TBCR_TRM;
+00000318 0ef0            984 	mov	r14,ep
+0000031a caf1            985 	add	r10,ep
+0000031c 01ea            986 	mov	1,r29
+0000031e 80eb            987 	sst.b	r29,0[ep]
+                         988 --343:     return CAN_RTN_OK;
+00000320 00ea            989 	mov	0,r29
+                         990 .L899:
+                         991 --	    .ef
+                         992 .LDW32:
+00000322 1d50            993 	mov	r29,r10
+00000324 40067f30        994 	dispose	0,{r26,r27,r29,r31},[lp]
+                         995 	.type	_W_RSCAN_SendTxBuffer,@function
+                         996 	.size	_W_RSCAN_SendTxBuffer,.-_W_RSCAN_SendTxBuffer
+                         997 	.align	2
+                         998 .LDW42:
+                         999 --_pTBSR	r13	local
+                        1000 --_pTxBuffer	r11	local
+                        1001 --_pTBCR	r10	local
+                        1002 --_u8retry_temp	r1	local
+                        1003 
+                        1004 --_TxBufIdx	r14	param
+                        1005 --_pFrame	r12	param
+                        1006 --_u8retry_counter	r9	param
+                        1007 
+                        1008 	.section ".bss","awb"
+                        1009 .L982:
+                        1010 	.type	.L982,@object
+                        1011 	.size	.L982,0
+                        1012 	.data
+                        1013 	.text
+                        1014 
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                        1015 --344: }
+                        1016 	.align	2
+                        1017 
+                        1018 	.section ".rodata","a"
+                        1019 	.align	4
+                        1020 	.global	_ccan0_pin_config
+00000000 00             1021 _ccan0_pin_config:	.space	1
+00000001 0404           1022 	.byte	4,4
+00000003 00             1023 	.space	1
+00000004 00000000       1024 	.space	4
+00000008 00             1025 	.space	1
+00000009 000000         1026 	.space	3
+0000000c 00000000       1027 	.space	4
+00000010 00             1028 	.space	1
+00000011 00             1029 	.space	1
+00000012 00             1030 	.space	1
+00000013 01             1031 	.byte	1
+00000014 00             1032 	.space	1
+00000015 0504           1033 	.byte	5,4
+00000017 00             1034 	.space	1
+00000018 01000000       1035 	.byte	1,0,0,0
+0000001c 00             1036 	.space	1
+0000001d 000000         1037 	.space	3
+00000020 00000000       1038 	.space	4
+00000024 00             1039 	.space	1
+00000025 00             1040 	.space	1
+00000026 00             1041 	.space	1
+00000027 01             1042 	.byte	1
+00000028 00             1043 	.space	1
+00000029 ff             1044 	.byte	255
+0000002a 00             1045 	.space	1
+0000002b 00             1046 	.space	1
+0000002c 00000000       1047 	.space	4
+00000030 00             1048 	.space	1
+00000031 000000         1049 	.space	3
+00000034 00000000       1050 	.space	4
+00000038 00             1051 	.space	1
+00000039 00             1052 	.space	1
+0000003a 00             1053 	.space	1
+0000003b 01             1054 	.byte	1
+                        1055 	.type	_ccan0_pin_config,@object
+                        1056 	.size	_ccan0_pin_config,60
+                        1057 	.global	_ccan1_pin_config
+0000003c 00             1058 _ccan1_pin_config:	.space	1
+0000003d 0604           1059 	.byte	6,4
+0000003f 00             1060 	.space	1
+00000040 00000000       1061 	.space	4
+00000044 00             1062 	.space	1
+00000045 000000         1063 	.space	3
+00000048 00000000       1064 	.space	4
+0000004c 00             1065 	.space	1
+0000004d 00             1066 	.space	1
+0000004e 00             1067 	.space	1
+0000004f 01             1068 	.byte	1
+00000050 00             1069 	.space	1
+00000051 0704           1070 	.byte	7,4
+00000053 00             1071 	.space	1
+00000054 01000000       1072 	.byte	1,0,0,0
+00000058 00             1073 	.space	1
+00000059 000000         1074 	.space	3
+0000005c 00000000       1075 	.space	4
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+00000060 00             1076 	.space	1
+00000061 00             1077 	.space	1
+00000062 00             1078 	.space	1
+00000063 01             1079 	.byte	1
+00000064 00             1080 	.space	1
+00000065 ff             1081 	.byte	255
+00000066 00             1082 	.space	1
+00000067 00             1083 	.space	1
+00000068 00000000       1084 	.space	4
+0000006c 00             1085 	.space	1
+0000006d 000000         1086 	.space	3
+00000070 00000000       1087 	.space	4
+00000074 00             1088 	.space	1
+00000075 00             1089 	.space	1
+00000076 00             1090 	.space	1
+00000077 01             1091 	.byte	1
+                        1092 	.type	_ccan1_pin_config,@object
+                        1093 	.size	_ccan1_pin_config,60
+                        1094 	.global	_RX_RULE_TABLE_LIST
+00000078 86020000       1095 _RX_RULE_TABLE_LIST:	.byte	134,2,0,0
+0000007c ffffffdf       1096 	.byte	255,255,255,223
+00000080 000000f0       1097 	.byte	0,0,0,240
+00000084 01000000       1098 	.byte	1,0,0,0
+00000088 87020000       1099 	.byte	135,2,0,0
+0000008c ffffffdf       1100 	.byte	255,255,255,223
+00000090 008000f1       1101 	.byte	0,128,0,241
+00000094 00000000       1102 	.space	4
+00000098 33010000       1103 	.byte	51,1,0,0
+0000009c ffffffdf       1104 	.byte	255,255,255,223
+000000a0 008100f2       1105 	.byte	0,129,0,242
+000000a4 00000000       1106 	.space	4
+000000a8 34010000       1107 	.byte	52,1,0,0
+000000ac ffffffdf       1108 	.byte	255,255,255,223
+000000b0 008200f3       1109 	.byte	0,130,0,243
+000000b4 00000000       1110 	.space	4
+000000b8 3e050000       1111 	.byte	62,5,0,0
+000000bc ffffffdf       1112 	.byte	255,255,255,223
+000000c0 008300f4       1113 	.byte	0,131,0,244
+000000c4 00000000       1114 	.space	4
+000000c8 3f050000       1115 	.byte	63,5,0,0
+000000cc ffffffdf       1116 	.byte	255,255,255,223
+000000d0 008400f5       1117 	.byte	0,132,0,245
+000000d4 00000000       1118 	.space	4
+000000d8 34040000       1119 	.byte	52,4,0,0
+000000dc ffffffdf       1120 	.byte	255,255,255,223
+000000e0 008500f6       1121 	.byte	0,133,0,246
+000000e4 00000000       1122 	.space	4
+000000e8 40030000       1123 	.byte	64,3,0,0
+000000ec ffffffdf       1124 	.byte	255,255,255,223
+000000f0 008600f7       1125 	.byte	0,134,0,247
+000000f4 00000000       1126 	.space	4
+000000f8 6b050000       1127 	.byte	107,5,0,0
+000000fc ffffffdf       1128 	.byte	255,255,255,223
+00000100 008700f8       1129 	.byte	0,135,0,248
+00000104 00000000       1130 	.space	4
+                        1131 	.type	_RX_RULE_TABLE_LIST,@object
+                        1132 	.size	_RX_RULE_TABLE_LIST,144
+                        1133 	.data
+                        1134 	.ghsnote version,15
+                        1135 	.ghsnote tools,3
+                        1136 	.ghsnote options,144
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000nks1.si
+                        1137 	.text
+                        1138 	.align	2
+                        1139 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_sys_rscan...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02A..0::
+                        1140 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M
