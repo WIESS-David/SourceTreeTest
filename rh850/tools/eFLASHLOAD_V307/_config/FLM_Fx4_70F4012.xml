@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<eFLASHLOAD>
+   <DeviceSection>
+      <DEVICE_FILE>..\devicefile\DF4012.800</DEVICE_FILE>
+      <DEVICE_OCDSECID>FFFFFFFFFFFFFFFFFFFFFFFF</DEVICE_OCDSECID>
+      <DEVICE_CLOCK>16000</DEVICE_CLOCK>
+      <DEVICE_AUTOCON>off</DEVICE_AUTOCON>
+   </DeviceSection>
+   <MonitorSection>
+      <MONITOR_FILE>..\FLASH_monitor\FLM_Fx4_70F4012_Selfprog\out\FLM_Fx4_70F4012.hex</MONITOR_FILE>
+      <MONITOR_SADDR>FEDDC000</MONITOR_SADDR>
+      <MONITOR_PADDR>FEDE0000</MONITOR_PADDR>
+   </MonitorSection>
+   <FlashSection>
+      <FLASH_FILE>..\_image\int_Image_0x0000000.rec</FLASH_FILE>
+      <FLASH_ADDROFFSET>00000000</FLASH_ADDROFFSET>
+   </FlashSection>
+</eFLASHLOAD>
+

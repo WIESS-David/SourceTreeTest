@@ -1,0 +1,1643 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_bsp_hmi_knob.dbo -source=r_bsp_hmi_knob.c -o .\obj\gh_0000ok01.o -list=.\obj\r_bsp_hmi_knob.lst C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+Source File: r_bsp_hmi_knob.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\bsp\board\d1mx_mango\src\hmi\r_bsp_hmi_knob.c -o
+                         171 --		.\obj\r_bsp_hmi_knob.o
+                         172 --Source File:   ..\..\..\..\..\bsp\board\d1mx_mango\src\hmi\r_bsp_hmi_knob.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:53 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : BSP HMI Knob/Button
+                         186 --4: FILE    : $Id: r_bsp_hmi_knob.c 11411 2016-12-02 13:21:10Z tobyas.hennig $
+                         187 --5: ============================================================================ 
+                         188 --6: DESCRIPTION
+                         189 --7: BSP Implementation D1Mx MANGO Board support sys functions - knob and button
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T                            
+                         192 --10: ============================================================================
+                         193 --11:                            Copyright (c) 2016
+                         194 --12:                                   by 
+                         195 --13:                        Renesas Electronics (Europe) GmbH. 
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing
+                         202 --21: DISCLAIMER                                                                   
+                         203 --22: This software is supplied by Renesas Electronics Corporation and is only     
+                         204 --23: intended for use with Renesas products. No other uses are authorized. This   
+                         205 --24: software is owned by Renesas Electronics Corporation and is protected under  
+                         206 --25: all applicable laws, including copyright laws.                               
+                         207 --26: THIS SOFTWARE IS PROVIDED "AS IS" AND RENESAS MAKES NO WARRANTIES REGARDING  
+                         208 --27: THIS SOFTWARE, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT      
+                         209 --28: LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE   
+                         210 --29: AND NON-INFRINGEMENT. ALL SUCH WARRANTIES ARE EXPRESSLY DISCLAIMED.          
+                         211 --30: TO THE MAXIMUM EXTENT PERMITTED NOT PROHIBITED BY LAW, NEITHER RENESAS       
+                         212 --31: ELECTRONICS CORPORATION NOR ANY OF ITS AFFILIATED COMPANIES SHALL BE LIABLE  
+                         213 --32: FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR   
+                         214 --33: ANY REASON RELATED TO THIS SOFTWARE, EVEN IF RENESAS OR ITS AFFILIATES HAVE  
+                         215 --34: BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.                             
+                         216 --35: Renesas reserves the right, without notice, to make changes to this software 
+                         217 --36: and to discontinue the availability of this software. By using this software,
+                         218 --37: you agree to the additional terms and conditions found by accessing the      
+                         219 --38: following link:                                                              
+                         220 --39: http://www.renesas.com/disclaimer *                                          
+                         221 --40: Copyright (C) 2011 Renesas Electronics Corporation. All rights reserved.     
+                         222 --42: ****************************************************************************
+                         223 --43: */
+                         224 --45: /*******************************************************************************
+                         225 --46:   Section: Includes
+                         226 --47: */
+                         227 --49: #include "r_typedefs.h"     /* Renesas basic types, e.g. uint32_t */
+                         228 --50: #include "r_dev_api.h"
+                         229 --51: #include "r_gpio_api.h"
+                         230 --52: #include "r_bsp_hmi_api.h"
+                         231 --53: #include "r_bsp_hmi_knob.h" /* BSP HMI Knob and Button */
+                         232 --54: #include "r_tauj_api.h"
+                         233 --57: /*******************************************************************************
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         234 --58:   Section: Local variable 
+                         235 --59: */
+                         236 --61: /*******************************************************************************
+                         237 --62:   Variable: locRight 
+                         238 --63:             locLeft 
+                         239 --65:   Debouncing counters for clean rotation recognition
+                         240 --66: */
+                         241 --67: static int32_t locPinA = 0; 
+                         242 --68: static int32_t locPinB = 0; 
+                         243 --70: /*******************************************************************************
+                         244 --71:   Section: Local Functions
+                         245 --72: */
+                         246 --73: static void locRtKnobAAction(void);
+                         247 --74: static void locRtKnobBAction(void);
+                         248 --75: static void locRtKnobCenterAction(void);
+                         249 --76: static void locConfigTauj(void); 
+                         250 --77: static void locTauj0ch0Isr (void); 
+                         251 --78: static void locTauj0ch1Isr (void); 
+                         252 --79: static void locButtonLeftAction(void);
+                         253 --80: static void locButtonUpAction(void);
+                         254 --82: #if USE_FOUT_INSTEAD_BSP_BTN_DOWN != 1
+                         255 --83:     static void locButtonDownAction(void);
+                         256 --84: #endif  /* USE_FOUT_INSTEAD_BSP_BTN_DOWN */
+                         257 --86: static void locButtonRightAction(void);
+                         258 --87: static void locButtonCenterAction(void);
+                         259 --89: /*
+                         260 --90:   Configure TAUJ to generate interrupt every 500uSec
+                         261 --91: */
+                         262 --92: static void locConfigTauj(void)
+                         263 	.text
+                         264 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                         265 	.align	2
+                         266 	.global	_locConfigTauj..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         267 _locConfigTauj..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                         268 _locConfigTauj:
+00000000 8007e100        269 	prepare	{r28,r29,r31},0
+                         270 --	    .bf
+                         271 .LDW01:
+                         272 --93: {
+                         273 --94:     r_tauj_Error_t error = R_TAUJ_ERR_OK;
+00000004 00ea            274 	mov	0,r29
+                         275 --95:     uint8_t Inst = 0;
+00000006 00e2            276 	mov	0,r28
+                         277 --96:     error = R_TAUJ_Init(0);
+00000008 0032            278 	mov	0,r6
+                         279 	jarl	_R_TAUJ_Init,lp
+                         279 <EXPANSION BEGIN>
+                         279 jarl22 _R_TAUJ_Init , lp 
+0000000a 80ff0000*       279 <EXPANSION END>
+0000000e 0ae8            280 	mov	r10,r29
+                         281 --97:     /* set the clock period for CK0 (TPS) */
+                         282 --98:     error += R_TAUJ_SetClockPeriod(Inst, R_TAUJ_CK_0,  R_TAUJ_TIME_INTERVAL_0);
+                         283 --line98
+                         284 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.1::
+                         285 .LDWlin1:
+00000010 1c30            286 	mov	r28,r6
+00000012 003a            287 	mov	0,r7
+00000014 0042            288 	mov	0,r8
+                         289 	jarl	_R_TAUJ_SetClockPeriod,lp
+                         289 <EXPANSION BEGIN>
+                         289 jarl22 _R_TAUJ_SetClockPeriod , lp 
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+00000016 80ff0000*       289 <EXPANSION END>
+0000001a cae9            290 	add	r10,r29
+                         291 --99:     /* select the clock source for the timer channel CK_0 - 3 in the CMOR */
+                         292 --100:     error += R_TAUJ_SetClkSource(Inst, (r_tauj_Channel_t)0, R_TAUJ_CK_0);
+                         293 --line100
+                         294 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.2::
+                         295 .LDWlin2:
+0000001c 1c30            296 	mov	r28,r6
+0000001e 003a            297 	mov	0,r7
+00000020 0042            298 	mov	0,r8
+                         299 	jarl	_R_TAUJ_SetClkSource,lp
+                         299 <EXPANSION BEGIN>
+                         299 jarl22 _R_TAUJ_SetClkSource , lp 
+00000022 80ff0000*       299 <EXPANSION END>
+00000026 cae9            300 	add	r10,r29
+                         301 --101:     error += R_TAUJ_SetClkSource(Inst, (r_tauj_Channel_t)1, R_TAUJ_CK_0);
+                         302 --line101
+                         303 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.3::
+                         304 .LDWlin3:
+00000028 1c30            305 	mov	r28,r6
+0000002a 013a            306 	mov	1,r7
+0000002c 0042            307 	mov	0,r8
+                         308 	jarl	_R_TAUJ_SetClkSource,lp
+                         308 <EXPANSION BEGIN>
+                         308 jarl22 _R_TAUJ_SetClkSource , lp 
+0000002e 80ff0000*       308 <EXPANSION END>
+00000032 cae9            309 	add	r10,r29
+                         310 --102:     /* select the mode for the timer channel (CMOR) */
+                         311 --103:     error += R_TAUJ_SetMode(Inst, (r_tauj_Channel_t)0, R_TAUJ_INTERVAL_TIMER_MODE);
+                         312 --line103
+                         313 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.4::
+                         314 .LDWlin4:
+00000034 1c30            315 	mov	r28,r6
+00000036 003a            316 	mov	0,r7
+00000038 0042            317 	mov	0,r8
+                         318 	jarl	_R_TAUJ_SetMode,lp
+                         318 <EXPANSION BEGIN>
+                         318 jarl22 _R_TAUJ_SetMode , lp 
+0000003a 80ff0000*       318 <EXPANSION END>
+0000003e cae9            319 	add	r10,r29
+                         320 --104:     error += R_TAUJ_SetMode(Inst, (r_tauj_Channel_t)1, R_TAUJ_INTERVAL_TIMER_MODE);
+                         321 --line104
+                         322 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.5::
+                         323 .LDWlin5:
+00000040 1c30            324 	mov	r28,r6
+00000042 013a            325 	mov	1,r7
+00000044 0042            326 	mov	0,r8
+                         327 	jarl	_R_TAUJ_SetMode,lp
+                         327 <EXPANSION BEGIN>
+                         327 jarl22 _R_TAUJ_SetMode , lp 
+00000046 80ff0000*       327 <EXPANSION END>
+0000004a cae9            328 	add	r10,r29
+                         329 --105:     /* Write the count value in the CDR */
+                         330 --106:     error += R_TAUJ_SetPeriod(Inst, (r_tauj_Channel_t)0, /*0x15E0*/0x12C0 * 15);
+                         331 --line106
+                         332 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.6::
+                         333 .LDWlin6:
+0000004c 1c30            334 	mov	r28,r6
+0000004e 003a            335 	mov	0,r7
+00000050 280640190100    336 	mov	72000,r8
+                         337 	jarl	_R_TAUJ_SetPeriod,lp
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         337 <EXPANSION BEGIN>
+                         337 jarl22 _R_TAUJ_SetPeriod , lp 
+00000056 80ff0000*       337 <EXPANSION END>
+0000005a cae9            338 	add	r10,r29
+                         339 --107:     error += R_TAUJ_SetPeriod(Inst, (r_tauj_Channel_t)1, /*0x15E0*/0x12C0 * 15);
+                         340 --line107
+                         341 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.7::
+                         342 .LDWlin7:
+0000005c 1c30            343 	mov	r28,r6
+0000005e 013a            344 	mov	1,r7
+00000060 280640190100    345 	mov	72000,r8
+                         346 	jarl	_R_TAUJ_SetPeriod,lp
+                         346 <EXPANSION BEGIN>
+                         346 jarl22 _R_TAUJ_SetPeriod , lp 
+00000066 80ff0000*       346 <EXPANSION END>
+0000006a cae9            347 	add	r10,r29
+                         348 --108:     /* Enable the output (TOE) */
+                         349 --109:     error += R_TAUJ_OutputDisable(Inst, R_TAUJ_CHANNEL_0);
+                         350 --line109
+                         351 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.8::
+                         352 .LDWlin8:
+0000006c 1c30            353 	mov	r28,r6
+0000006e 003a            354 	mov	0,r7
+                         355 	jarl	_R_TAUJ_OutputDisable,lp
+                         355 <EXPANSION BEGIN>
+                         355 jarl22 _R_TAUJ_OutputDisable , lp 
+00000070 80ff0000*       355 <EXPANSION END>
+00000074 cae9            356 	add	r10,r29
+                         357 --110:     /* Enable the output (TOE) */
+                         358 --111:     error += R_TAUJ_OutputDisable(Inst, R_TAUJ_CHANNEL_1);
+                         359 --line111
+                         360 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.9::
+                         361 .LDWlin9:
+00000076 1c30            362 	mov	r28,r6
+00000078 013a            363 	mov	1,r7
+                         364 	jarl	_R_TAUJ_OutputDisable,lp
+                         364 <EXPANSION BEGIN>
+                         364 jarl22 _R_TAUJ_OutputDisable , lp 
+0000007a 80ff0000*       364 <EXPANSION END>
+0000007e cae9            365 	add	r10,r29
+                         366 --112:     /* Enable interrupt */
+                         367 --113:     R_TAUJ_EnableInt(0, R_TAUJ_INT_CH0);
+                         368 --line113
+                         369 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.10::
+                         370 .LDWlin10:
+00000080 0032            371 	mov	0,r6
+00000082 003a            372 	mov	0,r7
+                         373 	jarl	_R_TAUJ_EnableInt,lp
+                         373 <EXPANSION BEGIN>
+                         373 jarl22 _R_TAUJ_EnableInt , lp 
+00000084 80ff0000*       373 <EXPANSION END>
+                         374 --114:     R_TAUJ_EnableInt(0, R_TAUJ_INT_CH1);
+                         375 --line114
+                         376 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.11::
+                         377 .LDWlin11:
+00000088 0032            378 	mov	0,r6
+0000008a 013a            379 	mov	1,r7
+                         380 	jarl	_R_TAUJ_EnableInt,lp
+                         380 <EXPANSION BEGIN>
+                         380 jarl22 _R_TAUJ_EnableInt , lp 
+0000008c 80ff0000*       380 <EXPANSION END>
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         381 --115:     /* Set ISR routine */
+                         382 --116:     R_TAUJ_SetIsrCallback(0, R_TAUJ_INT_CH0, &locTauj0ch0Isr);
+                         383 --line116
+                         384 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.12::
+                         385 .LDWlin12:
+00000090 280600000000*   386 	mov	_locTauj0ch0Isr,r8
+00000096 0032            387 	mov	0,r6
+00000098 003a            388 	mov	0,r7
+                         389 	jarl	_R_TAUJ_SetIsrCallback,lp
+                         389 <EXPANSION BEGIN>
+                         389 jarl22 _R_TAUJ_SetIsrCallback , lp 
+0000009a 80ff0000*       389 <EXPANSION END>
+                         390 --117:     R_TAUJ_SetIsrCallback(0, R_TAUJ_INT_CH1, &locTauj0ch1Isr);    
+                         391 --line117
+                         392 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.13::
+                         393 .LDWlin13:
+0000009e 280600000000*   394 	mov	_locTauj0ch1Isr,r8
+000000a4 0032            395 	mov	0,r6
+000000a6 013a            396 	mov	1,r7
+                         397 	jarl	_R_TAUJ_SetIsrCallback,lp
+                         397 <EXPANSION BEGIN>
+                         397 jarl22 _R_TAUJ_SetIsrCallback , lp 
+000000a8 80ff0000*       397 <EXPANSION END>
+                         398 --118: }
+                         399 --	    .ef
+                         400 .LDW11:
+                         401 --line118
+                         402 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.14::
+                         403 .LDWlin14:
+000000ac 4006ff00        404 	dispose	0,{r28,r29,r31},[lp]
+                         405 	.type	_locConfigTauj,@function
+                         406 	.size	_locConfigTauj,.-_locConfigTauj
+                         407 	.type	_locConfigTauj..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                         408 	.size	_locConfigTauj..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locConfigTauj..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         409 	.align	2
+                         410 .LDW21:
+                         411 --_error	r29	local
+                         412 --_Inst	r28	local
+                         413 
+                         414 	.section ".bss","awb"
+                         415 .L94:
+                         416 	.type	.L94,@object
+                         417 	.size	.L94,0
+                         418 	.data
+                         419 	.text
+                         420 
+                         421 
+                         422 --120: /*******************************************************************************
+                         423 --121:   Function: locTauj0ch0Isr
+                         424 --123:    Every edge on inputA re-starts the corresponding timer channel. 
+                         425 --124:    This is the tiner ISR. 
+                         426 --125:    Input Debouncing: 
+                         427 --126:    When this ISR is called that means the input was stable for the defined timer
+                         428 --127:    And can be processed - Button action call  
+                         429 --129:     Parameters:
+                         430 --130:     void
+                         431 --132:     Returns:
+                         432 --133:     void
+                         433 --134:  */
+                         434 --136: static void locTauj0ch0Isr (void)
+                         435 	.align	2
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         436 	.align	2
+                         437 	.align	2
+                         438 	.global	_locTauj0ch0Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         439 _locTauj0ch0Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                         440 _locTauj0ch0Isr:
+000000b0 8007e100        441 	prepare	{r28,r29,r31},0
+000000b4 3d0600000000*   442 	mov	.L258,r29
+                         443 --	    .bf
+                         444 .LDW31:
+                         445 --137: {
+                         446 --138:     uint8_t local_mask = 0; 
+000000ba 00e2            447 	mov	0,r28
+                         448 --139:     /* Stop counter */
+                         449 --140:     R_TAUJ_Stop(0, R_TAUJ_CHANNEL_0);
+000000bc 0032            450 	mov	0,r6
+000000be 003a            451 	mov	0,r7
+                         452 	jarl	_R_TAUJ_Stop,lp
+                         452 <EXPANSION BEGIN>
+                         452 jarl22 _R_TAUJ_Stop , lp 
+000000c0 80ff0000*       452 <EXPANSION END>
+                         453 --141:     
+                         454 --142:     /* Clear flag */
+                         455 --143:     locPinA = 0; 
+                         456 --line143
+                         457 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.15::
+                         458 .LDWlin15:
+000000c4 7d070100        459 	st.w	zero,0[r29]
+                         460 --144:     
+                         461 --145:     /* check if the other pin is stable too */
+                         462 --146:     if (0 == locPinB)
+000000c8 3d0f0500        463 	ld.w	4[r29],r1
+000000cc e009            464 	cmp	zero,r1
+000000ce da25*           465 	bne	.L156
+                         466 --147:     {
+                         467 --148:         local_mask   =  R_GPIO_ReadIntPin(BSP_KNOB_DIR_A_INTP);    
+                         468 --line148
+                         469 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.16::
+                         470 .LDWlin16:
+000000d0 0032            471 	mov	0,r6
+                         472 	jarl	_R_GPIO_ReadIntPin,lp
+                         472 <EXPANSION BEGIN>
+                         472 jarl22 _R_GPIO_ReadIntPin , lp 
+000000d2 80ff0000*       472 <EXPANSION END>
+000000d6 0ae0            473 	mov	r10,r28
+                         474 --149:         local_mask <<=  (uint8_t)1;    
+                         475 --line149
+                         476 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.17::
+                         477 .LDWlin17:
+000000d8 c1e2            478 	shl	1,r28
+000000da 9c00            479 	zxb	r28
+                         480 --150:         local_mask  |=  R_GPIO_ReadIntPin(BSP_KNOB_DIR_B_INTP);    
+000000dc 0132            481 	mov	1,r6
+                         482 	jarl	_R_GPIO_ReadIntPin,lp
+                         482 <EXPANSION BEGIN>
+                         482 jarl22 _R_GPIO_ReadIntPin , lp 
+000000de 80ff0000*       482 <EXPANSION END>
+000000e2 0ae1            483 	or	r10,r28
+000000e4 9c00            484 	zxb	r28
+                         485 --151:         
+                         486 --152:         switch (local_mask)
+                         487 --line152
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         488 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.18::
+                         489 .LDWlin18:
+000000e6 1c08            490 	mov	r28,r1
+000000e8 610a            491 	cmp	1,r1
+000000ea e105*           492 	bl	.L160
+000000ec 920d*           493 	be	.L161
+000000ee 630a            494 	cmp	3,r1
+000000f0 b10d*           495 	bl	.L162
+000000f2 ab15*           496 	bh	.L164
+000000f4 d50d*           497 	br	.L163
+                         498 .L160:
+                         499 --153:         {
+                         500 --154:         case 0:
+                         501 --155:             R_BSP_BtnAction(BSP_BTN_LEFT_TURN);
+                         502 --line155
+                         503 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.19::
+                         504 .LDWlin19:
+000000f6 0b32            505 	mov	11,r6
+                         506 	jarl	_R_BSP_BtnAction,lp
+                         506 <EXPANSION BEGIN>
+                         506 jarl22 _R_BSP_BtnAction , lp 
+000000f8 80ff0000*       506 <EXPANSION END>
+                         507 --line156
+                         508 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.20::
+                         509 .LDWlin20:
+000000fc e50d*           510 	br	.L156
+                         511 .L161:
+                         512 --156:             break;
+                         513 --157:         case 1:
+                         514 --158:             R_BSP_BtnAction(BSP_BTN_RIGHT_TURN);
+                         515 --line158
+                         516 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.21::
+                         517 .LDWlin21:
+000000fe 0c32            518 	mov	12,r6
+                         519 	jarl	_R_BSP_BtnAction,lp
+                         519 <EXPANSION BEGIN>
+                         519 jarl22 _R_BSP_BtnAction , lp 
+00000100 80ff0000*       519 <EXPANSION END>
+                         520 --line159
+                         521 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.22::
+                         522 .LDWlin22:
+00000104 a50d*           523 	br	.L156
+                         524 .L162:
+                         525 --159:             break;
+                         526 --160:         case 2:
+                         527 --161:             R_BSP_BtnAction(BSP_BTN_RIGHT_TURN);
+                         528 --line161
+                         529 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.23::
+                         530 .LDWlin23:
+00000106 0c32            531 	mov	12,r6
+                         532 	jarl	_R_BSP_BtnAction,lp
+                         532 <EXPANSION BEGIN>
+                         532 jarl22 _R_BSP_BtnAction , lp 
+00000108 80ff0000*       532 <EXPANSION END>
+                         533 --line162
+                         534 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.24::
+                         535 .LDWlin24:
+0000010c e505*           536 	br	.L156
+                         537 .L163:
+                         538 --162:             break;
+                         539 --163:         case 3:
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         540 --164:             R_BSP_BtnAction(BSP_BTN_LEFT_TURN);
+                         541 --line164
+                         542 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.25::
+                         543 .LDWlin25:
+0000010e 0b32            544 	mov	11,r6
+                         545 	jarl	_R_BSP_BtnAction,lp
+                         545 <EXPANSION BEGIN>
+                         545 jarl22 _R_BSP_BtnAction , lp 
+00000110 80ff0000*       545 <EXPANSION END>
+                         546 --line165
+                         547 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.26::
+                         548 .LDWlin26:
+00000114 a505*           549 	br	.L156
+                         550 .L164:
+                         551 --line167
+                         552 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.27::
+                         553 .LDWlin27:
+00000116 0000            554 	nop
+                         555 .L156:
+                         556 --165:             break;
+                         557 --166:         default:
+                         558 --167:             break;
+                         559 --168:         }
+                         560 --169:     }
+                         561 --170: }
+                         562 --	    .ef
+                         563 .LDW41:
+00000118 4006ff00        564 	dispose	0,{r28,r29,r31},[lp]
+                         565 	.type	_locTauj0ch0Isr,@function
+                         566 	.size	_locTauj0ch0Isr,.-_locTauj0ch0Isr
+                         567 	.type	_locTauj0ch0Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                         568 	.size	_locTauj0ch0Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locTauj0ch0Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         569 	.align	2
+                         570 .LDW51:
+                         571 --_local_mask	r28	local
+                         572 
+                         573 	.data
+                         574 	.align	4
+                         575 .L258:
+                         576 	.type	.L258,@object
+                         577 	.size	.L258,0
+                         578 	.global	_locPinA..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         579 _locPinA..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+00000000 00000000        580 _locPinA:	.byte	0,0,0,0
+                         581 	.type	_locPinA..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@object
+                         582 	.size	_locPinA..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,4
+                         583 	.type	_locPinA,@object
+                         584 	.size	_locPinA,4
+                         585 	.global	_locPinB..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         586 _locPinB..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+00000004 00000000        587 _locPinB:	.byte	0,0,0,0
+                         588 	.type	_locPinB..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@object
+                         589 	.size	_locPinB..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,4
+                         590 	.type	_locPinB,@object
+                         591 	.size	_locPinB,4
+                         592 	.text
+                         593 
+                         594 
+                         595 --172: /*******************************************************************************
+                         596 --173:   Function: locTauj0ch1Isr
+                         597 --175:    Every edge on inputA re-starts the corresponding timer channel. 
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         598 --176:    This is the tiner ISR. 
+                         599 --177:    Input Debouncing: 
+                         600 --178:    When this ISR is called that means the input was stable for the defined timer
+                         601 --179:    And can be processed
+                         602 --181:     Parameters:
+                         603 --182:     void
+                         604 --184:     Returns:
+                         605 --185:     void
+                         606 --186:  */
+                         607 --188: static void locTauj0ch1Isr (void)
+                         608 	.align	2
+                         609 	.align	2
+                         610 	.global	_locTauj0ch1Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         611 _locTauj0ch1Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                         612 _locTauj0ch1Isr:
+0000011c 8007e100        613 	prepare	{r28,r29,r31},0
+00000120 3d0600000000*   614 	mov	_locPinA,r29
+                         615 --	    .bf
+                         616 .LDW61:
+                         617 --189: {
+                         618 --190:     uint8_t local_mask = 0; 
+00000126 00e2            619 	mov	0,r28
+                         620 --191:     /* Stop counter */
+                         621 --192:     R_TAUJ_Stop(0, R_TAUJ_CHANNEL_1);
+00000128 0032            622 	mov	0,r6
+0000012a 013a            623 	mov	1,r7
+                         624 	jarl	_R_TAUJ_Stop,lp
+                         624 <EXPANSION BEGIN>
+                         624 jarl22 _R_TAUJ_Stop , lp 
+0000012c 80ff0000*       624 <EXPANSION END>
+                         625 --193:     
+                         626 --194:     /* Clear flag */
+                         627 --195:     locPinB = 0; 
+                         628 --line195
+                         629 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.28::
+                         630 .LDWlin28:
+00000130 7d070500        631 	st.w	zero,4[r29]
+                         632 --196:     
+                         633 --197:     /* check if the other pin is stable too */
+                         634 --198:     if (0 == locPinA)
+00000134 210600000000*   635 	mov	_locPinA,r1
+0000013a 210f0100        636 	ld.w	0[r1],r1
+0000013e e009            637 	cmp	zero,r1
+00000140 da25*           638 	bne	.L330
+                         639 --199:     {
+                         640 --200:         local_mask   =  R_GPIO_ReadIntPin(BSP_KNOB_DIR_A_INTP);    
+                         641 --line200
+                         642 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.29::
+                         643 .LDWlin29:
+00000142 0032            644 	mov	0,r6
+                         645 	jarl	_R_GPIO_ReadIntPin,lp
+                         645 <EXPANSION BEGIN>
+                         645 jarl22 _R_GPIO_ReadIntPin , lp 
+00000144 80ff0000*       645 <EXPANSION END>
+00000148 0ae0            646 	mov	r10,r28
+                         647 --201:         local_mask <<=  (uint8_t)1;    
+                         648 --line201
+                         649 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.30::
+                         650 .LDWlin30:
+0000014a c1e2            651 	shl	1,r28
+0000014c 9c00            652 	zxb	r28
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         653 --202:         local_mask  |=  R_GPIO_ReadIntPin(BSP_KNOB_DIR_B_INTP);    
+0000014e 0132            654 	mov	1,r6
+                         655 	jarl	_R_GPIO_ReadIntPin,lp
+                         655 <EXPANSION BEGIN>
+                         655 jarl22 _R_GPIO_ReadIntPin , lp 
+00000150 80ff0000*       655 <EXPANSION END>
+00000154 0ae1            656 	or	r10,r28
+00000156 9c00            657 	zxb	r28
+                         658 --203:         
+                         659 --204:         switch (local_mask)
+                         660 --line204
+                         661 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.31::
+                         662 .LDWlin31:
+00000158 1c08            663 	mov	r28,r1
+0000015a 610a            664 	cmp	1,r1
+0000015c e105*           665 	bl	.L334
+0000015e 920d*           666 	be	.L335
+00000160 630a            667 	cmp	3,r1
+00000162 b10d*           668 	bl	.L336
+00000164 ab15*           669 	bh	.L338
+00000166 d50d*           670 	br	.L337
+                         671 .L334:
+                         672 --205:         {
+                         673 --206:         case 0:
+                         674 --207:             R_BSP_BtnAction(BSP_BTN_RIGHT_TURN);
+                         675 --line207
+                         676 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.32::
+                         677 .LDWlin32:
+00000168 0c32            678 	mov	12,r6
+                         679 	jarl	_R_BSP_BtnAction,lp
+                         679 <EXPANSION BEGIN>
+                         679 jarl22 _R_BSP_BtnAction , lp 
+0000016a 80ff0000*       679 <EXPANSION END>
+                         680 --line208
+                         681 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.33::
+                         682 .LDWlin33:
+0000016e e50d*           683 	br	.L330
+                         684 .L335:
+                         685 --208:             break;
+                         686 --209:         case 1:
+                         687 --210:             R_BSP_BtnAction(BSP_BTN_LEFT_TURN);
+                         688 --line210
+                         689 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.34::
+                         690 .LDWlin34:
+00000170 0b32            691 	mov	11,r6
+                         692 	jarl	_R_BSP_BtnAction,lp
+                         692 <EXPANSION BEGIN>
+                         692 jarl22 _R_BSP_BtnAction , lp 
+00000172 80ff0000*       692 <EXPANSION END>
+                         693 --line211
+                         694 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.35::
+                         695 .LDWlin35:
+00000176 a50d*           696 	br	.L330
+                         697 .L336:
+                         698 --211:             break;
+                         699 --212:         case 2:
+                         700 --213:             R_BSP_BtnAction(BSP_BTN_LEFT_TURN);
+                         701 --line213
+                         702 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.36::
+                         703 .LDWlin36:
+00000178 0b32            704 	mov	11,r6
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         705 	jarl	_R_BSP_BtnAction,lp
+                         705 <EXPANSION BEGIN>
+                         705 jarl22 _R_BSP_BtnAction , lp 
+0000017a 80ff0000*       705 <EXPANSION END>
+                         706 --line214
+                         707 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.37::
+                         708 .LDWlin37:
+0000017e e505*           709 	br	.L330
+                         710 .L337:
+                         711 --214:             break;
+                         712 --215:         case 3:
+                         713 --216:             R_BSP_BtnAction(BSP_BTN_RIGHT_TURN);
+                         714 --line216
+                         715 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.38::
+                         716 .LDWlin38:
+00000180 0c32            717 	mov	12,r6
+                         718 	jarl	_R_BSP_BtnAction,lp
+                         718 <EXPANSION BEGIN>
+                         718 jarl22 _R_BSP_BtnAction , lp 
+00000182 80ff0000*       718 <EXPANSION END>
+                         719 --line217
+                         720 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.39::
+                         721 .LDWlin39:
+00000186 a505*           722 	br	.L330
+                         723 .L338:
+                         724 --line219
+                         725 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.40::
+                         726 .LDWlin40:
+00000188 0000            727 	nop
+                         728 .L330:
+                         729 --217:             break;
+                         730 --218:         default:
+                         731 --219:             break;
+                         732 --220:         }
+                         733 --221:     } 
+                         734 --222: }
+                         735 --	    .ef
+                         736 .LDW71:
+0000018a 4006ff00        737 	dispose	0,{r28,r29,r31},[lp]
+                         738 	.type	_locTauj0ch1Isr,@function
+                         739 	.size	_locTauj0ch1Isr,.-_locTauj0ch1Isr
+                         740 	.type	_locTauj0ch1Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                         741 	.size	_locTauj0ch1Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locTauj0ch1Isr..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         742 	.align	2
+                         743 .LDW81:
+                         744 --_local_mask	r28	local
+                         745 
+                         746 	.data
+                         747 	.text
+                         748 
+                         749 
+                         750 --224: /*******************************************************************************
+                         751 --225:   Function: locRtKnobAAction
+                         752 --227:     This function is triggered by the pin input A. 
+                         753 --228:     For debopuncing purposed it just restarts a timer. 
+                         754 --229:     
+                         755 --230:     Parameters:
+                         756 --231:     void
+                         757 --233:     Returns:
+                         758 --234:     void
+                         759 --236: */
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         760 --237: static void locRtKnobAAction(void)
+                         761 	.align	2
+                         762 	.align	2
+                         763 	.global	_locRtKnobAAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         764 _locRtKnobAAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                         765 _locRtKnobAAction:
+0000018e 80072100        766 	prepare	{r31},0
+00000192 210600000000*   767 	mov	_locPinA,r1
+                         768 --	    .bf
+                         769 .LDW91:
+                         770 --238: {
+                         771 --239:    locPinA = 1; 
+00000198 2b0600000000*   772 	mov	_locPinA,r11
+0000019e 0172            773 	mov	1,r14
+000001a0 6b770100        774 	st.w	r14,0[r11]
+                         775 --240:    /* (re)start the "debouncing" timer channel */
+                         776 --241:    R_TAUJ_Start(0, R_TAUJ_CHANNEL_0);
+000001a4 0032            777 	mov	0,r6
+000001a6 003a            778 	mov	0,r7
+                         779 	jarl	_R_TAUJ_Start,lp
+                         779 <EXPANSION BEGIN>
+                         779 jarl22 _R_TAUJ_Start , lp 
+000001a8 80ff0000*       779 <EXPANSION END>
+                         780 --242: }
+                         781 --	    .ef
+                         782 .LDW02:
+                         783 --line242
+                         784 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.41::
+                         785 .LDWlin41:
+000001ac 40063f00        786 	dispose	0,{r31},[lp]
+                         787 	.type	_locRtKnobAAction,@function
+                         788 	.size	_locRtKnobAAction,.-_locRtKnobAAction
+                         789 	.type	_locRtKnobAAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                         790 	.size	_locRtKnobAAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locRtKnobAAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         791 	.align	2
+                         792 .LDW12:
+                         793 
+                         794 	.data
+                         795 	.text
+                         796 
+                         797 
+                         798 --244: /*******************************************************************************
+                         799 --245:   Function: locRtKnobBAction
+                         800 --247:     This function is triggered by the pin input B. 
+                         801 --248:     For debopuncing purposed it just restarts a timer. 
+                         802 --249:     
+                         803 --250:     Parameters:
+                         804 --251:     void
+                         805 --253:     Returns:
+                         806 --254:     void
+                         807 --256: */
+                         808 --257: static void locRtKnobBAction(void)
+                         809 	.align	2
+                         810 	.align	2
+                         811 	.global	_locRtKnobBAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         812 _locRtKnobBAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                         813 _locRtKnobBAction:
+000001b0 80072100        814 	prepare	{r31},0
+000001b4 210600000000*   815 	mov	_locPinB,r1
+                         816 --	    .bf
+                         817 .LDW22:
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         818 --258: {
+                         819 --259:    locPinB = 1; 
+000001ba 2b0600000000*   820 	mov	_locPinB,r11
+000001c0 0172            821 	mov	1,r14
+000001c2 6b770100        822 	st.w	r14,0[r11]
+                         823 --260:    /* (re)start the "debouncing" timer channel */
+                         824 --261:    R_TAUJ_Start(0, R_TAUJ_CHANNEL_1);
+000001c6 0032            825 	mov	0,r6
+000001c8 013a            826 	mov	1,r7
+                         827 	jarl	_R_TAUJ_Start,lp
+                         827 <EXPANSION BEGIN>
+                         827 jarl22 _R_TAUJ_Start , lp 
+000001ca 80ff0000*       827 <EXPANSION END>
+                         828 --262: }
+                         829 --	    .ef
+                         830 .LDW32:
+                         831 --line262
+                         832 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.42::
+                         833 .LDWlin42:
+000001ce 40063f00        834 	dispose	0,{r31},[lp]
+                         835 	.type	_locRtKnobBAction,@function
+                         836 	.size	_locRtKnobBAction,.-_locRtKnobBAction
+                         837 	.type	_locRtKnobBAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                         838 	.size	_locRtKnobBAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locRtKnobBAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         839 	.align	2
+                         840 .LDW42:
+                         841 
+                         842 	.data
+                         843 	.text
+                         844 
+                         845 
+                         846 --264: /*******************************************************************************
+                         847 --265:   Function: locRtKnobCenterAction
+                         848 --267:     This function will be asigned as the callback
+                         849 --268:     to the external interrupt connected to the rotary knob Center button.
+                         850 --269:     After recognition, the BSP Button action routine will be called with the
+                         851 --270:     right parameter.
+                         852 --272:     Parameters:
+                         853 --273:     void
+                         854 --275:     Returns:
+                         855 --276:     void
+                         856 --278: */
+                         857 --279: static void locRtKnobCenterAction(void)
+                         858 	.align	2
+                         859 	.align	2
+                         860 	.global	_locRtKnobCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         861 _locRtKnobCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                         862 _locRtKnobCenterAction:
+000001d2 80076100        863 	prepare	{r29,r31},0
+                         864 --	    .bf
+                         865 .LDW52:
+                         866 --280: {
+                         867 --281:     uint8_t level = 1u; /* The buttons are low-active */
+000001d6 01ea            868 	mov	1,r29
+                         869 --282:     level = R_GPIO_ReadIntPin(BSP_KNOB_PRESS_INTP);
+000001d8 0532            870 	mov	5,r6
+                         871 	jarl	_R_GPIO_ReadIntPin,lp
+                         871 <EXPANSION BEGIN>
+                         871 jarl22 _R_GPIO_ReadIntPin , lp 
+000001da 80ff0000*       871 <EXPANSION END>
+000001de 0ae8            872 	mov	r10,r29
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         873 --284:     if (level == 0u) /* level is  LOW -> button is now pressed */
+                         874 --line284
+                         875 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.43::
+                         876 .LDWlin43:
+000001e0 e0e9            877 	cmp	zero,r29
+000001e2 da05*           878 	bne	.L601
+                         879 --285:     {
+                         880 --286:         R_BSP_BtnAction(BSP_BTN_OK_PRESS);
+                         881 --line286
+                         882 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.44::
+                         883 .LDWlin44:
+000001e4 0d32            884 	mov	13,r6
+                         885 	jarl	_R_BSP_BtnAction,lp
+                         885 <EXPANSION BEGIN>
+                         885 jarl22 _R_BSP_BtnAction , lp 
+000001e6 80ff0000*       885 <EXPANSION END>
+000001ea c505*           886 	br	.L603
+                         887 .L601:
+                         888 --287:     } 
+                         889 --288:     else 
+                         890 --289:     {
+                         891 --290:         R_BSP_BtnAction(BSP_BTN_OK_RELEASE);
+                         892 --line290
+                         893 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.45::
+                         894 .LDWlin45:
+000001ec 0e32            895 	mov	14,r6
+                         896 	jarl	_R_BSP_BtnAction,lp
+                         896 <EXPANSION BEGIN>
+                         896 jarl22 _R_BSP_BtnAction , lp 
+000001ee 80ff0000*       896 <EXPANSION END>
+                         897 .L603:
+                         898 --291:     }
+                         899 --292: }
+                         900 --	    .ef
+                         901 .LDW62:
+                         902 --line292
+                         903 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.46::
+                         904 .LDWlin46:
+000001f2 40067f00        905 	dispose	0,{r29,r31},[lp]
+                         906 	.type	_locRtKnobCenterAction,@function
+                         907 	.size	_locRtKnobCenterAction,.-_locRtKnobCenterAction
+                         908 	.type	_locRtKnobCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                         909 	.size	_locRtKnobCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locRtKnobCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         910 	.align	2
+                         911 .LDW72:
+                         912 --_level	r29	local
+                         913 
+                         914 	.section ".bss","awb"
+                         915 .L642:
+                         916 	.type	.L642,@object
+                         917 	.size	.L642,0
+                         918 	.data
+                         919 	.text
+                         920 
+                         921 
+                         922 --295: /***********************************************************
+                         923 --296:   Function: locButtonLeftAction
+                         924 --297: */
+                         925 --298: static void locButtonLeftAction(void)
+                         926 	.align	2
+                         927 	.align	2
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         928 	.global	_locButtonLeftAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         929 _locButtonLeftAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                         930 _locButtonLeftAction:
+000001f6 80072100        931 	prepare	{r31},0
+                         932 --	    .bf
+                         933 .LDW82:
+                         934 --299: {
+                         935 --300:     R_BSP_BtnAction(BSP_BTN_LEFT_PRESS);
+000001fa 0532            936 	mov	5,r6
+                         937 	jarl	_R_BSP_BtnAction,lp
+                         937 <EXPANSION BEGIN>
+                         937 jarl22 _R_BSP_BtnAction , lp 
+000001fc 80ff0000*       937 <EXPANSION END>
+                         938 --301:     R_BSP_BtnAction(BSP_BTN_LEFT_RELEASE);
+                         939 --line301
+                         940 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.47::
+                         941 .LDWlin47:
+00000200 0632            942 	mov	6,r6
+                         943 	jarl	_R_BSP_BtnAction,lp
+                         943 <EXPANSION BEGIN>
+                         943 jarl22 _R_BSP_BtnAction , lp 
+00000202 80ff0000*       943 <EXPANSION END>
+                         944 --302: }
+                         945 --	    .ef
+                         946 .LDW92:
+                         947 --line302
+                         948 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.48::
+                         949 .LDWlin48:
+00000206 40063f00        950 	dispose	0,{r31},[lp]
+                         951 	.type	_locButtonLeftAction,@function
+                         952 	.size	_locButtonLeftAction,.-_locButtonLeftAction
+                         953 	.type	_locButtonLeftAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                         954 	.size	_locButtonLeftAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locButtonLeftAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         955 	.align	2
+                         956 .LDW03:
+                         957 
+                         958 	.section ".bss","awb"
+                         959 .L694:
+                         960 	.type	.L694,@object
+                         961 	.size	.L694,0
+                         962 	.data
+                         963 	.text
+                         964 
+                         965 
+                         966 --304: /***********************************************************
+                         967 --305:   Function: locButtonUpAction
+                         968 --306: */
+                         969 --307: static void locButtonUpAction(void)
+                         970 	.align	2
+                         971 	.align	2
+                         972 	.global	_locButtonUpAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         973 _locButtonUpAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                         974 _locButtonUpAction:
+0000020a 80072100        975 	prepare	{r31},0
+                         976 --	    .bf
+                         977 .LDW13:
+                         978 --308: {
+                         979 --309:     R_BSP_BtnAction(BSP_BTN_UP_PRESS);
+0000020e 0132            980 	mov	1,r6
+                         981 	jarl	_R_BSP_BtnAction,lp
+                         981 <EXPANSION BEGIN>
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                         981 jarl22 _R_BSP_BtnAction , lp 
+00000210 80ff0000*       981 <EXPANSION END>
+                         982 --310:     R_BSP_BtnAction(BSP_BTN_UP_RELEASE);
+                         983 --line310
+                         984 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.49::
+                         985 .LDWlin49:
+00000214 0232            986 	mov	2,r6
+                         987 	jarl	_R_BSP_BtnAction,lp
+                         987 <EXPANSION BEGIN>
+                         987 jarl22 _R_BSP_BtnAction , lp 
+00000216 80ff0000*       987 <EXPANSION END>
+                         988 --311: }
+                         989 --	    .ef
+                         990 .LDW23:
+                         991 --line311
+                         992 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.50::
+                         993 .LDWlin50:
+0000021a 40063f00        994 	dispose	0,{r31},[lp]
+                         995 	.type	_locButtonUpAction,@function
+                         996 	.size	_locButtonUpAction,.-_locButtonUpAction
+                         997 	.type	_locButtonUpAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                         998 	.size	_locButtonUpAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locButtonUpAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                         999 	.align	2
+                        1000 .LDW33:
+                        1001 
+                        1002 	.section ".bss","awb"
+                        1003 .L742:
+                        1004 	.type	.L742,@object
+                        1005 	.size	.L742,0
+                        1006 	.data
+                        1007 	.text
+                        1008 
+                        1009 
+                        1010 --313: /***********************************************************
+                        1011 --314:   Function: locButtonDownAction
+                        1012 --315: */
+                        1013 --316: #if USE_FOUT_INSTEAD_BSP_BTN_DOWN != 1
+                        1014 --317: static void locButtonDownAction(void)
+                        1015 --318: {
+                        1016 --319:     R_BSP_BtnAction(BSP_BTN_DOWN_PRESS);
+                        1017 --320:     R_BSP_BtnAction(BSP_BTN_DOWN_RELEASE);
+                        1018 --321: }
+                        1019 --322: #endif  /* USE_FOUT_INSTEAD_BSP_BTN_DOWN */
+                        1020 --324: /***********************************************************
+                        1021 --325:   Function: locButtonRightAction
+                        1022 --326: */
+                        1023 --327: static void locButtonRightAction(void)
+                        1024 	.align	2
+                        1025 	.align	2
+                        1026 	.global	_locButtonRightAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                        1027 _locButtonRightAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                        1028 _locButtonRightAction:
+0000021e 80072100       1029 	prepare	{r31},0
+                        1030 --	    .bf
+                        1031 .LDW43:
+                        1032 --328: {
+                        1033 --329:     R_BSP_BtnAction(BSP_BTN_RIGHT_PRESS);
+00000222 0732           1034 	mov	7,r6
+                        1035 	jarl	_R_BSP_BtnAction,lp
+                        1035 <EXPANSION BEGIN>
+                        1035 jarl22 _R_BSP_BtnAction , lp 
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+00000224 80ff0000*      1035 <EXPANSION END>
+                        1036 --330:     R_BSP_BtnAction(BSP_BTN_RIGHT_RELEASE);
+                        1037 --line330
+                        1038 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.51::
+                        1039 .LDWlin51:
+00000228 0832           1040 	mov	8,r6
+                        1041 	jarl	_R_BSP_BtnAction,lp
+                        1041 <EXPANSION BEGIN>
+                        1041 jarl22 _R_BSP_BtnAction , lp 
+0000022a 80ff0000*      1041 <EXPANSION END>
+                        1042 --331: }
+                        1043 --	    .ef
+                        1044 .LDW53:
+                        1045 --line331
+                        1046 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.52::
+                        1047 .LDWlin52:
+0000022e 40063f00       1048 	dispose	0,{r31},[lp]
+                        1049 	.type	_locButtonRightAction,@function
+                        1050 	.size	_locButtonRightAction,.-_locButtonRightAction
+                        1051 	.type	_locButtonRightAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                        1052 	.size	_locButtonRightAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locButtonRightAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                        1053 	.align	2
+                        1054 .LDW63:
+                        1055 
+                        1056 	.section ".bss","awb"
+                        1057 .L790:
+                        1058 	.type	.L790,@object
+                        1059 	.size	.L790,0
+                        1060 	.data
+                        1061 	.text
+                        1062 
+                        1063 
+                        1064 --333: /***********************************************************
+                        1065 --334:   Function: locButtonCenterAction
+                        1066 --335: */
+                        1067 --336: static void locButtonCenterAction(void)
+                        1068 	.align	2
+                        1069 	.align	2
+                        1070 	.global	_locButtonCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                        1071 _locButtonCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.:
+                        1072 _locButtonCenterAction:
+00000232 80072100       1073 	prepare	{r31},0
+                        1074 --	    .bf
+                        1075 .LDW73:
+                        1076 --337: {
+                        1077 --338:     R_BSP_BtnAction(BSP_BTN_CENTER_PRESS);
+00000236 0932           1078 	mov	9,r6
+                        1079 	jarl	_R_BSP_BtnAction,lp
+                        1079 <EXPANSION BEGIN>
+                        1079 jarl22 _R_BSP_BtnAction , lp 
+00000238 80ff0000*      1079 <EXPANSION END>
+                        1080 --339:     R_BSP_BtnAction(BSP_BTN_CENTER_RELEASE);
+                        1081 --line339
+                        1082 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.53::
+                        1083 .LDWlin53:
+0000023c 0a32           1084 	mov	10,r6
+                        1085 	jarl	_R_BSP_BtnAction,lp
+                        1085 <EXPANSION BEGIN>
+                        1085 jarl22 _R_BSP_BtnAction , lp 
+0000023e 80ff0000*      1085 <EXPANSION END>
+                        1086 --340: }
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                        1087 --	    .ef
+                        1088 .LDW83:
+                        1089 --line340
+                        1090 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.54::
+                        1091 .LDWlin54:
+00000242 40063f00       1092 	dispose	0,{r31},[lp]
+                        1093 	.type	_locButtonCenterAction,@function
+                        1094 	.size	_locButtonCenterAction,.-_locButtonCenterAction
+                        1095 	.type	_locButtonCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,@function
+                        1096 	.size	_locButtonCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.,.-_locButtonCenterAction..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.
+                        1097 	.align	2
+                        1098 .LDW93:
+                        1099 
+                        1100 	.section ".bss","awb"
+                        1101 .L838:
+                        1102 	.type	.L838,@object
+                        1103 	.size	.L838,0
+                        1104 	.data
+                        1105 	.text
+                        1106 
+                        1107 
+                        1108 --342: /*******************************************************************************
+                        1109 --343:   Section: Global Functions
+                        1110 --344: */
+                        1111 --346: /*******************************************************************************
+                        1112 --347:   Function: R_BSP_HMI_InitRotaryKnob
+                        1113 --349:     Init Rotary Knob
+                        1114 --351:     Parameters:
+                        1115 --352:     void
+                        1116 --354:     Returns:
+                        1117 --355:     void
+                        1118 --357: */
+                        1119 --358: void R_BSP_HMI_InitRotaryKnob(void)
+                        1120 	.align	2
+                        1121 	.align	2
+                        1122 	.global	_R_BSP_HMI_InitRotaryKnob
+                        1123 _R_BSP_HMI_InitRotaryKnob:
+00000246 88072100       1124 	prepare	{r31},4
+                        1125 --	    .bf
+                        1126 .LDW04:
+                        1127 --359: {
+                        1128 --360:     r_gpio_IntConfig_t int_cfg; 
+                        1129 --361:  
+                        1130 --362:     /* Rotary knob connections */
+                        1131 --363:     int_cfg.Port     = BSP_KNOB_PRESS_PORT; 
+0000024a 63070100       1132 	st.w	zero,0[sp]
+                        1133 --364:     int_cfg.Pin      = BSP_KNOB_PRESS_PIN; 
+0000024e 63070500       1134 	st.w	zero,4[sp]
+                        1135 --365:     int_cfg.Trigger  = R_GPIO_INT_BOTH_EDGES; 
+00000252 030a           1136 	mov	3,r1
+00000254 630f0900       1137 	st.w	r1,8[sp]
+                        1138 --366:     int_cfg.Callback = &locRtKnobCenterAction; 
+00000258 210600000000*  1139 	mov	_locRtKnobCenterAction,r1
+0000025e 630f0d00       1140 	st.w	r1,12[sp]
+                        1141 --367:     R_GPIO_InitInt(BSP_KNOB_PRESS_INTP, &int_cfg);
+00000262 0532           1142 	mov	5,r6
+00000264 233e0000       1143 	movea	0,sp,r7
+                        1144 	jarl	_R_GPIO_InitInt,lp
+                        1144 <EXPANSION BEGIN>
+                        1144 jarl22 _R_GPIO_InitInt , lp 
+00000268 80ff0000*      1144 <EXPANSION END>
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                        1145 --368:     
+                        1146 --369:     int_cfg.Port     = BSP_KNOB_DIR_A_PORT; 
+                        1147 --line369
+                        1148 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.55::
+                        1149 .LDWlin55:
+0000026c 63070100       1150 	st.w	zero,0[sp]
+                        1151 --370:     int_cfg.Pin      = BSP_KNOB_DIR_A_PIN; 
+00000270 010a           1152 	mov	1,r1
+00000272 630f0500       1153 	st.w	r1,4[sp]
+                        1154 --371:     int_cfg.Trigger  = R_GPIO_INT_BOTH_EDGES; 
+00000276 030a           1155 	mov	3,r1
+00000278 630f0900       1156 	st.w	r1,8[sp]
+                        1157 --372:     int_cfg.Callback = &locRtKnobAAction; 
+0000027c 210600000000*  1158 	mov	_locRtKnobAAction,r1
+00000282 630f0d00       1159 	st.w	r1,12[sp]
+                        1160 --373:     R_GPIO_InitInt(BSP_KNOB_DIR_A_INTP, &int_cfg);
+00000286 0032           1161 	mov	0,r6
+00000288 233e0000       1162 	movea	0,sp,r7
+                        1163 	jarl	_R_GPIO_InitInt,lp
+                        1163 <EXPANSION BEGIN>
+                        1163 jarl22 _R_GPIO_InitInt , lp 
+0000028c 80ff0000*      1163 <EXPANSION END>
+                        1164 --375:     int_cfg.Port     = BSP_KNOB_DIR_B_PORT; 
+                        1165 --line375
+                        1166 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.56::
+                        1167 .LDWlin56:
+00000290 63070100       1168 	st.w	zero,0[sp]
+                        1169 --376:     int_cfg.Pin      = BSP_KNOB_DIR_B_PIN; 
+00000294 020a           1170 	mov	2,r1
+00000296 630f0500       1171 	st.w	r1,4[sp]
+                        1172 --377:     int_cfg.Trigger  = R_GPIO_INT_BOTH_EDGES; 
+0000029a 030a           1173 	mov	3,r1
+0000029c 630f0900       1174 	st.w	r1,8[sp]
+                        1175 --378:     int_cfg.Callback = &locRtKnobBAction; 
+000002a0 210600000000*  1176 	mov	_locRtKnobBAction,r1
+000002a6 630f0d00       1177 	st.w	r1,12[sp]
+                        1178 --379:     R_GPIO_InitInt(BSP_KNOB_DIR_B_INTP,  &int_cfg);
+000002aa 0132           1179 	mov	1,r6
+000002ac 233e0000       1180 	movea	0,sp,r7
+                        1181 	jarl	_R_GPIO_InitInt,lp
+                        1181 <EXPANSION BEGIN>
+                        1181 jarl22 _R_GPIO_InitInt , lp 
+000002b0 80ff0000*      1181 <EXPANSION END>
+                        1182 --381:     /* Rotary knob Interrupts */
+                        1183 --382:     R_GPIO_EnableInt(BSP_KNOB_DIR_A_INTP);
+                        1184 --line382
+                        1185 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.57::
+                        1186 .LDWlin57:
+000002b4 0032           1187 	mov	0,r6
+                        1188 	jarl	_R_GPIO_EnableInt,lp
+                        1188 <EXPANSION BEGIN>
+                        1188 jarl22 _R_GPIO_EnableInt , lp 
+000002b6 80ff0000*      1188 <EXPANSION END>
+                        1189 --383:     R_GPIO_EnableInt(BSP_KNOB_DIR_B_INTP);
+                        1190 --line383
+                        1191 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.58::
+                        1192 .LDWlin58:
+000002ba 0132           1193 	mov	1,r6
+                        1194 	jarl	_R_GPIO_EnableInt,lp
+                        1194 <EXPANSION BEGIN>
+                        1194 jarl22 _R_GPIO_EnableInt , lp 
+
+                                                                      Page 23
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+000002bc 80ff0000*      1194 <EXPANSION END>
+                        1195 --384:     R_GPIO_EnableInt(BSP_KNOB_PRESS_INTP);
+                        1196 --line384
+                        1197 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.59::
+                        1198 .LDWlin59:
+000002c0 0532           1199 	mov	5,r6
+                        1200 	jarl	_R_GPIO_EnableInt,lp
+                        1200 <EXPANSION BEGIN>
+                        1200 jarl22 _R_GPIO_EnableInt , lp 
+000002c2 80ff0000*      1200 <EXPANSION END>
+                        1201 --385:     locConfigTauj(); 
+                        1202 --line385
+                        1203 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.60::
+                        1204 .LDWlin60:
+                        1205 	jarl	_locConfigTauj,lp
+                        1205 <EXPANSION BEGIN>
+                        1205 jarl22 _locConfigTauj , lp 
+000002c6 bfff3afd*      1205 <EXPANSION END>
+                        1206 --386: }
+                        1207 --	    .ef
+                        1208 .LDW14:
+                        1209 --line386
+                        1210 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.61::
+                        1211 .LDWlin61:
+000002ca 48063f00       1212 	dispose	4,{r31},[lp]
+                        1213 	.type	_R_BSP_HMI_InitRotaryKnob,@function
+                        1214 	.size	_R_BSP_HMI_InitRotaryKnob,.-_R_BSP_HMI_InitRotaryKnob
+                        1215 	.align	2
+                        1216 .LDW24:
+                        1217 --_int_cfg	0[sp]	local
+                        1218 
+                        1219 	.section ".bss","awb"
+                        1220 .L954:
+                        1221 	.type	.L954,@object
+                        1222 	.size	.L954,0
+                        1223 	.data
+                        1224 	.text
+                        1225 
+                        1226 
+                        1227 --389: /*******************************************************************************
+                        1228 --390:   Function: R_BSP_HMI_InitButton
+                        1229 --392:     This function will init Buttons
+                        1230 --394:     Parameters:
+                        1231 --395:     void
+                        1232 --397:     Returns:
+                        1233 --398:     void
+                        1234 --399: */
+                        1235 --400: void R_BSP_HMI_InitButton(void)
+                        1236 	.align	2
+                        1237 	.align	2
+                        1238 	.global	_R_BSP_HMI_InitButton
+                        1239 _R_BSP_HMI_InitButton:
+000002ce 88072100       1240 	prepare	{r31},4
+                        1241 --	    .bf
+                        1242 .LDW34:
+                        1243 --401: {
+                        1244 --402:     r_gpio_IntConfig_t int_cfg; 
+                        1245 --403:  
+                        1246 --404:     /* Button connections */
+                        1247 --405:     int_cfg.Port     = BSP_BTN_LEFT_PORT; 
+000002d2 63070100       1248 	st.w	zero,0[sp]
+
+                                                                      Page 24
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                        1249 --406:     int_cfg.Pin      = BSP_BTN_LEFT_PIN; 
+000002d6 050a           1250 	mov	5,r1
+000002d8 630f0500       1251 	st.w	r1,4[sp]
+                        1252 --407:     int_cfg.Trigger  = R_GPIO_INT_BOTH_EDGES; 
+000002dc 030a           1253 	mov	3,r1
+000002de 630f0900       1254 	st.w	r1,8[sp]
+                        1255 --408:     int_cfg.Callback = &locButtonLeftAction; 
+000002e2 210600000000*  1256 	mov	_locButtonLeftAction,r1
+000002e8 630f0d00       1257 	st.w	r1,12[sp]
+                        1258 --409:     R_GPIO_InitInt(BSP_BTN_LEFT_INTP, &int_cfg);
+000002ec 0632           1259 	mov	6,r6
+000002ee 233e0000       1260 	movea	0,sp,r7
+                        1261 	jarl	_R_GPIO_InitInt,lp
+                        1261 <EXPANSION BEGIN>
+                        1261 jarl22 _R_GPIO_InitInt , lp 
+000002f2 80ff0000*      1261 <EXPANSION END>
+                        1262 --410:     
+                        1263 --411:     int_cfg.Port     = BSP_BTN_UP_PORT; 
+                        1264 --line411
+                        1265 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.62::
+                        1266 .LDWlin62:
+000002f6 63070100       1267 	st.w	zero,0[sp]
+                        1268 --412:     int_cfg.Pin      = BSP_BTN_UP_PIN; 
+000002fa 030a           1269 	mov	3,r1
+000002fc 630f0500       1270 	st.w	r1,4[sp]
+                        1271 --413:     int_cfg.Trigger  = R_GPIO_INT_BOTH_EDGES; 
+00000300 030a           1272 	mov	3,r1
+00000302 630f0900       1273 	st.w	r1,8[sp]
+                        1274 --414:     int_cfg.Callback = &locButtonUpAction; 
+00000306 210600000000*  1275 	mov	_locButtonUpAction,r1
+0000030c 630f0d00       1276 	st.w	r1,12[sp]
+                        1277 --415:     R_GPIO_InitInt(BSP_BTN_UP_INTP, &int_cfg);
+00000310 0232           1278 	mov	2,r6
+00000312 233e0000       1279 	movea	0,sp,r7
+                        1280 	jarl	_R_GPIO_InitInt,lp
+                        1280 <EXPANSION BEGIN>
+                        1280 jarl22 _R_GPIO_InitInt , lp 
+00000316 80ff0000*      1280 <EXPANSION END>
+                        1281 --417: #if USE_FOUT_INSTEAD_BSP_BTN_DOWN != 1
+                        1282 --418:     int_cfg.Port     = BSP_BTN_DOWN_PORT; 
+                        1283 --419:     int_cfg.Pin      = BSP_BTN_DOWN_PIN; 
+                        1284 --420:     int_cfg.Trigger  = R_GPIO_INT_BOTH_EDGES; 
+                        1285 --421:     int_cfg.Callback = &locButtonDownAction; 
+                        1286 --422:     R_GPIO_InitInt(BSP_BTN_DOWN_INTP,  &int_cfg);
+                        1287 --423: #endif  /* USE_FOUT_INSTEAD_BSP_BTN_DOWN */
+                        1288 --425:     int_cfg.Port     = BSP_BTN_RIGHT_PORT; 
+                        1289 --line425
+                        1290 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.63::
+                        1291 .LDWlin63:
+0000031a 63070100       1292 	st.w	zero,0[sp]
+                        1293 --426:     int_cfg.Pin      = BSP_BTN_RIGHT_PIN; 
+0000031e 060a           1294 	mov	6,r1
+00000320 630f0500       1295 	st.w	r1,4[sp]
+                        1296 --427:     int_cfg.Trigger  = R_GPIO_INT_BOTH_EDGES; 
+00000324 030a           1297 	mov	3,r1
+00000326 630f0900       1298 	st.w	r1,8[sp]
+                        1299 --428:     int_cfg.Callback = &locButtonRightAction; 
+0000032a 210600000000*  1300 	mov	_locButtonRightAction,r1
+00000330 630f0d00       1301 	st.w	r1,12[sp]
+                        1302 --429:     R_GPIO_InitInt(BSP_BTN_RIGHT_INTP,  &int_cfg);
+00000334 0732           1303 	mov	7,r6
+
+                                                                      Page 25
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+00000336 233e0000       1304 	movea	0,sp,r7
+                        1305 	jarl	_R_GPIO_InitInt,lp
+                        1305 <EXPANSION BEGIN>
+                        1305 jarl22 _R_GPIO_InitInt , lp 
+0000033a 80ff0000*      1305 <EXPANSION END>
+                        1306 --430:     
+                        1307 --431:     int_cfg.Port     = BSP_BTN_CENTER_PORT; 
+                        1308 --line431
+                        1309 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.64::
+                        1310 .LDWlin64:
+0000033e 63070100       1311 	st.w	zero,0[sp]
+                        1312 --432:     int_cfg.Pin      = BSP_BTN_CENTER_PIN; 
+00000342 070a           1313 	mov	7,r1
+00000344 630f0500       1314 	st.w	r1,4[sp]
+                        1315 --433:     int_cfg.Trigger  = R_GPIO_INT_BOTH_EDGES; 
+00000348 030a           1316 	mov	3,r1
+0000034a 630f0900       1317 	st.w	r1,8[sp]
+                        1318 --434:     int_cfg.Callback = &locButtonCenterAction; 
+0000034e 210600000000*  1319 	mov	_locButtonCenterAction,r1
+00000354 630f0d00       1320 	st.w	r1,12[sp]
+                        1321 --435:     R_GPIO_InitInt(BSP_BTN_CENTER_INTP,  &int_cfg);
+00000358 0832           1322 	mov	8,r6
+0000035a 233e0000       1323 	movea	0,sp,r7
+                        1324 	jarl	_R_GPIO_InitInt,lp
+                        1324 <EXPANSION BEGIN>
+                        1324 jarl22 _R_GPIO_InitInt , lp 
+0000035e 80ff0000*      1324 <EXPANSION END>
+                        1325 --436:     
+                        1326 --437:     /* Button Interrupts */
+                        1327 --438:     R_GPIO_EnableInt(BSP_BTN_LEFT_INTP);
+                        1328 --line438
+                        1329 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.65::
+                        1330 .LDWlin65:
+00000362 0632           1331 	mov	6,r6
+                        1332 	jarl	_R_GPIO_EnableInt,lp
+                        1332 <EXPANSION BEGIN>
+                        1332 jarl22 _R_GPIO_EnableInt , lp 
+00000364 80ff0000*      1332 <EXPANSION END>
+                        1333 --439:     R_GPIO_EnableInt(BSP_BTN_UP_INTP);
+                        1334 --line439
+                        1335 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.66::
+                        1336 .LDWlin66:
+00000368 0232           1337 	mov	2,r6
+                        1338 	jarl	_R_GPIO_EnableInt,lp
+                        1338 <EXPANSION BEGIN>
+                        1338 jarl22 _R_GPIO_EnableInt , lp 
+0000036a 80ff0000*      1338 <EXPANSION END>
+                        1339 --440: #if USE_FOUT_INSTEAD_BSP_BTN_DOWN != 1
+                        1340 --441:     R_GPIO_EnableInt(BSP_BTN_DOWN_INTP);
+                        1341 --442: #endif  /* USE_FOUT_INSTEAD_BSP_BTN_DOWN */
+                        1342 --443:     R_GPIO_EnableInt(BSP_BTN_RIGHT_INTP);
+                        1343 --line443
+                        1344 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.67::
+                        1345 .LDWlin67:
+0000036e 0732           1346 	mov	7,r6
+                        1347 	jarl	_R_GPIO_EnableInt,lp
+                        1347 <EXPANSION BEGIN>
+                        1347 jarl22 _R_GPIO_EnableInt , lp 
+00000370 80ff0000*      1347 <EXPANSION END>
+                        1348 --444:     R_GPIO_EnableInt(BSP_BTN_CENTER_INTP);
+                        1349 --line444
+
+                                                                      Page 26
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ok01.si
+                        1350 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.68::
+                        1351 .LDWlin68:
+00000374 0832           1352 	mov	8,r6
+                        1353 	jarl	_R_GPIO_EnableInt,lp
+                        1353 <EXPANSION BEGIN>
+                        1353 jarl22 _R_GPIO_EnableInt , lp 
+00000376 80ff0000*      1353 <EXPANSION END>
+                        1354 --445: }
+                        1355 --	    .ef
+                        1356 .LDW44:
+                        1357 --line445
+                        1358 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob.69::
+                        1359 .LDWlin69:
+0000037a 48063f00       1360 	dispose	4,{r31},[lp]
+                        1361 	.type	_R_BSP_HMI_InitButton,@function
+                        1362 	.size	_R_BSP_HMI_InitButton,.-_R_BSP_HMI_InitButton
+                        1363 	.align	2
+                        1364 .LDW54:
+                        1365 --_int_cfg	0[sp]	local
+                        1366 
+                        1367 	.section ".bss","awb"
+                        1368 .L1134:
+                        1369 	.type	.L1134,@object
+                        1370 	.size	.L1134,0
+                        1371 	.data
+                        1372 	.text
+                        1373 
+                        1374 	.align	2
+                        1375 --_locPinA	_locPinA	static
+                        1376 --_locPinB	_locPinB	static
+                        1377 
+                        1378 	.data
+                        1379 	.ghsnote version,15
+                        1380 	.ghsnote tools,3
+                        1381 	.ghsnote options,144
+                        1382 	.text
+                        1383 	.align	2
+                        1384 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_hmi_knob...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                        1385 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

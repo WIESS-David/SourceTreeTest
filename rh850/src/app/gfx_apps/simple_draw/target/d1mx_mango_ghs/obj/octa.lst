@@ -1,0 +1,448 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\octa.dbo -source=octa.c -o .\obj\gh_0000pjk1.o -list=.\obj\octa.lst C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si
+Source File: octa.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c ..\..\..\..\gfx_apps\simple_draw\src\octa.c -o
+                         170 --		.\obj\octa.o
+                         171 --Source File:   ..\..\..\..\gfx_apps\simple_draw\src\octa.c
+                         172 --Directory:     
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si
+                         173 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         174 --Compile Date:  Tue Oct 16 19:48:59 2018
+                         175 --Host OS:       Win32
+                         176 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         177 --Release:       Compiler v2014.1.7
+                         178 --Revision Date: Fri Sep 05 14:10:46 2014
+                         179 --Release Date:  Fri Sep 05 14:44:23 2014
+                         180 -- ecom  -g -w
+                         181 
+                         182 --1: /************************************************************************************************
+                         183 --2: PROJECT : simple_draw
+                         184 --3: FILE    : $Id: octa.c 13590 2017-05-31 08:29:00Z shinya.tomari $
+                         185 --4: ============================================================================ 
+                         186 --5: DESCRIPTION
+                         187 --6: ============================================================================
+                         188 --7:                             C O P Y R I G H T
+                         189 --8: ============================================================================
+                         190 --9:                        Copyright (c) 2017
+                         191 --10:                                   by 
+                         192 --11:                        Renesas Electronics (Europe) GmbH.
+                         193 --12:                            Arcadiastrasse 10
+                         194 --13:                           D-40472 Duesseldorf
+                         195 --14:                                Germany
+                         196 --15:                           All rights reserved.
+                         197 --16: ============================================================================
+                         198 --17: Purpose: only for testing, not for mass production
+                         199 --19: DISCLAIMER
+                         200 --21: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         201 --22: the license agreement, especially the usage rights. In any case, it is
+                         202 --23: LICENSEE's responsibility to make sure that any user of the software complies
+                         203 --24: with the terms and conditions of the signed license agreement.
+                         204 --26: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         205 --27: mass-production applications. It can only be used for evaluation and
+                         206 --28: demonstration purposes at customer's premises listed in the signed license
+                         207 --29: agreement.
+                         208 --30: ****************************************************************************
+                         209 --31: */
+                         210 --33: /*******************************************************************************
+                         211 --34:   Section: Includes
+                         212 --35: */
+                         213 --37: #include "r_typedefs.h"        /* Renesas basic types, e.g. uint32_t */
+                         214 --38: #include "r_bsp_api.h"         /* Board support package */
+                         215 --39: #include "r_octa_api.h"
+                         216 --40: #include "r_octacdb_macronix.h"
+                         217 --41: #include "main.h"
+                         218 --43: /***********************************************************
+                         219 --44:   Section: Local Variables
+                         220 --45: */
+                         221 --46: #ifndef BSP_INIT_OCTA_RAM_RW
+                         222 --47: //static uint32_t loc_srcData   [4096];
+                         223 --48: #endif
+                         224 --50: /***********************************************************
+                         225 --51:   Section: Local Defines
+                         226 --52: */
+                         227 --54: #define LOC_OCTA_UNIT           (0u)
+                         228 --56: #ifndef BSP_OCTA_FLASH_CH
+                         229 --57:  #define BSP_OCTA_FLASH_CH      (0u)
+                         230 --58: #endif
+                         231 --59: #ifndef BSP_OCTA_RAM_CH
+                         232 --60:  #define BSP_OCTA_RAM_CH        (1u)
+                         233 --61: #endif
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si
+                         234 --62: #if (BSP_OCTA_FLASH_CH == 0)
+                         235 --63:  #define LOC_OCTA_FLASH_EX_ADR  (0x60000000uL)
+                         236 --64: #else
+                         237 --65:  #define LOC_OCTA_FLASH_EX_ADR  (0x70000000uL)
+                         238 --66: #endif
+                         239 --67: #if (BSP_OCTA_RAM_CH == 0)
+                         240 --68:  #define LOC_OCTA_RAM_EX_ADR    (0x60000000uL)
+                         241 --69: #else
+                         242 --70:  #define LOC_OCTA_RAM_EX_ADR    (0x70000000uL)
+                         243 --71: #endif
+                         244 --73: /*******************************************************************************
+                         245 --74:   Section: external function protorype
+                         246 --75: */
+                         247 --77: extern uint32_t loc_CompareData32(uint32_t a[], uint32_t b[], uint32_t length32);
+                         248 --79: /*******************************************************************************
+                         249 --80:     Function: loc_StartOCTA
+                         250 --82:     Opens OCTA for writing and writes a pattern to it.
+                         251 --83:     Afterwards OCTA is closed but opened for reading again, so that
+                         252 --84:     the application can use it.
+                         253 --85:  */
+                         254 --86:  #if 0
+                         255 --87: void* loc_StartOCTA(void)
+                         256 --88: {
+                         257 --89: #ifdef BSP_INIT_OCTA_RAM_RW
+                         258 --90:     uint32_t*           ex_adr = (uint32_t*)(LOC_OCTA_RAM_EX_ADR + 0x00000000);
+                         259 --91:     uint32_t            i;
+                         260 --93:     /* fill color: olive */
+                         261 --94:     for (i = 0; i < 4096; i++)
+                         262 --95:     {
+                         263 --96:         ex_adr[i] = 0xff808000;
+                         264 --97:     }
+                         265 --98:     
+                         266 --99:     
+                         267 --100: #else /* BSP_INIT_OCTA_FLASH_R || BSP_INIT_OCTA_PIN  */
+                         268 --101:     r_octa_Error_t      err = R_OCTA_ERR_OK;
+                         269 --102:     r_octa_Config_t     config;
+                         270 --103:     uint32_t            byte_adr = 0x00000000;
+                         271 --104:     uint32_t            byte_size;
+                         272 --105:     uint32_t            i;
+                         273 --106:     uint32_t*           ex_adr = (uint32_t*)(LOC_OCTA_FLASH_EX_ADR + 0x00000000);
+                         274 --108:     /* fill color: olive */
+                         275 --109:     for(i = 0; i < 4096; i++)
+                         276 --110:     {
+                         277 --111:         loc_srcData[i] = 0xff808000;
+                         278 --112:     }
+                         279 --114:     /* Set open parameter */
+                         280 --115:     config.DeviceType         = R_OCTA_DEVICE_FLASH;
+                         281 --116:     config.OpeMode            = R_OCTA_MODE_EX_SPACE;
+                         282 --117:     config.DataTransferMode   = R_OCTA_MODE_DOPI;
+                         283 --118:     config.AddressMode        = R_OCTA_ADDRESS_32BIT;
+                         284 --119:     config.MemorySize         = R_OCTADB_FLASH_MEMORY_SIZE;
+                         285 --120:     config.SectorSize         = R_OCTADB_FLASH_SECTOR_SIZE;
+                         286 --121:     config.PageSize           = R_OCTADB_FLASH_PAGE_SIZE;
+                         287 --122:     config.Command            = &r_octacdb_FlashCmdTbl;
+                         288 --123:     config.RelaxSize          = 0;
+                         289 --124:     config.PreCycle           = R_OCTA_PRECYCLE_OFF;
+                         290 --125:     config.DQSDelay.EnableCnt = R_OCTADB_FLASH_DQS_EN_CNT_DOPI;
+                         291 --126:     config.DQSDelay.Delay     = 0x17;
+                         292 --127:     config.CalAddress         = 0xFFFFFFFF;
+                         293 --129: #ifdef BSP_INIT_OCTA_PIN
+                         294 --130:     err |= R_OCTA_Init(LOC_OCTA_UNIT);
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si
+                         295 --131:     err |= R_OCTA_Open(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH, &config);
+                         296 --132: #endif
+                         297 --134:     /* check if data is already there & program only if data is missing*/
+                         298 --135:     if (4096 != loc_CompareData32(loc_srcData, ex_adr, 4096))
+                         299 --136:     {
+                         300 --137:         err |= R_OCTA_Close(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH);
+                         301 --138:         
+                         302 --139:         /* Open for writing */
+                         303 --140:         config.OpeMode  = R_OCTA_MODE_MANUAL;
+                         304 --141:         err |= R_OCTA_Open(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH, &config);
+                         305 --142:         
+                         306 --143:         byte_size = sizeof(loc_srcData);
+                         307 --144:         
+                         308 --145:         /* write data to octa flash */
+                         309 --146:         err |= R_OCTA_DataProtect(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH, R_OCTA_MODE_UNPROTECT);
+                         310 --147:         
+                         311 --148:         err |= R_OCTA_DataErase(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH, byte_adr, byte_size);
+                         312 --149:         
+                         313 --150:         err |= R_OCTA_DataWrite(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH, byte_adr, (uint8_t*)loc_srcData, byte_size);
+                         314 --152:         err |= R_OCTA_Close(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH);
+                         315 --153:         
+                         316 --154:         /* open again for reading */
+                         317 --155:         config.OpeMode = R_OCTA_MODE_EX_SPACE;
+                         318 --156:         err |= R_OCTA_Open(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH, &config);
+                         319 --157:         
+                         320 --158:         if (4096 != loc_CompareData32(loc_srcData, ex_adr, 4096))
+                         321 --159:         {
+                         322 --160:             err |= R_OCTA_ERR_NG;
+                         323 --161:         }
+                         324 --162:     }
+                         325 --163:     if(err != R_OCTA_ERR_OK)
+                         326 --164:     {
+                         327 --165:         loc_Error((int32_t)err);
+                         328 --166:     }
+                         329 --167: #endif
+                         330 --168:     return (void*)ex_adr;
+                         331 --169: }
+                         332 --170: #endif
+                         333 --171: void* loc_StartOCTA(void)
+                         334 	.text
+                         335 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cocta...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02B..0::
+                         336 	.align	2
+                         337 	.global	_loc_StartOCTA
+                         338 _loc_StartOCTA:
+                         339 --	    .bf
+                         340 .LDW01:
+                         341 --172: {
+                         342 --173:     //r_octa_Error_t      err = R_OCTA_ERR_OK;
+                         343 --174:     //r_octa_Config_t     config;
+                         344 --175:     //uint32_t            byte_adr = 0x00000000;
+                         345 --176:     //uint32_t            byte_size;
+                         346 --177:     //uint32_t            i;
+                         347 --178:     uint32_t*           ex_adr = (uint32_t*)(LOC_OCTA_FLASH_EX_ADR + 0x00000000);
+00000000 400e0060        348 	movhi	hi(1610612736),zero,r1
+                         349 --181:     return (void*)ex_adr;
+00000004 0150            350 	mov	r1,r10
+                         351 --	    .ef
+                         352 .LDW11:
+00000006 7f00            353 	jmp	[lp]
+                         354 	.type	_loc_StartOCTA,@function
+                         355 	.size	_loc_StartOCTA,.-_loc_StartOCTA
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pjk1.si
+                         356 	.align	2
+                         357 .LDW21:
+                         358 --_ex_adr	r1	local
+                         359 
+                         360 	.section ".bss","awb"
+                         361 .L34:
+                         362 	.type	.L34,@object
+                         363 	.size	.L34,0
+                         364 	.data
+                         365 	.text
+                         366 
+                         367 --182: }
+                         368 
+                         369 --183: /*******************************************************************************
+                         370 --184:     Function: loc_StopOCTA
+                         371 --186:     Closes and stops OCTA
+                         372 --187:  */
+                         373 --188: void loc_StopOCTA(void)
+                         374 	.align	2
+                         375 	.align	2
+                         376 	.global	_loc_StopOCTA
+                         377 _loc_StopOCTA:
+                         378 --	    .bf
+                         379 .LDW31:
+                         380 --189: {
+                         381 --190: #if BSP_INIT_OCTA_PIN
+                         382 --191:     r_octa_Error_t err = R_OCTA_ERR_OK;
+                         383 --193:     err |= R_OCTA_Close(LOC_OCTA_UNIT, BSP_OCTA_FLASH_CH);
+                         384 --194:     err |= R_OCTA_DeInit(LOC_OCTA_UNIT);
+                         385 --196:     if(err != R_OCTA_ERR_OK)
+                         386 --197:     {
+                         387 --198:         loc_Error((int32_t)err);
+                         388 --199:     }
+                         389 --200: #endif
+                         390 --201: }
+                         391 --	    .ef
+                         392 .LDW41:
+00000008 7f00            393 	jmp	[lp]
+                         394 	.type	_loc_StopOCTA,@function
+                         395 	.size	_loc_StopOCTA,.-_loc_StopOCTA
+                         396 	.align	2
+                         397 .LDW51:
+                         398 
+                         399 	.section ".bss","awb"
+                         400 .L78:
+                         401 	.type	.L78,@object
+                         402 	.size	.L78,0
+                         403 	.data
+                         404 	.text
+                         405 
+                         406 	.align	2
+                         407 
+                         408 	.data
+                         409 	.ghsnote version,15
+                         410 	.ghsnote tools,3
+                         411 	.ghsnote options,144
+                         412 	.text
+                         413 	.align	2
+                         414 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cocta...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02B..0::
+                         415 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

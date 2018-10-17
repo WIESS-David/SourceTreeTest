@@ -1,0 +1,2202 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_dev_pin.dbo -source=r_dev_pin.c -o .\obj\gh_0000n281.o -list=.\obj\r_dev_pin.lst C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+Source File: r_dev_pin.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c ..\..\..\..\..\device\d1mx\src\dev\r_dev_pin.c
+                         170 --		-o .\obj\r_dev_pin.o
+                         171 --Source File:   ..\..\..\..\..\device\d1mx\src\dev\r_dev_pin.c
+                         172 --Directory:     
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         173 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         174 --Compile Date:  Tue Oct 16 19:48:52 2018
+                         175 --Host OS:       Win32
+                         176 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         177 --Release:       Compiler v2014.1.7
+                         178 --Revision Date: Fri Sep 05 14:10:46 2014
+                         179 --Release Date:  Fri Sep 05 14:44:23 2014
+                         180 -- ecom  -g -w
+                         181 
+                         182 --1: /*
+                         183 --2: ****************************************************************************
+                         184 --3: PROJECT : device driver for V-Lib
+                         185 --4: FILE    : $Id: r_dev_pin.c 13578 2017-05-29 13:31:52Z matthias.nippert $
+                         186 --5: ============================================================================
+                         187 --6: DESCRIPTION
+                         188 --7: D1Mx pin functions
+                         189 --8: ============================================================================
+                         190 --9:                             C O P Y R I G H T
+                         191 --10: ============================================================================
+                         192 --11:                        Copyright (c) 2017
+                         193 --12:                                   by 
+                         194 --13:                        Renesas Electronics (Europe) GmbH.
+                         195 --14:                            Arcadiastrasse 10
+                         196 --15:                           D-40472 Duesseldorf
+                         197 --16:                                Germany
+                         198 --17:                           All rights reserved.
+                         199 --18: ============================================================================
+                         200 --19: Purpose: only for testing, not for mass production
+                         201 --21: DISCLAIMER
+                         202 --23: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         203 --24: the license agreement, especially the usage rights. In any case, it is
+                         204 --25: LICENSEE's responsibility to make sure that any user of the software complies
+                         205 --26: with the terms and conditions of the signed license agreement.
+                         206 --28: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         207 --29: mass-production applications. It can only be used for evaluation and
+                         208 --30: demonstration purposes at customer's premises listed in the signed license
+                         209 --31: agreement.
+                         210 --33: ****************************************************************************
+                         211 --34: */
+                         212 --37: /*******************************************************************************
+                         213 --38:   Title: upd703670 port-pin init  functions
+                         214 --40:   
+                         215 --41: */
+                         216 --43: /*******************************************************************************
+                         217 --44:   Section: Includes
+                         218 --45: */
+                         219 --47: #include "r_typedefs.h"
+                         220 --48: #include "r_dev_api.h"
+                         221 --49: #include "r_config_pin.h"
+                         222 --51: /* This macro defnition exist for debug purposes 
+                         223 --52:    because of its concept, MISRA always complains ...*/
+                         224 --53: #if defined (__ghs__)
+                         225 --54: #pragma ghs startnomisra
+                         226 --55: #endif /* __ghs */
+                         227 --57: #if defined (R_DBG_PRINT_DEV_REGS) 
+                         228 --58:    /* When using this, do not forget double (( ))*/
+                         229 --59:    #define LOC_DBG_PRINTF(TXT) printf TXT
+                         230 --60: #else
+                         231 --61:    #define LOC_DBG_PRINTF(TXT)
+                         232 --62: #endif
+                         233 --64: #if defined (__ghs__)
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         234 --65: #pragma ghs endnomisra
+                         235 --66: #endif /* __ghs */
+                         236 --68: extern void R_GPIO_WritePin(int32_t Port, uint8_t Pin, uint8_t Value);
+                         237 --69: /*******************************************************************************
+                         238 --70:   Section: Local Constants 
+                         239 --71: */
+                         240 --73: /*******************************************************************************
+                         241 --74:   PORTC Register Offsets
+                         242 --75: */
+                         243 --77: /************************************************************************************************
+                         244 --79: Port registers
+                         245 --80:   <see r_dev_PinRegs_t> in the file "r_dev_pin_types.h".
+                         246 --82: */
+                         247 --84: /*******************************************************************************
+                         248 --85: Array : R_GPIO_Offset_Table
+                         249 --87: The R_GPIO_Offset_Table array specifies  Register offset in a Macro
+                         250 --88: */
+                         251 --90: static const uint32_t loc_RegOffset[R_DEV_PIN_REG_LAST] = {
+                         252 --91:     /*R_DEV_PIN_REG_PCR  */  0x2000u,
+                         253 --92:     
+                         254 --93:     /*R_DEV_PIN_REG_P    */  0x0000u,
+                         255 --94:     /*R_DEV_PIN_REG_PSR  */  0x0004u,
+                         256 --95:     /*R_DEV_PIN_REG_PPR  */  0x000Cu,
+                         257 --96:     /*R_DEV_PIN_REG_PM   */  0x0010u,
+                         258 --97:     /*R_DEV_PIN_REG_PMC  */  0x0014u,
+                         259 --98:     /*R_DEV_PIN_REG_PFC  */  0x0018u,
+                         260 --99:     /*R_DEV_PIN_REG_PFCE */  0x001Cu,
+                         261 --100:     /*R_DEV_PIN_REG_PNOT */  0x0008u,
+                         262 --101:     /*R_DEV_PIN_REG_PMSR */  0x0020u,
+                         263 --102:     /*R_DEV_PIN_REG_PMCSR*/  0x0024u,
+                         264 --103:     /*R_DEV_PIN_REG_PFCAE*/  0x0028u,
+                         265 --104:     
+                         266 --105:     /*  OS  */
+                         267 --106:     /*R_DEV_PIN_REG_PIBC */  (R_DEV_PIN_BASEO_OFFSET + 0x4000u),
+                         268 --107:     /*R_DEV_PIN_REG_PBDC */  (R_DEV_PIN_BASEO_OFFSET + 0x4004u),
+                         269 --108:     /*R_DEV_PIN_REG_PIPC */  (R_DEV_PIN_BASEO_OFFSET + 0x4008u),
+                         270 --109:     /*R_DEV_PIN_REG_PU   */  (R_DEV_PIN_BASEO_OFFSET + 0x400Cu),
+                         271 --110:     /*R_DEV_PIN_REG_PD   */  (R_DEV_PIN_BASEO_OFFSET + 0x4010u),
+                         272 --111:     /*R_DEV_PIN_REG_PODC */  (R_DEV_PIN_BASEO_OFFSET + 0x4014u),
+                         273 --112:     /*R_DEV_PIN_REG_PDSC */  (R_DEV_PIN_BASEO_OFFSET + 0x4018u),
+                         274 --113:     /*R_DEV_PIN_REG_PIS  */  (R_DEV_PIN_BASEO_OFFSET + 0x401Cu),
+                         275 --114:     /*R_DEV_PIN_REG_PISA */  (R_DEV_PIN_BASEO_OFFSET + 0x4024u),
+                         276 --115:     /*R_DEV_PIN_REG_PPCMD*/  (R_DEV_PIN_BASEO_OFFSET + 0x402Cu),
+                         277 --116:     /*R_DEV_PIN_REG_PPROTS*/ (R_DEV_PIN_BASEO_OFFSET + 0x4034u),
+                         278 --117: };
+                         279 --120: static const r_dev_PortInputCapability_t loc_PortCapability[] = 
+                         280 --121: /*  Port    InputType11,        InputType10,        InputType01,        InputType00 */
+                         281 --122: {
+                         282 --123:     {0u,    R_DEV_PIN_TTL,      R_DEV_PIN_TTL,      R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         283 --124:     {1u,    R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         284 --125:     {2u,    R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         285 --126:     {3u,    R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         286 --127:     {16u,   R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         287 --128:     {17u,   R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         288 --129:     {21u,   R_DEV_PIN_TTL_MLB,  R_DEV_PIN_TTL_MLB,  R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1},
+                         289 --130:     {42u,   R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         290 --131:     {43u,   R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         291 --132:     {46u,   R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         292 --133:     {47u,   R_DEV_PIN_CMOS1,    R_DEV_PIN_CMOS1,    R_DEV_PIN_SCHMITT4, R_DEV_PIN_SCHMITT1},
+                         293 --134:     
+                         294 --135:     /* delimiter - do not remove */
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         295 --136:     {0xFFu, R_DEV_PIN_NONE,     R_DEV_PIN_NONE,     R_DEV_PIN_NONE,     R_DEV_PIN_NONE},
+                         296 --137: };
+                         297 --139: /*******************************************************************************
+                         298 --140:   Section: Local variables 
+                         299 --141: */
+                         300 --142: static uint8_t loc_PinEnable = 1; 
+                         301 --145: /*******************************************************************************
+                         302 --146:   Section: Global functions
+                         303 --147: */
+                         304 --148: /*******************************************************************************
+                         305 --149:   Function: R_DEV_PinOutStateGet
+                         306 --151:   See: r_dev_api.h for details    
+                         307 --153:  */
+                         308 --154: void R_DEV_PinOutStateSet(uint8_t State)
+                         309 	.text
+                         310 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D024..0::
+                         311 	.align	2
+                         312 	.global	_R_DEV_PinOutStateSet
+                         313 _R_DEV_PinOutStateSet:
+00000000 c676ff00        314 	andi	255,r6,r14
+00000004 210600000000*   315 	mov	.L34,r1
+                         316 --	    .bf
+                         317 .LDW01:
+                         318 --155: {
+                         319 --156:     loc_PinEnable = State; 
+0000000a 41770000        320 	st.b	r14,0[r1]
+                         321 --157: }
+                         322 --	    .ef
+                         323 .LDW11:
+0000000e 7f00            324 	jmp	[lp]
+                         325 	.type	_R_DEV_PinOutStateSet,@function
+                         326 	.size	_R_DEV_PinOutStateSet,.-_R_DEV_PinOutStateSet
+                         327 	.align	2
+                         328 .LDW21:
+                         329 
+                         330 --_State	r14	param
+                         331 
+                         332 	.data
+                         333 .L34:
+                         334 	.type	.L34,@object
+                         335 	.size	.L34,0
+                         336 	.global	_loc_PinEnable..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.
+                         337 _loc_PinEnable..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.:
+00000000 01              338 _loc_PinEnable:	.byte	1
+                         339 	.type	_loc_PinEnable..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.,@object
+                         340 	.size	_loc_PinEnable..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.,1
+                         341 	.type	_loc_PinEnable,@object
+                         342 	.size	_loc_PinEnable,1
+                         343 	.section ".rodata","a"
+                         344 	.align	4
+                         345 	.global	_loc_RegOffset..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.
+                         346 _loc_RegOffset..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.:
+00000000 00200000        347 _loc_RegOffset:	.byte	0,32,0,0
+00000004 00000000        348 	.space	4
+00000008 04000000        349 	.byte	4,0,0,0
+0000000c 0c000000        350 	.byte	12,0,0,0
+00000010 10000000        351 	.byte	16,0,0,0
+00000014 14000000        352 	.byte	20,0,0,0
+00000018 18000000        353 	.byte	24,0,0,0
+0000001c 1c000000        354 	.byte	28,0,0,0
+00000020 08000000        355 	.byte	8,0,0,0
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+00000024 20000000        356 	.byte	32,0,0,0
+00000028 24000000        357 	.byte	36,0,0,0
+0000002c 28000000        358 	.byte	40,0,0,0
+00000030 00406000        359 	.byte	0,64,96,0
+00000034 04406000        360 	.byte	4,64,96,0
+00000038 08406000        361 	.byte	8,64,96,0
+0000003c 0c406000        362 	.byte	12,64,96,0
+00000040 10406000        363 	.byte	16,64,96,0
+00000044 14406000        364 	.byte	20,64,96,0
+00000048 18406000        365 	.byte	24,64,96,0
+0000004c 1c406000        366 	.byte	28,64,96,0
+00000050 24406000        367 	.byte	36,64,96,0
+00000054 2c406000        368 	.byte	44,64,96,0
+00000058 34406000        369 	.byte	52,64,96,0
+                         370 	.type	_loc_RegOffset..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.,@object
+                         371 	.size	_loc_RegOffset..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.,92
+                         372 	.type	_loc_RegOffset,@object
+                         373 	.size	_loc_RegOffset,92
+                         374 	.global	_loc_PortCapability..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.
+                         375 _loc_PortCapability..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.:
+0000005c 00              376 _loc_PortCapability:	.space	1
+0000005d 000000          377 	.space	3
+00000060 05000000        378 	.byte	5,0,0,0
+00000064 05000000        379 	.byte	5,0,0,0
+00000068 04000000        380 	.byte	4,0,0,0
+0000006c 03000000        381 	.byte	3,0,0,0
+00000070 01              382 	.byte	1
+00000071 000000          383 	.space	3
+00000074 01000000        384 	.byte	1,0,0,0
+00000078 01000000        385 	.byte	1,0,0,0
+0000007c 04000000        386 	.byte	4,0,0,0
+00000080 03000000        387 	.byte	3,0,0,0
+00000084 02              388 	.byte	2
+00000085 000000          389 	.space	3
+00000088 01000000        390 	.byte	1,0,0,0
+0000008c 01000000        391 	.byte	1,0,0,0
+00000090 04000000        392 	.byte	4,0,0,0
+00000094 03000000        393 	.byte	3,0,0,0
+00000098 03              394 	.byte	3
+00000099 000000          395 	.space	3
+0000009c 01000000        396 	.byte	1,0,0,0
+000000a0 01000000        397 	.byte	1,0,0,0
+000000a4 04000000        398 	.byte	4,0,0,0
+000000a8 03000000        399 	.byte	3,0,0,0
+000000ac 10              400 	.byte	16
+000000ad 000000          401 	.space	3
+000000b0 01000000        402 	.byte	1,0,0,0
+000000b4 01000000        403 	.byte	1,0,0,0
+000000b8 04000000        404 	.byte	4,0,0,0
+000000bc 03000000        405 	.byte	3,0,0,0
+000000c0 11              406 	.byte	17
+000000c1 000000          407 	.space	3
+000000c4 01000000        408 	.byte	1,0,0,0
+000000c8 01000000        409 	.byte	1,0,0,0
+000000cc 04000000        410 	.byte	4,0,0,0
+000000d0 03000000        411 	.byte	3,0,0,0
+000000d4 15              412 	.byte	21
+000000d5 000000          413 	.space	3
+000000d8 06000000        414 	.byte	6,0,0,0
+000000dc 06000000        415 	.byte	6,0,0,0
+000000e0 01000000        416 	.byte	1,0,0,0
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+000000e4 01000000        417 	.byte	1,0,0,0
+000000e8 2a              418 	.byte	42
+000000e9 000000          419 	.space	3
+000000ec 01000000        420 	.byte	1,0,0,0
+000000f0 01000000        421 	.byte	1,0,0,0
+000000f4 04000000        422 	.byte	4,0,0,0
+000000f8 03000000        423 	.byte	3,0,0,0
+000000fc 2b              424 	.byte	43
+000000fd 000000          425 	.space	3
+00000100 01000000        426 	.byte	1,0,0,0
+00000104 01000000        427 	.byte	1,0,0,0
+00000108 04000000        428 	.byte	4,0,0,0
+0000010c 03000000        429 	.byte	3,0,0,0
+00000110 2e              430 	.byte	46
+00000111 000000          431 	.space	3
+00000114 01000000        432 	.byte	1,0,0,0
+00000118 01000000        433 	.byte	1,0,0,0
+0000011c 04000000        434 	.byte	4,0,0,0
+00000120 03000000        435 	.byte	3,0,0,0
+00000124 2f              436 	.byte	47
+00000125 000000          437 	.space	3
+00000128 01000000        438 	.byte	1,0,0,0
+0000012c 01000000        439 	.byte	1,0,0,0
+00000130 04000000        440 	.byte	4,0,0,0
+00000134 03000000        441 	.byte	3,0,0,0
+00000138 ff              442 	.byte	255
+00000139 000000          443 	.space	3
+0000013c 00000000        444 	.space	4
+00000140 00000000        445 	.space	4
+00000144 00000000        446 	.space	4
+00000148 00000000        447 	.space	4
+                         448 	.type	_loc_PortCapability..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.,@object
+                         449 	.size	_loc_PortCapability..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.,240
+                         450 	.type	_loc_PortCapability,@object
+                         451 	.size	_loc_PortCapability,240
+                         452 	.data
+                         453 	.text
+                         454 
+                         455 
+                         456 --158: /*******************************************************************************
+                         457 --159:   Function: R_DEV_PinOutStateGet
+                         458 --161:   See: r_dev_api.h for details    
+                         459 --163: */
+                         460 --164: uint8_t R_DEV_PinOutStateGet(void) 
+                         461 	.align	2
+                         462 	.align	2
+                         463 	.global	_R_DEV_PinOutStateGet
+                         464 _R_DEV_PinOutStateGet:
+00000010 210600000000*   465 	mov	_loc_PinEnable,r1
+                         466 --	    .bf
+                         467 .LDW31:
+                         468 --165: {
+                         469 --166:     return loc_PinEnable;
+00000016 2a0600000000*   470 	mov	_loc_PinEnable,r10
+0000001c 8a570100        471 	ld.bu	0[r10],r10
+                         472 --	    .ef
+                         473 .LDW41:
+00000020 7f00            474 	jmp	[lp]
+                         475 	.type	_R_DEV_PinOutStateGet,@function
+                         476 	.size	_R_DEV_PinOutStateGet,.-_R_DEV_PinOutStateGet
+                         477 	.align	2
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         478 .LDW51:
+                         479 
+                         480 	.data
+                         481 	.text
+                         482 
+                         483 --167: }
+                         484 
+                         485 --168:  
+                         486 --170: /*******************************************************************************
+                         487 --171:   Function: R_DEV_PinConfig
+                         488 --172:   
+                         489 --173:   See: r_dev_api.h for details    
+                         490 --175: */
+                         491 --177: uint8_t R_DEV_PinConfig(const r_dev_PinConfig_t * PinCfg)
+                         492 	.align	2
+                         493 	.align	2
+                         494 	.global	_R_DEV_PinConfig
+                         495 _R_DEV_PinConfig:
+00000022 8c07e170        496 	prepare	{r25,r26,r27,r28,r29,r31},6
+00000026 06d8            497 	mov	r6,r27
+                         498 --	    .bf
+                         499 .LDW61:
+                         500 --178: {
+                         501 --179:      uint8_t   ret_val      = 1u; 
+00000028 015a            502 	mov	1,r11
+0000002a 435f0700        503 	st.b	r11,7[sp]
+                         504 --183:     uint32_t  addr         = 0u; 
+0000002e 00e2            505 	mov	0,r28
+                         506 --184:     uint32_t  prot_addr    = 0u; 
+00000030 63070d00        507 	st.w	zero,12[sp]
+00000034 005a            508 	mov	0,r11
+                         509 --185:     uint32_t  reg_val      = 0u;
+00000036 00ea            510 	mov	0,r29
+                         511 --186:     uint16_t  pin_position = 1u;
+00000038 01d2            512 	mov	1,r26
+                         513 --187:     uint8_t   port_position = 0u;
+0000003a 00ca            514 	mov	0,r25
+                         515 --188:     uint8_t   portHasPisaRegister = 0u;
+0000003c 43070600        516 	st.b	zero,6[sp]
+00000040 005a            517 	mov	0,r11
+                         518 --189:     uint8_t   portHasPisRegister  = 0u;
+00000042 43070500        519 	st.b	zero,5[sp]
+00000046 005a            520 	mov	0,r11
+                         521 --190:     uint8_t   PisaRegBitValue     = 0u;
+00000048 43070300        522 	st.b	zero,3[sp]
+0000004c 005a            523 	mov	0,r11
+                         524 --191:     uint8_t   PisRegBitValue      = 0u;
+0000004e 43070400        525 	st.b	zero,4[sp]
+00000052 005a            526 	mov	0,r11
+                         527 --193:     R_DBG_PRINT(R_DBG_MSG_DET, "--- Pin Config Start ---"); 
+                         528 --194:     if (0 == loc_PinEnable)
+00000054 210600000000*   529 	mov	_loc_PinEnable,r1
+0000005a 810f0100        530 	ld.bu	0[r1],r1
+0000005e e009            531 	cmp	zero,r1
+00000060 fa05*           532 	bne	.L91
+                         533 --195:     {
+                         534 --196:         R_DBG_PRINT(R_DBG_MSG_DET, "--- Pin output disabled - exiting  ---"); 
+                         535 --197:         return ret_val; 
+                         536 --line197
+                         537 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.1::
+                         538 .LDWlin1:
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+00000062 235e0100        539 	movea	1,sp,r11
+00000066 8b570700        540 	ld.bu	6[r11],r10
+0000006a 8007e205*       541 	br	.L89
+                         542 .L91:
+                         543 --198:     }    
+                         544 --199:     pin_position = (uint16_t)(pin_position << PinCfg->Pin);
+                         545 --line199
+                         546 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.2::
+                         547 .LDWlin2:
+0000006e bb0f0100        548 	ld.bu	1[r27],r1
+00000072 e1d7c208        549 	shl	r1,r26,r1
+00000076 c100            550 	zxh	r1
+00000078 01d0            551 	mov	r1,r26
+                         552 --200:     /* optional check if already configured */
+                         553 --201:     /* read PMC, if 1 -> already set to other alternative mode, abort */
+                         554 --202:     /* read PM, if not 1 -> already set to output, abort (this is in case of pure GPIO) */
+                         555 --203:     
+                         556 --204:     /* Input or output  */
+                         557 --205:     addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PM, PinCfg->Port);
+0000007a 9b3f0100        558 	ld.bu	0[r27],r7
+0000007e 0432            559 	mov	4,r6
+                         560 	jarl	_R_DEV_PinGetRegAddr,lp
+                         560 <EXPANSION BEGIN>
+                         560 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000080 80ff1606*       560 <EXPANSION END>
+00000084 0ae0            561 	mov	r10,r28
+                         562 --206:     reg_val = R_DEV_READ_REG(16, addr);
+                         563 --line206
+                         564 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.3::
+                         565 .LDWlin3:
+00000086 fcef0100        566 	ld.hu	0[r28],r29
+                         567 --207:     if (R_DEV_PIN_OUT == PinCfg->Dir)
+0000008a 3b0f0500        568 	ld.w	4[r27],r1
+0000008e e009            569 	cmp	zero,r1
+00000090 da05*           570 	bne	.L94
+                         571 --208:     {
+                         572 --209:         reg_val &= (uint16_t)(~pin_position); 
+                         573 --line209
+                         574 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.4::
+                         575 .LDWlin4:
+00000092 3a08            576 	not	r26,r1
+00000094 c100            577 	zxh	r1
+00000096 41e9            578 	and	r1,r29
+00000098 a505*           579 	br	.L96
+                         580 .L94:
+                         581 --210:         LOC_DBG_PRINTF(("/* Set pin %d of port %d as output for ", PinCfg->Pin, PinCfg->Port)); 
+                         582 --212:     }
+                         583 --213:     else /* Set direction to input also in case of direct control */
+                         584 --214:     {
+                         585 --215:         reg_val |= pin_position;
+                         586 --line215
+                         587 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.5::
+                         588 .LDWlin5:
+0000009a 1ae9            589 	or	r26,r29
+                         590 .L96:
+                         591 --216:         LOC_DBG_PRINTF(("/* Set pin %d of port %d as input for ", PinCfg->Pin, PinCfg->Port)); 
+                         592 --217:     }
+                         593 --218:     LOC_DBG_PRINTF(("alternative function %d */\n", PinCfg->Func )); 
+                         594 --219:     R_DEV_WRITE_REG(16, addr, reg_val);
+0000009c 7cef0000        595 	st.h	r29,0[r28]
+                         596 --220:     
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         597 --221:     /* direct control */
+                         598 --222:     addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PIPC, PinCfg->Port);
+000000a0 9b3f0100        599 	ld.bu	0[r27],r7
+000000a4 0e32            600 	mov	14,r6
+                         601 	jarl	_R_DEV_PinGetRegAddr,lp
+                         601 <EXPANSION BEGIN>
+                         601 jarl22 _R_DEV_PinGetRegAddr , lp 
+000000a6 80fff005*       601 <EXPANSION END>
+000000aa 0ae0            602 	mov	r10,r28
+                         603 --223:     reg_val = R_DEV_READ_REG(16, addr);
+                         604 --line223
+                         605 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.6::
+                         606 .LDWlin6:
+000000ac fcef0100        607 	ld.hu	0[r28],r29
+                         608 --224:     if (R_DEV_PIN_DIRECT == PinCfg->Dir)
+000000b0 3b0f0500        609 	ld.w	4[r27],r1
+000000b4 620a            610 	cmp	2,r1
+000000b6 ba05*           611 	bne	.L97
+                         612 --225:     {
+                         613 --226:         reg_val |= pin_position; 
+                         614 --line226
+                         615 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.7::
+                         616 .LDWlin7:
+000000b8 1ae9            617 	or	r26,r29
+000000ba c505*           618 	br	.L99
+                         619 .L97:
+                         620 --227:     }
+                         621 --228:     else
+                         622 --229:     {
+                         623 --230:         reg_val &= (uint16_t)(~pin_position);
+                         624 --line230
+                         625 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.8::
+                         626 .LDWlin8:
+000000bc 3a08            627 	not	r26,r1
+000000be c100            628 	zxh	r1
+000000c0 41e9            629 	and	r1,r29
+                         630 .L99:
+                         631 --231:     }
+                         632 --232:     R_DEV_WRITE_REG(16, addr, reg_val);
+000000c2 7cef0000        633 	st.h	r29,0[r28]
+                         634 --233:     
+                         635 --234:     
+                         636 --235:     /* activate pull-up / pull-down resistors */
+                         637 --236:     /*  set pull-up */
+                         638 --237:     addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PU, PinCfg->Port);
+000000c6 9b3f0100        639 	ld.bu	0[r27],r7
+000000ca 0f32            640 	mov	15,r6
+                         641 	jarl	_R_DEV_PinGetRegAddr,lp
+                         641 <EXPANSION BEGIN>
+                         641 jarl22 _R_DEV_PinGetRegAddr , lp 
+000000cc 80ffca05*       641 <EXPANSION END>
+000000d0 0ae0            642 	mov	r10,r28
+                         643 --238:     reg_val = R_DEV_READ_REG(16, addr);
+                         644 --line238
+                         645 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.9::
+                         646 .LDWlin9:
+000000d2 fcef0100        647 	ld.hu	0[r28],r29
+                         648 --239:     if (R_DEV_PIN_PULLUP == PinCfg->Pull)
+000000d6 3b0f0d00        649 	ld.w	12[r27],r1
+000000da 610a            650 	cmp	1,r1
+000000dc ba05*           651 	bne	.L100
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         652 --240:     {
+                         653 --241:         reg_val |= pin_position; 
+                         654 --line241
+                         655 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.10::
+                         656 .LDWlin10:
+000000de 1ae9            657 	or	r26,r29
+000000e0 c505*           658 	br	.L102
+                         659 .L100:
+                         660 --242:     }
+                         661 --243:     else
+                         662 --244:     {
+                         663 --245:         reg_val &= (uint16_t)(~pin_position);
+                         664 --line245
+                         665 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.11::
+                         666 .LDWlin11:
+000000e2 3a08            667 	not	r26,r1
+000000e4 c100            668 	zxh	r1
+000000e6 41e9            669 	and	r1,r29
+                         670 .L102:
+                         671 --246:     }
+                         672 --247:     R_DEV_WRITE_REG(16, addr, reg_val);
+000000e8 7cef0000        673 	st.h	r29,0[r28]
+                         674 --248: reg_val = R_DEV_READ_REG(16, addr);
+000000ec fcef0100        675 	ld.hu	0[r28],r29
+                         676 --249:     /*  set pull-down */
+                         677 --250:     addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PD, PinCfg->Port);
+000000f0 9b3f0100        678 	ld.bu	0[r27],r7
+000000f4 20361000        679 	movea	16,zero,r6
+                         680 	jarl	_R_DEV_PinGetRegAddr,lp
+                         680 <EXPANSION BEGIN>
+                         680 jarl22 _R_DEV_PinGetRegAddr , lp 
+000000f8 80ff9e05*       680 <EXPANSION END>
+000000fc 0ae0            681 	mov	r10,r28
+                         682 --251:     reg_val = R_DEV_READ_REG(16, addr);
+                         683 --line251
+                         684 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.12::
+                         685 .LDWlin12:
+000000fe fcef0100        686 	ld.hu	0[r28],r29
+                         687 --252:     if (R_DEV_PIN_PULLDOWN == PinCfg->Pull)
+00000102 3b0f0d00        688 	ld.w	12[r27],r1
+00000106 620a            689 	cmp	2,r1
+00000108 ba05*           690 	bne	.L103
+                         691 --253:     {
+                         692 --254:         reg_val |= pin_position; 
+                         693 --line254
+                         694 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.13::
+                         695 .LDWlin13:
+0000010a 1ae9            696 	or	r26,r29
+0000010c c505*           697 	br	.L105
+                         698 .L103:
+                         699 --255:     }
+                         700 --256:     else
+                         701 --257:     {
+                         702 --258:         reg_val &= (uint16_t)(~pin_position);
+                         703 --line258
+                         704 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.14::
+                         705 .LDWlin14:
+0000010e 3a08            706 	not	r26,r1
+00000110 c100            707 	zxh	r1
+00000112 41e9            708 	and	r1,r29
+                         709 .L105:
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         710 --259:     }
+                         711 --260:     R_DEV_WRITE_REG(16, addr, reg_val);
+00000114 7cef0000        712 	st.h	r29,0[r28]
+                         713 --262:     
+                         714 --263:     /* feedback input (bidirectional mode) */
+                         715 --264:     addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PBDC, PinCfg->Port);
+00000118 9b3f0100        716 	ld.bu	0[r27],r7
+0000011c 0d32            717 	mov	13,r6
+                         718 	jarl	_R_DEV_PinGetRegAddr,lp
+                         718 <EXPANSION BEGIN>
+                         718 jarl22 _R_DEV_PinGetRegAddr , lp 
+0000011e 80ff7805*       718 <EXPANSION END>
+00000122 0ae0            719 	mov	r10,r28
+                         720 --265:     reg_val = R_DEV_READ_REG(16, addr);
+                         721 --line265
+                         722 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.15::
+                         723 .LDWlin15:
+00000124 fcef0100        724 	ld.hu	0[r28],r29
+                         725 --266:     if (1 == PinCfg->Feedback)
+00000128 9b0f0900        726 	ld.bu	8[r27],r1
+0000012c 610a            727 	cmp	1,r1
+0000012e ba05*           728 	bne	.L106
+                         729 --267:     {
+                         730 --268:         reg_val |= pin_position; 
+                         731 --line268
+                         732 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.16::
+                         733 .LDWlin16:
+00000130 1ae9            734 	or	r26,r29
+00000132 c505*           735 	br	.L108
+                         736 .L106:
+                         737 --269:     }
+                         738 --270:     else
+                         739 --271:     {
+                         740 --272:         reg_val &= (uint16_t)(~pin_position);
+                         741 --line272
+                         742 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.17::
+                         743 .LDWlin17:
+00000134 3a08            744 	not	r26,r1
+00000136 c100            745 	zxh	r1
+00000138 41e9            746 	and	r1,r29
+                         747 .L108:
+                         748 --273:     }
+                         749 --274:     R_DEV_WRITE_REG(16, addr, reg_val);
+0000013a 7cef0000        750 	st.h	r29,0[r28]
+                         751 --275:     
+                         752 --276:     
+                         753 --277:     
+                         754 --278:     /*Set mode to GPIO or alternative function */
+                         755 --279:     switch(PinCfg->Func)
+0000013e 9b0f0300        756 	ld.bu	2[r27],r1
+00000142 660a            757 	cmp	6,r1
+00000144 eb074302*       758 	bh	.L118
+00000148 c20a            759 	shl	2,r1
+0000014a e10600000000*   760 	jmp	.L1167[r1]
+                         761 .L1167:
+00000150 80071c00*       762 	jr	.L111
+00000154 80076a00*       763 	jr	.L112
+00000158 8007b800*       764 	jr	.L113
+0000015c 80070201*       765 	jr	.L114
+00000160 80074a01*       766 	jr	.L115
+00000164 80078e01*       767 	jr	.L116
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+00000168 8007d601*       768 	jr	.L117
+                         769 .L111:
+                         770 --280:     {
+                         771 --281:     case 0:  /* GPIO */                                   
+                         772 --282:         /*Set PFC, PFCE and PFCAE bits to 0. */     
+                         773 --283:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFC, PinCfg->Port);
+                         774 --line283
+                         775 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.18::
+                         776 .LDWlin18:
+0000016c 9b3f0100        777 	ld.bu	0[r27],r7
+00000170 0632            778 	mov	6,r6
+                         779 	jarl	_R_DEV_PinGetRegAddr,lp
+                         779 <EXPANSION BEGIN>
+                         779 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000172 80ff2405*       779 <EXPANSION END>
+00000176 0ae0            780 	mov	r10,r28
+                         781 --284:         reg_val =   R_DEV_READ_REG(16, addr);
+                         782 --line284
+                         783 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.19::
+                         784 .LDWlin19:
+00000178 fcef0100        785 	ld.hu	0[r28],r29
+                         786 --285:         reg_val &=  (uint16_t)(~pin_position);  
+0000017c 3a08            787 	not	r26,r1
+0000017e c100            788 	zxh	r1
+00000180 41e9            789 	and	r1,r29
+                         790 --286:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000182 7cef0000        791 	st.h	r29,0[r28]
+                         792 --287:  
+                         793 --288:         addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCE, PinCfg->Port);
+00000186 9b3f0100        794 	ld.bu	0[r27],r7
+0000018a 0732            795 	mov	7,r6
+                         796 	jarl	_R_DEV_PinGetRegAddr,lp
+                         796 <EXPANSION BEGIN>
+                         796 jarl22 _R_DEV_PinGetRegAddr , lp 
+0000018c 80ff0a05*       796 <EXPANSION END>
+00000190 0ae0            797 	mov	r10,r28
+                         798 --289:         reg_val =   R_DEV_READ_REG(16, addr);
+                         799 --line289
+                         800 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.20::
+                         801 .LDWlin20:
+00000192 fcef0100        802 	ld.hu	0[r28],r29
+                         803 --290:         reg_val &= (uint16_t)(~pin_position);  
+00000196 3a08            804 	not	r26,r1
+00000198 c100            805 	zxh	r1
+0000019a 41e9            806 	and	r1,r29
+                         807 --291:         R_DEV_WRITE_REG(16, addr, reg_val);
+0000019c 7cef0000        808 	st.h	r29,0[r28]
+                         809 --292:         
+                         810 --293:         addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCAE, PinCfg->Port);
+000001a0 9b3f0100        811 	ld.bu	0[r27],r7
+000001a4 0b32            812 	mov	11,r6
+                         813 	jarl	_R_DEV_PinGetRegAddr,lp
+                         813 <EXPANSION BEGIN>
+                         813 jarl22 _R_DEV_PinGetRegAddr , lp 
+000001a6 80fff004*       813 <EXPANSION END>
+000001aa 0ae0            814 	mov	r10,r28
+                         815 --294:         reg_val =   R_DEV_READ_REG(16, addr);
+                         816 --line294
+                         817 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.21::
+                         818 .LDWlin21:
+000001ac fcef0100        819 	ld.hu	0[r28],r29
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         820 --295:         reg_val &= (uint16_t)(~pin_position);  
+000001b0 3a08            821 	not	r26,r1
+000001b2 c100            822 	zxh	r1
+000001b4 41e9            823 	and	r1,r29
+                         824 --296:         R_DEV_WRITE_REG(16, addr, reg_val);
+000001b6 7cef0000        825 	st.h	r29,0[r28]
+000001ba 8007d601*       826 	br	.L109
+                         827 .L112:
+                         828 --297:         break;
+                         829 --298:     case 1:                                     /* Alternative function 1 */
+                         830 --299:         /*Set PFC, PFCE and PFCAE bits to 0. */     
+                         831 --300:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFC, PinCfg->Port);
+                         832 --line300
+                         833 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.22::
+                         834 .LDWlin22:
+000001be 9b3f0100        835 	ld.bu	0[r27],r7
+000001c2 0632            836 	mov	6,r6
+                         837 	jarl	_R_DEV_PinGetRegAddr,lp
+                         837 <EXPANSION BEGIN>
+                         837 jarl22 _R_DEV_PinGetRegAddr , lp 
+000001c4 80ffd204*       837 <EXPANSION END>
+000001c8 0ae0            838 	mov	r10,r28
+                         839 --301:         reg_val =   R_DEV_READ_REG(16, addr);
+                         840 --line301
+                         841 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.23::
+                         842 .LDWlin23:
+000001ca fcef0100        843 	ld.hu	0[r28],r29
+                         844 --302:         reg_val &= (uint16_t)(~pin_position);  
+000001ce 3a08            845 	not	r26,r1
+000001d0 c100            846 	zxh	r1
+000001d2 41e9            847 	and	r1,r29
+                         848 --303:         R_DEV_WRITE_REG(16, addr, reg_val);
+000001d4 7cef0000        849 	st.h	r29,0[r28]
+                         850 --304:  
+                         851 --305:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCE, PinCfg->Port);
+000001d8 9b3f0100        852 	ld.bu	0[r27],r7
+000001dc 0732            853 	mov	7,r6
+                         854 	jarl	_R_DEV_PinGetRegAddr,lp
+                         854 <EXPANSION BEGIN>
+                         854 jarl22 _R_DEV_PinGetRegAddr , lp 
+000001de 80ffb804*       854 <EXPANSION END>
+000001e2 0ae0            855 	mov	r10,r28
+                         856 --306:         reg_val =   R_DEV_READ_REG(16, addr);
+                         857 --line306
+                         858 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.24::
+                         859 .LDWlin24:
+000001e4 fcef0100        860 	ld.hu	0[r28],r29
+                         861 --307:         reg_val &= (uint16_t)(~pin_position);  
+000001e8 3a08            862 	not	r26,r1
+000001ea c100            863 	zxh	r1
+000001ec 41e9            864 	and	r1,r29
+                         865 --308:         R_DEV_WRITE_REG(16, addr, reg_val);
+000001ee 7cef0000        866 	st.h	r29,0[r28]
+                         867 --309:         
+                         868 --310:         addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCAE, PinCfg->Port);
+000001f2 9b3f0100        869 	ld.bu	0[r27],r7
+000001f6 0b32            870 	mov	11,r6
+                         871 	jarl	_R_DEV_PinGetRegAddr,lp
+                         871 <EXPANSION BEGIN>
+                         871 jarl22 _R_DEV_PinGetRegAddr , lp 
+000001f8 80ff9e04*       871 <EXPANSION END>
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+000001fc 0ae0            872 	mov	r10,r28
+                         873 --311:         reg_val =   R_DEV_READ_REG(16, addr);
+                         874 --line311
+                         875 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.25::
+                         876 .LDWlin25:
+000001fe fcef0100        877 	ld.hu	0[r28],r29
+                         878 --312:         reg_val &= (uint16_t)(~pin_position);  
+00000202 3a08            879 	not	r26,r1
+00000204 c100            880 	zxh	r1
+00000206 41e9            881 	and	r1,r29
+                         882 --313:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000208 7cef0000        883 	st.h	r29,0[r28]
+0000020c 80078401*       884 	br	.L109
+                         885 .L113:
+                         886 --314:         break;
+                         887 --315:     case 2:                                     /* Alternative function 2 */
+                         888 --316:         /*Set PFC bit to 1  and PFCE bit to 0. */
+                         889 --317:         /*Set PFCAE bit to 0. */
+                         890 --318:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFC, PinCfg->Port);
+                         891 --line318
+                         892 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.26::
+                         893 .LDWlin26:
+00000210 9b3f0100        894 	ld.bu	0[r27],r7
+00000214 0632            895 	mov	6,r6
+                         896 	jarl	_R_DEV_PinGetRegAddr,lp
+                         896 <EXPANSION BEGIN>
+                         896 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000216 80ff8004*       896 <EXPANSION END>
+0000021a 0ae0            897 	mov	r10,r28
+                         898 --319:         reg_val =   R_DEV_READ_REG(16, addr);
+                         899 --line319
+                         900 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.27::
+                         901 .LDWlin27:
+0000021c fcef0100        902 	ld.hu	0[r28],r29
+                         903 --320:         reg_val |=  pin_position;  
+00000220 1ae9            904 	or	r26,r29
+                         905 --321:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000222 7cef0000        906 	st.h	r29,0[r28]
+                         907 --322:  
+                         908 --323:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCE, PinCfg->Port);
+00000226 9b3f0100        909 	ld.bu	0[r27],r7
+0000022a 0732            910 	mov	7,r6
+                         911 	jarl	_R_DEV_PinGetRegAddr,lp
+                         911 <EXPANSION BEGIN>
+                         911 jarl22 _R_DEV_PinGetRegAddr , lp 
+0000022c 80ff6a04*       911 <EXPANSION END>
+00000230 0ae0            912 	mov	r10,r28
+                         913 --324:         reg_val =   R_DEV_READ_REG(16, addr);
+                         914 --line324
+                         915 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.28::
+                         916 .LDWlin28:
+00000232 fcef0100        917 	ld.hu	0[r28],r29
+                         918 --325:         reg_val &= (uint16_t)(~pin_position);  
+00000236 3a08            919 	not	r26,r1
+00000238 c100            920 	zxh	r1
+0000023a 41e9            921 	and	r1,r29
+                         922 --326:         R_DEV_WRITE_REG(16, addr, reg_val);
+0000023c 7cef0000        923 	st.h	r29,0[r28]
+                         924 --327:         
+                         925 --328:         addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCAE, PinCfg->Port);
+00000240 9b3f0100        926 	ld.bu	0[r27],r7
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+00000244 0b32            927 	mov	11,r6
+                         928 	jarl	_R_DEV_PinGetRegAddr,lp
+                         928 <EXPANSION BEGIN>
+                         928 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000246 80ff5004*       928 <EXPANSION END>
+0000024a 0ae0            929 	mov	r10,r28
+                         930 --329:         reg_val =   R_DEV_READ_REG(16, addr);
+                         931 --line329
+                         932 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.29::
+                         933 .LDWlin29:
+0000024c fcef0100        934 	ld.hu	0[r28],r29
+                         935 --330:         reg_val &= (uint16_t)(~pin_position);  
+00000250 3a08            936 	not	r26,r1
+00000252 c100            937 	zxh	r1
+00000254 41e9            938 	and	r1,r29
+                         939 --331:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000256 7cef0000        940 	st.h	r29,0[r28]
+0000025a 80073601*       941 	br	.L109
+                         942 .L114:
+                         943 --332:         break;
+                         944 --333:     case 3:                                     /* Alternative function 3 */
+                         945 --334:         /*Set PFC bit to 0  and PFCE bit to 1. */
+                         946 --335:         /*Set PFCAE bit to 0. */
+                         947 --336:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFC, PinCfg->Port);
+                         948 --line336
+                         949 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.30::
+                         950 .LDWlin30:
+0000025e 9b3f0100        951 	ld.bu	0[r27],r7
+00000262 0632            952 	mov	6,r6
+                         953 	jarl	_R_DEV_PinGetRegAddr,lp
+                         953 <EXPANSION BEGIN>
+                         953 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000264 80ff3204*       953 <EXPANSION END>
+00000268 0ae0            954 	mov	r10,r28
+                         955 --337:         reg_val =   R_DEV_READ_REG(16, addr);
+                         956 --line337
+                         957 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.31::
+                         958 .LDWlin31:
+0000026a fcef0100        959 	ld.hu	0[r28],r29
+                         960 --338:         reg_val &= (uint16_t)(~pin_position);  
+0000026e 3a08            961 	not	r26,r1
+00000270 c100            962 	zxh	r1
+00000272 41e9            963 	and	r1,r29
+                         964 --339:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000274 7cef0000        965 	st.h	r29,0[r28]
+                         966 --340:  
+                         967 --341:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCE, PinCfg->Port);
+00000278 9b3f0100        968 	ld.bu	0[r27],r7
+0000027c 0732            969 	mov	7,r6
+                         970 	jarl	_R_DEV_PinGetRegAddr,lp
+                         970 <EXPANSION BEGIN>
+                         970 jarl22 _R_DEV_PinGetRegAddr , lp 
+0000027e 80ff1804*       970 <EXPANSION END>
+00000282 0ae0            971 	mov	r10,r28
+                         972 --342:         reg_val =   R_DEV_READ_REG(16, addr);
+                         973 --line342
+                         974 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.32::
+                         975 .LDWlin32:
+00000284 fcef0100        976 	ld.hu	0[r28],r29
+                         977 --343:         reg_val |=  pin_position;  
+00000288 1ae9            978 	or	r26,r29
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                         979 --344:         R_DEV_WRITE_REG(16, addr, reg_val);
+0000028a 7cef0000        980 	st.h	r29,0[r28]
+                         981 --345:         
+                         982 --346:         addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCAE, PinCfg->Port);
+0000028e 9b3f0100        983 	ld.bu	0[r27],r7
+00000292 0b32            984 	mov	11,r6
+                         985 	jarl	_R_DEV_PinGetRegAddr,lp
+                         985 <EXPANSION BEGIN>
+                         985 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000294 80ff0204*       985 <EXPANSION END>
+00000298 0ae0            986 	mov	r10,r28
+                         987 --347:         reg_val =   R_DEV_READ_REG(16, addr);
+                         988 --line347
+                         989 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.33::
+                         990 .LDWlin33:
+0000029a fcef0100        991 	ld.hu	0[r28],r29
+                         992 --348:         reg_val &= (uint16_t)(~pin_position);  
+0000029e 3a08            993 	not	r26,r1
+000002a0 c100            994 	zxh	r1
+000002a2 41e9            995 	and	r1,r29
+                         996 --349:         R_DEV_WRITE_REG(16, addr, reg_val);
+000002a4 7cef0000        997 	st.h	r29,0[r28]
+000002a8 c575*           998 	br	.L109
+                         999 .L115:
+                        1000 --350:         break;
+                        1001 --351:     case 4:                                     /* Alternative function 4 */
+                        1002 --352:         /*Set PFC and PFCE bits to 1. */
+                        1003 --353:         /*Set PFCAE bit to 0. */
+                        1004 --354:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFC, PinCfg->Port);
+                        1005 --line354
+                        1006 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.34::
+                        1007 .LDWlin34:
+000002aa 9b3f0100       1008 	ld.bu	0[r27],r7
+000002ae 0632           1009 	mov	6,r6
+                        1010 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1010 <EXPANSION BEGIN>
+                        1010 jarl22 _R_DEV_PinGetRegAddr , lp 
+000002b0 80ffe603*      1010 <EXPANSION END>
+000002b4 0ae0           1011 	mov	r10,r28
+                        1012 --355:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1013 --line355
+                        1014 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.35::
+                        1015 .LDWlin35:
+000002b6 fcef0100       1016 	ld.hu	0[r28],r29
+                        1017 --356:         reg_val |=  pin_position;  
+000002ba 1ae9           1018 	or	r26,r29
+                        1019 --357:         R_DEV_WRITE_REG(16, addr, reg_val);
+000002bc 7cef0000       1020 	st.h	r29,0[r28]
+                        1021 --358:  
+                        1022 --359:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCE, PinCfg->Port);
+000002c0 9b3f0100       1023 	ld.bu	0[r27],r7
+000002c4 0732           1024 	mov	7,r6
+                        1025 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1025 <EXPANSION BEGIN>
+                        1025 jarl22 _R_DEV_PinGetRegAddr , lp 
+000002c6 80ffd003*      1025 <EXPANSION END>
+000002ca 0ae0           1026 	mov	r10,r28
+                        1027 --360:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1028 --line360
+                        1029 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.36::
+                        1030 .LDWlin36:
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+000002cc fcef0100       1031 	ld.hu	0[r28],r29
+                        1032 --361:         reg_val |=  pin_position;  
+000002d0 1ae9           1033 	or	r26,r29
+                        1034 --362:         R_DEV_WRITE_REG(16, addr, reg_val);
+000002d2 7cef0000       1035 	st.h	r29,0[r28]
+                        1036 --363:         
+                        1037 --364:         addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCAE, PinCfg->Port);
+000002d6 9b3f0100       1038 	ld.bu	0[r27],r7
+000002da 0b32           1039 	mov	11,r6
+                        1040 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1040 <EXPANSION BEGIN>
+                        1040 jarl22 _R_DEV_PinGetRegAddr , lp 
+000002dc 80ffba03*      1040 <EXPANSION END>
+000002e0 0ae0           1041 	mov	r10,r28
+                        1042 --365:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1043 --line365
+                        1044 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.37::
+                        1045 .LDWlin37:
+000002e2 fcef0100       1046 	ld.hu	0[r28],r29
+                        1047 --366:         reg_val &= (uint16_t)(~pin_position);  
+000002e6 3a08           1048 	not	r26,r1
+000002e8 c100           1049 	zxh	r1
+000002ea 41e9           1050 	and	r1,r29
+                        1051 --367:         R_DEV_WRITE_REG(16, addr, reg_val);
+000002ec 7cef0000       1052 	st.h	r29,0[r28]
+000002f0 8555*          1053 	br	.L109
+                        1054 .L116:
+                        1055 --368:         break;
+                        1056 --369:     case 5:                                     /* Alternative function 5 */
+                        1057 --370:         /*Set PFC and PFCE bits to 0. */
+                        1058 --371:         /*Set PFCAE bit to 1. */
+                        1059 --372:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFC, PinCfg->Port);
+                        1060 --line372
+                        1061 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.38::
+                        1062 .LDWlin38:
+000002f2 9b3f0100       1063 	ld.bu	0[r27],r7
+000002f6 0632           1064 	mov	6,r6
+                        1065 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1065 <EXPANSION BEGIN>
+                        1065 jarl22 _R_DEV_PinGetRegAddr , lp 
+000002f8 80ff9e03*      1065 <EXPANSION END>
+000002fc 0ae0           1066 	mov	r10,r28
+                        1067 --373:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1068 --line373
+                        1069 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.39::
+                        1070 .LDWlin39:
+000002fe fcef0100       1071 	ld.hu	0[r28],r29
+                        1072 --374:         reg_val &= (uint16_t)(~pin_position);  
+00000302 3a08           1073 	not	r26,r1
+00000304 c100           1074 	zxh	r1
+00000306 41e9           1075 	and	r1,r29
+                        1076 --375:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000308 7cef0000       1077 	st.h	r29,0[r28]
+                        1078 --376:  
+                        1079 --377:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCE, PinCfg->Port);
+0000030c 9b3f0100       1080 	ld.bu	0[r27],r7
+00000310 0732           1081 	mov	7,r6
+                        1082 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1082 <EXPANSION BEGIN>
+                        1082 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000312 80ff8403*      1082 <EXPANSION END>
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+00000316 0ae0           1083 	mov	r10,r28
+                        1084 --378:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1085 --line378
+                        1086 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.40::
+                        1087 .LDWlin40:
+00000318 fcef0100       1088 	ld.hu	0[r28],r29
+                        1089 --379:         reg_val &= (uint16_t)(~pin_position);  
+0000031c 3a08           1090 	not	r26,r1
+0000031e c100           1091 	zxh	r1
+00000320 41e9           1092 	and	r1,r29
+                        1093 --380:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000322 7cef0000       1094 	st.h	r29,0[r28]
+                        1095 --381:         
+                        1096 --382:         addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCAE, PinCfg->Port);
+00000326 9b3f0100       1097 	ld.bu	0[r27],r7
+0000032a 0b32           1098 	mov	11,r6
+                        1099 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1099 <EXPANSION BEGIN>
+                        1099 jarl22 _R_DEV_PinGetRegAddr , lp 
+0000032c 80ff6a03*      1099 <EXPANSION END>
+00000330 0ae0           1100 	mov	r10,r28
+                        1101 --383:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1102 --line383
+                        1103 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.41::
+                        1104 .LDWlin41:
+00000332 fcef0100       1105 	ld.hu	0[r28],r29
+                        1106 --384:         reg_val |=  pin_position;  
+00000336 1ae9           1107 	or	r26,r29
+                        1108 --385:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000338 7cef0000       1109 	st.h	r29,0[r28]
+0000033c a52d*          1110 	br	.L109
+                        1111 .L117:
+                        1112 --386:         break;
+                        1113 --387:     case 6:                                     /* Alternative function 6 */
+                        1114 --388:         /*Set PFC bit to 1 and PFCE bit to 0. */
+                        1115 --389:         /*Set PFCAE bit to 1. */
+                        1116 --390:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFC, PinCfg->Port);
+                        1117 --line390
+                        1118 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.42::
+                        1119 .LDWlin42:
+0000033e 9b3f0100       1120 	ld.bu	0[r27],r7
+00000342 0632           1121 	mov	6,r6
+                        1122 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1122 <EXPANSION BEGIN>
+                        1122 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000344 80ff5203*      1122 <EXPANSION END>
+00000348 0ae0           1123 	mov	r10,r28
+                        1124 --391:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1125 --line391
+                        1126 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.43::
+                        1127 .LDWlin43:
+0000034a fcef0100       1128 	ld.hu	0[r28],r29
+                        1129 --392:         reg_val |=  pin_position;  
+0000034e 1ae9           1130 	or	r26,r29
+                        1131 --393:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000350 7cef0000       1132 	st.h	r29,0[r28]
+                        1133 --394:  
+                        1134 --395:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCE, PinCfg->Port);
+00000354 9b3f0100       1135 	ld.bu	0[r27],r7
+00000358 0732           1136 	mov	7,r6
+                        1137 	jarl	_R_DEV_PinGetRegAddr,lp
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1137 <EXPANSION BEGIN>
+                        1137 jarl22 _R_DEV_PinGetRegAddr , lp 
+0000035a 80ff3c03*      1137 <EXPANSION END>
+0000035e 0ae0           1138 	mov	r10,r28
+                        1139 --396:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1140 --line396
+                        1141 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.44::
+                        1142 .LDWlin44:
+00000360 fcef0100       1143 	ld.hu	0[r28],r29
+                        1144 --397:         reg_val &= (uint16_t)(~pin_position);  
+00000364 3a08           1145 	not	r26,r1
+00000366 c100           1146 	zxh	r1
+00000368 41e9           1147 	and	r1,r29
+                        1148 --398:         R_DEV_WRITE_REG(16, addr, reg_val);
+0000036a 7cef0000       1149 	st.h	r29,0[r28]
+                        1150 --399:         
+                        1151 --400:         addr    = R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PFCAE, PinCfg->Port);
+0000036e 9b3f0100       1152 	ld.bu	0[r27],r7
+00000372 0b32           1153 	mov	11,r6
+                        1154 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1154 <EXPANSION BEGIN>
+                        1154 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000374 80ff2203*      1154 <EXPANSION END>
+00000378 0ae0           1155 	mov	r10,r28
+                        1156 --401:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1157 --line401
+                        1158 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.45::
+                        1159 .LDWlin45:
+0000037a fcef0100       1160 	ld.hu	0[r28],r29
+                        1161 --402:         reg_val |=  pin_position;  
+0000037e 1ae9           1162 	or	r26,r29
+                        1163 --403:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000380 7cef0000       1164 	st.h	r29,0[r28]
+00000384 e505*          1165 	br	.L109
+                        1166 .L118:
+                        1167 --404:         break;
+                        1168 --405:     default:
+                        1169 --406:         R_DEV_ERROR(0u, R_DEV_ERR_NG, "We do not have what you want!"); 
+                        1170 --line406
+                        1171 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.46::
+                        1172 .LDWlin46:
+00000386 0032           1173 	mov	0,r6
+00000388 013a           1174 	mov	1,r7
+                        1175 	jarl	_R_DEV_ErrorHandler,lp
+                        1175 <EXPANSION BEGIN>
+                        1175 jarl22 _R_DEV_ErrorHandler , lp 
+0000038a 80ff0000*      1175 <EXPANSION END>
+                        1176 --line407
+                        1177 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.47::
+                        1178 .LDWlin47:
+0000038e 0000           1179 	nop
+                        1180 .L109:
+                        1181 --407:         break; 
+                        1182 --408:     }
+                        1183 --409:     
+                        1184 --410:     /* Some electrical charactersitics */
+                        1185 --411:     R_DBG_PRINT(R_DBG_MSG_DET, "--- Electrical charakteristics  ---"); 
+                        1186 --412:     if ((PinCfg->Port != 21) && (PinCfg->Port != 22))
+00000390 9b0f0100       1187 	ld.bu	0[r27],r1
+00000394 0106ebff       1188 	addi	-21,r1,zero
+00000398 923d*          1189 	be	.L119
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+0000039a 9b0f0100       1190 	ld.bu	0[r27],r1
+0000039e 0106eaff       1191 	addi	-22,r1,zero
+000003a2 c235*          1192 	be	.L119
+                        1193 --413:     {
+                        1194 --414:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PDSC, PinCfg->Port);
+                        1195 --line414
+                        1196 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.48::
+                        1197 .LDWlin48:
+000003a4 9b3f0100       1198 	ld.bu	0[r27],r7
+000003a8 20361200       1199 	movea	18,zero,r6
+                        1200 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1200 <EXPANSION BEGIN>
+                        1200 jarl22 _R_DEV_PinGetRegAddr , lp 
+000003ac 80ffea02*      1200 <EXPANSION END>
+000003b0 0ae0           1201 	mov	r10,r28
+                        1202 --415:         reg_val =   R_DEV_READ_REG(32, addr);
+                        1203 --line415
+                        1204 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.49::
+                        1205 .LDWlin49:
+000003b2 3cef0100       1206 	ld.w	0[r28],r29
+                        1207 --416:         if (0 != PinCfg->HiSpeed)
+000003b6 9b0f1300       1208 	ld.bu	18[r27],r1
+000003ba e009           1209 	cmp	zero,r1
+000003bc b205*          1210 	be	.L122
+                        1211 --417:         {
+                        1212 --418:             reg_val |= pin_position; 
+                        1213 --line418
+                        1214 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.50::
+                        1215 .LDWlin50:
+000003be 1ae9           1216 	or	r26,r29
+000003c0 c505*          1217 	br	.L124
+                        1218 .L122:
+                        1219 --419:         }
+                        1220 --420:         else 
+                        1221 --421:         {
+                        1222 --422:             reg_val &= (uint16_t)(~pin_position); 
+                        1223 --line422
+                        1224 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.51::
+                        1225 .LDWlin51:
+000003c2 3a08           1226 	not	r26,r1
+000003c4 c100           1227 	zxh	r1
+000003c6 41e9           1228 	and	r1,r29
+                        1229 .L124:
+                        1230 --423:         }
+                        1231 --424:         prot_addr =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PPCMD, PinCfg->Port);
+000003c8 9b3f0100       1232 	ld.bu	0[r27],r7
+000003cc 20361500       1233 	movea	21,zero,r6
+                        1234 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1234 <EXPANSION BEGIN>
+                        1234 jarl22 _R_DEV_PinGetRegAddr , lp 
+000003d0 80ffc602*      1234 <EXPANSION END>
+000003d4 63570d00       1235 	st.w	r10,12[sp]
+                        1236 --425:         R_DEV_WRITE_PORT_PROT_REG(prot_addr ,addr, reg_val);
+                        1237 --	    .bs
+                        1238 .LDW71:
+                        1239 --line425
+                        1240 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.52::
+                        1241 .LDWlin52:
+000003d8 63071500       1242 	st.w	zero,20[sp]
+000003dc 005a           1243 	mov	0,r11
+                        1244 .L127:
+
+                                                                      Page 23
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+000003de 235f0d00       1245 	ld.w	12[sp],r11
+000003e2 200ea500       1246 	movea	165,zero,r1
+000003e6 6b0f0100       1247 	st.w	r1,0[r11]
+000003ea 7cef0100       1248 	st.w	r29,0[r28]
+000003ee 3d08           1249 	not	r29,r1
+000003f0 7c0f0100       1250 	st.w	r1,0[r28]
+000003f4 7cef0100       1251 	st.w	r29,0[r28]
+000003f8 3c5f0100       1252 	ld.w	0[r28],r11
+000003fc 635f1500       1253 	st.w	r11,20[sp]
+00000400 235f1500       1254 	ld.w	20[sp],r11
+00000404 fd59           1255 	cmp	r29,r11
+00000406 caed*          1256 	bne	.L127
+                        1257 --	    .es
+                        1258 .LDW81:
+                        1259 --line425
+                        1260 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.53::
+                        1261 .LDWlin53:
+00000408 853d*          1262 	br	.L128
+                        1263 .L119:
+                        1264 --426:     } else {
+                        1265 --	    .bs
+                        1266 .LDW91:
+                        1267 --427:         /* No PDSC available for P21 + P22 */
+                        1268 --428:         /*  Exception: D1M2(H) which controls HS or MLB buffer selection by PDSC21.
+                        1269 --429:                        Cite note below UM v2.10 table 2.122:
+                        1270 --430:                         "PDSC21 has to be set 0000 03FFH in D1M2(H)."
+                        1271 --431:         */
+                        1272 --432:         r_dev_Device_t dev = R_DEV_GetDev();
+                        1273 --line432
+                        1274 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.54::
+                        1275 .LDWlin54:
+                        1276 	jarl	_R_DEV_GetDev,lp
+                        1276 <EXPANSION BEGIN>
+                        1276 jarl22 _R_DEV_GetDev , lp 
+0000040a 80ff0000*      1276 <EXPANSION END>
+0000040e 63571100       1277 	st.w	r10,16[sp]
+                        1278 --433:         if ((dev >= R_DEV_R7F701408) && (dev <= R_DEV_R7F701412))
+                        1279 --line433
+                        1280 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.55::
+                        1281 .LDWlin55:
+00000412 235f1100       1282 	ld.w	16[sp],r11
+00000416 0b0680fa       1283 	addi	-1408,r11,zero
+0000041a f92d*          1284 	bnl	.L128
+0000041c 235f1100       1285 	ld.w	16[sp],r11
+00000420 0b067bfa       1286 	addi	-1413,r11,zero
+00000424 a12d*          1287 	bl	.L128
+                        1288 --434:         {
+                        1289 --435:             addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PDSC, PinCfg->Port);
+                        1290 --line435
+                        1291 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.56::
+                        1292 .LDWlin56:
+00000426 9b3f0100       1293 	ld.bu	0[r27],r7
+0000042a 20361200       1294 	movea	18,zero,r6
+                        1295 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1295 <EXPANSION BEGIN>
+                        1295 jarl22 _R_DEV_PinGetRegAddr , lp 
+0000042e 80ff6802*      1295 <EXPANSION END>
+00000432 0ae0           1296 	mov	r10,r28
+                        1297 --436:             reg_val =   0x03FF;
+                        1298 --line436
+                        1299 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.57::
+
+                                                                      Page 24
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1300 .LDWlin57:
+00000434 20eeff03       1301 	movea	1023,zero,r29
+                        1302 --437:             prot_addr =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PPCMD, PinCfg->Port);
+00000438 9b3f0100       1303 	ld.bu	0[r27],r7
+0000043c 20361500       1304 	movea	21,zero,r6
+                        1305 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1305 <EXPANSION BEGIN>
+                        1305 jarl22 _R_DEV_PinGetRegAddr , lp 
+00000440 80ff5602*      1305 <EXPANSION END>
+00000444 63570d00       1306 	st.w	r10,12[sp]
+                        1307 --438:             R_DEV_WRITE_PORT_PROT_REG(prot_addr ,addr, reg_val);
+                        1308 --	    .bs
+                        1309 .LDW02:
+                        1310 --line438
+                        1311 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.58::
+                        1312 .LDWlin58:
+00000448 63071500       1313 	st.w	zero,20[sp]
+0000044c 005a           1314 	mov	0,r11
+                        1315 .L134:
+0000044e 235f0d00       1316 	ld.w	12[sp],r11
+00000452 200ea500       1317 	movea	165,zero,r1
+00000456 6b0f0100       1318 	st.w	r1,0[r11]
+0000045a 7cef0100       1319 	st.w	r29,0[r28]
+0000045e 3d08           1320 	not	r29,r1
+00000460 7c0f0100       1321 	st.w	r1,0[r28]
+00000464 7cef0100       1322 	st.w	r29,0[r28]
+00000468 3c5f0100       1323 	ld.w	0[r28],r11
+0000046c 635f1500       1324 	st.w	r11,20[sp]
+00000470 235f1500       1325 	ld.w	20[sp],r11
+00000474 fd59           1326 	cmp	r29,r11
+00000476 caed*          1327 	bne	.L134
+                        1328 --	    .es
+                        1329 .LDW12:
+                        1330 --	    .es
+                        1331 .LDW22:
+                        1332 .L128:
+                        1333 --439:         }
+                        1334 --440:     }
+                        1335 --441:     
+                        1336 --442:     
+                        1337 --443:     /* Activate pin */
+                        1338 --444:     addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PMC, PinCfg->Port);
+                        1339 --line444
+                        1340 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.59::
+                        1341 .LDWlin59:
+00000478 9b3f0100       1342 	ld.bu	0[r27],r7
+0000047c 0532           1343 	mov	5,r6
+                        1344 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1344 <EXPANSION BEGIN>
+                        1344 jarl22 _R_DEV_PinGetRegAddr , lp 
+0000047e 80ff1802*      1344 <EXPANSION END>
+00000482 0ae0           1345 	mov	r10,r28
+                        1346 --445:     reg_val =   R_DEV_READ_REG(16, addr);
+                        1347 --line445
+                        1348 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.60::
+                        1349 .LDWlin60:
+00000484 fcef0100       1350 	ld.hu	0[r28],r29
+                        1351 --446:     if (0 != PinCfg->Func)
+00000488 9b0f0300       1352 	ld.bu	2[r27],r1
+0000048c e009           1353 	cmp	zero,r1
+0000048e b205*          1354 	be	.L135
+
+                                                                      Page 25
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1355 --447:     {
+                        1356 --448:         reg_val |= pin_position; 
+                        1357 --line448
+                        1358 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.61::
+                        1359 .LDWlin61:
+00000490 1ae9           1360 	or	r26,r29
+00000492 c505*          1361 	br	.L137
+                        1362 .L135:
+                        1363 --449:     }
+                        1364 --450:     else 
+                        1365 --451:     {
+                        1366 --452:         reg_val &= (uint16_t)(~pin_position); 
+                        1367 --line452
+                        1368 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.62::
+                        1369 .LDWlin62:
+00000494 3a08           1370 	not	r26,r1
+00000496 c100           1371 	zxh	r1
+00000498 41e9           1372 	and	r1,r29
+                        1373 .L137:
+                        1374 --453:     }
+                        1375 --454:     R_DEV_WRITE_REG(16, addr, reg_val);
+0000049a 7cef0000       1376 	st.h	r29,0[r28]
+                        1377 --455:     
+                        1378 --456:     /* Set input characteristic */    
+                        1379 --457:     port_position       = 0u;
+0000049e 00ca           1380 	mov	0,r25
+                        1381 --458:     portHasPisaRegister = 1u;
+000004a0 015a           1382 	mov	1,r11
+000004a2 435f0600       1383 	st.b	r11,6[sp]
+                        1384 --459:     portHasPisRegister  = 1u;
+000004a6 015a           1385 	mov	1,r11
+000004a8 435f0500       1386 	st.b	r11,5[sp]
+                        1387 --460:     PisaRegBitValue     = 0u;
+000004ac 43070300       1388 	st.b	zero,3[sp]
+000004b0 005a           1389 	mov	0,r11
+                        1390 --461:     PisRegBitValue      = 0u;
+000004b2 43070400       1391 	st.b	zero,4[sp]
+000004b6 005a           1392 	mov	0,r11
+                        1393 --462:     do {
+000004b8 0000           1394 	nop
+                        1395 .L140:
+                        1396 --463:         if (loc_PortCapability[port_position].Port == PinCfg->Port)
+000004ba f9f61400       1397 	mulhi	20,r25,ep
+000004be 2b0600000000*  1398 	mov	_loc_PortCapability,r11
+000004c4 9b0f0100       1399 	ld.bu	0[r27],r1
+000004c8 cbf1           1400 	add	r11,ep
+000004ca 6070           1401 	sld.bu	0[ep],r14
+000004cc e171           1402 	cmp	r1,r14
+000004ce 8a6d*          1403 	bne	.L141
+                        1404 --464:         {
+                        1405 --465:             if (loc_PortCapability[port_position].InputType00 == PinCfg->InputType)
+                        1406 --line465
+                        1407 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.63::
+                        1408 .LDWlin63:
+000004d0 f9f61400       1409 	mulhi	20,r25,ep
+000004d4 2b0600000000*  1410 	mov	_loc_PortCapability,r11
+000004da bb0f1300       1411 	ld.bu	19[r27],r1
+000004de cbf1           1412 	add	r11,ep
+000004e0 0875           1413 	sld.w	16[ep],r14
+000004e2 e171           1414 	cmp	r1,r14
+000004e4 fa05*          1415 	bne	.L143
+
+                                                                      Page 26
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1416 --466:             {
+                        1417 --467:                 PisaRegBitValue = 0;
+                        1418 --line467
+                        1419 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.64::
+                        1420 .LDWlin64:
+000004e6 43070300       1421 	st.b	zero,3[sp]
+000004ea 005a           1422 	mov	0,r11
+                        1423 --468:                 PisRegBitValue  = 0;
+000004ec 43070400       1424 	st.b	zero,4[sp]
+000004f0 005a           1425 	mov	0,r11
+                        1426 .L143:
+                        1427 --469:             }
+                        1428 --470:             if (loc_PortCapability[port_position].InputType01 == PinCfg->InputType)
+000004f2 f9f61400       1429 	mulhi	20,r25,ep
+000004f6 2b0600000000*  1430 	mov	_loc_PortCapability,r11
+000004fc bb0f1300       1431 	ld.bu	19[r27],r1
+00000500 cbf1           1432 	add	r11,ep
+00000502 0675           1433 	sld.w	12[ep],r14
+00000504 e171           1434 	cmp	r1,r14
+00000506 8a1d*          1435 	bne	.L145
+                        1436 --471:             {
+                        1437 --472:                 PisaRegBitValue = 0;
+                        1438 --line472
+                        1439 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.65::
+                        1440 .LDWlin65:
+00000508 43070300       1441 	st.b	zero,3[sp]
+0000050c 005a           1442 	mov	0,r11
+                        1443 --473:                 PisRegBitValue  = 1;
+0000050e 015a           1444 	mov	1,r11
+00000510 435f0400       1445 	st.b	r11,4[sp]
+                        1446 --474:                 if (loc_PortCapability[port_position].InputType01
+00000514 f9f61400       1447 	mulhi	20,r25,ep
+00000518 2b0600000000*  1448 	mov	_loc_PortCapability,r11
+0000051e 0b60           1449 	mov	r11,r12
+00000520 1e08           1450 	mov	ep,r1
+00000522 cbf1           1451 	add	r11,ep
+00000524 cc09           1452 	add	r12,r1
+00000526 210f1100       1453 	ld.w	16[r1],r1
+0000052a 0675           1454 	sld.w	12[ep],r14
+0000052c e171           1455 	cmp	r1,r14
+0000052e ca05*          1456 	bne	.L145
+                        1457 --475:                     == loc_PortCapability[port_position].InputType00)
+                        1458 --476:                 {
+                        1459 --477:                     portHasPisRegister  = 0;
+                        1460 --line477
+                        1461 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.66::
+                        1462 .LDWlin66:
+00000530 43070500       1463 	st.b	zero,5[sp]
+00000534 005a           1464 	mov	0,r11
+                        1465 .L145:
+                        1466 --478:                 }
+                        1467 --479:             }
+                        1468 --480:             if (loc_PortCapability[port_position].InputType10 == PinCfg->InputType)
+00000536 f9f61400       1469 	mulhi	20,r25,ep
+0000053a 2b0600000000*  1470 	mov	_loc_PortCapability,r11
+00000540 bb0f1300       1471 	ld.bu	19[r27],r1
+00000544 cbf1           1472 	add	r11,ep
+00000546 0475           1473 	sld.w	8[ep],r14
+00000548 e171           1474 	cmp	r1,r14
+0000054a fa05*          1475 	bne	.L149
+                        1476 --481:             {
+
+                                                                      Page 27
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1477 --482:                 PisaRegBitValue = 1;
+                        1478 --line482
+                        1479 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.67::
+                        1480 .LDWlin67:
+0000054c 015a           1481 	mov	1,r11
+0000054e 435f0300       1482 	st.b	r11,3[sp]
+                        1483 --483:                 PisRegBitValue  = 0;
+00000552 43070400       1484 	st.b	zero,4[sp]
+00000556 005a           1485 	mov	0,r11
+                        1486 .L149:
+                        1487 --484:             }
+                        1488 --485:             if (loc_PortCapability[port_position].InputType11 == PinCfg->InputType)
+00000558 f9f61400       1489 	mulhi	20,r25,ep
+0000055c 2b0600000000*  1490 	mov	_loc_PortCapability,r11
+00000562 bb0f1300       1491 	ld.bu	19[r27],r1
+00000566 cbf1           1492 	add	r11,ep
+00000568 0275           1493 	sld.w	4[ep],r14
+0000056a e171           1494 	cmp	r1,r14
+0000056c 8a1d*          1495 	bne	.L151
+                        1496 --486:             {
+                        1497 --487:                 PisaRegBitValue = 1;
+                        1498 --line487
+                        1499 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.68::
+                        1500 .LDWlin68:
+0000056e 015a           1501 	mov	1,r11
+00000570 435f0300       1502 	st.b	r11,3[sp]
+                        1503 --488:                 PisRegBitValue  = 1;
+00000574 015a           1504 	mov	1,r11
+00000576 435f0400       1505 	st.b	r11,4[sp]
+                        1506 --489:                 if (loc_PortCapability[port_position].InputType11
+0000057a f9f61400       1507 	mulhi	20,r25,ep
+0000057e 2b0600000000*  1508 	mov	_loc_PortCapability,r11
+00000584 0b60           1509 	mov	r11,r12
+00000586 1e08           1510 	mov	ep,r1
+00000588 cbf1           1511 	add	r11,ep
+0000058a cc09           1512 	add	r12,r1
+0000058c 210f0900       1513 	ld.w	8[r1],r1
+00000590 0275           1514 	sld.w	4[ep],r14
+00000592 e171           1515 	cmp	r1,r14
+00000594 ca05*          1516 	bne	.L151
+                        1517 --490:                     == loc_PortCapability[port_position].InputType10)
+                        1518 --491:                 {
+                        1519 --492:                     portHasPisRegister  = 0;
+                        1520 --line492
+                        1521 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.69::
+                        1522 .LDWlin69:
+00000596 43070500       1523 	st.b	zero,5[sp]
+0000059a 005a           1524 	mov	0,r11
+                        1525 .L151:
+                        1526 --493:                 }
+                        1527 --494:             }
+                        1528 --495:             
+                        1529 --496:             break;
+0000059c d50d*          1530 	br	.L155
+                        1531 .L141:
+                        1532 --497:         }
+                        1533 --498:         port_position += 1;
+                        1534 --line498
+                        1535 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.70::
+                        1536 .LDWlin70:
+0000059e 41ca           1537 	add	1,r25
+
+                                                                      Page 28
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+000005a0 9900           1538 	zxb	r25
+000005a2 f9f61400       1539 	mulhi	20,r25,ep
+000005a6 2b0600000000*  1540 	mov	_loc_PortCapability,r11
+000005ac cbf1           1541 	add	r11,ep
+000005ae 6008           1542 	sld.bu	0[ep],r1
+000005b0 010601ff       1543 	addi	-255,r1,zero
+000005b4 ba85*          1544 	bne	.L140
+                        1545 .L155:
+                        1546 --499:     }
+                        1547 --500:     while (0xFFu != loc_PortCapability[port_position].Port);
+                        1548 --501:     
+                        1549 --502:     if (0 != portHasPisaRegister)
+                        1550 --line502
+                        1551 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.71::
+                        1552 .LDWlin71:
+000005b6 835f0700       1553 	ld.bu	6[sp],r11
+000005ba e059           1554 	cmp	zero,r11
+000005bc d215*          1555 	be	.L157
+                        1556 --503:     {
+                        1557 --504:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PIS, PinCfg->Port);
+                        1558 --line504
+                        1559 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.72::
+                        1560 .LDWlin72:
+000005be 9b3f0100       1561 	ld.bu	0[r27],r7
+000005c2 20361300       1562 	movea	19,zero,r6
+                        1563 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1563 <EXPANSION BEGIN>
+                        1563 jarl22 _R_DEV_PinGetRegAddr , lp 
+000005c6 80ffd000*      1563 <EXPANSION END>
+000005ca 0ae0           1564 	mov	r10,r28
+                        1565 --505:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1566 --line505
+                        1567 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.73::
+                        1568 .LDWlin73:
+000005cc fcef0100       1569 	ld.hu	0[r28],r29
+                        1570 --506:         if (0 != PisaRegBitValue)
+000005d0 a35f0300       1571 	ld.bu	3[sp],r11
+000005d4 e059           1572 	cmp	zero,r11
+000005d6 b205*          1573 	be	.L159
+                        1574 --507:         {
+                        1575 --508:             reg_val |= pin_position; 
+                        1576 --line508
+                        1577 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.74::
+                        1578 .LDWlin74:
+000005d8 1ae9           1579 	or	r26,r29
+000005da c505*          1580 	br	.L161
+                        1581 .L159:
+                        1582 --509:         }
+                        1583 --510:         else 
+                        1584 --511:         {
+                        1585 --512:             reg_val &= (uint16_t)(~pin_position); 
+                        1586 --line512
+                        1587 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.75::
+                        1588 .LDWlin75:
+000005dc 3a08           1589 	not	r26,r1
+000005de c100           1590 	zxh	r1
+000005e0 41e9           1591 	and	r1,r29
+                        1592 .L161:
+                        1593 --513:         }
+                        1594 --514:         R_DEV_WRITE_REG(16, addr, reg_val);
+000005e2 7cef0000       1595 	st.h	r29,0[r28]
+
+                                                                      Page 29
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1596 .L157:
+                        1597 --515:     }
+                        1598 --516:     
+                        1599 --517:     if (0 != portHasPisRegister)
+000005e6 a35f0500       1600 	ld.bu	5[sp],r11
+000005ea e059           1601 	cmp	zero,r11
+000005ec d215*          1602 	be	.L162
+                        1603 --518:     {
+                        1604 --519:         addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PIS, PinCfg->Port);
+                        1605 --line519
+                        1606 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.76::
+                        1607 .LDWlin76:
+000005ee 9b3f0100       1608 	ld.bu	0[r27],r7
+000005f2 20361300       1609 	movea	19,zero,r6
+                        1610 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1610 <EXPANSION BEGIN>
+                        1610 jarl22 _R_DEV_PinGetRegAddr , lp 
+000005f6 80ffa000*      1610 <EXPANSION END>
+000005fa 0ae0           1611 	mov	r10,r28
+                        1612 --520:         reg_val =   R_DEV_READ_REG(16, addr);
+                        1613 --line520
+                        1614 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.77::
+                        1615 .LDWlin77:
+000005fc fcef0100       1616 	ld.hu	0[r28],r29
+                        1617 --521:         if (0 != PisRegBitValue)
+00000600 835f0500       1618 	ld.bu	4[sp],r11
+00000604 e059           1619 	cmp	zero,r11
+00000606 b205*          1620 	be	.L164
+                        1621 --522:         {
+                        1622 --523:             reg_val |= pin_position; 
+                        1623 --line523
+                        1624 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.78::
+                        1625 .LDWlin78:
+00000608 1ae9           1626 	or	r26,r29
+0000060a c505*          1627 	br	.L166
+                        1628 .L164:
+                        1629 --524:         }
+                        1630 --525:         else 
+                        1631 --526:         {
+                        1632 --527:             reg_val &= (uint16_t)(~pin_position); 
+                        1633 --line527
+                        1634 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.79::
+                        1635 .LDWlin79:
+0000060c 3a08           1636 	not	r26,r1
+0000060e c100           1637 	zxh	r1
+00000610 41e9           1638 	and	r1,r29
+                        1639 .L166:
+                        1640 --528:         }
+                        1641 --529:         R_DEV_WRITE_REG(16, addr, reg_val);
+00000612 7cef0000       1642 	st.h	r29,0[r28]
+                        1643 .L162:
+                        1644 --530:     }
+                        1645 --531:     
+                        1646 --532:     
+                        1647 --533:     /* Activate input buffer in case of GP input  */
+                        1648 --534:     addr    =   R_DEV_PinGetRegAddr(R_DEV_PIN_REG_PIBC, PinCfg->Port);
+00000616 9b3f0100       1649 	ld.bu	0[r27],r7
+0000061a 0c32           1650 	mov	12,r6
+                        1651 	jarl	_R_DEV_PinGetRegAddr,lp
+                        1651 <EXPANSION BEGIN>
+                        1651 jarl22 _R_DEV_PinGetRegAddr , lp 
+
+                                                                      Page 30
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+0000061c 80ff7a00*      1651 <EXPANSION END>
+00000620 0ae0           1652 	mov	r10,r28
+                        1653 --535:     reg_val =   R_DEV_READ_REG(16, addr);
+                        1654 --line535
+                        1655 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.80::
+                        1656 .LDWlin80:
+00000622 fcef0100       1657 	ld.hu	0[r28],r29
+                        1658 --536:     if ((0 == PinCfg->Func) && (R_DEV_PIN_IN == PinCfg->Dir))
+00000626 9b0f0300       1659 	ld.bu	2[r27],r1
+0000062a e009           1660 	cmp	zero,r1
+0000062c fa05*          1661 	bne	.L167
+0000062e 3b0f0500       1662 	ld.w	4[r27],r1
+00000632 610a           1663 	cmp	1,r1
+00000634 ba05*          1664 	bne	.L167
+                        1665 --537:     {
+                        1666 --538:         reg_val |= pin_position; 
+                        1667 --line538
+                        1668 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.81::
+                        1669 .LDWlin81:
+00000636 1ae9           1670 	or	r26,r29
+00000638 c505*          1671 	br	.L170
+                        1672 .L167:
+                        1673 --539:     }
+                        1674 --540:     else 
+                        1675 --541:     {
+                        1676 --542:         reg_val &= (uint16_t)(~pin_position); 
+                        1677 --line542
+                        1678 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.82::
+                        1679 .LDWlin82:
+0000063a 3a08           1680 	not	r26,r1
+0000063c c100           1681 	zxh	r1
+0000063e 41e9           1682 	and	r1,r29
+                        1683 .L170:
+                        1684 --543:     }
+                        1685 --544:     R_DEV_WRITE_REG(16, addr, reg_val);
+00000640 7cef0000       1686 	st.h	r29,0[r28]
+                        1687 --546:     R_DBG_PRINT(R_DBG_MSG_DET, "--- Pin Config End ---"); 
+                        1688 --547:     return ret_val; 
+00000644 235e0100       1689 	movea	1,sp,r11
+00000648 8b570700       1690 	ld.bu	6[r11],r10
+                        1691 .L89:
+                        1692 --	    .ef
+                        1693 .LDW32:
+0000064c 4c06ff70       1694 	dispose	6,{r25,r26,r27,r28,r29,r31},[lp]
+                        1695 	.type	_R_DEV_PinConfig,@function
+                        1696 	.size	_R_DEV_PinConfig,.-_R_DEV_PinConfig
+                        1697 	.align	2
+                        1698 .LDW42:
+                        1699 --_ret_val	7[sp]	local
+                        1700 --_addr	r28	local
+                        1701 --_prot_addr	12[sp]	local
+                        1702 --_reg_val	r29	local
+                        1703 --_pin_position	r26	local
+                        1704 --_port_position	r25	local
+                        1705 --_portHasPisaRegister	6[sp]	local
+                        1706 --_portHasPisRegister	5[sp]	local
+                        1707 --_PisaRegBitValue	3[sp]	local
+                        1708 --_PisRegBitValue	4[sp]	local
+                        1709 --_new_val	20[sp]	local
+                        1710 --_dev	16[sp]	local
+                        1711 --_new_val	20[sp]	local
+
+                                                                      Page 31
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1712 
+                        1713 --_PinCfg	r27	param
+                        1714 
+                        1715 	.section ".bss","awb"
+                        1716 .L1165:
+                        1717 	.type	.L1165,@object
+                        1718 	.size	.L1165,0
+                        1719 	.data
+                        1720 	.ghsnote jtable,2097156,.L1167,.L1167,.L1167,7
+                        1721 	.text
+                        1722 
+                        1723 --548:     
+                        1724 --549: }
+                        1725 
+                        1726 --551: /*******************************************************************************
+                        1727 --552:   Function: R_DEV_PinInit
+                        1728 --554:   See: r_dev_api.h for details    
+                        1729 --555: */
+                        1730 --556: void R_DEV_PinInit(const r_dev_PinConfig_t * PinCfg)
+                        1731 	.align	2
+                        1732 	.align	2
+                        1733 	.global	_R_DEV_PinInit
+                        1734 _R_DEV_PinInit:
+00000650 8007e100       1735 	prepare	{r28,r29,r31},0
+00000654 06e0           1736 	mov	r6,r28
+00000656 210600000000*  1737 	mov	_loc_PinEnable,r1
+                        1738 --	    .bf
+                        1739 .LDW52:
+                        1740 --557: {
+                        1741 --558:     uint16_t i = 0u; 
+0000065c 00ea           1742 	mov	0,r29
+                        1743 --559:     /* Here we can glbally disable any pion configuration */
+                        1744 --560:     if (0 == loc_PinEnable)
+0000065e 210600000000*  1745 	mov	_loc_PinEnable,r1
+00000664 810f0100       1746 	ld.bu	0[r1],r1
+00000668 e009           1747 	cmp	zero,r1
+0000066a aa05*          1748 	bne	.L1858
+                        1749 --561:     {
+                        1750 --562:         R_DBG_PRINT(R_DBG_MSG_DET, "--- Pin output disabled - exiting  ---"); 
+                        1751 --563:         return; 
+                        1752 --line563
+                        1753 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.83::
+                        1754 .LDWlin83:
+0000066c b515*          1755 	br	.L1856
+                        1756 .L1858:
+                        1757 --564:     }    
+                        1758 --565:     /* assuming we got a config table, we go through it until 
+                        1759 --566:     we see the delimiter */   
+                        1760 --567:     while (R_DEV_PIN_LAST != PinCfg[i].Pin) 
+                        1761 --line567
+                        1762 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.84::
+                        1763 .LDWlin84:
+0000066e a50d*          1764 	br	.L1861
+                        1765 .L1863:
+                        1766 --568:     {
+                        1767 --569:         R_DEV_PinConfig(&(PinCfg[i])) ;  
+                        1768 --line569
+                        1769 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.85::
+                        1770 .LDWlin85:
+00000670 1d08           1771 	mov	r29,r1
+00000672 f40f4002       1772 	mul	20,r1,zero
+
+                                                                      Page 32
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+00000676 dc09           1773 	add	r28,r1
+00000678 0130           1774 	mov	r1,r6
+                        1775 	jarl	_R_DEV_PinConfig,lp
+                        1775 <EXPANSION BEGIN>
+                        1775 jarl22 _R_DEV_PinConfig , lp 
+0000067a bfffa8f9*      1775 <EXPANSION END>
+                        1776 --570:         i++; 
+                        1777 --line570
+                        1778 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.86::
+                        1779 .LDWlin86:
+0000067e 41ea           1780 	add	1,r29
+00000680 dd00           1781 	zxh	r29
+                        1782 .L1861:
+00000682 1df0           1783 	mov	r29,ep
+00000684 f4f74002       1784 	mul	20,ep,zero
+00000688 dcf1           1785 	add	r28,ep
+0000068a 6108           1786 	sld.bu	1[ep],r1
+0000068c 010601ff       1787 	addi	-255,r1,zero
+00000690 8af5*          1788 	bne	.L1863
+                        1789 --571:     }
+                        1790 --572: }
+                        1791 .L1856:
+                        1792 --	    .ef
+                        1793 .LDW62:
+                        1794 --line572
+                        1795 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.87::
+                        1796 .LDWlin87:
+00000692 4006ff00       1797 	dispose	0,{r28,r29,r31},[lp]
+                        1798 	.type	_R_DEV_PinInit,@function
+                        1799 	.size	_R_DEV_PinInit,.-_R_DEV_PinInit
+                        1800 	.align	2
+                        1801 .LDW72:
+                        1802 --_i	r29	local
+                        1803 
+                        1804 --_PinCfg	r28	param
+                        1805 
+                        1806 	.data
+                        1807 	.text
+                        1808 
+                        1809 
+                        1810 --574: /*******************************************************************************
+                        1811 --575:   Function: R_DEV_PinGetRegAddr
+                        1812 --577:   See: r_dev_api.h for details    
+                        1813 --578: */
+                        1814 --579:  uint32_t R_DEV_PinGetRegAddr(r_dev_PinRegs_t Reg, uint32_t Port)
+                        1815 	.align	2
+                        1816 	.align	2
+                        1817 	.global	_R_DEV_PinGetRegAddr
+                        1818 _R_DEV_PinGetRegAddr:
+00000696 8007e100       1819 	prepare	{r28,r29,r31},0
+0000069a 06e8           1820 	mov	r6,r29
+0000069c 07e0           1821 	mov	r7,r28
+                        1822 --	    .bf
+                        1823 .LDW82:
+                        1824 --580: {
+                        1825 --581:     return R_DEV_PinGetRegAddrExt(Reg, Port, 0u);
+0000069e 1d30           1826 	mov	r29,r6
+000006a0 1c38           1827 	mov	r28,r7
+000006a2 0042           1828 	mov	0,r8
+                        1829 	jarl	_R_DEV_PinGetRegAddrExt,lp
+                        1829 <EXPANSION BEGIN>
+
+                                                                      Page 33
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1829 jarl22 _R_DEV_PinGetRegAddrExt , lp 
+000006a4 80ff0800*      1829 <EXPANSION END>
+                        1830 --	    .ef
+                        1831 .LDW92:
+                        1832 --line582
+                        1833 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.88::
+                        1834 .LDWlin88:
+000006a8 4006ff00       1835 	dispose	0,{r28,r29,r31},[lp]
+                        1836 	.type	_R_DEV_PinGetRegAddr,@function
+                        1837 	.size	_R_DEV_PinGetRegAddr,.-_R_DEV_PinGetRegAddr
+                        1838 	.align	2
+                        1839 .LDW03:
+                        1840 
+                        1841 --_Reg	r29	param
+                        1842 --_Port	r28	param
+                        1843 
+                        1844 	.section ".bss","awb"
+                        1845 .L1982:
+                        1846 	.type	.L1982,@object
+                        1847 	.size	.L1982,0
+                        1848 	.data
+                        1849 	.text
+                        1850 
+                        1851 --582: }
+                        1852 
+                        1853 --584: /*******************************************************************************
+                        1854 --585:   Function: R_DEV_PinGetRegAddrExt
+                        1855 --587:   See: r_dev_api.h for details    
+                        1856 --588: */
+                        1857 --589:  uint32_t R_DEV_PinGetRegAddrExt(r_dev_PinRegs_t Reg, uint32_t Port, uint32_t Pin)
+                        1858 	.align	2
+                        1859 	.align	2
+                        1860 	.global	_R_DEV_PinGetRegAddrExt
+                        1861 _R_DEV_PinGetRegAddrExt:
+000006ac 8007e130       1862 	prepare	{r26,r27,r28,r29,r31},0
+000006b0 06e0           1863 	mov	r6,r28
+000006b2 07d8           1864 	mov	r7,r27
+000006b4 08d0           1865 	mov	r8,r26
+                        1866 --	    .bf
+                        1867 .LDW13:
+                        1868 --590: {
+                        1869 --591:     uint32_t addr = R_DEV_PIN_BASE + (R_DEV_PORT_OFFSET * Port);
+000006b6 1b08           1870 	mov	r27,r1
+000006b8 c60a           1871 	shl	6,r1
+000006ba 01e8           1872 	mov	r1,r29
+000006bc 5dee61ff       1873 	movhi	65377,r29,r29
+                        1874 --592:     
+                        1875 --593:     if (Reg < R_DEV_PIN_REG_LAST) 
+000006c0 1c06e9ff       1876 	addi	-23,r28,zero
+000006c4 c115*          1877 	bl	.L1996
+                        1878 --594:     {
+                        1879 --595:         if (Port == 0)
+                        1880 --line595
+                        1881 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.89::
+                        1882 .LDWlin89:
+000006c6 e0d9           1883 	cmp	zero,r27
+000006c8 ca05*          1884 	bne	.L1998
+                        1885 --596:         {
+                        1886 --597:             /* add offset for port n = 0 */
+                        1887 --598:             addr += R_DEV_PIN_BASEOU_0_OFFSET;
+                        1888 --line598
+
+                                                                      Page 34
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1889 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.90::
+                        1890 .LDWlin90:
+000006ca 800e0080       1891 	ori	32768,zero,r1
+000006ce c1e9           1892 	add	r1,r29
+                        1893 .L1998:
+                        1894 --599:         }
+                        1895 --600:         if (R_DEV_PIN_REG_PCR == Reg)
+000006d0 e0e1           1896 	cmp	zero,r28
+000006d2 ca05*          1897 	bne	.L2000
+                        1898 --601:         {
+                        1899 --602:             /* only for PCRn register, that has pin based control */
+                        1900 --603:             addr += (R_DEV_PIN_OFFSET * Pin);
+                        1901 --line603
+                        1902 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.91::
+                        1903 .LDWlin91:
+000006d4 1a08           1904 	mov	r26,r1
+000006d6 c20a           1905 	shl	2,r1
+000006d8 c1e9           1906 	add	r1,r29
+                        1907 .L2000:
+                        1908 --604:         }
+                        1909 --605:         addr += loc_RegOffset[Reg];
+000006da 1cf0           1910 	mov	r28,ep
+000006dc c2f2           1911 	shl	2,ep
+000006de 2e0600000000*  1912 	mov	_loc_RegOffset,r14
+000006e4 cef1           1913 	add	r14,ep
+000006e6 000d           1914 	sld.w	0[ep],r1
+000006e8 c1e9           1915 	add	r1,r29
+000006ea e505*          1916 	br	.L2002
+                        1917 .L1996:
+                        1918 --606:     }
+                        1919 --607:     else
+                        1920 --608:     {
+                        1921 --609:         R_DEV_ERROR((uint32_t)Reg, R_DEV_ERR_REG, "That register does not exist!");      
+                        1922 --line609
+                        1923 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.92::
+                        1924 .LDWlin92:
+000006ec 1c30           1925 	mov	r28,r6
+000006ee 203e1000       1926 	movea	16,zero,r7
+                        1927 	jarl	_R_DEV_ErrorHandler,lp
+                        1927 <EXPANSION BEGIN>
+                        1927 jarl22 _R_DEV_ErrorHandler , lp 
+000006f2 80ff0000*      1927 <EXPANSION END>
+                        1928 .L2002:
+                        1929 --610:     }
+                        1930 --611:     return addr; 
+                        1931 --line611
+                        1932 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin.93::
+                        1933 .LDWlin93:
+000006f6 1d50           1934 	mov	r29,r10
+                        1935 --	    .ef
+                        1936 .LDW23:
+000006f8 4006ff30       1937 	dispose	0,{r26,r27,r28,r29,r31},[lp]
+                        1938 	.type	_R_DEV_PinGetRegAddrExt,@function
+                        1939 	.size	_R_DEV_PinGetRegAddrExt,.-_R_DEV_PinGetRegAddrExt
+                        1940 	.align	2
+                        1941 .LDW33:
+                        1942 --_addr	r29	local
+                        1943 
+                        1944 --_Reg	r28	param
+                        1945 --_Port	r27	param
+                        1946 --_Pin	r26	param
+
+                                                                      Page 35
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000n281.si
+                        1947 
+                        1948 	.section ".bss","awb"
+                        1949 .L2062:
+                        1950 	.type	.L2062,@object
+                        1951 	.size	.L2062,0
+                        1952 	.data
+                        1953 	.text
+                        1954 
+                        1955 --612: }
+                        1956 	.align	2
+                        1957 --_loc_RegOffset	_loc_RegOffset	static
+                        1958 --_loc_PortCapability	_loc_PortCapability	static
+                        1959 --_loc_PinEnable	_loc_PinEnable	static
+                        1960 
+                        1961 	.data
+                        1962 	.ghsnote version,15
+                        1963 	.ghsnote tools,3
+                        1964 	.ghsnote options,144
+                        1965 	.text
+                        1966 	.align	2
+                        1967 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_dev_pin...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D024..0::
+                        1968 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

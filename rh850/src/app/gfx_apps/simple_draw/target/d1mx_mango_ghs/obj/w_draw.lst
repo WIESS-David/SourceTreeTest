@@ -1,0 +1,712 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\w_draw.dbo -source=w_draw.c -o .\obj\gh_0000pi81.o -list=.\obj\w_draw.lst C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+Source File: w_draw.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c ..\..\..\..\gfx_apps\simple_draw\src\w_draw.c
+                         170 --		-o .\obj\w_draw.o
+                         171 --Source File:   ..\..\..\..\gfx_apps\simple_draw\src\w_draw.c
+                         172 --Directory:     
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                         173 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         174 --Compile Date:  Tue Oct 16 19:48:57 2018
+                         175 --Host OS:       Win32
+                         176 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         177 --Release:       Compiler v2014.1.7
+                         178 --Revision Date: Fri Sep 05 14:10:46 2014
+                         179 --Release Date:  Fri Sep 05 14:44:23 2014
+                         180 -- ecom  -g -w
+                         181 
+                         182 --1: /*============================================================================
+                         183 --2:  Includes
+                         184 --3: ============================================================================*/
+                         185 --4: #include "r_dev_api.h"
+                         186 --5: #include "r_bsp_gfx_sys.h"
+                         187 --6: #include "mem_init.h"
+                         188 --7: #include "davehd_types.h"
+                         189 --8: #include "davehd_debug.h"
+                         190 --9: #include "r_cdi_api.h"
+                         191 --10: #include "r_util_dhd.h"
+                         192 --11: #include "config.h"
+                         193 --12: #include "r_ddb_api.h"
+                         194 --13: #include "r_wm_api.h"
+                         195 --14: #include "wm.h"
+                         196 --15: #include "r_config_d1x.h"
+                         197 --16: #include "r_drw2d_os.h"
+                         198 --17: #include "r_drw2d_api.h"
+                         199 --18: #include "r_config_drw2d.h"
+                         200 --19: #include "w_draw.h"
+                         201 --20: #include "w_mag.h"
+                         202 --21: #include "w_canio_pics_gen.h"
+                         203 --22: #include <strings.h>
+                         204 --24: r_drw2d_Device_t tclusterDrw2dDev;
+                         205 --26: //----------------------------------------------------------------------------------------------------------------------------
+                         206 --27: r_drw2d_Error_t W_Draw_Image_By_ID(uint16_t pic_id, uint16_t xpos, uint16_t ypos)
+                         207 	.text
+                         208 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D029..0::
+                         209 	.align	2
+                         210 	.global	_W_Draw_Image_By_ID
+                         211 _W_Draw_Image_By_ID:
+00000000 9a07e170        212 	prepare	{r25,r26,r27,r28,r29,r31},13
+00000004 c75effff        213 	andi	65535,r7,r11
+00000008 c866ffff        214 	andi	65535,r8,r12
+0000000c 635f0400        215 	st.h	r11,4[sp]
+00000010 c6deffff        216 	andi	65535,r6,r27
+00000014 63670600        217 	st.h	r12,6[sp]
+00000018 3d0600000000*   218 	mov	.L150,r29
+0000001e 3a0600000000*   219 	mov	_pics,r26
+00000024 390600000000*   220 	mov	_tclusterDrw2dDev,r25
+                         221 --	    .bf
+                         222 .LDW01:
+                         223 --28: {
+                         224 --29:     r_drw2d_Error_t ret = R_DRW2D_ERR_OK;
+0000002a 00e2            225 	mov	0,r28
+                         226 --30:     r_drw2d_Rect_t  rect;
+                         227 --31:     uint32_t pitch = pics[pic_id].width;
+0000002c 1bf0            228 	mov	r27,ep
+0000002e fe00            229 	sxh	ep
+00000030 fef61400        230 	mulhi	20,ep,ep
+00000034 daf1            231 	add	r26,ep
+00000036 7358            232 	sld.hu	6[ep],r11
+00000038 635f0100        233 	st.w	r11,0[sp]
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                         234 --32:     r_drw2d_Texture_t tex_argb32;
+                         235 --33:     tex_argb32.Handle             = R_NULL;
+0000003c 63070900        236 	st.w	zero,8[sp]
+                         237 --34:     tex_argb32.Flags              = R_DRW2D_TEX_VT | R_DRW2D_TEX_BILINEAR;
+00000040 200e4400        238 	movea	68,zero,r1
+00000044 630f2100        239 	st.w	r1,32[sp]
+                         240 --35:     tex_argb32.Buffer.Pitch       = pitch;
+00000048 235f0100        241 	ld.w	0[sp],r11
+0000004c 635f1100        242 	st.w	r11,16[sp]
+                         243 --36:     tex_argb32.Buffer.Size.Width  = pics[pic_id].width;
+00000050 1bf0            244 	mov	r27,ep
+00000052 fe00            245 	sxh	ep
+00000054 fef61400        246 	mulhi	20,ep,ep
+00000058 daf1            247 	add	r26,ep
+0000005a 7308            248 	sld.hu	6[ep],r1
+0000005c 630f1500        249 	st.w	r1,20[sp]
+                         250 --37:     tex_argb32.Buffer.Size.Height = pics[pic_id].height;
+00000060 1bf0            251 	mov	r27,ep
+00000062 fe00            252 	sxh	ep
+00000064 fef61400        253 	mulhi	20,ep,ep
+00000068 daf1            254 	add	r26,ep
+0000006a 7408            255 	sld.hu	8[ep],r1
+0000006c 630f1900        256 	st.w	r1,24[sp]
+                         257 --38:     tex_argb32.Buffer.PixelFormat = R_DRW2D_PIXELFORMAT_ARGB8888;
+00000070 0f0a            258 	mov	15,r1
+00000072 630f1d00        259 	st.w	r1,28[sp]
+                         260 --39:     if(pics[pic_id].ram != 1) {
+00000076 1b08            261 	mov	r27,r1
+00000078 e100            262 	sxh	r1
+0000007a e10e1400        263 	mulhi	20,r1,r1
+0000007e da09            264 	add	r26,r1
+00000080 810f1300        265 	ld.bu	18[r1],r1
+00000084 810a            266 	shr	1,r1
+00000086 f12d*           267 	bl	.L4
+                         268 --40:         memcpy((void *)(BASE_IMG_SDRAM + pics[pic_id].address), _PIC_BASE +pics[pic_id].address, pics[pic_id].length);
+                         269 --line40
+                         270 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.1::
+                         271 .LDWlin1:
+00000088 1bf0            272 	mov	r27,ep
+0000008a fe00            273 	sxh	ep
+0000008c fef61400        274 	mulhi	20,ep,ep
+00000090 daf1            275 	add	r26,ep
+00000092 060d            276 	sld.w	12[ep],r1
+00000094 1bf0            277 	mov	r27,ep
+00000096 fe00            278 	sxh	ep
+00000098 fef61400        279 	mulhi	20,ep,ep
+0000009c 41369640        280 	movhi	16534,r1,r6
+000000a0 daf1            281 	add	r26,ep
+000000a2 060d            282 	sld.w	12[ep],r1
+000000a4 1bf0            283 	mov	r27,ep
+000000a6 fe00            284 	sxh	ep
+000000a8 fef61400        285 	mulhi	20,ep,ep
+000000ac daf1            286 	add	r26,ep
+000000ae 7840            287 	sld.hu	16[ep],r8
+000000b0 2e06f8ffff0f    288 	mov	268435448,r14
+000000b6 ce09            289 	add	r14,r1
+000000b8 0138            290 	mov	r1,r7
+                         291 	jarl	_memcpy,lp
+                         291 <EXPANSION BEGIN>
+                         291 jarl22 _memcpy , lp 
+000000ba 80ff0000*       291 <EXPANSION END>
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                         292 --41:         pics[pic_id].address = (void *)(BASE_IMG_SDRAM + pics[pic_id].address);
+                         293 --line41
+                         294 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.2::
+                         295 .LDWlin2:
+000000be 1bf0            296 	mov	r27,ep
+000000c0 fe00            297 	sxh	ep
+000000c2 fef61400        298 	mulhi	20,ep,ep
+000000c6 daf1            299 	add	r26,ep
+000000c8 060d            300 	sld.w	12[ep],r1
+000000ca 410e9640        301 	movhi	16534,r1,r1
+000000ce 070d            302 	sst.w	r1,12[ep]
+                         303 --42:         pics[pic_id].ram = 1;
+000000d0 1bf0            304 	mov	r27,ep
+000000d2 fe00            305 	sxh	ep
+000000d4 fef61400        306 	mulhi	20,ep,ep
+000000d8 daf1            307 	add	r26,ep
+000000da 9e0f1300        308 	ld.bu	18[ep],r1
+000000de 810e0100        309 	ori	1,r1,r1
+000000e2 920b            310 	sst.b	r1,18[ep]
+                         311 .L4:
+                         312 --43:     }
+                         313 --45:     tex_argb32.Buffer.Data = pics[pic_id].address + _PIC_BASE;
+000000e4 1bf0            314 	mov	r27,ep
+000000e6 fe00            315 	sxh	ep
+000000e8 fef61400        316 	mulhi	20,ep,ep
+000000ec 2e06f8ffff0f    317 	mov	268435448,r14
+000000f2 daf1            318 	add	r26,ep
+000000f4 060d            319 	sld.w	12[ep],r1
+000000f6 ce09            320 	add	r14,r1
+000000f8 630f0d00        321 	st.w	r1,12[sp]
+                         322 --49:     /* Set texture */
+                         323 --50:     ret |= R_DRW2D_CtxTextureIdentity(tclusterDrw2dDev);
+000000fc 39370100        324 	ld.w	0[r25],r6
+                         325 	jarl	_R_DRW2D_CtxTextureIdentity,lp
+                         325 <EXPANSION BEGIN>
+                         325 jarl22 _R_DRW2D_CtxTextureIdentity , lp 
+00000100 80ff0000*       325 <EXPANSION END>
+00000104 0ae1            326 	or	r10,r28
+                         327 --51:     ret |= R_DRW2D_CtxIdentity(tclusterDrw2dDev);
+                         328 --line51
+                         329 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.3::
+                         330 .LDWlin3:
+00000106 39370100        331 	ld.w	0[r25],r6
+                         332 	jarl	_R_DRW2D_CtxIdentity,lp
+                         332 <EXPANSION BEGIN>
+                         332 jarl22 _R_DRW2D_CtxIdentity , lp 
+0000010a 80ff0000*       332 <EXPANSION END>
+0000010e 0ae1            333 	or	r10,r28
+                         334 --52:     ret |= R_DRW2D_CtxTextureSet(tclusterDrw2dDev, 0, &tex_argb32);
+                         335 --line52
+                         336 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.4::
+                         337 .LDWlin4:
+00000110 39370100        338 	ld.w	0[r25],r6
+00000114 003a            339 	mov	0,r7
+00000116 23460800        340 	movea	8,sp,r8
+                         341 	jarl	_R_DRW2D_CtxTextureSet,lp
+                         341 <EXPANSION BEGIN>
+                         341 jarl22 _R_DRW2D_CtxTextureSet , lp 
+0000011a 80ff0000*       341 <EXPANSION END>
+0000011e 0ae1            342 	or	r10,r28
+                         343 --53:     ret |= R_DRW2D_CtxFillMode(tclusterDrw2dDev, R_DRW2D_FILLMODE_TEXTURE);
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                         344 --line53
+                         345 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.5::
+                         346 .LDWlin5:
+00000120 39370100        347 	ld.w	0[r25],r6
+00000124 023a            348 	mov	2,r7
+                         349 	jarl	_R_DRW2D_CtxFillMode,lp
+                         349 <EXPANSION BEGIN>
+                         349 jarl22 _R_DRW2D_CtxFillMode , lp 
+00000126 80ff0000*       349 <EXPANSION END>
+0000012a 0ae1            350 	or	r10,r28
+                         351 --54:     ret |= R_DRW2D_CtxBlendMode(tclusterDrw2dDev, R_DRW2D_BLENDMODE_SRC_OVER);    // R_DRW2D_BLENDMODE_SRC_OVER
+                         352 --line54
+                         353 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.6::
+                         354 .LDWlin6:
+0000012c 39370100        355 	ld.w	0[r25],r6
+00000130 023a            356 	mov	2,r7
+                         357 	jarl	_R_DRW2D_CtxBlendMode,lp
+                         357 <EXPANSION BEGIN>
+                         357 jarl22 _R_DRW2D_CtxBlendMode , lp 
+00000132 80ff0000*       357 <EXPANSION END>
+00000136 0ae1            358 	or	r10,r28
+                         359 --55:     ret |= R_DRW2D_CtxTextureTranslate(tclusterDrw2dDev, R_DRW2D_2X(xpos), R_DRW2D_2X(ypos));
+                         360 --line55
+                         361 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.7::
+                         362 .LDWlin7:
+00000138 e30f0500        363 	ld.hu	4[sp],r1
+0000013c 39370100        364 	ld.w	0[r25],r6
+00000140 d00a            365 	shl	16,r1
+00000142 0138            366 	mov	r1,r7
+00000144 e30f0700        367 	ld.hu	6[sp],r1
+00000148 d00a            368 	shl	16,r1
+0000014a 0140            369 	mov	r1,r8
+                         370 	jarl	_R_DRW2D_CtxTextureTranslate,lp
+                         370 <EXPANSION BEGIN>
+                         370 jarl22 _R_DRW2D_CtxTextureTranslate , lp 
+0000014c 80ff0000*       370 <EXPANSION END>
+00000150 0ae1            371 	or	r10,r28
+                         372 --57:     /* Draw texture into rectangle */
+                         373 --58:     rect.Pos.X       = R_DRW2D_2X(xpos);
+                         374 --line58
+                         375 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.8::
+                         376 .LDWlin8:
+00000152 e30f0500        377 	ld.hu	4[sp],r1
+00000156 d00a            378 	shl	16,r1
+00000158 630f2500        379 	st.w	r1,36[sp]
+                         380 --59:     rect.Pos.Y       = R_DRW2D_2X(ypos);
+0000015c e30f0700        381 	ld.hu	6[sp],r1
+00000160 d00a            382 	shl	16,r1
+00000162 630f2900        383 	st.w	r1,40[sp]
+                         384 --60:     rect.Size.Width  = R_DRW2D_2X(pics[pic_id].width);
+00000166 1bf0            385 	mov	r27,ep
+00000168 fe00            386 	sxh	ep
+0000016a fef61400        387 	mulhi	20,ep,ep
+0000016e daf1            388 	add	r26,ep
+00000170 7308            389 	sld.hu	6[ep],r1
+00000172 d00a            390 	shl	16,r1
+00000174 630f2d00        391 	st.w	r1,44[sp]
+                         392 --61:     rect.Size.Height = R_DRW2D_2X(pics[pic_id].height);
+00000178 1bf0            393 	mov	r27,ep
+0000017a fe00            394 	sxh	ep
+0000017c fef61400        395 	mulhi	20,ep,ep
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+00000180 daf1            396 	add	r26,ep
+00000182 7408            397 	sld.hu	8[ep],r1
+00000184 d00a            398 	shl	16,r1
+00000186 630f3100        399 	st.w	r1,48[sp]
+                         400 --63:     ret |= R_DRW2D_DrawRect(tclusterDrw2dDev, &rect);
+0000018a 39370100        401 	ld.w	0[r25],r6
+0000018e 233e2400        402 	movea	36,sp,r7
+                         403 	jarl	_R_DRW2D_DrawRect,lp
+                         403 <EXPANSION BEGIN>
+                         403 jarl22 _R_DRW2D_DrawRect , lp 
+00000192 80ff0000*       403 <EXPANSION END>
+00000196 0ae1            404 	or	r10,r28
+                         405 --64:     ret |= R_DRW2D_CtxTextureIdentity(tclusterDrw2dDev);
+                         406 --line64
+                         407 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.9::
+                         408 .LDWlin9:
+00000198 39370100        409 	ld.w	0[r25],r6
+                         410 	jarl	_R_DRW2D_CtxTextureIdentity,lp
+                         410 <EXPANSION BEGIN>
+                         410 jarl22 _R_DRW2D_CtxTextureIdentity , lp 
+0000019c 80ff0000*       410 <EXPANSION END>
+000001a0 0ae1            411 	or	r10,r28
+                         412 --65:     if (R_DRW2D_ERR_OK != ret)
+                         413 --line65
+                         414 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.10::
+                         415 .LDWlin10:
+000001a2 e0e1            416 	cmp	zero,r28
+000001a4 a205*           417 	be	.L6
+                         418 .L10:
+                         419 --66:     {
+                         420 --67:        while(1);
+                         421 --line67
+                         422 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.11::
+                         423 .LDWlin11:
+000001a6 8505*           424 	br	.L10
+                         425 .L6:
+                         426 --68:     }
+                         427 --69:     return ret;  
+                         428 --line69
+                         429 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.12::
+                         430 .LDWlin12:
+000001a8 1c50            431 	mov	r28,r10
+                         432 --	    .ef
+                         433 .LDW11:
+000001aa 5a06ff70        434 	dispose	13,{r25,r26,r27,r28,r29,r31},[lp]
+                         435 	.type	_W_Draw_Image_By_ID,@function
+                         436 	.size	_W_Draw_Image_By_ID,.-_W_Draw_Image_By_ID
+                         437 	.align	2
+                         438 .LDW21:
+                         439 --_ret	r28	local
+                         440 --_rect	36[sp]	local
+                         441 --_pitch	0[sp]	local
+                         442 --_tex_argb32	8[sp]	local
+                         443 
+                         444 --_pic_id	r27	param
+                         445 --_xpos	4[sp]	param
+                         446 --_ypos	6[sp]	param
+                         447 
+                         448 	.section ".bss","awb"
+                         449 .L150:
+                         450 	.type	.L150,@object
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                         451 	.size	.L150,0
+                         452 	.data
+                         453 	.text
+                         454 
+                         455 --70: }
+                         456 
+                         457 --72: #ifdef NOT_USED
+                         458 --73: r_drw2d_Error_t W_Draw_Images(pic_info_t * pinfo)
+                         459 --74: {
+                         460 --75:     r_drw2d_Error_t ret = R_DRW2D_ERR_OK;
+                         461 --76:     r_drw2d_Rect_t  rect;
+                         462 --77:     uint32_t pitch = pinfo->width;
+                         463 --78:     r_drw2d_Texture_t tex_argb32;
+                         464 --79:     tex_argb32.Handle             = R_NULL;
+                         465 --80:     tex_argb32.Flags              = R_DRW2D_TEX_VT | R_DRW2D_TEX_BILINEAR;
+                         466 --81:     tex_argb32.Buffer.Pitch       = pitch;
+                         467 --82:     tex_argb32.Buffer.Size.Width  = pinfo->width;
+                         468 --83:     tex_argb32.Buffer.Size.Height = pinfo->height;
+                         469 --84:     tex_argb32.Buffer.PixelFormat = R_DRW2D_PIXELFORMAT_ARGB8888;
+                         470 --85:     tex_argb32.Buffer.Data = pinfo->pic;
+                         471 --87:     /* Set texture */
+                         472 --88:     ret |= R_DRW2D_CtxTextureIdentity(tclusterDrw2dDev);
+                         473 --89:     ret |= R_DRW2D_CtxIdentity(tclusterDrw2dDev);
+                         474 --90:     ret |= R_DRW2D_CtxTextureSet(tclusterDrw2dDev, 0, &tex_argb32);
+                         475 --91:     ret |= R_DRW2D_CtxFillMode(tclusterDrw2dDev, R_DRW2D_FILLMODE_TEXTURE);
+                         476 --92:     ret |= R_DRW2D_CtxBlendMode(tclusterDrw2dDev, R_DRW2D_BLENDMODE_SRC_OVER);
+                         477 --93:     ret |= R_DRW2D_CtxTextureTranslate(tclusterDrw2dDev, R_DRW2D_2X(pinfo->xpos), R_DRW2D_2X(pinfo->ypos));
+                         478 --95:     /* Draw texture into rectangle */
+                         479 --96:     rect.Pos.X       = R_DRW2D_2X(pinfo->xpos);
+                         480 --97:     rect.Pos.Y       = R_DRW2D_2X(pinfo->ypos);
+                         481 --98:     rect.Size.Width  = R_DRW2D_2X(pinfo->width);
+                         482 --99:     rect.Size.Height = R_DRW2D_2X(pinfo->height);
+                         483 --101:     ret |= R_DRW2D_DrawRect(tclusterDrw2dDev, &rect);
+                         484 --102:     ret |= R_DRW2D_CtxTextureIdentity(tclusterDrw2dDev);
+                         485 --103:     if (R_DRW2D_ERR_OK != ret)
+                         486 --104:     {
+                         487 --105:        while(1);
+                         488 --106:     }
+                         489 --107:     return ret;  
+                         490 --108: }
+                         491 --109: #endif
+                         492 --111: /*============================================================================
+                         493 --112:  Variables
+                         494 --113: ============================================================================*/
+                         495 --114: void verify_memory() 
+                         496 	.align	2
+                         497 	.align	2
+                         498 	.global	_verify_memory
+                         499 _verify_memory:
+000001ae 8007e130        500 	prepare	{r26,r27,r28,r29,r31},0
+                         501 --	    .bf
+                         502 .LDW31:
+                         503 --115: {
+                         504 --116:     uint64_t size = 32*1024*1024; //32MB
+000001b2 40d60002        505 	movhi	hi(33554432),zero,r26
+000001b6 00da            506 	mov	0,r27
+                         507 --117:     uint8_t * start = (uint8_t *)0x40000000;
+000001b8 40ee0040        508 	movhi	hi(1073741824),zero,r29
+                         509 --118:     uint32_t i;
+                         510 --119:     for(i = 0; i < size; i++) {
+000001bc 00e2            511 	mov	0,r28
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+000001be f505*           512 	br	.L250
+                         513 .L249:
+                         514 --120:         *start = 0xAA;
+                         515 --line120
+                         516 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.13::
+                         517 .LDWlin13:
+000001c0 200eaa00        518 	movea	170,zero,r1
+000001c4 5d0f0000        519 	st.b	r1,0[r29]
+                         520 --121:         start += 1;
+000001c8 41ea            521 	add	1,r29
+000001ca 41e2            522 	add	1,r28
+                         523 .L250:
+000001cc fae1            524 	cmp	r26,r28
+000001ce fb078203        525 	sbfl	r27,zero,zero
+000001d2 f1f5*           526 	bl	.L249
+                         527 --122:     }
+                         528 --123:     start = (uint8_t *)0x40000000;
+                         529 --line123
+                         530 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.14::
+                         531 .LDWlin14:
+000001d4 40ee0040        532 	movhi	hi(1073741824),zero,r29
+                         533 --124:     for(i = 0; i < size; i++) {
+000001d8 00e2            534 	mov	0,r28
+000001da c515*           535 	br	.L254
+                         536 .L253:
+                         537 --125:         if(*start != 0xAA) {
+                         538 --line125
+                         539 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.15::
+                         540 .LDWlin15:
+000001dc 9d0f0100        541 	ld.bu	0[r29],r1
+000001e0 010656ff        542 	addi	-170,r1,zero
+000001e4 d20d*           543 	be	.L255
+                         544 --126:             DHD_PANIC(0, "invalid device handle");
+                         545 --line126
+                         546 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.16::
+                         547 .LDWlin16:
+000001e6 0032            548 	mov	0,r6
+000001e8 204e7e00        549 	movea	126,zero,r9
+000001ec 270600000000*   550 	mov	.L405,r7
+000001f2 280600000000*   551 	mov	.L406,r8
+                         552 	jarl	_dhd_debug_panic_internal,lp
+                         552 <EXPANSION BEGIN>
+                         552 jarl22 _dhd_debug_panic_internal , lp 
+000001f8 80ff0000*       552 <EXPANSION END>
+                         553 --line126
+                         554 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.17::
+                         555 .LDWlin17:
+000001fc 0000            556 	nop
+                         557 .L255:
+                         558 --127:         };
+                         559 --128:         start += 1;
+000001fe 41ea            560 	add	1,r29
+00000200 41e2            561 	add	1,r28
+                         562 .L254:
+00000202 fae1            563 	cmp	r26,r28
+00000204 fb078203        564 	sbfl	r27,zero,zero
+00000208 a1ed*           565 	bl	.L253
+                         566 --129:     }
+                         567 --130: }
+                         568 --	    .ef
+                         569 .LDW41:
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                         570 --line130
+                         571 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw.18::
+                         572 .LDWlin18:
+0000020a 4006ff30        573 	dispose	0,{r26,r27,r28,r29,r31},[lp]
+                         574 	.type	_verify_memory,@function
+                         575 	.size	_verify_memory,.-_verify_memory
+                         576 	.align	2
+                         577 .LDW51:
+                         578 --_size	r26	local
+                         579 --_start	r29	local
+                         580 --_i	r28	local
+                         581 --.L359	.L405	static
+                         582 --.L360	.L406	static
+                         583 
+                         584 	.section ".bss","awb"
+                         585 .L358:
+                         586 	.type	.L358,@object
+                         587 	.size	.L358,0
+                         588 	.section ".rodata","a"
+                         589 .L405:--	"invalid device handle"
+00000000 696e7661        590 	.byte	105,110,118,97
+00000004 6c696420        591 	.byte	108,105,100,32
+00000008 64657669        592 	.byte	100,101,118,105
+0000000c 63652068        593 	.byte	99,101,32,104
+00000010 616e646c        594 	.byte	97,110,100,108
+00000014 6500            595 	.byte	101,0
+                         596 	.type	.L405,@object
+                         597 	.size	.L405,22
+                         598 .L406:--	"..\..\..\..\gfx_apps\simple_draw\src\w_draw.c"
+00000016 2e2e5c2e        599 	.byte	46,46,92,46
+0000001a 2e5c2e2e        600 	.byte	46,92,46,46
+0000001e 5c2e2e5c        601 	.byte	92,46,46,92
+00000022 6766785f        602 	.byte	103,102,120,95
+00000026 61707073        603 	.byte	97,112,112,115
+0000002a 5c73696d        604 	.byte	92,115,105,109
+0000002e 706c655f        605 	.byte	112,108,101,95
+00000032 64726177        606 	.byte	100,114,97,119
+00000036 5c737263        607 	.byte	92,115,114,99
+0000003a 5c775f64        608 	.byte	92,119,95,100
+0000003e 7261772e        609 	.byte	114,97,119,46
+00000042 6300            610 	.byte	99,0
+                         611 	.type	.L406,@object
+                         612 	.size	.L406,46
+                         613 	.data
+                         614 	.text
+                         615 
+                         616 	.align	2
+                         617 --_pics	_pics	import
+                         618 
+                         619 	.data
+                         620 	.section ".bss","awb"
+                         621 	.align	4
+                         622 	.align	4
+                         623 	.global	_tclusterDrw2dDev
+00000000 00000000        624 _tclusterDrw2dDev:	.space	4
+                         625 	.type	_tclusterDrw2dDev,@object
+                         626 	.size	_tclusterDrw2dDev,4
+                         627 	.data
+                         628 	.ghsnote version,15
+                         629 	.ghsnote tools,3
+                         630 	.ghsnote options,144
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pi81.si
+                         631 	.text
+                         632 	.align	2
+                         633 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_draw...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D029..0::
+                         634 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

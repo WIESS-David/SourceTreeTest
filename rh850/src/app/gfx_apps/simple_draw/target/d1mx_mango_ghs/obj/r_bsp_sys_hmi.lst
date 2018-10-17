@@ -1,0 +1,1006 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_bsp_sys_hmi.dbo -source=r_bsp_sys_hmi.c -o .\obj\gh_0000pu41.o -list=.\obj\r_bsp_sys_hmi.lst C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+Source File: r_bsp_sys_hmi.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\bsp\board\d1mx_mango\src\hmi\r_bsp_sys_hmi.c -o
+                         171 --		.\obj\r_bsp_sys_hmi.o
+                         172 --Source File:   ..\..\..\..\..\bsp\board\d1mx_mango\src\hmi\r_bsp_sys_hmi.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:53 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : BSP - HMI (SYS)
+                         186 --4: FILE    : $Id: r_bsp_sys_hmi.c 11411 2016-12-02 13:21:10Z tobyas.hennig $
+                         187 --5: ============================================================================
+                         188 --6: DESCRIPTION
+                         189 --7: BSP Implementation D1Mx MANGO Board
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T
+                         192 --10: ============================================================================
+                         193 --11:                            Copyright (c) 2016
+                         194 --12:                                   by
+                         195 --13:                     Renesas Electronics (Europe) GmbH. 
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing
+                         202 --21: DISCLAIMER                                                                   
+                         203 --22: This software is supplied by Renesas Electronics Corporation and is only     
+                         204 --23: intended for use with Renesas products. No other uses are authorized. This   
+                         205 --24: software is owned by Renesas Electronics Corporation and is protected under  
+                         206 --25: all applicable laws, including copyright laws.                               
+                         207 --26: THIS SOFTWARE IS PROVIDED "AS IS" AND RENESAS MAKES NO WARRANTIES REGARDING  
+                         208 --27: THIS SOFTWARE, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT      
+                         209 --28: LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE   
+                         210 --29: AND NON-INFRINGEMENT. ALL SUCH WARRANTIES ARE EXPRESSLY DISCLAIMED.          
+                         211 --30: TO THE MAXIMUM EXTENT PERMITTED NOT PROHIBITED BY LAW, NEITHER RENESAS       
+                         212 --31: ELECTRONICS CORPORATION NOR ANY OF ITS AFFILIATED COMPANIES SHALL BE LIABLE  
+                         213 --32: FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR   
+                         214 --33: ANY REASON RELATED TO THIS SOFTWARE, EVEN IF RENESAS OR ITS AFFILIATES HAVE  
+                         215 --34: BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.                             
+                         216 --35: Renesas reserves the right, without notice, to make changes to this software 
+                         217 --36: and to discontinue the availability of this software. By using this software,
+                         218 --37: you agree to the additional terms and conditions found by accessing the      
+                         219 --38: following link:                                                              
+                         220 --39: http://www.renesas.com/disclaimer *                                          
+                         221 --40: Copyright (C) 2011 Renesas Electronics Corporation. All rights reserved.     
+                         222 --42: ****************************************************************************
+                         223 --43: */
+                         224 --45: /*
+                         225 --46:   Section: BSP SYS HMI description 
+                         226 --47:   
+                         227 --48:   This is the board specific HMI implementation for the BSP. 
+                         228 --49:         
+                         229 --50: */
+                         230 --53: /*******************************************************************************
+                         231 --54:   Section: Includes
+                         232 --55: */
+                         233 --57: #include "r_typedefs.h"     /* Renesas basic types, e.g. uint32_t */
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+                         234 --59: #include "r_tick_api.h"
+                         235 --60: #include "r_dev_api.h"
+                         236 --61: #include "r_gpio_api.h"
+                         237 --63: #include "r_bsp_hmi_api.h"
+                         238 --64: #include "r_bsp_hmi_sys.h"
+                         239 --65: #include "r_bsp_hmi_knob.h" /* BSP HMI Knob and Button */
+                         240 --66: #include "r_bsp_board_config.h"
+                         241 --67: #include "r_bsp_stdio_api.h"
+                         242 --69: /*******************************************************************************
+                         243 --70:   Section: Local Defines
+                         244 --71: */
+                         245 --73: /*******************************************************************************
+                         246 --74:   Defines for port assignment of LEDs
+                         247 --75:   
+                         248 --76:   The 16 LEDs are connected to the following
+                         249 --77:   output port pins on MANGO board.
+                         250 --78:     LED0 port   P16_0
+                         251 --79:     LED1 port   P16_1
+                         252 --80:     [...]
+                         253 --81:     LED11 port  P16_11
+                         254 --82:     LED12 port  P17_0
+                         255 --83:     [...]
+                         256 --84:     LED15 port  P17_3
+                         257 --86:   This requires the Jumper settings (CN19 + CN20) on the MANGO board  
+                         258 --87:     Set Jumper CN19 1-2     to connect LED0  to P16_0
+                         259 --88:     Set Jumper CN19 3-4     to connect LED1  to P16_1
+                         260 --89:     [...]
+                         261 --90:     Set Jumper CN20 1-2     to connect LED8  to P16_8
+                         262 --91:     [...]
+                         263 --92:     Set Jumper CN20 15-16   to connect LED15 to P17_3
+                         264 --93:     
+                         265 --94: */
+                         266 --95: #define LOC_LED0_PORT    16u
+                         267 --96: #define LOC_LED0_PIN      0u
+                         268 --97: #define LOC_LED1_PORT    16u
+                         269 --98: #define LOC_LED1_PIN      1u
+                         270 --99: #define LOC_LED2_PORT    16u
+                         271 --100: #define LOC_LED2_PIN      2u
+                         272 --101: #define LOC_LED3_PORT    16u
+                         273 --102: #define LOC_LED3_PIN      3u
+                         274 --103: #define LOC_LED4_PORT    16u
+                         275 --104: #define LOC_LED4_PIN      4u
+                         276 --105: #define LOC_LED5_PORT    16u
+                         277 --106: #define LOC_LED5_PIN      5u
+                         278 --107: #define LOC_LED6_PORT    16u
+                         279 --108: #define LOC_LED6_PIN      6u
+                         280 --109: #define LOC_LED7_PORT    16u
+                         281 --110: #define LOC_LED7_PIN      7u
+                         282 --111: #define LOC_LED8_PORT    16u
+                         283 --112: #define LOC_LED8_PIN      8u
+                         284 --113: #define LOC_LED9_PORT    16u
+                         285 --114: #define LOC_LED9_PIN      9u
+                         286 --115: #define LOC_LED10_PORT   16u
+                         287 --116: #define LOC_LED10_PIN    10u
+                         288 --117: #define LOC_LED11_PORT   16u
+                         289 --118: #define LOC_LED11_PIN    11u
+                         290 --119: #define LOC_LED12_PORT   17u
+                         291 --120: #define LOC_LED12_PIN     0u
+                         292 --121: #define LOC_LED13_PORT   17u
+                         293 --122: #define LOC_LED13_PIN     1u
+                         294 --123: #define LOC_LED14_PORT   17u
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+                         295 --124: #define LOC_LED14_PIN     2u
+                         296 --125: #define LOC_LED15_PORT   17u
+                         297 --126: #define LOC_LED15_PIN     3u
+                         298 --128: /*******************************************************************************
+                         299 --129:   Section: Local Constants
+                         300 --130: */
+                         301 --132: static const r_dev_PinConfig_t loc_PinConfig[] = 
+                         302 --133: /*      Port                Pin                Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         303 --134: {
+                         304 --135:     /* LED */
+                         305 --136:     {LOC_LED0_PORT,       LOC_LED0_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         306 --137:     {LOC_LED1_PORT,       LOC_LED1_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         307 --138:     {LOC_LED2_PORT,       LOC_LED2_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         308 --139:     {LOC_LED3_PORT,       LOC_LED3_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         309 --140:     {LOC_LED4_PORT,       LOC_LED4_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         310 --141: //    {LOC_LED5_PORT,       LOC_LED5_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         311 --142:     {LOC_LED6_PORT,       LOC_LED6_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         312 --143:     {LOC_LED7_PORT,       LOC_LED7_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         313 --144:     {LOC_LED8_PORT,       LOC_LED8_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         314 --145:     {LOC_LED9_PORT,       LOC_LED9_PIN,        0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         315 --146:     {LOC_LED10_PORT,      LOC_LED10_PIN,       0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         316 --147:     {LOC_LED11_PORT,      LOC_LED11_PIN,       0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         317 --148:     {LOC_LED12_PORT,      LOC_LED12_PIN,       0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         318 --149:     {LOC_LED13_PORT,      LOC_LED13_PIN,       0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         319 --150:     {LOC_LED14_PORT,      LOC_LED14_PIN,       0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         320 --151:     {LOC_LED15_PORT,      LOC_LED15_PIN,       0u, R_DEV_PIN_OUT,    0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1}, 
+                         321 --152:     /* Button */
+                         322 --153:     {BSP_BTN_LEFT_PORT,   BSP_BTN_LEFT_PIN,    4u, R_DEV_PIN_IN,     0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         323 --154:     {BSP_BTN_UP_PORT,     BSP_BTN_UP_PIN,      1u, R_DEV_PIN_IN,     0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         324 --155: #if USE_FOUT_INSTEAD_BSP_BTN_DOWN != 1
+                         325 --156:     {BSP_BTN_DOWN_PORT,   BSP_BTN_DOWN_PIN,    1u, R_DEV_PIN_IN,     0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         326 --157: #endif  /* USE_FOUT_INSTEAD_BSP_BTN_DOWN */
+                         327 --158:     {BSP_BTN_RIGHT_PORT,  BSP_BTN_RIGHT_PIN,   1u, R_DEV_PIN_IN,     0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         328 --159:     {BSP_BTN_CENTER_PORT, BSP_BTN_CENTER_PIN,  1u, R_DEV_PIN_IN,     0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         329 --160:     /* Knob */
+                         330 --161:     {BSP_KNOB_PRESS_PORT, BSP_KNOB_PRESS_PIN,  4u, R_DEV_PIN_IN,     0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         331 --162:     {BSP_KNOB_DIR_A_PORT, BSP_KNOB_DIR_A_PIN,  1u, R_DEV_PIN_IN,     0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         332 --163:     {BSP_KNOB_DIR_B_PORT, BSP_KNOB_DIR_B_PIN,  1u, R_DEV_PIN_IN,     0u,  R_DEV_PIN_PULLNO,     0u,      0u,         0u,   R_DEV_PIN_CMOS1},  
+                         333 --164:     /* delimiter - do not remove */
+                         334 --165:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,     0u,      0u,         0u,    R_DEV_PIN_CMOS1}  
+                         335 --166: };
+                         336 --168: /*******************************************************************************
+                         337 --169:   Section: Local Variables 
+                         338 --170: */
+                         339 --172: static uint8_t loc_Brightness[BSP_MAX_LED];
+                         340 --174: /*******************************************************************************
+                         341 --175:   Section: Local Functions
+                         342 --176: */
+                         343 --180: /*******************************************************************************
+                         344 --181:   Section: Global BSP HMI SYS Functions
+                         345 --183: */
+                         346 --185: /*******************************************************************************
+                         347 --186:   Function: R_BSP_HMI_Init
+                         348 --187:   
+                         349 --188:   See: r_bsp_hmi_sys.h for details    
+                         350 --189: */
+                         351 --190: void R_BSP_SYS_HMI_Init(void) 
+                         352 	.text
+                         353 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                         354 	.align	2
+                         355 	.global	_R_BSP_SYS_HMI_Init
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+                         356 _R_BSP_SYS_HMI_Init:
+00000000 80076100        357 	prepare	{r29,r31},0
+                         358 --	    .bf
+                         359 .LDW01:
+                         360 --191: {
+                         361 --192:     uint8_t lednr;
+                         362 --193:     R_DEV_PinInit (loc_PinConfig); 
+00000004 260600000000*   363 	mov	_loc_PinConfig,r6
+                         364 	jarl	_R_DEV_PinInit,lp
+                         364 <EXPANSION BEGIN>
+                         364 jarl22 _R_DEV_PinInit , lp 
+0000000a 80ff0000*       364 <EXPANSION END>
+                         365 --194:     /* LED 0..15 set default state (on)*/
+                         366 --195:     for (lednr=0; lednr<16; lednr++)
+                         367 --line195
+                         368 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.1::
+                         369 .LDWlin1:
+0000000e 00ea            370 	mov	0,r29
+00000010 0000            371 	nop
+                         372 .L6:
+                         373 --196:     {
+                         374 --197:         R_BSP_SYS_HMI_SetLed(lednr, 100u);
+00000012 1d30            375 	mov	r29,r6
+00000014 203e6400        376 	movea	100,zero,r7
+                         377 	jarl	_R_BSP_SYS_HMI_SetLed,lp
+                         377 <EXPANSION BEGIN>
+                         377 jarl22 _R_BSP_SYS_HMI_SetLed , lp 
+00000018 80ff1a00*       377 <EXPANSION END>
+                         378 --line195
+                         379 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.2::
+                         380 .LDWlin2:
+0000001c 41ea            381 	add	1,r29
+0000001e 9d00            382 	zxb	r29
+00000020 1d06f0ff        383 	addi	-16,r29,zero
+00000024 f9f5*           384 	bnl	.L6
+                         385 --198:     }
+                         386 --201:     /* Init Rotary - Knob */
+                         387 --202:     R_BSP_HMI_InitRotaryKnob();
+                         388 --line202
+                         389 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.3::
+                         390 .LDWlin3:
+                         391 	jarl	_R_BSP_HMI_InitRotaryKnob,lp
+                         391 <EXPANSION BEGIN>
+                         391 jarl22 _R_BSP_HMI_InitRotaryKnob , lp 
+00000026 80ff0000*       391 <EXPANSION END>
+                         392 --203:     
+                         393 --204:     /* Init Buttons */
+                         394 --205:     R_BSP_HMI_InitButton();
+                         395 --line205
+                         396 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.4::
+                         397 .LDWlin4:
+                         398 	jarl	_R_BSP_HMI_InitButton,lp
+                         398 <EXPANSION BEGIN>
+                         398 jarl22 _R_BSP_HMI_InitButton , lp 
+0000002a 80ff0000*       398 <EXPANSION END>
+                         399 --206: }
+                         400 --	    .ef
+                         401 .LDW11:
+                         402 --line206
+                         403 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.5::
+                         404 .LDWlin5:
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+0000002e 40067f00        405 	dispose	0,{r29,r31},[lp]
+                         406 	.type	_R_BSP_SYS_HMI_Init,@function
+                         407 	.size	_R_BSP_SYS_HMI_Init,.-_R_BSP_SYS_HMI_Init
+                         408 	.align	2
+                         409 .LDW21:
+                         410 --_lednr	r29	local
+                         411 
+                         412 	.section ".bss","awb"
+                         413 .L62:
+                         414 	.type	.L62,@object
+                         415 	.size	.L62,0
+                         416 	.global	_loc_Brightness..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.
+                         417 _loc_Brightness..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.:
+00000000 000000000000    418 _loc_Brightness:	.space	16
+00000006 000000000000 
+0000000c 00000000 
+                         419 	.type	_loc_Brightness..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.,@object
+                         420 	.size	_loc_Brightness..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.,16
+                         421 	.type	_loc_Brightness,@object
+                         422 	.size	_loc_Brightness,16
+                         423 	.section ".rodata","a"
+                         424 	.align	4
+                         425 	.global	_loc_PinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.
+                         426 _loc_PinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.:
+00000000 10              427 _loc_PinConfig:	.byte	16
+00000001 00              428 	.space	1
+00000002 00              429 	.space	1
+00000003 00              430 	.space	1
+00000004 00000000        431 	.space	4
+00000008 00              432 	.space	1
+00000009 000000          433 	.space	3
+0000000c 00000000        434 	.space	4
+00000010 00              435 	.space	1
+00000011 00              436 	.space	1
+00000012 00              437 	.space	1
+00000013 01              438 	.byte	1
+00000014 1001            439 	.byte	16,1
+00000016 00              440 	.space	1
+00000017 00              441 	.space	1
+00000018 00000000        442 	.space	4
+0000001c 00              443 	.space	1
+0000001d 000000          444 	.space	3
+00000020 00000000        445 	.space	4
+00000024 00              446 	.space	1
+00000025 00              447 	.space	1
+00000026 00              448 	.space	1
+00000027 01              449 	.byte	1
+00000028 1002            450 	.byte	16,2
+0000002a 00              451 	.space	1
+0000002b 00              452 	.space	1
+0000002c 00000000        453 	.space	4
+00000030 00              454 	.space	1
+00000031 000000          455 	.space	3
+00000034 00000000        456 	.space	4
+00000038 00              457 	.space	1
+00000039 00              458 	.space	1
+0000003a 00              459 	.space	1
+0000003b 01              460 	.byte	1
+0000003c 1003            461 	.byte	16,3
+0000003e 00              462 	.space	1
+0000003f 00              463 	.space	1
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+00000040 00000000        464 	.space	4
+00000044 00              465 	.space	1
+00000045 000000          466 	.space	3
+00000048 00000000        467 	.space	4
+0000004c 00              468 	.space	1
+0000004d 00              469 	.space	1
+0000004e 00              470 	.space	1
+0000004f 01              471 	.byte	1
+00000050 1004            472 	.byte	16,4
+00000052 00              473 	.space	1
+00000053 00              474 	.space	1
+00000054 00000000        475 	.space	4
+00000058 00              476 	.space	1
+00000059 000000          477 	.space	3
+0000005c 00000000        478 	.space	4
+00000060 00              479 	.space	1
+00000061 00              480 	.space	1
+00000062 00              481 	.space	1
+00000063 01              482 	.byte	1
+00000064 1006            483 	.byte	16,6
+00000066 00              484 	.space	1
+00000067 00              485 	.space	1
+00000068 00000000        486 	.space	4
+0000006c 00              487 	.space	1
+0000006d 000000          488 	.space	3
+00000070 00000000        489 	.space	4
+00000074 00              490 	.space	1
+00000075 00              491 	.space	1
+00000076 00              492 	.space	1
+00000077 01              493 	.byte	1
+00000078 1007            494 	.byte	16,7
+0000007a 00              495 	.space	1
+0000007b 00              496 	.space	1
+0000007c 00000000        497 	.space	4
+00000080 00              498 	.space	1
+00000081 000000          499 	.space	3
+00000084 00000000        500 	.space	4
+00000088 00              501 	.space	1
+00000089 00              502 	.space	1
+0000008a 00              503 	.space	1
+0000008b 01              504 	.byte	1
+0000008c 1008            505 	.byte	16,8
+0000008e 00              506 	.space	1
+0000008f 00              507 	.space	1
+00000090 00000000        508 	.space	4
+00000094 00              509 	.space	1
+00000095 000000          510 	.space	3
+00000098 00000000        511 	.space	4
+0000009c 00              512 	.space	1
+0000009d 00              513 	.space	1
+0000009e 00              514 	.space	1
+0000009f 01              515 	.byte	1
+000000a0 1009            516 	.byte	16,9
+000000a2 00              517 	.space	1
+000000a3 00              518 	.space	1
+000000a4 00000000        519 	.space	4
+000000a8 00              520 	.space	1
+000000a9 000000          521 	.space	3
+000000ac 00000000        522 	.space	4
+000000b0 00              523 	.space	1
+000000b1 00              524 	.space	1
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+000000b2 00              525 	.space	1
+000000b3 01              526 	.byte	1
+000000b4 100a            527 	.byte	16,10
+000000b6 00              528 	.space	1
+000000b7 00              529 	.space	1
+000000b8 00000000        530 	.space	4
+000000bc 00              531 	.space	1
+000000bd 000000          532 	.space	3
+000000c0 00000000        533 	.space	4
+000000c4 00              534 	.space	1
+000000c5 00              535 	.space	1
+000000c6 00              536 	.space	1
+000000c7 01              537 	.byte	1
+000000c8 100b            538 	.byte	16,11
+000000ca 00              539 	.space	1
+000000cb 00              540 	.space	1
+000000cc 00000000        541 	.space	4
+000000d0 00              542 	.space	1
+000000d1 000000          543 	.space	3
+000000d4 00000000        544 	.space	4
+000000d8 00              545 	.space	1
+000000d9 00              546 	.space	1
+000000da 00              547 	.space	1
+000000db 01              548 	.byte	1
+000000dc 11              549 	.byte	17
+000000dd 00              550 	.space	1
+000000de 00              551 	.space	1
+000000df 00              552 	.space	1
+000000e0 00000000        553 	.space	4
+000000e4 00              554 	.space	1
+000000e5 000000          555 	.space	3
+000000e8 00000000        556 	.space	4
+000000ec 00              557 	.space	1
+000000ed 00              558 	.space	1
+000000ee 00              559 	.space	1
+000000ef 01              560 	.byte	1
+000000f0 1101            561 	.byte	17,1
+000000f2 00              562 	.space	1
+000000f3 00              563 	.space	1
+000000f4 00000000        564 	.space	4
+000000f8 00              565 	.space	1
+000000f9 000000          566 	.space	3
+000000fc 00000000        567 	.space	4
+00000100 00              568 	.space	1
+00000101 00              569 	.space	1
+00000102 00              570 	.space	1
+00000103 01              571 	.byte	1
+00000104 1102            572 	.byte	17,2
+00000106 00              573 	.space	1
+00000107 00              574 	.space	1
+00000108 00000000        575 	.space	4
+0000010c 00              576 	.space	1
+0000010d 000000          577 	.space	3
+00000110 00000000        578 	.space	4
+00000114 00              579 	.space	1
+00000115 00              580 	.space	1
+00000116 00              581 	.space	1
+00000117 01              582 	.byte	1
+00000118 1103            583 	.byte	17,3
+0000011a 00              584 	.space	1
+0000011b 00              585 	.space	1
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+0000011c 00000000        586 	.space	4
+00000120 00              587 	.space	1
+00000121 000000          588 	.space	3
+00000124 00000000        589 	.space	4
+00000128 00              590 	.space	1
+00000129 00              591 	.space	1
+0000012a 00              592 	.space	1
+0000012b 01              593 	.byte	1
+0000012c 00              594 	.space	1
+0000012d 0504            595 	.byte	5,4
+0000012f 00              596 	.space	1
+00000130 01000000        597 	.byte	1,0,0,0
+00000134 00              598 	.space	1
+00000135 000000          599 	.space	3
+00000138 00000000        600 	.space	4
+0000013c 00              601 	.space	1
+0000013d 00              602 	.space	1
+0000013e 00              603 	.space	1
+0000013f 01              604 	.byte	1
+00000140 00              605 	.space	1
+00000141 0301            606 	.byte	3,1
+00000143 00              607 	.space	1
+00000144 01000000        608 	.byte	1,0,0,0
+00000148 00              609 	.space	1
+00000149 000000          610 	.space	3
+0000014c 00000000        611 	.space	4
+00000150 00              612 	.space	1
+00000151 00              613 	.space	1
+00000152 00              614 	.space	1
+00000153 01              615 	.byte	1
+00000154 00              616 	.space	1
+00000155 0601            617 	.byte	6,1
+00000157 00              618 	.space	1
+00000158 01000000        619 	.byte	1,0,0,0
+0000015c 00              620 	.space	1
+0000015d 000000          621 	.space	3
+00000160 00000000        622 	.space	4
+00000164 00              623 	.space	1
+00000165 00              624 	.space	1
+00000166 00              625 	.space	1
+00000167 01              626 	.byte	1
+00000168 00              627 	.space	1
+00000169 0701            628 	.byte	7,1
+0000016b 00              629 	.space	1
+0000016c 01000000        630 	.byte	1,0,0,0
+00000170 00              631 	.space	1
+00000171 000000          632 	.space	3
+00000174 00000000        633 	.space	4
+00000178 00              634 	.space	1
+00000179 00              635 	.space	1
+0000017a 00              636 	.space	1
+0000017b 01              637 	.byte	1
+0000017c 00              638 	.space	1
+0000017d 00              639 	.space	1
+0000017e 04              640 	.byte	4
+0000017f 00              641 	.space	1
+00000180 01000000        642 	.byte	1,0,0,0
+00000184 00              643 	.space	1
+00000185 000000          644 	.space	3
+00000188 00000000        645 	.space	4
+0000018c 00              646 	.space	1
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+0000018d 00              647 	.space	1
+0000018e 00              648 	.space	1
+0000018f 01              649 	.byte	1
+00000190 00              650 	.space	1
+00000191 0101            651 	.byte	1,1
+00000193 00              652 	.space	1
+00000194 01000000        653 	.byte	1,0,0,0
+00000198 00              654 	.space	1
+00000199 000000          655 	.space	3
+0000019c 00000000        656 	.space	4
+000001a0 00              657 	.space	1
+000001a1 00              658 	.space	1
+000001a2 00              659 	.space	1
+000001a3 01              660 	.byte	1
+000001a4 00              661 	.space	1
+000001a5 0201            662 	.byte	2,1
+000001a7 00              663 	.space	1
+000001a8 01000000        664 	.byte	1,0,0,0
+000001ac 00              665 	.space	1
+000001ad 000000          666 	.space	3
+000001b0 00000000        667 	.space	4
+000001b4 00              668 	.space	1
+000001b5 00              669 	.space	1
+000001b6 00              670 	.space	1
+000001b7 01              671 	.byte	1
+000001b8 00              672 	.space	1
+000001b9 ff              673 	.byte	255
+000001ba 00              674 	.space	1
+000001bb 00              675 	.space	1
+000001bc 00000000        676 	.space	4
+000001c0 00              677 	.space	1
+000001c1 000000          678 	.space	3
+000001c4 00000000        679 	.space	4
+000001c8 00              680 	.space	1
+000001c9 00              681 	.space	1
+000001ca 00              682 	.space	1
+000001cb 01              683 	.byte	1
+                         684 	.type	_loc_PinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.,@object
+                         685 	.size	_loc_PinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.,460
+                         686 	.type	_loc_PinConfig,@object
+                         687 	.size	_loc_PinConfig,460
+                         688 	.data
+                         689 	.text
+                         690 
+                         691 
+                         692 --208: /*******************************************************************************
+                         693 --209:   Function: R_BSP_HMI_SetLed
+                         694 --210:   
+                         695 --211:   See: r_bsp_hmi_sys.h for details    
+                         696 --212: */
+                         697 --213: r_Error_t R_BSP_SYS_HMI_SetLed(uint8_t LedNumber, uint32_t Brightness)
+                         698 	.align	2
+                         699 	.align	2
+                         700 	.global	_R_BSP_SYS_HMI_SetLed
+                         701 _R_BSP_SYS_HMI_SetLed:
+00000032 8207e170        702 	prepare	{r25,r26,r27,r28,r29,r31},1
+00000036 c6e6ff00        703 	andi	255,r6,r28
+0000003a 07c8            704 	mov	r7,r25
+0000003c 3d0600000000*   705 	mov	_loc_Brightness,r29
+                         706 --	    .bf
+                         707 .LDW31:
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+                         708 --214: {
+                         709 --215:     uint32_t port;
+                         710 --216:     uint32_t pin;
+                         711 --217:     if (LedNumber <= 11u)
+00000042 6be2            712 	cmp	11,r28
+00000044 bb1d*           713 	bh	.L100
+                         714 --218:     {
+                         715 --219:         /* LED is on P16 */
+                         716 --220:         port = 16;
+                         717 --line220
+                         718 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.6::
+                         719 .LDWlin6:
+00000046 20de1000        720 	movea	16,zero,r27
+                         721 --221:         pin = (LedNumber - 0u);
+0000004a 1cd0            722 	mov	r28,r26
+                         723 --223:         if (Brightness == 0u) 
+0000004c e0c9            724 	cmp	zero,r25
+0000004e 8a0d*           725 	bne	.L102
+                         726 --224:         {
+                         727 --225:             /* switch LOC_LED[11..0] off */
+                         728 --226:             R_GPIO_WritePin(port, pin, 1);
+                         729 --line226
+                         730 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.7::
+                         731 .LDWlin7:
+00000050 1a38            732 	mov	r26,r7
+00000052 1b30            733 	mov	r27,r6
+00000054 8700            734 	zxb	r7
+00000056 0142            735 	mov	1,r8
+                         736 	jarl	_R_GPIO_WritePin,lp
+                         736 <EXPANSION BEGIN>
+                         736 jarl22 _R_GPIO_WritePin , lp 
+00000058 80ff0000*       736 <EXPANSION END>
+0000005c f505*           737 	br	.L104
+                         738 .L102:
+                         739 --227:         } 
+                         740 --228:         else
+                         741 --229:         {
+                         742 --230:             /* switch LOC_LED[11..0] on */
+                         743 --231:             /* dimming not (yet) implemented, the first 
+                         744 --232:             one in need it the first one to complete this function */
+                         745 --233:             R_GPIO_WritePin(port, pin, 0);
+                         746 --line233
+                         747 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.8::
+                         748 .LDWlin8:
+0000005e 1a38            749 	mov	r26,r7
+00000060 1b30            750 	mov	r27,r6
+00000062 8700            751 	zxb	r7
+00000064 0042            752 	mov	0,r8
+                         753 	jarl	_R_GPIO_WritePin,lp
+                         753 <EXPANSION BEGIN>
+                         753 jarl22 _R_GPIO_WritePin , lp 
+00000066 80ff0000*       753 <EXPANSION END>
+                         754 .L104:
+                         755 --234:         }
+                         756 --236:         loc_Brightness[LedNumber] = Brightness; 
+                         757 --line236
+                         758 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.9::
+                         759 .LDWlin9:
+0000006a 2b0600000000*   760 	mov	_loc_Brightness,r11
+00000070 1cf0            761 	mov	r28,ep
+00000072 cbf1            762 	add	r11,ep
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+00000074 80cb            763 	sst.b	r25,0[ep]
+                         764 --237:         return R_ERR_OK;
+00000076 0052            765 	mov	0,r10
+00000078 a525*           766 	br	.L98
+                         767 .L100:
+                         768 --238:     }
+                         769 --239:     
+                         770 --240:     if ((LedNumber >= 12u) && (LedNumber < BSP_MAX_LED))
+                         771 --line240
+                         772 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.10::
+                         773 .LDWlin10:
+0000007a 6ce2            774 	cmp	12,r28
+0000007c f11d*           775 	bl	.L106
+0000007e 1c06f0ff        776 	addi	-16,r28,zero
+00000082 c11d*           777 	bl	.L106
+                         778 --241:     {
+                         779 --242:         /* LED is on P17 */
+                         780 --243:         port = 17;
+                         781 --line243
+                         782 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.11::
+                         783 .LDWlin11:
+00000084 20de1100        784 	movea	17,zero,r27
+                         785 --244:         pin = (LedNumber - 12u);
+00000088 1cd6f4ff        786 	addi	-12,r28,r26
+                         787 --245:         if (Brightness == 0u) 
+0000008c e0c9            788 	cmp	zero,r25
+0000008e 8a0d*           789 	bne	.L109
+                         790 --246:         {
+                         791 --247:             /* switch LOC_LED[15..12] off */
+                         792 --248:             R_GPIO_WritePin(port, pin, 1);
+                         793 --line248
+                         794 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.12::
+                         795 .LDWlin12:
+00000090 1a38            796 	mov	r26,r7
+00000092 1b30            797 	mov	r27,r6
+00000094 8700            798 	zxb	r7
+00000096 0142            799 	mov	1,r8
+                         800 	jarl	_R_GPIO_WritePin,lp
+                         800 <EXPANSION BEGIN>
+                         800 jarl22 _R_GPIO_WritePin , lp 
+00000098 80ff0000*       800 <EXPANSION END>
+0000009c f505*           801 	br	.L111
+                         802 .L109:
+                         803 --249:         } 
+                         804 --250:         else
+                         805 --251:         {
+                         806 --252:             /* switch LOC_LED[15..12] on */
+                         807 --253:             /* dimming not (yet) implemented, the first 
+                         808 --254:             one in need it the first one to complete this function */
+                         809 --255:             R_GPIO_WritePin(port, pin, 0);
+                         810 --line255
+                         811 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.13::
+                         812 .LDWlin13:
+0000009e 1a38            813 	mov	r26,r7
+000000a0 1b30            814 	mov	r27,r6
+000000a2 8700            815 	zxb	r7
+000000a4 0042            816 	mov	0,r8
+                         817 	jarl	_R_GPIO_WritePin,lp
+                         817 <EXPANSION BEGIN>
+                         817 jarl22 _R_GPIO_WritePin , lp 
+000000a6 80ff0000*       817 <EXPANSION END>
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+                         818 .L111:
+                         819 --256:         }
+                         820 --257:         loc_Brightness[LedNumber] = Brightness; 
+                         821 --line257
+                         822 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.14::
+                         823 .LDWlin14:
+000000aa 2b0600000000*   824 	mov	_loc_Brightness,r11
+000000b0 1cf0            825 	mov	r28,ep
+000000b2 cbf1            826 	add	r11,ep
+000000b4 80cb            827 	sst.b	r25,0[ep]
+                         828 --258:         return R_ERR_OK;
+000000b6 0052            829 	mov	0,r10
+000000b8 a505*           830 	br	.L98
+                         831 .L106:
+                         832 --259:     }
+                         833 --260:     return R_NG;
+                         834 --line260
+                         835 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.15::
+                         836 .LDWlin15:
+000000ba 0152            837 	mov	1,r10
+                         838 .L98:
+                         839 --	    .ef
+                         840 .LDW41:
+000000bc 4206ff70        841 	dispose	1,{r25,r26,r27,r28,r29,r31},[lp]
+                         842 	.type	_R_BSP_SYS_HMI_SetLed,@function
+                         843 	.size	_R_BSP_SYS_HMI_SetLed,.-_R_BSP_SYS_HMI_SetLed
+                         844 	.align	2
+                         845 .LDW51:
+                         846 --_port	r27	local
+                         847 --_pin	r26	local
+                         848 
+                         849 --_LedNumber	r28	param
+                         850 --_Brightness	r25	param
+                         851 
+                         852 	.data
+                         853 	.text
+                         854 
+                         855 --261: }
+                         856 
+                         857 --263: /*******************************************************************************
+                         858 --264:   Function: R_BSP_HMI_GetLed
+                         859 --265:   
+                         860 --266:   See: r_bsp_hmi_sys.h for details    
+                         861 --267: */
+                         862 --268: int8_t R_BSP_SYS_HMI_GetLed(uint8_t LedNumber) 
+                         863 	.align	2
+                         864 	.align	2
+                         865 	.global	_R_BSP_SYS_HMI_GetLed
+                         866 _R_BSP_SYS_HMI_GetLed:
+000000c0 c60eff00        867 	andi	255,r6,r1
+                         868 --	    .bf
+                         869 .LDW61:
+                         870 --269: {
+                         871 --270:     if (LedNumber < BSP_MAX_LED) 
+000000c4 0106f0ff        872 	addi	-16,r1,zero
+000000c8 810d*           873 	bl	.L258
+                         874 --271:     {
+                         875 --272:         return loc_Brightness[LedNumber];
+                         876 --line272
+                         877 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.16::
+                         878 .LDWlin16:
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pu41.si
+000000ca 3e0600000000*   879 	mov	_loc_Brightness,ep
+000000d0 c1f1            880 	add	r1,ep
+000000d2 0073            881 	sld.b	0[ep],r14
+000000d4 0e50            882 	mov	r14,r10
+000000d6 a505*           883 	br	.L256
+                         884 .L258:
+                         885 --273:     }
+                         886 --274:     else
+                         887 --275:     {
+                         888 --276:         return (-1);
+                         889 --line276
+                         890 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi.17::
+                         891 .LDWlin17:
+000000d8 1f52            892 	mov	-1,r10
+                         893 .L256:
+                         894 --	    .ef
+                         895 .LDW71:
+000000da 7f00            896 	jmp	[lp]
+                         897 	.type	_R_BSP_SYS_HMI_GetLed,@function
+                         898 	.size	_R_BSP_SYS_HMI_GetLed,.-_R_BSP_SYS_HMI_GetLed
+                         899 	.align	2
+                         900 .LDW81:
+                         901 
+                         902 --_LedNumber	r1	param
+                         903 
+                         904 	.data
+                         905 	.text
+                         906 
+                         907 --277:     }
+                         908 --278: }
+                         909 	.align	2
+                         910 --_loc_PinConfig	_loc_PinConfig	static
+                         911 --_loc_Brightness	_loc_Brightness	static
+                         912 
+                         913 	.data
+                         914 	.ghsnote version,15
+                         915 	.ghsnote tools,3
+                         916 	.ghsnote options,144
+                         917 	.text
+                         918 	.align	2
+                         919 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_hmi...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                         920 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

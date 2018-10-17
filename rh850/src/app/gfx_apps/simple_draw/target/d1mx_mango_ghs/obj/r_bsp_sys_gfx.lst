@@ -1,0 +1,2031 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_bsp_sys_gfx.dbo -source=r_bsp_sys_gfx.c -o .\obj\gh_0000p2s1.o -list=.\obj\r_bsp_sys_gfx.lst C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+Source File: r_bsp_sys_gfx.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\bsp\board\d1mx_mango\src\gfx\r_bsp_sys_gfx.c -o
+                         171 --		.\obj\r_bsp_sys_gfx.o
+                         172 --Source File:   ..\..\..\..\..\bsp\board\d1mx_mango\src\gfx\r_bsp_sys_gfx.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:53 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : BSP - GFX 
+                         186 --4: FILE    : $Id: r_bsp_sys_gfx.c 13765 2017-06-08 10:55:30Z florian.zimmermann $
+                         187 --5: ============================================================================
+                         188 --6: DESCRIPTION
+                         189 --7: BSP Implementation D1X MANGO Board
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T
+                         192 --10: ============================================================================
+                         193 --11:                            Copyright (c) 2017
+                         194 --12:                                   by
+                         195 --13:                     Renesas Electronics (Europe) GmbH. 
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing
+                         202 --21: DISCLAIMER                                                                   
+                         203 --22: This software is supplied by Renesas Electronics Corporation and is only     
+                         204 --23: intended for use with Renesas products. No other uses are authorized. This   
+                         205 --24: software is owned by Renesas Electronics Corporation and is protected under  
+                         206 --25: all applicable laws, including copyright laws.                               
+                         207 --26: THIS SOFTWARE IS PROVIDED "AS IS" AND RENESAS MAKES NO WARRANTIES REGARDING  
+                         208 --27: THIS SOFTWARE, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT      
+                         209 --28: LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE   
+                         210 --29: AND NON-INFRINGEMENT. ALL SUCH WARRANTIES ARE EXPRESSLY DISCLAIMED.          
+                         211 --30: TO THE MAXIMUM EXTENT PERMITTED NOT PROHIBITED BY LAW, NEITHER RENESAS       
+                         212 --31: ELECTRONICS CORPORATION NOR ANY OF ITS AFFILIATED COMPANIES SHALL BE LIABLE  
+                         213 --32: FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR   
+                         214 --33: ANY REASON RELATED TO THIS SOFTWARE, EVEN IF RENESAS OR ITS AFFILIATES HAVE  
+                         215 --34: BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.                             
+                         216 --35: Renesas reserves the right, without notice, to make changes to this software 
+                         217 --36: and to discontinue the availability of this software. By using this software,
+                         218 --37: you agree to the additional terms and conditions found by accessing the      
+                         219 --38: following link:                                                              
+                         220 --39: http://www.renesas.com/disclaimer *                                          
+                         221 --40: Copyright (C) 2014 Renesas Electronics Corporation. All rights reserved.     
+                         222 --42: ****************************************************************************
+                         223 --43: */
+                         224 --45: /*
+                         225 --46:   Section: BSP SYS GFX description 
+                         226 --47:   
+                         227 --48:   This is the board specific GFX implementation for the BSP. 
+                         228 --49:         
+                         229 --50: */
+                         230 --53: /*******************************************************************************
+                         231 --54:   Section: Includes
+                         232 --55: */
+                         233 --57: #include "r_typedefs.h"     /* Renesas basic types, e.g. uint32_t */
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         234 --59: #include "r_tick_api.h"
+                         235 --60: #include "r_dev_api.h"
+                         236 --61: #include "r_gpio_api.h"
+                         237 --62: #include "r_xbus_api.h"
+                         238 --64: #include "r_bsp_api.h"
+                         239 --65: #include "r_bsp_gfx_api.h"
+                         240 --66: #include "r_bsp_gfx_sys.h"
+                         241 --67: #include "r_bsp_board_config.h"
+                         242 --68: #include "main.h"
+                         243 --69: #ifdef BSP_INIT_SFMA
+                         244 --70:  #include "r_sfma_calib.h"
+                         245 --71:  #include "r_sfma_api.h"
+                         246 --72:  #include "r_sfcdb_macronix.h"
+                         247 --73:  #include "r_bsp_stdio_api.h"
+                         248 --74: #endif /* BSP_INIT_SFMA */
+                         249 --76: #ifdef BSP_INIT_NFMA
+                         250 --77:  #include "r_config_d1x.h"
+                         251 --78:  #include "r_nfma_init_memcpy.h"
+                         252 --79: #endif /* BSP_INIT_NFMA */
+                         253 --81: #ifdef BSP_INIT_HYPB_FLASH_R
+                         254 --82:  #include "r_hypb_api.h"
+                         255 --83:  #include "r_hypdb_issi.h"
+                         256 --84:  #include "r_bsp_stdio_api.h"
+                         257 --85: #endif /* BSP_INIT_HYPB_FLASH_R */
+                         258 --87: #ifdef BSP_INIT_HYPB_RAM_RW
+                         259 --88:  #include "r_hypb_api.h"
+                         260 --89:  #include "r_hypdb_issi.h"
+                         261 --90:  #include "r_bsp_stdio_api.h"
+                         262 --91: #endif /* BSP_INIT_HYPB_RAM_RW */
+                         263 --93: #ifdef BSP_INIT_OCTA_FLASH_R
+                         264 --94:  #include "r_octa_api.h"
+                         265 --95:  #include "r_octacdb_macronix.h"
+                         266 --96:  #include "r_octa_calib.h"
+                         267 --97:  #include "r_bsp_stdio_api.h"
+                         268 --98: #endif /* BSP_INIT_OCTA_FLASH_R */
+                         269 --100: #ifdef BSP_INIT_OCTA_RAM_RW
+                         270 --101:  #include "r_octa_api.h"
+                         271 --102:  #include "r_octacdb_macronix.h"
+                         272 --103:   #include "r_octa_calib.h"
+                         273 --104:  #include "r_bsp_stdio_api.h"
+                         274 --105: #endif /* BSP_INIT_OCTA_RAM_RW */
+                         275 --108: /*******************************************************************************
+                         276 --109:   Section: Local Defines
+                         277 --110: */
+                         278 --112: #ifdef BSP_INIT_SFMA
+                         279 --113: /* SFMA setup for Macronics MX25L51245G device only
+                         280 --115:     D1L1 (144 pin) (40MHZ SDR)  1 x MX25L51245G 512Mb: 536,870,912 x 1 bit (64MByte)
+                         281 --117:     D1L2           (80MHZ DDR)  1 x MX25L51245G 512Mb: 536,870,912 x 1 bit (64MByte)
+                         282 --119:     D1L2H and above(120MHZ DDR) 2 x MX25L51245G 512Mb: 536,870,912 x 1 bit (128MByte)
+                         283 --120:     
+                         284 --121:     D1M1A 
+                         285 --122:      a) SFMA0: As D1L2H            + SFMA1 8-bit 40MHz
+                         286 --123:      b) SFMA0 4-bit + SFMA2 4-bit  + SFMA1 8-bit 40MHz
+                         287 --124: */
+                         288 --126: /* SFMA macro */
+                         289 --127: #ifdef BSP_USE_SFMA1
+                         290 --128: #define SFMA_CH0 1
+                         291 --129: #else
+                         292 --130: #define SFMA_CH0 0
+                         293 --131: #endif
+                         294 --133: /* Clock regs */
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         295 --134: #define CKSC_ISFMAD_CTL             (0xFFF85380u)
+                         296 --135: #define CKSC_ISFMAS_CTL             (0xFFF85340u)
+                         297 --138: /*  Default calibration for Serial flash memory (Macronix device only).
+                         298 --140:     SPBCLK clock phase shift         3 (range 0 - 7, written to the upper 16 bits)
+                         299 --141:     Sampling point phase shift       1 (range 0 - 7, written to the lower 16 bits)
+                         300 --142: */
+                         301 --143: #define SFMA_SPBCLK_CLOCK_PHASE_SHIFT     (3u)
+                         302 --145: /* general setting for most devices */
+                         303 --146: #define SFMA_SAMPLING_POINT_PHASE_SHIFT   (1u)
+                         304 --147: #define SFMA_DEFAULT_CAL                  ((SFMA_SPBCLK_CLOCK_PHASE_SHIFT << 16) | SFMA_SAMPLING_POINT_PHASE_SHIFT)
+                         305 --149: /* D1M1 requires a different default cal */
+                         306 --150: #define SFMA_D1M1_SAMPLING_POINT_PHASE_SHIFT   (2u)
+                         307 --151: #define SFMA_D1M1_DEFAULT_CAL             ((SFMA_SPBCLK_CLOCK_PHASE_SHIFT << 16) | SFMA_D1M1_SAMPLING_POINT_PHASE_SHIFT)
+                         308 --152: #endif /* BSP_INIT_SFMA */
+                         309 --155: /* HYPB macro */
+                         310 --156: #define HYPB_CH0 0
+                         311 --157: #define HYPB_D1MxE_SUPPORT_SIZE     (8*1024*1024)   /* 8MByte */
+                         312 --159: /* OCTA macro */
+                         313 --160: #define OCTA_UNIT                   (0u)
+                         314 --161: #ifndef BSP_OCTA_FLASH_CH
+                         315 --162:  #define BSP_OCTA_FLASH_CH          (0u)
+                         316 --163: #endif
+                         317 --164: #ifndef BSP_OCTA_RAM_CH
+                         318 --165:  #define BSP_OCTA_RAM_CH            (1u)
+                         319 --166: #endif
+                         320 --168: /*******************************************************************************
+                         321 --169:   Section: Local Constants
+                         322 --170: */
+                         323 --172: static const r_dev_PinConfig_t loc_D1Mx_SfmaDefaultPinConfig[] = 
+                         324 --173: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         325 --174: {
+                         326 --175:     /* SFMA - serial Flash memory pins */
+                         327 --176:     {21, 0,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  SFMA0CLK */
+                         328 --177:     {21, 1,  1u, R_DEV_PIN_OUT, 0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  SFMA0SSL */
+                         329 --178:     {21, 2,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA0IO[0..]0 */
+                         330 --179:     {21, 3,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         331 --180:     {21, 4,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         332 --181:     {21, 5,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA0IO[..3]0 */
+                         333 --182:     {21, 6,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA0IO[0..]1 */
+                         334 --183:     {21, 7,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         335 --184:     {21, 8,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         336 --185:     {21, 9,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA0IO[..3]1 */
+                         337 --186:     /* delimiter - do not remove */
+                         338 --187:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+                         339 --188: };
+                         340 --190: #ifdef BSP_USE_SFMA1
+                         341 --191: static const r_dev_PinConfig_t loc_D1M1A_SfmaDefaultPinConfig[] = 
+                         342 --192: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         343 --193: {
+                         344 --194:     /* SFMA1 - serial Flash memory pins */
+                         345 --195:     {42, 0,  6u, R_DEV_PIN_OUT,    0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* O:  SFMA1CLK */
+                         346 --196:     {42, 1,  6u, R_DEV_PIN_OUT,    0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* O:  SFMA1SSL */
+                         347 --197:     {42, 2,  6u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* IO: SFMA1IO[0..]0 */
+                         348 --198:     {42, 3,  6u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         349 --199:     {42, 4,  6u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         350 --200:     {42, 5,  6u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* IO: SFMA1IO[..3]0 */
+                         351 --201:     {42, 6,  6u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* IO: SFMA1IO[0..]1 */
+                         352 --202:     {42, 7,  6u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         353 --203:     {42, 8,  6u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1},
+                         354 --204:     {42, 9,  6u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* IO: SFMA1IO[..3]1 */
+                         355 --205:     
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         356 --206:     /* delimiter - do not remove */
+                         357 --207:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+                         358 --208: };
+                         359 --210: static const r_dev_PinConfig_t loc_D1MxE_SfmaDefaultPinConfig[] = 
+                         360 --211: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         361 --212: {
+                         362 --213:     /* SFMA1 - serial Flash memory pins */
+                         363 --214:     {22, 0,  1u, R_DEV_PIN_OUT,    0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  SFMA1CLK */
+                         364 --215:     {22, 1,  1u, R_DEV_PIN_OUT,    0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  SFMA1SSL */
+                         365 --216:     {22, 2,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA1IO[0..]0 */
+                         366 --217:     {22, 3,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         367 --218:     {22, 4,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         368 --219:     {22, 5,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA1IO[..3]0 */
+                         369 --220:     {22, 6,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA1IO[0..]1 */
+                         370 --221:     {22, 7,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         371 --222:     {22, 8,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         372 --223:     {22, 9,  1u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA1IO[..3]1 */
+                         373 --224:     
+                         374 --225:     /* delimiter - do not remove */
+                         375 --226:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+                         376 --227: };
+                         377 --228: #endif
+                         378 --230: #ifdef BSP_USE_SFMA2
+                         379 --231: static const r_dev_PinConfig_t loc_D1M1A_Sfma2PinConfig[] = 
+                         380 --232: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         381 --233: {
+                         382 --234:     /* SFMA1 - serial Flash memory pins */
+                         383 --235:     {22,10,  4u, R_DEV_PIN_OUT   , 0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O:  SFMA2CLK */
+                         384 --236:     {45,13,  5u, R_DEV_PIN_OUT   , 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* O:  SFMA2SSL */
+                         385 --237:     {21, 6,  4u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA2IO[0..]0 */
+                         386 --238:     {21, 7,  4u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         387 --239:     {21, 8,  4u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         388 --240:     {21, 9,  4u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: SFMA2IO[..3]0 */
+                         389 --241:     
+                         390 --242:     /* delimiter - do not remove */
+                         391 --243:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+                         392 --244: };
+                         393 --245: #endif
+                         394 --247: #if defined(_MARS) || defined(BSP_INIT_HYPB_FLASH_R) || defined(BSP_INIT_HYPB_RAM_RW) || defined(BSP_INIT_HYPB_PIN) \
+                         395 --248:  || defined(BSP_INIT_OCTA_FLASH_R) || defined(BSP_INIT_OCTA_RAM_RW) || defined(BSP_INIT_OCTA_PIN)
+                         396 --250: static const r_dev_PinConfig_t loc_D1M1A_HyperOctaDefaultPinConfig[] = 
+                         397 --251: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         398 --252: {
+                         399 --253:     /* HYPB / OCTA bus serial Flash/RAM memory pins */
+                         400 --254:     {21, 0,  3u, R_DEV_PIN_OUT,    0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O: MCK */
+                         401 --255:     {21, 1,  3u, R_DEV_PIN_OUT,    0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O: MCS */
+                         402 --256:     {21, 2,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: NDQO[0..] */
+                         403 --257:     {21, 3,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         404 --258:     {21, 4,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         405 --259:     {21, 5,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         406 --260:     {21, 6,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         407 --261:     {21, 7,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         408 --262:     {21, 8,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1},
+                         409 --263:     {21, 9,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* IO: NDQO[..7] */
+                         410 --264:     {22,10,  3u, R_DEV_PIN_DIRECT, 1u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* O: MDQS */
+                         411 --265:     
+                         412 --266:     /* for OCTA mcp  */
+                         413 --267:     {45,13,  5u, R_DEV_PIN_OUT   , 0u, R_DEV_PIN_PULLNO, 0u, 0u, 1u, R_DEV_PIN_CMOS1}, /* O:  SFMA2SSL */
+                         414 --268:     
+                         415 --269:     /* delimiter - do not remove */
+                         416 --270:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         417 --271: };
+                         418 --272: #endif
+                         419 --275: static const r_xbus_Cfg_t xbus_cfg = 
+                         420 --276: {
+                         421 --277:     0,
+                         422 --278:     0,
+                         423 --279:     {{R_XBUS_AM_CACHE,0x1u,0x98000000u, 0x07F00000u}, /* Cached SDRAM (original addr: 0x58000000) mirror 128MB  */
+                         424 --280:     {R_XBUS_AM_CACHE, 0x1u,0xa0000000u, 0x1FF00000u},  /* Cached SFMA mirror (0xa000_0000 - 0xBFff_ffff)*/
+                         425 --281:     {R_XBUS_AM_DIRECT,0x1u,0x40000000u, 0x3FF00000u}, /* (disabled) buffered SDRAM + HYPB/OCTA (0x4000_0000 - 0x7FFF_FFFF) */
+                         426 --282:     {R_XBUS_AM_DIRECT,0x1u,0x3FCE8000u, 0x00300000u}}  /* (disabled) buffered VRAM */
+                         427 --283: };
+                         428 --285: /*******************************************************************************
+                         429 --286:   Section: Local Types 
+                         430 --287: */
+                         431 --289: /*******************************************************************************
+                         432 --290:   Section: Local Functions declarations (board & device specific) 
+                         433 --291: */
+                         434 --292: extern void loc_SysGfxInitD1M1(void); 
+                         435 --293: extern void loc_SysLowInitD1M1(void); 
+                         436 --294: extern void loc_InitVideoIOPortD1M1(uint32_t *VoPinsAddr, uint32_t *ViPinsAddr);
+                         437 --295: extern void loc_InitVideoIOPortD1M1A(uint32_t *VoPinsAddr, uint32_t *ViPinsAddr);
+                         438 --297: extern void loc_SysGfxInitD1M2(void); 
+                         439 --298: extern void loc_SysLowInitD1M2(void); 
+                         440 --299: extern void loc_InitVideoIOPortD1M2(uint32_t *VoPinsAddr, uint32_t *ViPinsAddr);
+                         441 --301: //Luke add
+                         442 --302: extern void W_InitVideoIOReg(uint32_t *VoPinsAddr, uint32_t *ViPinsAddr);
+                         443 --304: /*******************************************************************************
+                         444 --305:   Section: Local Functions declarations 
+                         445 --306: */
+                         446 --307: static void loc_DisableVOPixelClocks(void);
+                         447 --308: static void loc_InitVideoIOPort(void);
+                         448 --309: static void loc_SFMA_SelectP21P22IoDriveStrength(void);
+                         449 --311: #ifdef BSP_INIT_SFMA
+                         450 --312:  void loc_SetupSFMA(void);
+                         451 --313: #endif
+                         452 --315: #ifdef BSP_INIT_HYPB_FLASH_R
+                         453 --316:  void loc_SetupHyperBus_ExMem_FlashRead(void);
+                         454 --317: #endif /* BSP_INIT_HYPB_FLASH_R */
+                         455 --319: #ifdef BSP_INIT_HYPB_RAM_RW
+                         456 --320:  void loc_SetupHyperBus_ExMem_RamReadWrite(void);
+                         457 --321: #endif /* BSP_INIT_HYPB_RAM_RW */
+                         458 --324: #ifdef BSP_INIT_OCTA_FLASH_R
+                         459 --325:  void loc_SetupOctaBus_ExMem_FlashRead(void);
+                         460 --326: #endif /* BSP_INIT_HYPB_FLASH_R */
+                         461 --328: #ifdef BSP_INIT_OCTA_RAM_RW
+                         462 --329:  void loc_SetupOctaBus_ExMem_RamReadWrite(void);
+                         463 --330: #endif /* BSP_INIT_HYPB_RAM_RW */
+                         464 --333: static void loc_InitGfxBus(void); 
+                         465 --335: //Luke add
+                         466 --337: static void W_InitVideoIOPort(void);
+                         467 --339: /*******************************************************************************
+                         468 --340:   Function: loc_DisableVOPixelClocks
+                         469 --341:   
+                         470 --342:   Disable the video output pixel clock as default.
+                         471 --343: */
+                         472 --345: static void loc_DisableVOPixelClocks(void)
+                         473 	.text
+                         474 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                         475 	.align	2
+                         476 	.global	_loc_DisableVOPixelClocks..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         477 _loc_DisableVOPixelClocks..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.:
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         478 _loc_DisableVOPixelClocks:
+00000000 86072100        479 	prepare	{r31},3
+                         480 --	    .bf
+                         481 .LDW01:
+                         482 --346: {
+                         483 --347:     r_dev_ClkSelConfig_t ClkSelCfg;
+                         484 --348:     
+                         485 --349:     ClkSelCfg.Cks       = R_DEV_CKS_VDCE0CK;
+00000004 200e1800        486 	movea	24,zero,r1
+00000008 630f0100        487 	st.w	r1,0[sp]
+                         488 --350:     ClkSelCfg.SrcId     = R_DEV_CKS_SRC_DISABLED;
+0000000c 63070500        489 	st.w	zero,4[sp]
+                         490 --351:     ClkSelCfg.Div       = 0;
+00000010 63070800        491 	st.h	zero,8[sp]
+                         492 --352:     ClkSelCfg.StpReqMsk = 0;
+00000014 43070a00        493 	st.b	zero,10[sp]
+                         494 --353:     R_DEV_ClkIdSet(&ClkSelCfg);
+00000018 23360000        495 	movea	0,sp,r6
+                         496 	jarl	_R_DEV_ClkIdSet,lp
+                         496 <EXPANSION BEGIN>
+                         496 jarl22 _R_DEV_ClkIdSet , lp 
+0000001c 80ff0000*       496 <EXPANSION END>
+                         497 --355:     if ( 0 != (R_BSP_Capabilities() & R_BSP_HAS_VOUT1))
+                         498 --line355
+                         499 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.1::
+                         500 .LDWlin1:
+                         501 	jarl	_R_BSP_Capabilities,lp
+                         501 <EXPANSION BEGIN>
+                         501 jarl22 _R_BSP_Capabilities , lp 
+00000020 80ff0000*       501 <EXPANSION END>
+00000024 8452            502 	shr	4,r10
+00000026 990d*           503 	bnl	.L4
+                         504 --356:     {    
+                         505 --357:         ClkSelCfg.Cks       = R_DEV_CKS_VDCE1CK;
+                         506 --line357
+                         507 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.2::
+                         508 .LDWlin2:
+00000028 200e1900        509 	movea	25,zero,r1
+0000002c 630f0100        510 	st.w	r1,0[sp]
+                         511 --358:         R_DEV_ClkIdSet(&ClkSelCfg);
+00000030 23360000        512 	movea	0,sp,r6
+                         513 	jarl	_R_DEV_ClkIdSet,lp
+                         513 <EXPANSION BEGIN>
+                         513 jarl22 _R_DEV_ClkIdSet , lp 
+00000034 80ff0000*       513 <EXPANSION END>
+                         514 .L4:
+                         515 --359:     }
+                         516 --360: }
+                         517 --	    .ef
+                         518 .LDW11:
+                         519 --line360
+                         520 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.3::
+                         521 .LDWlin3:
+00000038 46063f00        522 	dispose	3,{r31},[lp]
+                         523 	.type	_loc_DisableVOPixelClocks,@function
+                         524 	.size	_loc_DisableVOPixelClocks,.-_loc_DisableVOPixelClocks
+                         525 	.type	_loc_DisableVOPixelClocks..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,@function
+                         526 	.size	_loc_DisableVOPixelClocks..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,.-_loc_DisableVOPixelClocks..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         527 	.align	2
+                         528 .LDW21:
+                         529 --_ClkSelCfg	0[sp]	local
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         530 
+                         531 	.section ".bss","awb"
+                         532 .L62:
+                         533 	.type	.L62,@object
+                         534 	.size	.L62,0
+                         535 	.data
+                         536 	.text
+                         537 
+                         538 
+                         539 --363: /*******************************************************************************
+                         540 --364:   Function: loc_InitVideoIOPort
+                         541 --365:   
+                         542 --366:   Init port pins of Video I/O and select a video configuration.
+                         543 --367: */
+                         544 --369: static void loc_InitVideoIOPort(void)
+                         545 	.align	2
+                         546 	.align	2
+                         547 	.global	_loc_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         548 _loc_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.:
+                         549 _loc_InitVideoIOPort:
+0000003c 84076100        550 	prepare	{r29,r31},2
+                         551 --	    .bf
+                         552 .LDW31:
+                         553 --370: {
+                         554 --371:     uint32_t vo_pins_addr = 0; 
+00000040 63070100        555 	st.w	zero,0[sp]
+                         556 --372:     uint32_t vi_pins_addr = 0; 
+00000044 63070500        557 	st.w	zero,4[sp]
+                         558 --373:     
+                         559 --374:     /* get the device type and configure the pins */
+                         560 --375:     r_dev_Device_t device = R_DEV_GetDev();
+                         561 	jarl	_R_DEV_GetDev,lp
+                         561 <EXPANSION BEGIN>
+                         561 jarl22 _R_DEV_GetDev , lp 
+00000048 80ff0000*       561 <EXPANSION END>
+0000004c 0ae8            562 	mov	r10,r29
+                         563 --376:     
+                         564 --377:     if (device == R_DEV_R7F701441)
+                         565 --line377
+                         566 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.4::
+                         567 .LDWlin4:
+0000004e 1d065ffa        568 	addi	-1441,r29,zero
+00000052 8a0d*           569 	bne	.L100
+                         570 --378:     {
+                         571 --379:         /* D1M1A */  
+                         572 --380:         loc_InitVideoIOPortD1M1A(&vo_pins_addr, &vi_pins_addr);
+                         573 --line380
+                         574 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.5::
+                         575 .LDWlin5:
+00000054 23360000        576 	movea	0,sp,r6
+00000058 233e0400        577 	movea	4,sp,r7
+                         578 	jarl	_loc_InitVideoIOPortD1M1A,lp
+                         578 <EXPANSION BEGIN>
+                         578 jarl22 _loc_InitVideoIOPortD1M1A , lp 
+0000005c 80ff0000*       578 <EXPANSION END>
+00000060 c515*           579 	br	.L102
+                         580 .L100:
+                         581 --381:     }
+                         582 --382:     else if ((device >= R_DEV_R7F701408) && (device <= R_DEV_R7F701412))
+                         583 --line382
+                         584 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.6::
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         585 .LDWlin6:
+00000062 1d0680fa        586 	addi	-1408,r29,zero
+00000066 b90d*           587 	bnl	.L103
+00000068 1d067bfa        588 	addi	-1413,r29,zero
+0000006c 810d*           589 	bl	.L103
+                         590 --383:     {
+                         591 --384:         /* D1M2(H) */  
+                         592 --385:         loc_InitVideoIOPortD1M2(&vo_pins_addr, &vi_pins_addr);
+                         593 --line385
+                         594 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.7::
+                         595 .LDWlin7:
+0000006e 23360000        596 	movea	0,sp,r6
+00000072 233e0400        597 	movea	4,sp,r7
+                         598 	jarl	_loc_InitVideoIOPortD1M2,lp
+                         598 <EXPANSION BEGIN>
+                         598 jarl22 _loc_InitVideoIOPortD1M2 , lp 
+00000076 80ff0000*       598 <EXPANSION END>
+0000007a f505*           599 	br	.L102
+                         600 .L103:
+                         601 --386:     }
+                         602 --387:     else 
+                         603 --388:     {
+                         604 --389:         /* D1M1(H) and D1M1-V2 */
+                         605 --390:         loc_InitVideoIOPortD1M1(&vo_pins_addr, &vi_pins_addr);
+                         606 --line390
+                         607 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.8::
+                         608 .LDWlin8:
+0000007c 23360000        609 	movea	0,sp,r6
+00000080 233e0400        610 	movea	4,sp,r7
+                         611 	jarl	_loc_InitVideoIOPortD1M1,lp
+                         611 <EXPANSION BEGIN>
+                         611 jarl22 _loc_InitVideoIOPortD1M1 , lp 
+00000084 80ff0000*       611 <EXPANSION END>
+                         612 .L102:
+                         613 --391:     }
+                         614 --392:     
+                         615 --393:     if (0 != vo_pins_addr)
+                         616 --line393
+                         617 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.9::
+                         618 .LDWlin9:
+00000088 230f0100        619 	ld.w	0[sp],r1
+0000008c e009            620 	cmp	zero,r1
+0000008e d205*           621 	be	.L107
+                         622 --394:     {
+                         623 --395:         R_DEV_PinInit((const r_dev_PinConfig_t *) vo_pins_addr);
+                         624 --line395
+                         625 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.10::
+                         626 .LDWlin10:
+00000090 23370100        627 	ld.w	0[sp],r6
+                         628 	jarl	_R_DEV_PinInit,lp
+                         628 <EXPANSION BEGIN>
+                         628 jarl22 _R_DEV_PinInit , lp 
+00000094 80ff0000*       628 <EXPANSION END>
+                         629 .L107:
+                         630 --396:     }
+                         631 --397:     if (0 != vi_pins_addr)
+                         632 --line397
+                         633 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.11::
+                         634 .LDWlin11:
+00000098 230f0500        635 	ld.w	4[sp],r1
+0000009c e009            636 	cmp	zero,r1
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+0000009e d205*           637 	be	.L109
+                         638 --398:     {
+                         639 --399:         R_DEV_PinInit((const r_dev_PinConfig_t *) vi_pins_addr);
+                         640 --line399
+                         641 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.12::
+                         642 .LDWlin12:
+000000a0 23370500        643 	ld.w	4[sp],r6
+                         644 	jarl	_R_DEV_PinInit,lp
+                         644 <EXPANSION BEGIN>
+                         644 jarl22 _R_DEV_PinInit , lp 
+000000a4 80ff0000*       644 <EXPANSION END>
+                         645 .L109:
+                         646 --400:     }
+                         647 --401: }
+                         648 --	    .ef
+                         649 .LDW41:
+                         650 --line401
+                         651 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.13::
+                         652 .LDWlin13:
+000000a8 44067f00        653 	dispose	2,{r29,r31},[lp]
+                         654 	.type	_loc_InitVideoIOPort,@function
+                         655 	.size	_loc_InitVideoIOPort,.-_loc_InitVideoIOPort
+                         656 	.type	_loc_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,@function
+                         657 	.size	_loc_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,.-_loc_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         658 	.align	2
+                         659 .LDW51:
+                         660 --_vo_pins_addr	0[sp]	local
+                         661 --_vi_pins_addr	4[sp]	local
+                         662 --_device	r29	local
+                         663 
+                         664 	.section ".bss","awb"
+                         665 .L178:
+                         666 	.type	.L178,@object
+                         667 	.size	.L178,0
+                         668 	.data
+                         669 	.text
+                         670 
+                         671 
+                         672 --403: /*******************************************************************************
+                         673 --404:   Function: loc_SFMA_SelectP21P22IoDriveStrength
+                         674 --405:   
+                         675 --406:   Port P21 + P22 (SFMA / HyperBus / OctaBus) of D1M1A
+                         676 --407:   - Select driver strength of I/O buffers
+                         677 --408: */
+                         678 --409: /* SDRA/SFMA I/O drive strength control Register (DSCTRL) */
+                         679 --410: #define DSCTRL_REG     0xFFC06054u
+                         680 --411: #define DSCTRL_SFMA_BIT_CTLMASK      0x003F0000uL
+                         681 --412: #define DSCTRL_SFMA2_CLK_BIT(val)    ((uint32_t)((val)<<20u))
+                         682 --413: #define DSCTRL_SFMA0_DAT_BIT(val)    ((uint32_t)((val)<<18u))
+                         683 --414: #define DSCTRL_SFMA0_CLK_BIT(val)    ((uint32_t)((val)<<16u))
+                         684 --416: static void loc_SFMA_SelectP21P22IoDriveStrength(void)
+                         685 	.align	2
+                         686 	.align	2
+                         687 	.global	_loc_SFMA_SelectP21P22IoDriveStrength..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         688 _loc_SFMA_SelectP21P22IoDriveStrength..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.:
+                         689 _loc_SFMA_SelectP21P22IoDriveStrength:
+                         690 --	    .bf
+                         691 .LDW61:
+                         692 --417: {
+                         693 --418:     uint32_t regval = 0;
+000000ac 000a            694 	mov	0,r1
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         695 --419:     uint32_t strength;
+                         696 --420:     /*
+                         697 --421:         strength = 0:   output buffer 25ohm/120MHz/3.3V
+                         698 --422:                          - IBIS model P2HUF120_CM0_3V_33VN
+                         699 --423:                          - Same as D1M1H V1.2.
+                         700 --424:         strength = 1:   output buffer 33ohm/120MHz/3.3V
+                         701 --425:                          - IBIS model P2HUF090_CM0_3V_33VN
+                         702 --426:         strength = 2:   output buffer 50ohm/120MHz/3.3V
+                         703 --427:                          - IBIS model P2HUF060_CM0_3V_33VN
+                         704 --428:         strength = 3:   output buffer 100ohm/120MHz/3.3V
+                         705 --429:                          - IBIS model P2HUF030_CM0_3V_33VN
+                         706 --430:     */
+                         707 --431:     strength = 0;
+000000ae 0072            708 	mov	0,r14
+                         709 --432:     
+                         710 --433:     regval = R_DEV_READ_REG(32, DSCTRL_REG);
+000000b0 8007490dc080    711 	ld.w	4290797652[zero],r1
+                         712 --434:     regval &= ~(DSCTRL_SFMA_BIT_CTLMASK);
+000000b6 2d06ffffc0ff    713 	mov	-4128769,r13
+000000bc 4d09            714 	and	r13,r1
+                         715 --435:     regval |= DSCTRL_SFMA2_CLK_BIT(strength);   /* SFMA 2: clock signal  / HYPB+OCTA: MDQS signal  */
+000000be 0e68            716 	mov	r14,r13
+000000c0 d46a            717 	shl	20,r13
+000000c2 0d09            718 	or	r13,r1
+                         719 --436:     regval |= DSCTRL_SFMA0_DAT_BIT(strength);   /* SFMA 0: data signals  / HYPB+OCTA: data signals */
+000000c4 0e68            720 	mov	r14,r13
+000000c6 d26a            721 	shl	18,r13
+000000c8 0d09            722 	or	r13,r1
+                         723 --437:     regval |= DSCTRL_SFMA0_CLK_BIT(strength);   /* SFMA 0: clock signal  / HYPB+OCTA: clock signal */
+000000ca 0e68            724 	mov	r14,r13
+000000cc d06a            725 	shl	16,r13
+000000ce 0d09            726 	or	r13,r1
+                         727 --438:     
+                         728 --439:     R_DEV_WRITE_REG(32, DSCTRL_REG, regval);
+000000d0 80074f0dc080    729 	st.w	r1,4290797652[zero]
+                         730 --440: }
+                         731 --	    .ef
+                         732 .LDW71:
+000000d6 7f00            733 	jmp	[lp]
+                         734 	.type	_loc_SFMA_SelectP21P22IoDriveStrength,@function
+                         735 	.size	_loc_SFMA_SelectP21P22IoDriveStrength,.-_loc_SFMA_SelectP21P22IoDriveStrength
+                         736 	.type	_loc_SFMA_SelectP21P22IoDriveStrength..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,@function
+                         737 	.size	_loc_SFMA_SelectP21P22IoDriveStrength..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,.-_loc_SFMA_SelectP21P22IoDriveStrength..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         738 	.align	2
+                         739 .LDW81:
+                         740 --_regval	r1	local
+                         741 --_strength	r14	local
+                         742 
+                         743 	.section ".bss","awb"
+                         744 .L286:
+                         745 	.type	.L286,@object
+                         746 	.size	.L286,0
+                         747 	.data
+                         748 	.text
+                         749 
+                         750 
+                         751 --443: /*******************************************************************************
+                         752 --444:   Function: loc_InitGfxBus
+                         753 --445:   
+                         754 --446:   Configure the Gfx bus (cache) 
+                         755 --447: */
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         756 --448: static void loc_InitGfxBus(void)
+                         757 	.align	2
+                         758 	.align	2
+                         759 	.align	2
+                         760 	.global	_loc_InitGfxBus..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         761 _loc_InitGfxBus..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.:
+                         762 _loc_InitGfxBus:
+000000d8 80072100        763 	prepare	{r31},0
+                         764 --	    .bf
+                         765 .LDW91:
+                         766 --449: {
+                         767 --450:     /* Init XBus Bridge */
+                         768 --451:     if (R_XBUS_ERR_OK == R_XBUS_Init(0)) 
+000000dc 0032            769 	mov	0,r6
+                         770 	jarl	_R_XBUS_Init,lp
+                         770 <EXPANSION BEGIN>
+                         770 jarl22 _R_XBUS_Init , lp 
+000000de 80ff0000*       770 <EXPANSION END>
+000000e2 e051            771 	cmp	zero,r10
+000000e4 fa05*           772 	bne	.L324
+                         773 --452:     {
+                         774 --453:         R_XBUS_Config(0u, (r_xbus_Cfg_t *)&xbus_cfg);
+                         775 --line453
+                         776 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.14::
+                         777 .LDWlin14:
+000000e6 0032            778 	mov	0,r6
+000000e8 270600000000*   779 	mov	_xbus_cfg,r7
+                         780 	jarl	_R_XBUS_Config,lp
+                         780 <EXPANSION BEGIN>
+                         780 jarl22 _R_XBUS_Config , lp 
+000000ee 80ff0000*       780 <EXPANSION END>
+                         781 .L324:
+                         782 --454:     }
+                         783 --455: }
+                         784 --	    .ef
+                         785 .LDW02:
+                         786 --line455
+                         787 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.15::
+                         788 .LDWlin15:
+000000f2 40063f00        789 	dispose	0,{r31},[lp]
+                         790 	.type	_loc_InitGfxBus,@function
+                         791 	.size	_loc_InitGfxBus,.-_loc_InitGfxBus
+                         792 	.type	_loc_InitGfxBus..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,@function
+                         793 	.size	_loc_InitGfxBus..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,.-_loc_InitGfxBus..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         794 	.align	2
+                         795 .LDW12:
+                         796 
+                         797 	.section ".bss","awb"
+                         798 .L358:
+                         799 	.type	.L358,@object
+                         800 	.size	.L358,0
+                         801 	.section ".rodata","a"
+                         802 	.align	4
+                         803 	.global	_loc_D1Mx_SfmaDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                         804 _loc_D1Mx_SfmaDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.:
+00000000 15              805 _loc_D1Mx_SfmaDefaultPinConfig:	.byte	21
+00000001 00              806 	.space	1
+00000002 01              807 	.byte	1
+00000003 00              808 	.space	1
+00000004 00000000        809 	.space	4
+00000008 00              810 	.space	1
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+00000009 000000          811 	.space	3
+0000000c 00000000        812 	.space	4
+00000010 00              813 	.space	1
+00000011 00              814 	.space	1
+00000012 00              815 	.space	1
+00000013 01              816 	.byte	1
+00000014 1501            817 	.byte	21,1
+00000016 01              818 	.byte	1
+00000017 00              819 	.space	1
+00000018 00000000        820 	.space	4
+0000001c 00              821 	.space	1
+0000001d 000000          822 	.space	3
+00000020 00000000        823 	.space	4
+00000024 00              824 	.space	1
+00000025 00              825 	.space	1
+00000026 00              826 	.space	1
+00000027 01              827 	.byte	1
+00000028 1502            828 	.byte	21,2
+0000002a 01              829 	.byte	1
+0000002b 00              830 	.space	1
+0000002c 02000000        831 	.byte	2,0,0,0
+00000030 01              832 	.byte	1
+00000031 000000          833 	.space	3
+00000034 00000000        834 	.space	4
+00000038 00              835 	.space	1
+00000039 00              836 	.space	1
+0000003a 00              837 	.space	1
+0000003b 01              838 	.byte	1
+0000003c 1503            839 	.byte	21,3
+0000003e 01              840 	.byte	1
+0000003f 00              841 	.space	1
+00000040 02000000        842 	.byte	2,0,0,0
+00000044 01              843 	.byte	1
+00000045 000000          844 	.space	3
+00000048 00000000        845 	.space	4
+0000004c 00              846 	.space	1
+0000004d 00              847 	.space	1
+0000004e 00              848 	.space	1
+0000004f 01              849 	.byte	1
+00000050 1504            850 	.byte	21,4
+00000052 01              851 	.byte	1
+00000053 00              852 	.space	1
+00000054 02000000        853 	.byte	2,0,0,0
+00000058 01              854 	.byte	1
+00000059 000000          855 	.space	3
+0000005c 00000000        856 	.space	4
+00000060 00              857 	.space	1
+00000061 00              858 	.space	1
+00000062 00              859 	.space	1
+00000063 01              860 	.byte	1
+00000064 1505            861 	.byte	21,5
+00000066 01              862 	.byte	1
+00000067 00              863 	.space	1
+00000068 02000000        864 	.byte	2,0,0,0
+0000006c 01              865 	.byte	1
+0000006d 000000          866 	.space	3
+00000070 00000000        867 	.space	4
+00000074 00              868 	.space	1
+00000075 00              869 	.space	1
+00000076 00              870 	.space	1
+00000077 01              871 	.byte	1
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+00000078 1506            872 	.byte	21,6
+0000007a 01              873 	.byte	1
+0000007b 00              874 	.space	1
+0000007c 02000000        875 	.byte	2,0,0,0
+00000080 01              876 	.byte	1
+00000081 000000          877 	.space	3
+00000084 00000000        878 	.space	4
+00000088 00              879 	.space	1
+00000089 00              880 	.space	1
+0000008a 00              881 	.space	1
+0000008b 01              882 	.byte	1
+0000008c 1507            883 	.byte	21,7
+0000008e 01              884 	.byte	1
+0000008f 00              885 	.space	1
+00000090 02000000        886 	.byte	2,0,0,0
+00000094 01              887 	.byte	1
+00000095 000000          888 	.space	3
+00000098 00000000        889 	.space	4
+0000009c 00              890 	.space	1
+0000009d 00              891 	.space	1
+0000009e 00              892 	.space	1
+0000009f 01              893 	.byte	1
+000000a0 1508            894 	.byte	21,8
+000000a2 01              895 	.byte	1
+000000a3 00              896 	.space	1
+000000a4 02000000        897 	.byte	2,0,0,0
+000000a8 01              898 	.byte	1
+000000a9 000000          899 	.space	3
+000000ac 00000000        900 	.space	4
+000000b0 00              901 	.space	1
+000000b1 00              902 	.space	1
+000000b2 00              903 	.space	1
+000000b3 01              904 	.byte	1
+000000b4 1509            905 	.byte	21,9
+000000b6 01              906 	.byte	1
+000000b7 00              907 	.space	1
+000000b8 02000000        908 	.byte	2,0,0,0
+000000bc 01              909 	.byte	1
+000000bd 000000          910 	.space	3
+000000c0 00000000        911 	.space	4
+000000c4 00              912 	.space	1
+000000c5 00              913 	.space	1
+000000c6 00              914 	.space	1
+000000c7 01              915 	.byte	1
+000000c8 00              916 	.space	1
+000000c9 ff              917 	.byte	255
+000000ca 00              918 	.space	1
+000000cb 00              919 	.space	1
+000000cc 00000000        920 	.space	4
+000000d0 00              921 	.space	1
+000000d1 000000          922 	.space	3
+000000d4 00000000        923 	.space	4
+000000d8 00              924 	.space	1
+000000d9 00              925 	.space	1
+000000da 00              926 	.space	1
+000000db 01              927 	.byte	1
+                         928 	.type	_loc_D1Mx_SfmaDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,@object
+                         929 	.size	_loc_D1Mx_SfmaDefaultPinConfig..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,220
+                         930 	.type	_loc_D1Mx_SfmaDefaultPinConfig,@object
+                         931 	.size	_loc_D1Mx_SfmaDefaultPinConfig,220
+                         932 	.global	_xbus_cfg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         933 _xbus_cfg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.:
+000000dc 00              934 _xbus_cfg:	.space	1
+000000dd 00              935 	.space	1
+000000de 0000            936 	.space	2
+000000e0 01000000        937 	.byte	1,0,0,0
+000000e4 01              938 	.byte	1
+000000e5 000000          939 	.space	3
+000000e8 00000098        940 	.byte	0,0,0,152
+000000ec 0000f007        941 	.byte	0,0,240,7
+000000f0 01000000        942 	.byte	1,0,0,0
+000000f4 01              943 	.byte	1
+000000f5 000000          944 	.space	3
+000000f8 000000a0        945 	.byte	0,0,0,160
+000000fc 0000f01f        946 	.byte	0,0,240,31
+00000100 00000000        947 	.space	4
+00000104 01              948 	.byte	1
+00000105 000000          949 	.space	3
+00000108 00000040        950 	.byte	0,0,0,64
+0000010c 0000f03f        951 	.byte	0,0,240,63
+00000110 00000000        952 	.space	4
+00000114 01              953 	.byte	1
+00000115 000000          954 	.space	3
+00000118 0080ce3f        955 	.byte	0,128,206,63
+0000011c 00003000        956 	.byte	0,0,48,0
+                         957 	.type	_xbus_cfg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,@object
+                         958 	.size	_xbus_cfg..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,68
+                         959 	.type	_xbus_cfg,@object
+                         960 	.size	_xbus_cfg,68
+                         961 	.data
+                         962 	.text
+                         963 
+                         964 
+                         965 --457: #ifdef BSP_INIT_SFMA
+                         966 --458: /***********************************************************
+                         967 --459:   Function: loc_SetupSFMA
+                         968 --461:   SFMA setup and calibration procedure
+                         969 --462: */
+                         970 --464: void loc_SetupSFMA(void)
+                         971 --465: {
+                         972 --466:     r_sfma_Config_t Config;
+                         973 --467:     r_sfma_Error_t sfma_error;
+                         974 --468:     r_dev_Device_t device;
+                         975 --470: #ifdef SFMA_USE_BSP_CALIB
+                         976 --471:     sf_CalConfig_t CalConfig;
+                         977 --472:     uint32_t f_phclk;
+                         978 --473:     uint32_t f_b;
+                         979 --474:     uint32_t u32_temp;
+                         980 --475:     sf_Error_t sf_error;
+                         981 --476: #endif /* SFMA_USE_BSP_CALIB */
+                         982 --478:     /* common SFMA config */
+                         983 --479:     Config.AddressMode = R_SFMA_ADDRESS_32BIT;
+                         984 --480:     Config.SerialFlashMemoryPageSize = 256;
+                         985 --481:     Config.SerialFlashMemoryMaxClock = 80000000;
+                         986 --482:     Config.SerialFlashMemorySectorSize = 4096;
+                         987 --483:     Config.CacheMode = R_SFMA_CACHE_OFF;
+                         988 --484:     device = R_DEV_GetDev();
+                         989 --486:     /* D1M1 requires a different cal */
+                         990 --487:     if(device == R_DEV_R7F701405) /* D1M1 */
+                         991 --488:     {
+                         992 --489:         Config.Calibration = SFMA_D1M1_DEFAULT_CAL;
+                         993 --490:     }
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                         994 --491:     else
+                         995 --492:     {
+                         996 --493:         Config.Calibration = SFMA_DEFAULT_CAL;        
+                         997 --494:     }
+                         998 --496:     Config.PerformanceEnMode = R_SFMA_PER_EN_MODE_ENABLE;
+                         999 --498:     if(device >= R_DEV_R7F701403) /* D1L2H and above */
+                        1000 --499:     {
+                        1001 --500:         Config.SerialFlashMemorySize = ((64 * 1024 * 1024) * 2); /* 128 MByte */
+                        1002 --501:         Config.MemoryNum = R_SFMA_MEMORY_DUAL;
+                        1003 --502:         Config.Command = &r_sfc_Macronix_32bitAddrCmdPerformanceEnhance_80MHz;
+                        1004 --503:     }
+                        1005 --504:     else if(device >= R_DEV_R7F701402) /* D1L2 and above */
+                        1006 --505:     {
+                        1007 --506:         Config.SerialFlashMemorySize = ((64 * 1024 * 1024) * 1); /* 64 MByte */
+                        1008 --507:         Config.MemoryNum = R_SFMA_MEMORY_SINGLE;
+                        1009 --508:         Config.Command = &r_sfc_Macronix_32bitAddrCmdPerformanceEnhance_80MHz;
+                        1010 --509:     }
+                        1011 --510:     else /* D1L1 */
+                        1012 --511:     {
+                        1013 --512:         /* Calibration procedure not supported for D1L1 */
+                        1014 --513:         Config.AddressMode = R_SFMA_ADDRESS_32BIT;
+                        1015 --514:         Config.SerialFlashMemoryPageSize = 256;
+                        1016 --515:         Config.SerialFlashMemoryMaxClock = 40000000;
+                        1017 --516:         Config.SerialFlashMemorySectorSize = 4096;
+                        1018 --517:         Config.SerialFlashMemorySize = ((64 * 1024 * 1024) * 1); /* 64 MByte */
+                        1019 --518:         Config.MemoryNum = R_SFMA_MEMORY_SINGLE;
+                        1020 --519:         Config.Command = &r_sfc_Macronix_32bitAddrCmdPerformanceEnhance_40MHz;
+                        1021 --520:         Config.CacheMode = R_SFMA_CACHE_OFF;
+                        1022 --522:         /* config to external address space quad IO */
+                        1023 --523:         Config.Mode = R_SFMA_MODE_EX_SPACE;
+                        1024 --524:         Config.DataTransferMode = R_SFMA_SDR_QUAD_IO;
+                        1025 --526:         /* Init the SFMA */
+                        1026 --527:         sfma_error = R_SFMA_Init(SFMA_CH0);
+                        1027 --528:         if(R_SFMA_ERR_OK == sfma_error)
+                        1028 --529:         {
+                        1029 --530:             /* open */
+                        1030 --531:             sfma_error = R_SFMA_Open(SFMA_CH0, &Config);
+                        1031 --532:             if(R_SFMA_ERR_OK == sfma_error)
+                        1032 --533:             {
+                        1033 --534:                 /* set address range */
+                        1034 --535:                 sfma_error = R_SFMA_AccessAddressSet(SFMA_CH0, 0x00000000UL, R_SFMA_ACCESS_RANGE_64MB);
+                        1035 --536:                 if(R_SFMA_ERR_OK == sfma_error)
+                        1036 --537:                 {
+                        1037 --538:                     R_BSP_STDIO_Printf("SFMA configured for D1L1\n");
+                        1038 --539:                 }
+                        1039 --540:             }
+                        1040 --541:             else
+                        1041 --542:             {
+                        1042 --543:                 /* error */
+                        1043 --544:                 R_BSP_STDIO_Printf("SFMA configuration error\n");
+                        1044 --545:             }
+                        1045 --546:         }
+                        1046 --547:         else
+                        1047 --548:         {
+                        1048 --549:             /* error */
+                        1049 --550:             R_BSP_STDIO_Printf("SFMA configuration error\n");
+                        1050 --551:         }
+                        1051 --553:         return;
+                        1052 --554:     }
+                        1053 --555:     
+                        1054 --556:     /* Additional SFMA1 of new devices runs with 40MHz */
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1055 --557: #if SFMA_CH0 == 1
+                        1056 --558:     if( (SFMA_CH0 == 1) && ((device == R_DEV_R7F701441) || (device == R_DEV_R7F701418) || (device == R_DEV_R7F701442)) )
+                        1057 --559:     {
+                        1058 --560:         Config.SerialFlashMemoryMaxClock = 20000000;
+                        1059 --561:         Config.Command = &r_sfc_Macronix_32bitAddrCmdPerformanceEnhance_40MHz;
+                        1060 --562:     }
+                        1061 --563: #endif
+                        1062 --564:     
+                        1063 --566: #ifdef SFMA_USE_BSP_CALIB
+                        1064 --567:     /* Data write & erase is done in SPI single IO mode only */
+                        1065 --568:     Config.Mode = R_SFMA_MODE_SPI_OPERATING;
+                        1066 --569:     Config.DataTransferMode = R_SFMA_SDR_SINGLE_IO;
+                        1067 --571:     /* configure the calibration data */
+                        1068 --572:     /* we will write the minimum data we can but this is dependent of the sector erase size */
+                        1069 --573:     if(Config.MemoryNum == R_SFMA_MEMORY_DUAL)
+                        1070 --574:     {
+                        1071 --575:         /* 2 devices */
+                        1072 --576:         CalConfig.TestSize = Config.SerialFlashMemorySectorSize * 2;
+                        1073 --577:     }
+                        1074 --578:     else
+                        1075 --579:     {
+                        1076 --580:         /* 1 device */
+                        1077 --581:         CalConfig.TestSize = Config.SerialFlashMemorySectorSize;
+                        1078 --582:     }
+                        1079 --584:     /* base memory of the Serial flash data */
+                        1080 --585:     CalConfig.BaseMemoryAddr = 0x10000000uL;
+                        1081 --587:     /* test area right at the top */
+                        1082 --588:     CalConfig.TestStartAddressOs = Config.SerialFlashMemorySize - CalConfig.TestSize;
+                        1083 --590:     /* Write data to flash for preparation*/
+                        1084 --591:     R_BSP_STDIO_Printf("SFMA Calibration:\n");
+                        1085 --593:     /* init the calibration variables */
+                        1086 --594:     SF_CalibrationInit(SFMA_CH0, &CalConfig);
+                        1087 --596:     /* disable */
+                        1088 --597:     Config.PerformanceEnMode = R_SFMA_PER_EN_MODE_DISABLE;
+                        1089 --599:     /* perform a data write to the SFMA */
+                        1090 --600:     sf_error = SF_CalibrationWriteData(SFMA_CH0, &Config);
+                        1091 --602:     /* write ok, so run the calibration routine */
+                        1092 --603:     if(sf_error == SF_ERR_OK)
+                        1093 --604:     {
+                        1094 --605:         /* Base clock Freq */
+                        1095 --606:         f_phclk = R_DEV_ClkFrequencyHz(R_DEV_CKS_SFMA) * (R_DEV_READ_REG(32, CKSC_ISFMAD_CTL) + 1);
+                        1096 --607:         f_b = R_DEV_ClkFrequencyHz(R_DEV_CKS_SFMA);
+                        1097 --608:     
+                        1098 --609:         /* PLL0 or 1 */
+                        1099 --610:         u32_temp = R_DEV_READ_REG(32, CKSC_ISFMAS_CTL);
+                        1100 --611:         if(u32_temp == 0x01)
+                        1101 --612:         {
+                        1102 --613:             R_BSP_STDIO_Printf(" - f_phclk (PLL0) '%dHz' \n", f_phclk);
+                        1103 --614:         }
+                        1104 --615:         else
+                        1105 --616:         {
+                        1106 --617:             R_BSP_STDIO_Printf(" - f_phclk (PLL1) '%dHz'\n", f_phclk);
+                        1107 --618:         }
+                        1108 --619:     
+                        1109 --620:         R_BSP_STDIO_Printf(" - f_b '%dHz'\n", f_b);
+                        1110 --621:     
+                        1111 --622:         /* config to external address space quad IO */
+                        1112 --623:         Config.Mode = R_SFMA_MODE_EX_SPACE;
+                        1113 --624:         Config.DataTransferMode = R_SFMA_DDR_QUAD_IO;
+                        1114 --625:     
+                        1115 --626:         /* enable */
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1116 --627:         Config.PerformanceEnMode = R_SFMA_PER_EN_MODE_ENABLE;
+                        1117 --629:         sf_error = SF_CalibrationRun(SFMA_CH0, &Config, f_phclk, f_b);
+                        1118 --630:     }
+                        1119 --631:     else
+                        1120 --632:     {
+                        1121 --633:         /* nothing, catch below */
+                        1122 --634:     }
+                        1123 --636:     /* pass or fail */
+                        1124 --637:     if(sf_error == SF_ERR_OK)
+                        1125 --638:     {
+                        1126 --639:         R_BSP_STDIO_Printf(" - Passed\n\n");
+                        1127 --640:     }
+                        1128 --641:     else
+                        1129 --642:     {
+                        1130 --643:         R_BSP_STDIO_Printf(" - failed\n\n");
+                        1131 --644:     }
+                        1132 --646: #else /* SFMA_USE_BSP_CALIB */
+                        1133 --648:     /* config to external address space quad IO */
+                        1134 --649:     Config.Mode = R_SFMA_MODE_EX_SPACE;
+                        1135 --650:     Config.DataTransferMode = R_SFMA_DDR_QUAD_IO;
+                        1136 --652:     /* Init the SFMA */
+                        1137 --653:     sfma_error = R_SFMA_Init(SFMA_CH0);
+                        1138 --654:     if(R_SFMA_ERR_OK == sfma_error)
+                        1139 --655:     {
+                        1140 --656:         /* open */
+                        1141 --657:         sfma_error = R_SFMA_Open(SFMA_CH0, &Config);
+                        1142 --658:         if(R_SFMA_ERR_OK == sfma_error)
+                        1143 --659:         {
+                        1144 --660:             /* set address range 128MByte */
+                        1145 --661:             if(Config.SerialFlashMemorySize == (128 *1024 *1024))
+                        1146 --662:             {
+                        1147 --663:                 sfma_error = R_SFMA_AccessAddressSet(SFMA_CH0, 0x00000000UL, R_SFMA_ACCESS_RANGE_128MB);
+                        1148 --664:             }
+                        1149 --665:             else /* 64MByte */
+                        1150 --666:             {
+                        1151 --667:                 sfma_error = R_SFMA_AccessAddressSet(SFMA_CH0, 0x00000000UL, R_SFMA_ACCESS_RANGE_64MB);
+                        1152 --668:             }
+                        1153 --670:             if(R_SFMA_ERR_OK == sfma_error)
+                        1154 --671:             {
+                        1155 --672:                 R_BSP_STDIO_Printf("SFMA configured using default calibration\n");
+                        1156 --673:             }
+                        1157 --674:         }
+                        1158 --675:         else
+                        1159 --676:         {
+                        1160 --677:             /* error */
+                        1161 --678:             R_BSP_STDIO_Printf("SFMA configuration error\n");
+                        1162 --679:         }
+                        1163 --680:     }
+                        1164 --681:     else
+                        1165 --682:     {
+                        1166 --683:         /* error */
+                        1167 --684:         R_BSP_STDIO_Printf("SFMA configuration error\n");
+                        1168 --685:     }
+                        1169 --686: #endif /* SFMA_USE_BSP_CALIB */
+                        1170 --687: }
+                        1171 --688: #endif /* BSP_INIT_SFMA */
+                        1172 --691: /***********************************************************
+                        1173 --692:   Function: loc_SetupOctaBus_ExMem_FlashRead
+                        1174 --694:   OCTA initialization for OctaFlash 
+                        1175 --695:    - External Address Space Read mode
+                        1176 --696:    - OctaFlash device: MX25LM51245G Macronix (64MByte) (latency set to 8)
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1177 --697: */
+                        1178 --698: #ifdef BSP_INIT_OCTA_FLASH_R
+                        1179 --699: void loc_SetupOctaBus_ExMem_FlashRead(void)
+                        1180 --700: {
+                        1181 --701:     r_octa_Error_t          result;
+                        1182 --702:     r_octa_Config_t         config;
+                        1183 --703: #ifdef OCTA_USE_BSP_CALIB
+                        1184 --704:     uint8_t                 delay;
+                        1185 --705: #endif /*OCTA_USE_BSP_CALIB */
+                        1186 --706:     
+                        1187 --707:     /* Precondition:
+                        1188 --708:        Clock Controller CKSC_ISFMAS_CTL clock selector output
+                        1189 --709:        have to be configured to 160 MHz before calling this function.
+                        1190 --710:        (This will result in 80MHz/DDR operation of OCTA.)
+                        1191 --711:     */
+                        1192 --713:     /* Init */
+                        1193 --714:     result = R_OCTA_Init(OCTA_UNIT);
+                        1194 --715:     if (result != R_OCTA_ERR_OK)
+                        1195 --716:     {
+                        1196 --717:         R_BSP_STDIO_Printf("OCTA init error\n");
+                        1197 --718:     }
+                        1198 --719:     /* Open */
+                        1199 --720:     config.DeviceType         = R_OCTA_DEVICE_FLASH;
+                        1200 --721:     config.OpeMode            = R_OCTA_MODE_EX_SPACE;
+                        1201 --722:     config.DataTransferMode   = R_OCTA_MODE_DOPI;
+                        1202 --723:     config.AddressMode        = R_OCTA_ADDRESS_32BIT;
+                        1203 --724:     config.MemorySize         = R_OCTADB_FLASH_MEMORY_SIZE;
+                        1204 --725:     config.SectorSize         = R_OCTADB_FLASH_SECTOR_SIZE;
+                        1205 --726:     config.PageSize           = R_OCTADB_FLASH_PAGE_SIZE;
+                        1206 --727:     config.Command            = &r_octacdb_FlashCmdTbl;
+                        1207 --728:     config.RelaxSize          = 0;
+                        1208 --729:     config.PreCycle           = R_OCTA_PRECYCLE_OFF;
+                        1209 --730:     config.DQSDelay.EnableCnt = R_OCTADB_FLASH_DQS_EN_CNT_DOPI;
+                        1210 --731:     config.DQSDelay.Delay     = 0x17;
+                        1211 --732:     config.CalAddress         = 0xFFFFFFFF;
+                        1212 --733:     
+                        1213 --734: #ifdef OCTA_USE_BSP_CALIB
+                        1214 --735:     
+                        1215 --736:     R_OCTA_DeInit(OCTA_UNIT);
+                        1216 --737:     
+                        1217 --738:     config.CalAddress         = 0x00000000;
+                        1218 --739:     /* Execute preparration calibration */
+                        1219 --740:     result = OCTA_CalibrationPreparation(OCTA_UNIT, BSP_OCTA_FLASH_CH, &config);
+                        1220 --741:     if (result == R_OCTA_ERR_OK)
+                        1221 --742:     {
+                        1222 --743:         result = OCTA_Calibration(OCTA_UNIT, BSP_OCTA_FLASH_CH, &config);
+                        1223 --744:         if (result == R_OCTA_ERR_OK)
+                        1224 --745:         {
+                        1225 --746:             R_OCTA_Init(OCTA_UNIT);
+                        1226 --747:             result = R_OCTA_GetCal(OCTA_UNIT, BSP_OCTA_FLASH_CH, &delay);
+                        1227 --748:             if (result == R_OCTA_ERR_OK)
+                        1228 --749:             {
+                        1229 --750:                 config.DQSDelay.Delay = delay;
+                        1230 --751:             }
+                        1231 --752:             else
+                        1232 --753:             {
+                        1233 --754:                 R_BSP_STDIO_Printf("OCTA get calibration error\n");
+                        1234 --755:             }
+                        1235 --756:         }
+                        1236 --757:         else
+                        1237 --758:         {
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1238 --759:             R_BSP_STDIO_Printf("OCTA calibration error\n");
+                        1239 --760:         }
+                        1240 --761:     }
+                        1241 --762:     else
+                        1242 --763:     {
+                        1243 --764:         R_BSP_STDIO_Printf("OCTA preparation calibration error\n");
+                        1244 --765:     }
+                        1245 --766: #endif /* OCTA_USE_BSP_CALIB */
+                        1246 --768:     result = R_OCTA_Open(OCTA_UNIT, BSP_OCTA_FLASH_CH, &config);
+                        1247 --769:     if (result != R_OCTA_ERR_OK)
+                        1248 --770:     {
+                        1249 --771:         R_BSP_STDIO_Printf("OCTA open error\n");
+                        1250 --772:     }
+                        1251 --773: }
+                        1252 --774: #endif /* BSP_INIT_OCTA_FLASH_R */
+                        1253 --777: /***********************************************************
+                        1254 --778:   Function: loc_SetupOctaBus_ExMem_RamReadWrite
+                        1255 --780:   OCTA initialization for OctaRAM
+                        1256 --781:    - External Address Space Read+Write mode
+                        1257 --782:    - OctaRAM device: JSC64SSU8AGDY (latency 4; fixed latency)
+                        1258 --783: */
+                        1259 --784: #ifdef BSP_INIT_OCTA_RAM_RW
+                        1260 --785: void loc_SetupOctaBus_ExMem_RamReadWrite(void)
+                        1261 --786: {
+                        1262 --787:     r_octa_Error_t          result;
+                        1263 --788:     r_octa_Config_t         config;
+                        1264 --789: #ifdef OCTA_USE_BSP_CALIB
+                        1265 --790:     uint8_t                 delay;
+                        1266 --791: #endif /*OCTA_USE_BSP_CALIB */
+                        1267 --792:     
+                        1268 --793:     /* Precondition:
+                        1269 --794:        Clock Controller CKSC_ISFMAS_CTL clock selector output
+                        1270 --795:        have to be configured to 160 MHz before calling this function.
+                        1271 --796:        (This will result in 80MHz/DDR operation of OCTA.)
+                        1272 --797:     */
+                        1273 --799:     /* Init */
+                        1274 --800:     result = R_OCTA_Init(OCTA_UNIT);
+                        1275 --801:     if (result != R_OCTA_ERR_OK)
+                        1276 --802:     {
+                        1277 --803:         R_BSP_STDIO_Printf("OCTA init error\n");
+                        1278 --804:     }
+                        1279 --805:     
+                        1280 --806:     /* Open */
+                        1281 --807:     config.DeviceType         = R_OCTA_DEVICE_RAM;
+                        1282 --808:     config.OpeMode            = R_OCTA_MODE_EX_SPACE;
+                        1283 --809:     config.DataTransferMode   = R_OCTA_MODE_DOPI;
+                        1284 --810:     config.AddressMode        = R_OCTA_ADDRESS_32BIT;
+                        1285 --811:     config.MemorySize         = R_OCTADB_RAM_MEMORY_SIZE;
+                        1286 --812:     config.SectorSize         = 0;
+                        1287 --813:     config.PageSize           = 0;
+                        1288 --814:     config.Command            = &r_octacdb_RamCmdTabl;
+                        1289 --815:     config.RelaxSize          = 0;
+                        1290 --816:     config.PreCycle           = R_OCTA_PRECYCLE_OFF;
+                        1291 --817:     config.DQSDelay.EnableCnt = R_OCTADB_RAM_DQS_EN_CNT;
+                        1292 --818:     config.DQSDelay.Delay     = 0x17;
+                        1293 --819:     config.CalAddress         = 0xFFFFFFFFu;
+                        1294 --821: #ifdef OCTA_USE_BSP_CALIB
+                        1295 --822:     
+                        1296 --823:     R_OCTA_DeInit(OCTA_UNIT);
+                        1297 --824:     
+                        1298 --825:     config.CalAddress         = 0x00000000;
+
+                                                                      Page 23
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1299 --826:     /* Execute preparration calibration */
+                        1300 --827:     result = OCTA_CalibrationPreparation(OCTA_UNIT, BSP_OCTA_RAM_CH, &config);
+                        1301 --828:     if (result == R_OCTA_ERR_OK)
+                        1302 --829:     {
+                        1303 --830:         result = OCTA_Calibration(OCTA_UNIT, BSP_OCTA_RAM_CH, &config);
+                        1304 --831:         if (result == R_OCTA_ERR_OK)
+                        1305 --832:         {
+                        1306 --833:             R_OCTA_Init(OCTA_UNIT);
+                        1307 --834:             result = R_OCTA_GetCal(OCTA_UNIT, BSP_OCTA_RAM_CH, &delay);
+                        1308 --835:             if (result == R_OCTA_ERR_OK)
+                        1309 --836:             {
+                        1310 --837:                 config.DQSDelay.Delay = delay;
+                        1311 --838:             }
+                        1312 --839:             else
+                        1313 --840:             {
+                        1314 --841:                 R_BSP_STDIO_Printf("OCTA get calibration error\n");
+                        1315 --842:             }
+                        1316 --843:         }
+                        1317 --844:         else
+                        1318 --845:         {
+                        1319 --846:             R_BSP_STDIO_Printf("OCTA calibration error\n");
+                        1320 --847:         }
+                        1321 --848:     }
+                        1322 --849:     else
+                        1323 --850:     {
+                        1324 --851:         R_BSP_STDIO_Printf("OCTA preparation calibration error\n");
+                        1325 --852:     }
+                        1326 --853: #endif /* OCTA_USE_BSP_CALIB */
+                        1327 --855:     result = R_OCTA_Open(OCTA_UNIT, BSP_OCTA_RAM_CH, &config);
+                        1328 --856:     if (result != R_OCTA_ERR_OK)
+                        1329 --857:     {
+                        1330 --858:         R_BSP_STDIO_Printf("OCTA open error\n");
+                        1331 --859:     }
+                        1332 --860: }
+                        1333 --861: #endif /* BSP_INIT_OCTA_RAM_RW */
+                        1334 --864: /***********************************************************
+                        1335 --865:   Function: loc_SetupHyperBus_ExMem_FlashRead
+                        1336 --867:   HYPB initialization for HyperFlash 
+                        1337 --868:    - External Address Space Read mode
+                        1338 --869:    - HyperFlash device: S26KLxxxx (latency set to 8)
+                        1339 --870: */
+                        1340 --871: #ifdef BSP_INIT_HYPB_FLASH_R
+                        1341 --872: void loc_SetupHyperBus_ExMem_FlashRead(void)
+                        1342 --873: {
+                        1343 --874:     r_hypb_Error_t          result;
+                        1344 --875:     r_hypb_Config_t         config;
+                        1345 --877:     /* Precondition:
+                        1346 --878:        Clock Controller CKSC_ISFMAS_CTL clock selector output
+                        1347 --879:        have to be configured to 160 MHz before calling this function.
+                        1348 --880:        (This will result in 80MHz/DDR operation of HYPB.)
+                        1349 --881:     */
+                        1350 --883:     /* Init */
+                        1351 --884:     result = R_HYPB_Init(HYPB_CH0);
+                        1352 --885:     if (result != R_HYPB_ERR_OK)
+                        1353 --886:     {
+                        1354 --887:         R_BSP_STDIO_Printf("HYPB init error\n");
+                        1355 --888:     }
+                        1356 --889:     
+                        1357 --890:     /* Open */
+                        1358 --891:     config.DeviceType    = R_HYPB_DEVICE_FLASH;
+                        1359 --892:     config.OpeMode       = R_HYPB_MODE_EX_SPACE;
+
+                                                                      Page 24
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1360 --893:     config.MemorySize    = R_HYPDB_FLASH_MEMORY_SIZE;
+                        1361 --894:     config.SectorSize    = R_HYPDB_FLASH_SECTOR_SIZE;
+                        1362 --895:     config.WriteAlign    = R_HYPDB_FLASH_WRITE_BUF_SIZE;
+                        1363 --896:     config.RelaxSize     = 0;
+                        1364 --897:     config.ParamSec.Size = 0;
+                        1365 --898:     config.ParamSec.Num  = 0;
+                        1366 --899:     config.ParamSec.Pos  = R_HYPB_PARAM_SEC_TOP;
+                        1367 --900:     config.Command       = &r_hypdb_FlashCmdTbl;
+                        1368 --901:     
+                        1369 --902:     result = R_HYPB_Open(HYPB_CH0, &config);
+                        1370 --903:     if (result != R_HYPB_ERR_OK)
+                        1371 --904:     {
+                        1372 --905:         R_BSP_STDIO_Printf("HYPB open error\n");
+                        1373 --906:     }
+                        1374 --907: }
+                        1375 --908: #endif /* BSP_INIT_HYPB_FLASH_R */
+                        1376 --911: /***********************************************************
+                        1377 --912:   Function: loc_SetupHyperBus_ExMem_RamReadWrite
+                        1378 --914:   HYPB initialization for HyperRAM
+                        1379 --915:    - External Address Space Read+Write mode
+                        1380 --916:    - HyperRAM device: IS66WVH16M8BLL (latency 4; fixed latency)
+                        1381 --917: */
+                        1382 --918: #ifdef BSP_INIT_HYPB_RAM_RW
+                        1383 --919: void loc_SetupHyperBus_ExMem_RamReadWrite(void)
+                        1384 --920: {
+                        1385 --921:     r_hypb_Error_t          result;
+                        1386 --922:     r_hypb_Config_t         config;
+                        1387 --924:     /* Precondition:
+                        1388 --925:        Clock Controller CKSC_ISFMAS_CTL clock selector output
+                        1389 --926:        have to be configured to 160 MHz before calling this function.
+                        1390 --927:        (This will result in 80MHz/DDR operation of HYPB.)
+                        1391 --928:     */
+                        1392 --930:     /* Init */
+                        1393 --931:     result = R_HYPB_Init(HYPB_CH0);
+                        1394 --932:     if (result != R_HYPB_ERR_OK)
+                        1395 --933:     {
+                        1396 --934:         R_BSP_STDIO_Printf("HYPB init error\n");
+                        1397 --935:     }
+                        1398 --936:     
+                        1399 --937:     /* Open */
+                        1400 --938:     config.DeviceType    = R_HYPB_DEVICE_RAM;
+                        1401 --939:     config.OpeMode       = R_HYPB_MODE_EX_SPACE;
+                        1402 --940:     config.MemorySize    = R_HYPDB_RAM_MEMORY_SIZE;
+                        1403 --941:     config.SectorSize    = 0;
+                        1404 --942:     config.WriteAlign    = 0;
+                        1405 --943:     config.RelaxSize     = 0;
+                        1406 --944:     config.ParamSec.Size = 0;
+                        1407 --945:     config.ParamSec.Num  = 0;
+                        1408 --946:     config.ParamSec.Pos  = R_HYPB_PARAM_SEC_TOP;
+                        1409 --947:     config.Command       = &r_hypdb_RamCmdTabl;
+                        1410 --949:     result = R_HYPB_Open(HYPB_CH0, &config);
+                        1411 --950:     if (result != R_HYPB_ERR_OK)
+                        1412 --951:     {
+                        1413 --952:         R_BSP_STDIO_Printf("HYPB open error\n");
+                        1414 --953:     }
+                        1415 --954: }
+                        1416 --955: #endif /* BSP_INIT_HYPB_RAM_RW */
+                        1417 --958: /*******************************************************************************
+                        1418 --959:   Function: R_BSP_SYS_GFX_LowInit
+                        1419 --960:   
+                        1420 --961:   See: r_bsp_gfx_sys.h for details    
+
+                                                                      Page 25
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1421 --962: */
+                        1422 --963: void R_BSP_SYS_GFX_LowInit(void)
+                        1423 	.align	2
+                        1424 	.align	2
+                        1425 	.global	_R_BSP_SYS_GFX_LowInit
+                        1426 _R_BSP_SYS_GFX_LowInit:
+000000f6 80076100       1427 	prepare	{r29,r31},0
+                        1428 --	    .bf
+                        1429 .LDW22:
+                        1430 --964: {
+                        1431 --965:     /* get the device type  */
+                        1432 --966:     r_dev_Device_t device = R_DEV_GetDev();
+                        1433 	jarl	_R_DEV_GetDev,lp
+                        1433 <EXPANSION BEGIN>
+                        1433 jarl22 _R_DEV_GetDev , lp 
+000000fa 80ff0000*      1433 <EXPANSION END>
+000000fe 0ae8           1434 	mov	r10,r29
+                        1435 --967:     
+                        1436 --968:     if ((device >= R_DEV_R7F701408) && (device <= R_DEV_R7F701412))
+                        1437 --line968
+                        1438 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.16::
+                        1439 .LDWlin16:
+00000100 1d0680fa       1440 	addi	-1408,r29,zero
+00000104 f905*          1441 	bnl	.L378
+00000106 1d067bfa       1442 	addi	-1413,r29,zero
+0000010a c105*          1443 	bl	.L378
+                        1444 --969:     {
+                        1445 --970:         loc_SysLowInitD1M2();
+                        1446 --line970
+                        1447 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.17::
+                        1448 .LDWlin17:
+                        1449 	jarl	_loc_SysLowInitD1M2,lp
+                        1449 <EXPANSION BEGIN>
+                        1449 jarl22 _loc_SysLowInitD1M2 , lp 
+0000010c 80ff0000*      1449 <EXPANSION END>
+00000110 b505*          1450 	br	.L381
+                        1451 .L378:
+                        1452 --971:     }
+                        1453 --972:     else 
+                        1454 --973:     {
+                        1455 --974:         loc_SysLowInitD1M1();
+                        1456 --line974
+                        1457 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.18::
+                        1458 .LDWlin18:
+                        1459 	jarl	_loc_SysLowInitD1M1,lp
+                        1459 <EXPANSION BEGIN>
+                        1459 jarl22 _loc_SysLowInitD1M1 , lp 
+00000112 80ff0000*      1459 <EXPANSION END>
+                        1460 .L381:
+                        1461 --975:     }
+                        1462 --976:     
+                        1463 --977: }
+                        1464 --	    .ef
+                        1465 .LDW32:
+                        1466 --line977
+                        1467 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.19::
+                        1468 .LDWlin19:
+00000116 40067f00       1469 	dispose	0,{r29,r31},[lp]
+                        1470 	.type	_R_BSP_SYS_GFX_LowInit,@function
+                        1471 	.size	_R_BSP_SYS_GFX_LowInit,.-_R_BSP_SYS_GFX_LowInit
+                        1472 	.align	2
+
+                                                                      Page 26
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1473 .LDW42:
+                        1474 --_device	r29	local
+                        1475 
+                        1476 	.section ".bss","awb"
+                        1477 .L418:
+                        1478 	.type	.L418,@object
+                        1479 	.size	.L418,0
+                        1480 	.data
+                        1481 	.text
+                        1482 
+                        1483 
+                        1484 --979: /*******************************************************************************
+                        1485 --980:   Function: R_BSP_SYS_GFX_Init
+                        1486 --981:   
+                        1487 --982:   See: r_bsp_gfx_sys.h for details    
+                        1488 --983: */
+                        1489 --986: void R_BSP_SYS_GFX_Init(void) 
+                        1490 	.align	2
+                        1491 	.align	2
+                        1492 	.global	_R_BSP_SYS_GFX_Init
+                        1493 _R_BSP_SYS_GFX_Init:
+0000011a 8007e100       1494 	prepare	{r28,r29,r31},0
+                        1495 --	    .bf
+                        1496 .LDW52:
+                        1497 --987: {
+                        1498 --988:     volatile uint8_t io_state; 
+                        1499 --989:     /* get the device type  */
+                        1500 --990:     r_dev_Device_t device = R_DEV_GetDev();
+                        1501 	jarl	_R_DEV_GetDev,lp
+                        1501 <EXPANSION BEGIN>
+                        1501 jarl22 _R_DEV_GetDev , lp 
+0000011e 80ff0000*      1501 <EXPANSION END>
+00000122 0ae8           1502 	mov	r10,r29
+                        1503 --991:     
+                        1504 --992:     loc_DisableVOPixelClocks();
+                        1505 --line992
+                        1506 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.20::
+                        1507 .LDWlin20:
+                        1508 	jarl	_loc_DisableVOPixelClocks,lp
+                        1508 <EXPANSION BEGIN>
+                        1508 jarl22 _loc_DisableVOPixelClocks , lp 
+00000124 bfffdcfe*      1508 <EXPANSION END>
+                        1509 --993:     loc_InitVideoIOPort();
+                        1510 --line993
+                        1511 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.21::
+                        1512 .LDWlin21:
+                        1513 	jarl	_loc_InitVideoIOPort,lp
+                        1513 <EXPANSION BEGIN>
+                        1513 jarl22 _loc_InitVideoIOPort , lp 
+00000128 bfff14ff*      1513 <EXPANSION END>
+                        1514 --995:     /* Store original IO state (enabled or disabled) */
+                        1515 --996:     io_state = R_DEV_PinOutStateGet(); 
+                        1516 --line996
+                        1517 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.22::
+                        1518 .LDWlin22:
+                        1519 	jarl	_R_DEV_PinOutStateGet,lp
+                        1519 <EXPANSION BEGIN>
+                        1519 jarl22 _R_DEV_PinOutStateGet , lp 
+0000012c 80ff0000*      1519 <EXPANSION END>
+00000130 0ae0           1520 	mov	r10,r28
+                        1521 --997:     #ifdef BSP_FORCE_SFLASH_IO
+
+                                                                      Page 27
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1522 --998:         /* Force Serial Flash IO to override the global IO disable setting */
+                        1523 --999:         R_DEV_PinOutStateSet(1); 
+                        1524 --1000:     #endif
+                        1525 --1001:     R_DEV_PinInit(loc_D1Mx_SfmaDefaultPinConfig);
+                        1526 --line1001
+                        1527 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.23::
+                        1528 .LDWlin23:
+00000132 260600000000*  1529 	mov	_loc_D1Mx_SfmaDefaultPinConfig,r6
+                        1530 	jarl	_R_DEV_PinInit,lp
+                        1530 <EXPANSION BEGIN>
+                        1530 jarl22 _R_DEV_PinInit , lp 
+00000138 80ff0000*      1530 <EXPANSION END>
+                        1531 --1002:     if (device == R_DEV_R7F701441)
+                        1532 --line1002
+                        1533 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.24::
+                        1534 .LDWlin24:
+0000013c 1d065ffa       1535 	addi	-1441,r29,zero
+00000140 ba05*          1536 	bne	.L447
+                        1537 --1003:     {
+                        1538 --1004: #ifdef BSP_USE_SFMA1
+                        1539 --1005:         if (R_DEV_REVISION_EMU == R_DEV_GetVersion())
+                        1540 --1006:         {
+                        1541 --1007:             /* use R7F701460 POD */
+                        1542 --1008:             R_DEV_PinInit(loc_D1MxE_SfmaDefaultPinConfig);
+                        1543 --1009:         }
+                        1544 --1010:         else
+                        1545 --1011:         {
+                        1546 --1012:             R_DEV_PinInit(loc_D1M1A_SfmaDefaultPinConfig);
+                        1547 --1013:         }
+                        1548 --1014: #endif
+                        1549 --1015: #ifdef BSP_USE_SFMA2
+                        1550 --1016: 		R_DEV_PinInit(loc_D1M1A_Sfma2PinConfig);
+                        1551 --1017: #endif
+                        1552 --1018:         loc_SFMA_SelectP21P22IoDriveStrength();
+                        1553 --line1018
+                        1554 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.25::
+                        1555 .LDWlin25:
+                        1556 	jarl	_loc_SFMA_SelectP21P22IoDriveStrength,lp
+                        1556 <EXPANSION BEGIN>
+                        1556 jarl22 _loc_SFMA_SelectP21P22IoDriveStrength , lp 
+00000142 bfff6aff*      1556 <EXPANSION END>
+                        1557 .L447:
+                        1558 --1019:     }
+                        1559 --1021:     /* restore previous IO state */
+                        1560 --1022:     R_DEV_PinOutStateSet(io_state); 
+                        1561 --line1022
+                        1562 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.26::
+                        1563 .LDWlin26:
+00000146 1c30           1564 	mov	r28,r6
+                        1565 	jarl	_R_DEV_PinOutStateSet,lp
+                        1565 <EXPANSION BEGIN>
+                        1565 jarl22 _R_DEV_PinOutStateSet , lp 
+00000148 80ff0000*      1565 <EXPANSION END>
+                        1566 --1024:     loc_InitGfxBus();
+                        1567 --line1024
+                        1568 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.27::
+                        1569 .LDWlin27:
+                        1570 	jarl	_loc_InitGfxBus,lp
+                        1570 <EXPANSION BEGIN>
+                        1570 jarl22 _loc_InitGfxBus , lp 
+0000014c bfff8cff*      1570 <EXPANSION END>
+
+                                                                      Page 28
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1571 --1026:     if ((device >= R_DEV_R7F701408) && (device <= R_DEV_R7F701412))
+                        1572 --line1026
+                        1573 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.28::
+                        1574 .LDWlin28:
+00000150 1d0680fa       1575 	addi	-1408,r29,zero
+00000154 f905*          1576 	bnl	.L449
+00000156 1d067bfa       1577 	addi	-1413,r29,zero
+0000015a c105*          1578 	bl	.L449
+                        1579 --1027:     {
+                        1580 --1028:         loc_SysGfxInitD1M2();
+                        1581 --line1028
+                        1582 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.29::
+                        1583 .LDWlin29:
+                        1584 	jarl	_loc_SysGfxInitD1M2,lp
+                        1584 <EXPANSION BEGIN>
+                        1584 jarl22 _loc_SysGfxInitD1M2 , lp 
+0000015c 80ff0000*      1584 <EXPANSION END>
+00000160 b505*          1585 	br	.L452
+                        1586 .L449:
+                        1587 --1029:     }
+                        1588 --1030:     else 
+                        1589 --1031:     {
+                        1590 --1032:         loc_SysGfxInitD1M1();
+                        1591 --line1032
+                        1592 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.30::
+                        1593 .LDWlin30:
+                        1594 	jarl	_loc_SysGfxInitD1M1,lp
+                        1594 <EXPANSION BEGIN>
+                        1594 jarl22 _loc_SysGfxInitD1M1 , lp 
+00000162 80ff0000*      1594 <EXPANSION END>
+                        1595 .L452:
+                        1596 --1033:     }
+                        1597 --1034:     
+                        1598 --1035: #ifdef BSP_INIT_SFMA 
+                        1599 --1036:     loc_SetupSFMA();
+                        1600 --1037: #endif /* BSP_INIT_SFMA */
+                        1601 --1039: #if defined(BSP_INIT_HYPB_FLASH_R) || defined(BSP_INIT_HYPB_RAM_RW) || defined(BSP_INIT_HYPB_PIN)
+                        1602 --1040:     if ((device == R_DEV_R7F701441)
+                        1603 --1041:         || (device == R_DEV_R7F701442)
+                        1604 --1042:         || (device == R_DEV_R7F701418))
+                        1605 --1043:     {
+                        1606 --1044:         R_DEV_PinInit(loc_D1M1A_HyperOctaDefaultPinConfig);
+                        1607 --1046:  #ifdef BSP_INIT_HYPB_FLASH_R
+                        1608 --1047:         loc_SetupHyperBus_ExMem_FlashRead();
+                        1609 --1048:  #endif /* BSP_INIT_HYPB_FLASH_R */
+                        1610 --1050:  #ifdef BSP_INIT_HYPB_RAM_RW
+                        1611 --1051:         loc_SetupHyperBus_ExMem_RamReadWrite();
+                        1612 --1052:  #endif /* BSP_INIT_HYPB_RAM_RW */
+                        1613 --1053:     }
+                        1614 --1054: #endif /* defined(BSP_INIT_HYPB_FLASH_R) || defined(BSP_INIT_HYPB_RAM_RW) */
+                        1615 --1056: #if defined(BSP_INIT_OCTA_FLASH_R) || defined(BSP_INIT_OCTA_RAM_RW) || defined(BSP_INIT_OCTA_PIN)
+                        1616 --1057:     if ((device == R_DEV_R7F701441)
+                        1617 --1058:         || (device == R_DEV_R7F701442)
+                        1618 --1059:         || (device == R_DEV_R7F701418))
+                        1619 --1060:     {
+                        1620 --1061:         R_DEV_PinInit(loc_D1M1A_HyperOctaDefaultPinConfig);
+                        1621 --1063:  #ifdef BSP_INIT_OCTA_FLASH_R
+                        1622 --1064:         loc_SetupOctaBus_ExMem_FlashRead();
+                        1623 --1065:  #endif /* BSP_INIT_HYPB_FLASH_R */
+                        1624 --1067:  #ifdef BSP_INIT_OCTA_RAM_RW
+                        1625 --1068:         loc_SetupOctaBus_ExMem_RamReadWrite();
+
+                                                                      Page 29
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1626 --1069:  #endif /* BSP_INIT_OCTA_RAM_RW */
+                        1627 --1070:     }
+                        1628 --1071: #endif /* defined(BSP_INIT_OCTA_FLASH_R) || defined(BSP_INIT_OCTA_RAM_RW) */
+                        1629 --1073: #ifdef BSP_INIT_NFMA
+                        1630 --1074:     if (device == R_DEV_R7F701441)
+                        1631 --1075:     {
+                        1632 --1076:         NF_Init(NF_UNIT0);
+                        1633 --1077:         NF_MemCpy(NF_UNIT0, NF_FLASH_COPY_DST, NF_FLASH_COPY_START, NF_FLASH_COPY_SIZE);
+                        1634 --1078:     }
+                        1635 --1079: #endif /* BSP_INIT_NFMA */
+                        1636 --1080: }
+                        1637 --	    .ef
+                        1638 .LDW62:
+                        1639 --line1080
+                        1640 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.31::
+                        1641 .LDWlin31:
+00000166 4006ff00       1642 	dispose	0,{r28,r29,r31},[lp]
+                        1643 	.type	_R_BSP_SYS_GFX_Init,@function
+                        1644 	.size	_R_BSP_SYS_GFX_Init,.-_R_BSP_SYS_GFX_Init
+                        1645 	.align	2
+                        1646 .LDW72:
+                        1647 --_io_state	r28	local
+                        1648 --_device	r29	local
+                        1649 
+                        1650 	.section ".bss","awb"
+                        1651 .L530:
+                        1652 	.type	.L530,@object
+                        1653 	.size	.L530,0
+                        1654 	.data
+                        1655 	.text
+                        1656 
+                        1657 
+                        1658 --1083: static void W_InitVideoIOPort(void)
+                        1659 	.align	2
+                        1660 	.align	2
+                        1661 	.global	_W_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                        1662 _W_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.:
+                        1663 _W_InitVideoIOPort:
+0000016a 84072100       1664 	prepare	{r31},2
+                        1665 --	    .bf
+                        1666 .LDW82:
+                        1667 --1084: {
+                        1668 --1085:     uint32_t vo_pins_addr = 0; 
+0000016e 63070100       1669 	st.w	zero,0[sp]
+                        1670 --1086:     uint32_t vi_pins_addr = 0; 
+00000172 63070500       1671 	st.w	zero,4[sp]
+                        1672 --1089:     W_InitVideoIOReg(&vo_pins_addr, &vi_pins_addr);
+00000176 23360000       1673 	movea	0,sp,r6
+0000017a 233e0400       1674 	movea	4,sp,r7
+                        1675 	jarl	_W_InitVideoIOReg,lp
+                        1675 <EXPANSION BEGIN>
+                        1675 jarl22 _W_InitVideoIOReg , lp 
+0000017e 80ff0000*      1675 <EXPANSION END>
+                        1676 --1090:     if (0 != vo_pins_addr)
+                        1677 --line1090
+                        1678 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.32::
+                        1679 .LDWlin32:
+00000182 230f0100       1680 	ld.w	0[sp],r1
+00000186 e009           1681 	cmp	zero,r1
+00000188 d205*          1682 	be	.L583
+                        1683 --1091:     {
+
+                                                                      Page 30
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1684 --1092:         R_DEV_PinInit((const r_dev_PinConfig_t *) vo_pins_addr);
+                        1685 --line1092
+                        1686 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.33::
+                        1687 .LDWlin33:
+0000018a 23370100       1688 	ld.w	0[sp],r6
+                        1689 	jarl	_R_DEV_PinInit,lp
+                        1689 <EXPANSION BEGIN>
+                        1689 jarl22 _R_DEV_PinInit , lp 
+0000018e 80ff0000*      1689 <EXPANSION END>
+                        1690 .L583:
+                        1691 --1093:     }
+                        1692 --1094:     if (0 != vi_pins_addr)
+                        1693 --line1094
+                        1694 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.34::
+                        1695 .LDWlin34:
+00000192 230f0500       1696 	ld.w	4[sp],r1
+00000196 e009           1697 	cmp	zero,r1
+00000198 d205*          1698 	be	.L585
+                        1699 --1095:     {
+                        1700 --1096:         R_DEV_PinInit((const r_dev_PinConfig_t *) vi_pins_addr);
+                        1701 --line1096
+                        1702 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.35::
+                        1703 .LDWlin35:
+0000019a 23370500       1704 	ld.w	4[sp],r6
+                        1705 	jarl	_R_DEV_PinInit,lp
+                        1705 <EXPANSION BEGIN>
+                        1705 jarl22 _R_DEV_PinInit , lp 
+0000019e 80ff0000*      1705 <EXPANSION END>
+                        1706 .L585:
+                        1707 --1097:     }
+                        1708 --1098:     
+                        1709 --1099: }
+                        1710 --	    .ef
+                        1711 .LDW92:
+                        1712 --line1099
+                        1713 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.36::
+                        1714 .LDWlin36:
+000001a2 44063f00       1715 	dispose	2,{r31},[lp]
+                        1716 	.type	_W_InitVideoIOPort,@function
+                        1717 	.size	_W_InitVideoIOPort,.-_W_InitVideoIOPort
+                        1718 	.type	_W_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,@function
+                        1719 	.size	_W_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.,.-_W_InitVideoIOPort..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.
+                        1720 	.align	2
+                        1721 .LDW03:
+                        1722 --_vo_pins_addr	0[sp]	local
+                        1723 --_vi_pins_addr	4[sp]	local
+                        1724 
+                        1725 	.section ".bss","awb"
+                        1726 .L634:
+                        1727 	.type	.L634,@object
+                        1728 	.size	.L634,0
+                        1729 	.data
+                        1730 	.text
+                        1731 
+                        1732 
+                        1733 --1101: void W_BSP_SYS_GFX_Init(void)
+                        1734 	.align	2
+                        1735 	.align	2
+                        1736 	.global	_W_BSP_SYS_GFX_Init
+                        1737 _W_BSP_SYS_GFX_Init:
+000001a6 80076100       1738 	prepare	{r29,r31},0
+
+                                                                      Page 31
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1739 --	    .bf
+                        1740 .LDW13:
+                        1741 --1102: {
+                        1742 --1103:     volatile uint8_t io_state; 
+                        1743 --1104:     loc_DisableVOPixelClocks();
+                        1744 	jarl	_loc_DisableVOPixelClocks,lp
+                        1744 <EXPANSION BEGIN>
+                        1744 jarl22 _loc_DisableVOPixelClocks , lp 
+000001aa bfff56fe*      1744 <EXPANSION END>
+                        1745 --1105:     W_InitVideoIOPort();
+                        1746 --line1105
+                        1747 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.37::
+                        1748 .LDWlin37:
+                        1749 	jarl	_W_InitVideoIOPort,lp
+                        1749 <EXPANSION BEGIN>
+                        1749 jarl22 _W_InitVideoIOPort , lp 
+000001ae bfffbcff*      1749 <EXPANSION END>
+                        1750 --1107:     // Store original IO state (enabled or disabled)
+                        1751 --1108:     io_state = R_DEV_PinOutStateGet(); 
+                        1752 --line1108
+                        1753 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.38::
+                        1754 .LDWlin38:
+                        1755 	jarl	_R_DEV_PinOutStateGet,lp
+                        1755 <EXPANSION BEGIN>
+                        1755 jarl22 _R_DEV_PinOutStateGet , lp 
+000001b2 80ff0000*      1755 <EXPANSION END>
+000001b6 0ae8           1756 	mov	r10,r29
+                        1757 --1109: #ifdef _MAG
+                        1758 --1110:     R_DEV_PinInit(loc_D1Mx_SfmaDefaultPinConfig);
+                        1759 --line1110
+                        1760 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.39::
+                        1761 .LDWlin39:
+000001b8 260600000000*  1762 	mov	_loc_D1Mx_SfmaDefaultPinConfig,r6
+                        1763 	jarl	_R_DEV_PinInit,lp
+                        1763 <EXPANSION BEGIN>
+                        1763 jarl22 _R_DEV_PinInit , lp 
+000001be 80ff0000*      1763 <EXPANSION END>
+                        1764 --1111: #endif
+                        1765 --1113: #ifdef BSP_USE_SFMA2
+                        1766 --1114:     R_DEV_PinInit(loc_D1M1A_Sfma2PinConfig);
+                        1767 --1115:     loc_SFMA_SelectP21P22IoDriveStrength();
+                        1768 --1116: #endif
+                        1769 --1117:     R_DEV_PinOutStateSet(io_state); 
+                        1770 --line1117
+                        1771 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.40::
+                        1772 .LDWlin40:
+000001c2 1d30           1773 	mov	r29,r6
+                        1774 	jarl	_R_DEV_PinOutStateSet,lp
+                        1774 <EXPANSION BEGIN>
+                        1774 jarl22 _R_DEV_PinOutStateSet , lp 
+000001c4 80ff0000*      1774 <EXPANSION END>
+                        1775 --1120:     loc_InitGfxBus();
+                        1776 --line1120
+                        1777 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.41::
+                        1778 .LDWlin41:
+                        1779 	jarl	_loc_InitGfxBus,lp
+                        1779 <EXPANSION BEGIN>
+                        1779 jarl22 _loc_InitGfxBus , lp 
+000001c8 bfff10ff*      1779 <EXPANSION END>
+                        1780 --1121:     loc_SysGfxInitD1M1();
+                        1781 --line1121
+
+                                                                      Page 32
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000p2s1.si
+                        1782 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.42::
+                        1783 .LDWlin42:
+                        1784 	jarl	_loc_SysGfxInitD1M1,lp
+                        1784 <EXPANSION BEGIN>
+                        1784 jarl22 _loc_SysGfxInitD1M1 , lp 
+000001cc 80ff0000*      1784 <EXPANSION END>
+                        1785 --1122:     
+                        1786 --1123: #ifdef _MARS
+                        1787 --1124:     R_DEV_PinInit(loc_D1M1A_HyperOctaDefaultPinConfig);
+                        1788 --1126:     loc_SetupOctaBus_ExMem_FlashRead();
+                        1789 --1127: #endif /* BSP_INIT_HYPB_FLASH_R */
+                        1790 --1130: }
+                        1791 --	    .ef
+                        1792 .LDW23:
+                        1793 --line1130
+                        1794 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx.43::
+                        1795 .LDWlin43:
+000001d0 40067f00       1796 	dispose	0,{r29,r31},[lp]
+                        1797 	.type	_W_BSP_SYS_GFX_Init,@function
+                        1798 	.size	_W_BSP_SYS_GFX_Init,.-_W_BSP_SYS_GFX_Init
+                        1799 	.align	2
+                        1800 .LDW33:
+                        1801 --_io_state	r29	local
+                        1802 
+                        1803 	.section ".bss","awb"
+                        1804 .L714:
+                        1805 	.type	.L714,@object
+                        1806 	.size	.L714,0
+                        1807 	.data
+                        1808 	.text
+                        1809 
+                        1810 	.align	2
+                        1811 --_loc_D1Mx_SfmaDefaultPinConfig	_loc_D1Mx_SfmaDefaultPinConfig	static
+                        1812 --_xbus_cfg	_xbus_cfg	static
+                        1813 
+                        1814 	.data
+                        1815 	.ghsnote version,15
+                        1816 	.ghsnote tools,3
+                        1817 	.ghsnote options,144
+                        1818 	.text
+                        1819 	.align	2
+                        1820 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_sys_gfx...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                        1821 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

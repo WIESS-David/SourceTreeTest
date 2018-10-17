@@ -1,0 +1,2107 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\w_system.dbo -source=w_system.c -o .\obj\gh_0000poo1.o -list=.\obj\w_system.lst C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+Source File: w_system.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\gfx_apps\simple_draw\src\w_system.c -o
+                         171 --		.\obj\w_system.o
+                         172 --Source File:   ..\..\..\..\gfx_apps\simple_draw\src\w_system.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:58 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: #include "w_system.h"
+                         184 --2: #include "w_buzzer_task.h"
+                         185 --3: #include "wiess_key_task.h"
+                         186 --4: #include "w_mag.h"
+                         187 --5: #include "w_cluster_task.h"
+                         188 --6: #include "w_rscan_task.h"
+                         189 --7: #include "w_sys_pwm.h"
+                         190 --8: #include "w_sys_reset.h"
+                         191 --9: #include "nios.h"
+                         192 --10: //#include "w_canio_gen.h"
+                         193 --12: extern mars_info_def gtmars_info;
+                         194 --13: extern w_dev_button_t gtbutton_ACC;
+                         195 --14: extern w_dev_button_t gtbutton_HEADLAMP_H;
+                         196 --15: extern w_dev_button_t gtbutton_HEADLAMP_L;
+                         197 --16: extern w_dev_button_t gtbutton_TAIL_LAMP;
+                         198 --17: extern w_dev_button_t gtbutton_REVERSE_LAMP;
+                         199 --18: extern w_dev_button_t gtbutton_LEFT_TURN_LAMP;
+                         200 --19: extern w_dev_button_t gtbutton_RIGHT_TURN_LAMP;
+                         201 --20: extern w_dev_button_t gtbutton_FRONT_FOG_LAMP;
+                         202 --21: extern w_dev_button_t gtbutton_REAR_FOG_LAMP;
+                         203 --22: extern w_dev_button_t gtbutton_CHARGE;
+                         204 --23: extern w_dev_button_t gtbutton_IGN;
+                         205 --24: extern void R_GPIO_WritePin(int32_t Port, uint8_t Pin, uint8_t Value);
+                         206 --26: //*************************************************************************************************************
+                         207 --27: void W_SYS_Reset(void)
+                         208 	.text
+                         209 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02B..0::
+                         210 	.align	2
+                         211 	.global	_W_SYS_Reset
+                         212 _W_SYS_Reset:
+00000000 80072100        213 	prepare	{r31},0
+                         214 --	    .bf
+                         215 .LDW01:
+                         216 --28: {
+                         217 --29:     R_GPIO_WritePin(16,9,0);    // close backlight
+00000004 20361000        218 	movea	16,zero,r6
+00000008 093a            219 	mov	9,r7
+0000000a 0042            220 	mov	0,r8
+                         221 	jarl	_R_GPIO_WritePin,lp
+                         221 <EXPANSION BEGIN>
+                         221 jarl22 _R_GPIO_WritePin , lp 
+0000000c 80ff0000*       221 <EXPANSION END>
+                         222 --30:     W_RESET_Software();
+                         223 --line30
+                         224 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.1::
+                         225 .LDWlin1:
+                         226 	jarl	_W_RESET_Software,lp
+                         226 <EXPANSION BEGIN>
+                         226 jarl22 _W_RESET_Software , lp 
+00000010 80ff0000*       226 <EXPANSION END>
+                         227 --31: }
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         228 --	    .ef
+                         229 .LDW11:
+                         230 --line31
+                         231 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.2::
+                         232 .LDWlin2:
+00000014 40063f00        233 	dispose	0,{r31},[lp]
+                         234 	.type	_W_SYS_Reset,@function
+                         235 	.size	_W_SYS_Reset,.-_W_SYS_Reset
+                         236 	.align	2
+                         237 .LDW21:
+                         238 
+                         239 	.section ".bss","awb"
+                         240 .L38:
+                         241 	.type	.L38,@object
+                         242 	.size	.L38,0
+                         243 	.data
+                         244 	.text
+                         245 
+                         246 
+                         247 --32: //*************************************************************************************************************
+                         248 --33: void W_SYS_Check_CAN_Message(void)
+                         249 	.align	2
+                         250 	.align	2
+                         251 	.align	2
+                         252 	.global	_W_SYS_Check_CAN_Message
+                         253 _W_SYS_Check_CAN_Message:
+00000018 84076130        254 	prepare	{r26,r27,r29,r31},2
+0000001c 3d0600000000*   255 	mov	_gtmars_info,r29
+                         256 --	    .bf
+                         257 .LDW31:
+                         258 --34: {
+                         259 --35:     double dChargePercent = 0;
+00000022 00da            260 	mov	0,r27
+00000024 00d2            261 	mov	0,r26
+                         262 --36:     W_RSCAN_Read_FIFO();
+                         263 	jarl	_W_RSCAN_Read_FIFO,lp
+                         263 <EXPANSION BEGIN>
+                         263 jarl22 _W_RSCAN_Read_FIFO , lp 
+00000026 80ff0000*       263 <EXPANSION END>
+                         264 --37:     W_RSCAN_Data_Process();
+                         265 --line37
+                         266 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.3::
+                         267 .LDWlin3:
+                         268 	jarl	_W_RSCAN_Data_Process,lp
+                         268 <EXPANSION BEGIN>
+                         268 jarl22 _W_RSCAN_Data_Process , lp 
+0000002a 80ff0000*       268 <EXPANSION END>
+                         269 --38:     /**********************************
+                         270 --39:      * Calculating Charge Percent
+                         271 --40:      **********************************/
+                         272 --41:     if (gtmars_info.tcar_info.tcan_id53f_info.u16battery_remain_capacity == 0)
+                         273 --line41
+                         274 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.4::
+                         275 .LDWlin4:
+0000002e fd0f2500        276 	ld.hu	36[r29],r1
+00000032 e009            277 	cmp	zero,r1
+00000034 ca05*           278 	bne	.L58
+                         279 --42:     {
+                         280 --43:         dChargePercent = 0;
+                         281 --line43
+                         282 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.5::
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         283 .LDWlin5:
+00000036 00da            284 	mov	0,r27
+00000038 00d2            285 	mov	0,r26
+0000003a b50d*           286 	br	.L60
+                         287 .L58:
+                         288 --44:     }
+                         289 --45:     else
+                         290 --46:     {
+                         291 --47:         dChargePercent = (gtmars_info.tcar_info.tcan_id53f_info.u16battery_remain_capacity * 100)/gtmars_info.tcar_info.tcan_id53f_info.u16battery_design_capacity;
+                         292 --line47
+                         293 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.6::
+                         294 .LDWlin6:
+0000003c fd0f2500        295 	ld.hu	36[r29],r1
+00000040 fd772700        296 	ld.hu	38[r29],r14
+00000044 e40f4c02        297 	mul	100,r1,zero
+00000048 ee0ffc02        298 	divq	r14,r1,zero
+0000004c e00f52d4        299 	cvtf.wd	r1,r26
+                         300 .L60:
+                         301 --48:     }
+                         302 --49:     /****************************************
+                         303 --50:      * Charge 10%
+                         304 --51:      ****************************************/
+                         305 --52:     if((gtmars_info.tcar_info.tcan_id53f_info.tsys_consistency_check3_info.low_soc_light_on == 1) && (dChargePercent == 10))
+00000050 9d0f2b00        306 	ld.bu	42[r29],r1
+00000054 810a            307 	shr	1,r1
+00000056 f915*           308 	bnl	.L61
+00000058 406e2440        309 	movhi	16420,zero,r13
+0000005c 0062            310 	mov	0,r12
+0000005e ecd73014        311 	cmpf.d	eq,r26,r12,0
+00000062 e0070004        312 	trfsr	0
+00000066 fa0d*           313 	bne	.L61
+                         314 --53:     {
+                         315 --54:         if(gtmars_info.tbuzzer_task_info.twarnning_info.charge_10percent == 0)
+                         316 --line54
+                         317 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.7::
+                         318 .LDWlin7:
+00000068 9d0f7f00        319 	ld.bu	126[r29],r1
+0000006c 810a            320 	shr	1,r1
+0000006e 9115*           321 	bl	.L66
+                         322 --55:         {
+                         323 --56:             W_BUZZER_START(_BUZZER_WARNING);
+                         324 --line56
+                         325 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.8::
+                         326 .LDWlin8:
+00000070 0032            327 	mov	0,r6
+                         328 	jarl	_W_BUZZER_START,lp
+                         328 <EXPANSION BEGIN>
+                         328 jarl22 _W_BUZZER_START , lp 
+00000072 80ff0000*       328 <EXPANSION END>
+                         329 --57:             gtmars_info.tbuzzer_task_info.twarnning_info.charge_10percent = 1;
+                         330 --line57
+                         331 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.9::
+                         332 .LDWlin9:
+00000076 9d0f7f00        333 	ld.bu	126[r29],r1
+0000007a 810e0100        334 	ori	1,r1,r1
+0000007e 5d0f7e00        335 	st.b	r1,126[r29]
+00000082 f505*           336 	br	.L66
+                         337 .L61:
+                         338 --58:         }
+                         339 --59:     }
+                         340 --60:     else
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         341 --61:     {
+                         342 --62:         gtmars_info.tbuzzer_task_info.twarnning_info.charge_10percent = 0;
+                         343 --line62
+                         344 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.10::
+                         345 .LDWlin10:
+00000084 9d0f7f00        346 	ld.bu	126[r29],r1
+00000088 c10efe00        347 	andi	254,r1,r1
+0000008c 5d0f7e00        348 	st.b	r1,126[r29]
+                         349 .L66:
+                         350 --63:     }
+                         351 --64:     /****************************************
+                         352 --65:      * Charge 20%
+                         353 --66:      ****************************************/
+                         354 --67:     if((gtmars_info.tcar_info.tcan_id53f_info.tsys_consistency_check3_info.low_soc_light_on == 1) && (dChargePercent == 20))
+00000090 9d0f2b00        355 	ld.bu	42[r29],r1
+00000094 810a            356 	shr	1,r1
+00000096 f915*           357 	bnl	.L67
+00000098 406e3440        358 	movhi	16436,zero,r13
+0000009c 0062            359 	mov	0,r12
+0000009e ecd73214        360 	cmpf.d	eq,r26,r12,1
+000000a2 e0070204        361 	trfsr	1
+000000a6 fa0d*           362 	bne	.L67
+                         363 --68:     {
+                         364 --69:         if(gtmars_info.tbuzzer_task_info.twarnning_info.charge_20percent == 0)
+                         365 --line69
+                         366 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.11::
+                         367 .LDWlin11:
+000000a8 9d0f7f00        368 	ld.bu	126[r29],r1
+000000ac 820a            369 	shr	2,r1
+000000ae 9115*           370 	bl	.L72
+                         371 --70:         {
+                         372 --71:             W_BUZZER_START(_BUZZER_WARNING);
+                         373 --line71
+                         374 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.12::
+                         375 .LDWlin12:
+000000b0 0032            376 	mov	0,r6
+                         377 	jarl	_W_BUZZER_START,lp
+                         377 <EXPANSION BEGIN>
+                         377 jarl22 _W_BUZZER_START , lp 
+000000b2 80ff0000*       377 <EXPANSION END>
+                         378 --72:             gtmars_info.tbuzzer_task_info.twarnning_info.charge_20percent = 1;
+                         379 --line72
+                         380 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.13::
+                         381 .LDWlin13:
+000000b6 9d0f7f00        382 	ld.bu	126[r29],r1
+000000ba 810e0200        383 	ori	2,r1,r1
+000000be 5d0f7e00        384 	st.b	r1,126[r29]
+000000c2 f505*           385 	br	.L72
+                         386 .L67:
+                         387 --73:         }
+                         388 --74:     }
+                         389 --75:     else
+                         390 --76:     {
+                         391 --77:         gtmars_info.tbuzzer_task_info.twarnning_info.charge_20percent = 0;
+                         392 --line77
+                         393 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.14::
+                         394 .LDWlin14:
+000000c4 9d0f7f00        395 	ld.bu	126[r29],r1
+000000c8 c10efd00        396 	andi	253,r1,r1
+000000cc 5d0f7e00        397 	st.b	r1,126[r29]
+                         398 .L72:
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         399 --78:     }
+                         400 --79:     /****************************************
+                         401 --80:      * Smart Key Lost Warnning
+                         402 --81:      ****************************************/
+                         403 --82:     if(gtmars_info.tcar_info.tcan_id434_info.toperation1_mode_flag_info.rfid_keyd_detect == 0)
+000000d0 bd0f3100        404 	ld.bu	49[r29],r1
+000000d4 860a            405 	shr	6,r1
+                         406 .L73:
+                         407 --83:     {
+                         408 --84:         //W_BUZZER_START(_BUZZER_WARNING);
+                         409 --85:     }
+                         410 --86:     /****************************************
+                         411 --87:      * Seat   Belt Warnning
+                         412 --88:      ****************************************/
+                         413 --89:     if((gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status == _SHIFTER_D) ||
+000000d6 bd0f1100        414 	ld.bu	17[r29],r1
+000000da c10e0700        415 	andi	7,r1,r1
+000000de 640a            416 	cmp	4,r1
+000000e0 f205*           417 	be	.L76
+000000e2 bd0f1100        418 	ld.bu	17[r29],r1
+000000e6 c10e0700        419 	andi	7,r1,r1
+000000ea 620a            420 	cmp	2,r1
+000000ec aa0d*           421 	bne	.L75
+                         422 .L76:
+                         423 --90:        (gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status == _SHIFTER_R))
+                         424 --91:     {
+                         425 --92:         if((gtmars_info.tcar_info.tcan_id434_info.tcabin_status_info.front_left_buckle_switch_pluged == 0) ||
+                         426 --line92
+                         427 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.15::
+                         428 .LDWlin15:
+000000ee 9d0f2f00        429 	ld.bu	46[r29],r1
+000000f2 c10e0700        430 	andi	7,r1,r1
+000000f6 670a            431 	cmp	7,r1
+000000f8 c205*           432 	be	.L75
+                         433 --93:            (gtmars_info.tcar_info.tcan_id434_info.tcabin_status_info.front_right_buckle_switch_pluged == 0) ||
+                         434 --94:            (gtmars_info.tcar_info.tcan_id434_info.tcabin_status_info.second_row_buckle_switch_pluged == 0))
+                         435 --95:         {
+                         436 --96:             W_BUZZER_START(_BUZZER_WARNING);
+                         437 --line96
+                         438 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.16::
+                         439 .LDWlin16:
+000000fa 0032            440 	mov	0,r6
+                         441 	jarl	_W_BUZZER_START,lp
+                         441 <EXPANSION BEGIN>
+                         441 jarl22 _W_BUZZER_START , lp 
+000000fc 80ff0000*       441 <EXPANSION END>
+                         442 .L75:
+                         443 --97:         }
+                         444 --98:     }
+                         445 --99:    /****************************************
+                         446 --100:     * Low Voltage Warnning
+                         447 --101:     ****************************************/
+                         448 --102:     if(gtmars_info.tcar_info.tcan_id134_info.tfault_code2_info.battery_12v_under_voltage_fault == 1)
+                         449 --line102
+                         450 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.17::
+                         451 .LDWlin17:
+00000100 9d0f1700        452 	ld.bu	22[r29],r1
+00000104 810a            453 	shr	1,r1
+00000106 c905*           454 	bnl	.L80
+                         455 --103:     {
+                         456 --104:         W_BUZZER_START(_BUZZER_WARNING);
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         457 --line104
+                         458 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.18::
+                         459 .LDWlin18:
+00000108 0032            460 	mov	0,r6
+                         461 	jarl	_W_BUZZER_START,lp
+                         461 <EXPANSION BEGIN>
+                         461 jarl22 _W_BUZZER_START , lp 
+0000010a 80ff0000*       461 <EXPANSION END>
+                         462 .L80:
+                         463 --105:     }
+                         464 --106:    /****************************************
+                         465 --107:     * Coolant Temperature Warnning
+                         466 --108:     ****************************************/
+                         467 --109:     if(gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.over_temperature_fault == 1)
+                         468 --line109
+                         469 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.19::
+                         470 .LDWlin19:
+0000010e 9d0f0f00        471 	ld.bu	14[r29],r1
+00000112 870a            472 	shr	7,r1
+00000114 c905*           473 	bnl	.L82
+                         474 --110:     {
+                         475 --111:         W_BUZZER_START(_BUZZER_WARNING);
+                         476 --line111
+                         477 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.20::
+                         478 .LDWlin20:
+00000116 0032            479 	mov	0,r6
+                         480 	jarl	_W_BUZZER_START,lp
+                         480 <EXPANSION BEGIN>
+                         480 jarl22 _W_BUZZER_START , lp 
+00000118 80ff0000*       480 <EXPANSION END>
+                         481 .L82:
+                         482 --112:     }
+                         483 --113:    /****************************************
+                         484 --114:     * High Voltage Warnning
+                         485 --115:     ****************************************/
+                         486 --116:     if(gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.hv_sys_fault == 1)
+                         487 --line116
+                         488 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.21::
+                         489 .LDWlin21:
+0000011c 9d0f0f00        490 	ld.bu	14[r29],r1
+00000120 830a            491 	shr	3,r1
+00000122 c905*           492 	bnl	.L84
+                         493 --117:     {
+                         494 --118:         W_BUZZER_START(_BUZZER_WARNING);
+                         495 --line118
+                         496 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.22::
+                         497 .LDWlin22:
+00000124 0032            498 	mov	0,r6
+                         499 	jarl	_W_BUZZER_START,lp
+                         499 <EXPANSION BEGIN>
+                         499 jarl22 _W_BUZZER_START , lp 
+00000126 80ff0000*       499 <EXPANSION END>
+                         500 .L84:
+                         501 --119:     }
+                         502 --120:    /****************************************
+                         503 --121:     * Drive System Warnning
+                         504 --122:     ****************************************/
+                         505 --123:     if(gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.drive_sys_fault == 1)
+                         506 --line123
+                         507 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.23::
+                         508 .LDWlin23:
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+0000012a 9d0f0f00        509 	ld.bu	14[r29],r1
+0000012e 810a            510 	shr	1,r1
+00000130 c905*           511 	bnl	.L86
+                         512 --124:     {
+                         513 --125:         W_BUZZER_START(_BUZZER_WARNING);
+                         514 --line125
+                         515 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.24::
+                         516 .LDWlin24:
+00000132 0032            517 	mov	0,r6
+                         518 	jarl	_W_BUZZER_START,lp
+                         518 <EXPANSION BEGIN>
+                         518 jarl22 _W_BUZZER_START , lp 
+00000134 80ff0000*       518 <EXPANSION END>
+                         519 .L86:
+                         520 --126:     }
+                         521 --127:    /****************************************
+                         522 --128:     * Transmission Warnning
+                         523 --129:     ****************************************/
+                         524 --130:     if(gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.transmission_sys_fault == 1)
+                         525 --line130
+                         526 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.25::
+                         527 .LDWlin25:
+00000138 9d0f0f00        528 	ld.bu	14[r29],r1
+0000013c 860a            529 	shr	6,r1
+0000013e c905*           530 	bnl	.L88
+                         531 --131:     {
+                         532 --132:         W_BUZZER_START(_BUZZER_WARNING);
+                         533 --line132
+                         534 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.26::
+                         535 .LDWlin26:
+00000140 0032            536 	mov	0,r6
+                         537 	jarl	_W_BUZZER_START,lp
+                         537 <EXPANSION BEGIN>
+                         537 jarl22 _W_BUZZER_START , lp 
+00000142 80ff0000*       537 <EXPANSION END>
+                         538 .L88:
+                         539 --133:     }
+                         540 --134:    /****************************************
+                         541 --135:     * Charge System Warnning
+                         542 --136:     ****************************************/
+                         543 --137:     if(gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.charging_sys_fault == 1)
+                         544 --line137
+                         545 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.27::
+                         546 .LDWlin27:
+00000146 9d0f0f00        547 	ld.bu	14[r29],r1
+0000014a 880a            548 	shr	8,r1
+0000014c c905*           549 	bnl	.L90
+                         550 --138:     {
+                         551 --139:         W_BUZZER_START(_BUZZER_WARNING);
+                         552 --line139
+                         553 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.28::
+                         554 .LDWlin28:
+0000014e 0032            555 	mov	0,r6
+                         556 	jarl	_W_BUZZER_START,lp
+                         556 <EXPANSION BEGIN>
+                         556 jarl22 _W_BUZZER_START , lp 
+00000150 80ff0000*       556 <EXPANSION END>
+                         557 .L90:
+                         558 --140:     }
+                         559 --141:    /****************************************
+                         560 --142:     * DC - DC Warnning
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         561 --143:     ****************************************/
+                         562 --144:     //TODO : Wait Customer Define the byte 7 
+                         563 --145:    /****************************************
+                         564 --146:     * Tire Pressure Warnning
+                         565 --147:     ****************************************/
+                         566 --148:     if(gtmars_info.tcar_info.tcan_id340_info.toperation2_mode_flag_info.tpms_flag == 1)
+                         567 --line148
+                         568 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.29::
+                         569 .LDWlin29:
+00000154 bd0f3500        570 	ld.bu	53[r29],r1
+00000158 810a            571 	shr	1,r1
+0000015a c905*           572 	bnl	.L92
+                         573 --149:     {
+                         574 --150:         W_BUZZER_START(_BUZZER_WARNING);
+                         575 --line150
+                         576 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.30::
+                         577 .LDWlin30:
+0000015c 0032            578 	mov	0,r6
+                         579 	jarl	_W_BUZZER_START,lp
+                         579 <EXPANSION BEGIN>
+                         579 jarl22 _W_BUZZER_START , lp 
+0000015e 80ff0000*       579 <EXPANSION END>
+                         580 .L92:
+                         581 --151:     }
+                         582 --152:    /****************************************
+                         583 --153:     * Cruise Control Warnning
+                         584 --154:     ****************************************/
+                         585 --155:     if(gtmars_info.tbuzzer_task_info.twarnning_info.criuse_control_warnning != gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.cruising_sys_fault)
+                         586 --line155
+                         587 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.31::
+                         588 .LDWlin31:
+00000162 9d0f7f00        589 	ld.bu	126[r29],r1
+00000166 9d770f00        590 	ld.bu	14[r29],r14
+0000016a dd0a            591 	shl	29,r1
+0000016c 9f0a            592 	shr	31,r1
+0000016e de72            593 	shl	30,r14
+00000170 9f72            594 	shr	31,r14
+00000172 ee09            595 	cmp	r14,r1
+00000174 a215*           596 	be	.L94
+                         597 --156:     {
+                         598 --157:         /* Exit Cruise Control Error */
+                         599 --158:         if(gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.cruising_sys_fault == 1)
+                         600 --line158
+                         601 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.32::
+                         602 .LDWlin32:
+00000176 9d0f0f00        603 	ld.bu	14[r29],r1
+0000017a 820a            604 	shr	2,r1
+0000017c c905*           605 	bnl	.L96
+                         606 --159:         {
+                         607 --160:             W_BUZZER_START(_BUZZER_WARNING);
+                         608 --line160
+                         609 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.33::
+                         610 .LDWlin33:
+0000017e 0032            611 	mov	0,r6
+                         612 	jarl	_W_BUZZER_START,lp
+                         612 <EXPANSION BEGIN>
+                         612 jarl22 _W_BUZZER_START , lp 
+00000180 80ff0000*       612 <EXPANSION END>
+                         613 .L96:
+                         614 --161:         }
+                         615 --162:         gtmars_info.tbuzzer_task_info.twarnning_info.criuse_control_warnning = gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.cruising_sys_fault;
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         616 --line162
+                         617 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.34::
+                         618 .LDWlin34:
+00000184 9d0f0f00        619 	ld.bu	14[r29],r1
+00000188 9d777f00        620 	ld.bu	126[r29],r14
+0000018c de0a            621 	shl	30,r1
+0000018e 9f0a            622 	shr	31,r1
+00000190 e177d420        623 	bins	r1,2,1,r14
+00000194 5d777e00        624 	st.b	r14,126[r29]
+                         625 .L94:
+                         626 --163:     }
+                         627 --164:    /****************************************
+                         628 --165:     * Front Truck Open
+                         629 --166:     ****************************************/
+                         630 --167:    /****************************************
+                         631 --168:     * Tailgate Open
+                         632 --169:     ****************************************/
+                         633 --170:    /****************************************
+                         634 --171:     * Doors Open
+                         635 --172:     ****************************************/
+                         636 --173:     if((gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status == _SHIFTER_D) ||
+00000198 bd0f1100        637 	ld.bu	17[r29],r1
+0000019c c10e0700        638 	andi	7,r1,r1
+000001a0 640a            639 	cmp	4,r1
+000001a2 f205*           640 	be	.L99
+000001a4 bd0f1100        641 	ld.bu	17[r29],r1
+000001a8 c10e0700        642 	andi	7,r1,r1
+000001ac 620a            643 	cmp	2,r1
+000001ae 8a0d*           644 	bne	.L98
+                         645 .L99:
+                         646 --174:        (gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status == _SHIFTER_R))
+                         647 --175:     {
+                         648 --176:         if((gtmars_info.tcar_info.tcan_id434_info.tdoor_status_info.u8door_close_status_byte & 0x3F) != 0)            
+                         649 --line176
+                         650 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.35::
+                         651 .LDWlin35:
+000001b0 9d0f2d00        652 	ld.bu	44[r29],r1
+000001b4 da0a            653 	shl	26,r1
+000001b6 c205*           654 	be	.L98
+                         655 --177:         {
+                         656 --178:             W_BUZZER_START(_BUZZER_WARNING);
+                         657 --line178
+                         658 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.36::
+                         659 .LDWlin36:
+000001b8 0032            660 	mov	0,r6
+                         661 	jarl	_W_BUZZER_START,lp
+                         661 <EXPANSION BEGIN>
+                         661 jarl22 _W_BUZZER_START , lp 
+000001ba 80ff0000*       661 <EXPANSION END>
+                         662 .L98:
+                         663 --179:         }
+                         664 --180:     }
+                         665 --181:    /****************************************
+                         666 --182:     * Brake System Warnning
+                         667 --183:     ****************************************/
+                         668 --184:    /****************************************
+                         669 --185:     * Parking Brake Applied
+                         670 --186:     ****************************************/
+                         671 --187:     if((gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status == _SHIFTER_D) ||
+                         672 --line187
+                         673 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.37::
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         674 .LDWlin37:
+000001be bd0f1100        675 	ld.bu	17[r29],r1
+000001c2 c10e0700        676 	andi	7,r1,r1
+000001c6 640a            677 	cmp	4,r1
+000001c8 f205*           678 	be	.L104
+000001ca bd0f1100        679 	ld.bu	17[r29],r1
+000001ce c10e0700        680 	andi	7,r1,r1
+000001d2 620a            681 	cmp	2,r1
+000001d4 ca0d*           682 	bne	.L103
+                         683 .L104:
+                         684 --188:        (gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status == _SHIFTER_R))
+                         685 --189:     {
+                         686 --190:         if((gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.brake_sys_fault == 1) ||
+                         687 --line190
+                         688 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.38::
+                         689 .LDWlin38:
+000001d6 9d0f0f00        690 	ld.bu	14[r29],r1
+000001da 850a            691 	shr	5,r1
+000001dc d105*           692 	bl	.L107
+000001de 9d0f1700        693 	ld.bu	22[r29],r1
+000001e2 820a            694 	shr	2,r1
+000001e4 c905*           695 	bnl	.L103
+                         696 .L107:
+                         697 --191:            (gtmars_info.tcar_info.tcan_id134_info.tfault_code2_info.parkin_brake_fault == 1))
+                         698 --192:         {
+                         699 --193:             W_BUZZER_START(_BUZZER_WARNING);
+                         700 --line193
+                         701 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.39::
+                         702 .LDWlin39:
+000001e6 0032            703 	mov	0,r6
+                         704 	jarl	_W_BUZZER_START,lp
+                         704 <EXPANSION BEGIN>
+                         704 jarl22 _W_BUZZER_START , lp 
+000001e8 80ff0000*       704 <EXPANSION END>
+                         705 .L103:
+                         706 --194:         }
+                         707 --195:     }
+                         708 --196: }
+                         709 --	    .ef
+                         710 .LDW41:
+                         711 --line196
+                         712 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.40::
+                         713 .LDWlin40:
+000001ec 44067f30        714 	dispose	2,{r26,r27,r29,r31},[lp]
+                         715 	.type	_W_SYS_Check_CAN_Message,@function
+                         716 	.size	_W_SYS_Check_CAN_Message,.-_W_SYS_Check_CAN_Message
+                         717 	.align	2
+                         718 .LDW51:
+                         719 --_dChargePercent	r26	local
+                         720 
+                         721 	.section ".bss","awb"
+                         722 .L326:
+                         723 	.type	.L326,@object
+                         724 	.size	.L326,0
+                         725 	.data
+                         726 	.text
+                         727 
+                         728 
+                         729 --197: //*************************************************************************************************************
+                         730 --198: void W_SYS_ACC_Check(void) 
+                         731 	.align	2
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         732 	.align	2
+                         733 	.global	_W_SYS_ACC_Check
+                         734 _W_SYS_ACC_Check:
+000001f0 8007e100        735 	prepare	{r28,r29,r31},0
+000001f4 3c0600000000*   736 	mov	_gtmars_info+70,r28
+                         737 --	    .bf
+                         738 .LDW61:
+                         739 --199: {
+                         740 --200:     uint8_t u8LampIO;
+                         741 --202:     /****************************************
+                         742 --203:       * ACC I/O Detect
+                         743 --204:       ****************************************/
+                         744 --205:     u8LampIO = W_Button_Detect(&gtbutton_ACC,ACC_ON_DEBOUNCE_TIME);
+000001fa 260600000000*   745 	mov	_gtbutton_ACC,r6
+00000200 0f3a            746 	mov	15,r7
+                         747 	jarl	_W_Button_Detect,lp
+                         747 <EXPANSION BEGIN>
+                         747 jarl22 _W_Button_Detect , lp 
+00000202 80ff0000*       747 <EXPANSION END>
+00000206 0ae8            748 	mov	r10,r29
+                         749 --206:     if(gtmars_info.tcar_info.tcar_power_light_info.tcar_power_info.acc_status != u8LampIO)
+                         750 --line206
+                         751 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.41::
+                         752 .LDWlin41:
+00000208 9c0f0100        753 	ld.bu	0[r28],r1
+0000020c dd0a            754 	shl	29,r1
+0000020e 9f0a            755 	shr	31,r1
+00000210 fd09            756 	cmp	r29,r1
+00000212 d20d*           757 	be	.L490
+                         758 --207:     {
+                         759 --208:         gtmars_info.tcar_info.tcar_power_light_info.tcar_power_info.acc_status = u8LampIO;
+                         760 --line208
+                         761 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.42::
+                         762 .LDWlin42:
+00000214 9c0f0100        763 	ld.bu	0[r28],r1
+00000218 fd0fd420        764 	bins	r29,2,1,r1
+0000021c 5c0f0000        765 	st.b	r1,0[r28]
+                         766 --209:         W_Task_ChangeEvent(_TYPE_CLUSTER, _LEVEL4, _EVENT_FIRST);
+00000220 2036b000        767 	movea	176,zero,r6
+00000224 043a            768 	mov	4,r7
+00000226 0142            769 	mov	1,r8
+                         770 	jarl	_W_Task_ChangeEvent,lp
+                         770 <EXPANSION BEGIN>
+                         770 jarl22 _W_Task_ChangeEvent , lp 
+00000228 80ff0000*       770 <EXPANSION END>
+                         771 .L490:
+                         772 --210:     }
+                         773 --212: }
+                         774 --	    .ef
+                         775 .LDW71:
+                         776 --line212
+                         777 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.43::
+                         778 .LDWlin43:
+0000022c 4006ff00        779 	dispose	0,{r28,r29,r31},[lp]
+                         780 	.type	_W_SYS_ACC_Check,@function
+                         781 	.size	_W_SYS_ACC_Check,.-_W_SYS_ACC_Check
+                         782 	.align	2
+                         783 .LDW81:
+                         784 --_u8LampIO	r29	local
+                         785 
+                         786 	.section ".bss","awb"
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         787 .L526:
+                         788 	.type	.L526,@object
+                         789 	.size	.L526,0
+                         790 	.data
+                         791 	.text
+                         792 
+                         793 
+                         794 --213: //*************************************************************************************************************
+                         795 --214: void W_SYS_Check_GPIO(void) 
+                         796 	.align	2
+                         797 	.align	2
+                         798 	.global	_W_SYS_Check_GPIO
+                         799 _W_SYS_Check_GPIO:
+00000230 8007e100        800 	prepare	{r28,r29,r31},0
+00000234 3c0600000000*   801 	mov	_gtmars_info,r28
+                         802 --	    .bf
+                         803 .LDW91:
+                         804 --215: {
+                         805 --216:     uint8_t u8LampIO;
+                         806 --217:     uint8_t u8Test;
+                         807 --218:     if(gtmars_info.tbutton_task_info.u16timer1 == 0)
+0000023a fc0f6f00        808 	ld.hu	110[r28],r1
+0000023e e009            809 	cmp	zero,r1
+00000240 ea07b301*       810 	bne	.L552
+                         811 --219:     {
+                         812 --220:         gtmars_info.tbutton_task_info.u16timer1 = 1; // timebase 10ms
+                         813 --line220
+                         814 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.44::
+                         815 .LDWlin44:
+00000244 010a            816 	mov	1,r1
+00000246 7c0f6e00        817 	st.h	r1,110[r28]
+                         818 --221:         /****************************************
+                         819 --222:          * CHARGE I/O Detect
+                         820 --223:          ****************************************/
+                         821 --224:         u8LampIO = W_Button_Detect(&gtbutton_CHARGE,CHARGE_DEBOUNCE_TIME);
+0000024a 260600000000*   822 	mov	_gtbutton_CHARGE,r6
+00000250 0a3a            823 	mov	10,r7
+                         824 	jarl	_W_Button_Detect,lp
+                         824 <EXPANSION BEGIN>
+                         824 jarl22 _W_Button_Detect , lp 
+00000252 80ff0000*       824 <EXPANSION END>
+00000256 0ae8            825 	mov	r10,r29
+                         826 --225:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_power_info.charge_status != u8LampIO)
+                         827 --line225
+                         828 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.45::
+                         829 .LDWlin45:
+00000258 9c0f4700        830 	ld.bu	70[r28],r1
+0000025c c10e0100        831 	andi	1,r1,r1
+00000260 fd09            832 	cmp	r29,r1
+00000262 f205*           833 	be	.L554
+                         834 --226:         {
+                         835 --227:             gtmars_info.tcar_info.tcar_power_light_info.tcar_power_info.charge_status = u8LampIO;
+                         836 --line227
+                         837 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.46::
+                         838 .LDWlin46:
+00000264 9c0f4700        839 	ld.bu	70[r28],r1
+00000268 fd0fd000        840 	bins	r29,0,1,r1
+0000026c 5c0f4600        841 	st.b	r1,70[r28]
+                         842 .L554:
+                         843 --228:         }
+                         844 --229:         /****************************************
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         845 --230:          * IGN I/O Detect
+                         846 --231:          ****************************************/
+                         847 --232:         u8LampIO = W_Button_Detect(&gtbutton_IGN,IGN_DEBOUNCE_TIME);
+00000270 260600000000*   848 	mov	_gtbutton_IGN,r6
+00000276 0a3a            849 	mov	10,r7
+                         850 	jarl	_W_Button_Detect,lp
+                         850 <EXPANSION BEGIN>
+                         850 jarl22 _W_Button_Detect , lp 
+00000278 80ff0000*       850 <EXPANSION END>
+0000027c 0ae8            851 	mov	r10,r29
+                         852 --233:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_power_info.ign_status != u8LampIO)
+                         853 --line233
+                         854 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.47::
+                         855 .LDWlin47:
+0000027e 9c0f4700        856 	ld.bu	70[r28],r1
+00000282 de0a            857 	shl	30,r1
+00000284 9f0a            858 	shr	31,r1
+00000286 fd09            859 	cmp	r29,r1
+00000288 f205*           860 	be	.L556
+                         861 --234:         {
+                         862 --235:             gtmars_info.tcar_info.tcar_power_light_info.tcar_power_info.ign_status = u8LampIO;
+                         863 --line235
+                         864 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.48::
+                         865 .LDWlin48:
+0000028a 9c0f4700        866 	ld.bu	70[r28],r1
+0000028e fd0fd210        867 	bins	r29,1,1,r1
+00000292 5c0f4600        868 	st.b	r1,70[r28]
+                         869 .L556:
+                         870 --236:         }
+                         871 --237:         /****************************************
+                         872 --238:          * Head Lamp Hight I/O Detect
+                         873 --239:          ****************************************/
+                         874 --240:         u8LampIO = W_Button_Detect(&gtbutton_HEADLAMP_H,LAMP_DEBOUNCE_TIME);
+00000296 260600000000*   875 	mov	_gtbutton_HEADLAMP_H,r6
+0000029c 023a            876 	mov	2,r7
+                         877 	jarl	_W_Button_Detect,lp
+                         877 <EXPANSION BEGIN>
+                         877 jarl22 _W_Button_Detect , lp 
+0000029e 80ff0000*       877 <EXPANSION END>
+000002a2 0ae8            878 	mov	r10,r29
+                         879 --241:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.head_lamp_h != u8LampIO)
+                         880 --line241
+                         881 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.49::
+                         882 .LDWlin49:
+000002a4 9c0f4900        883 	ld.bu	72[r28],r1
+000002a8 dd0a            884 	shl	29,r1
+000002aa 9f0a            885 	shr	31,r1
+000002ac fd09            886 	cmp	r29,r1
+000002ae f205*           887 	be	.L558
+                         888 --242:         {
+                         889 --243:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.head_lamp_h = u8LampIO;
+                         890 --line243
+                         891 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.50::
+                         892 .LDWlin50:
+000002b0 9c0f4900        893 	ld.bu	72[r28],r1
+000002b4 fd0fd420        894 	bins	r29,2,1,r1
+000002b8 5c0f4800        895 	st.b	r1,72[r28]
+                         896 .L558:
+                         897 --244:         }
+                         898 --245:         /****************************************
+                         899 --246:          * Head Lamp Low I/O Detect
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         900 --247:          ****************************************/
+                         901 --248:         u8LampIO = W_Button_Detect(&gtbutton_HEADLAMP_L,LAMP_DEBOUNCE_TIME);
+000002bc 260600000000*   902 	mov	_gtbutton_HEADLAMP_L,r6
+000002c2 023a            903 	mov	2,r7
+                         904 	jarl	_W_Button_Detect,lp
+                         904 <EXPANSION BEGIN>
+                         904 jarl22 _W_Button_Detect , lp 
+000002c4 80ff0000*       904 <EXPANSION END>
+000002c8 0ae8            905 	mov	r10,r29
+                         906 --249:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.head_lamp_l != u8LampIO)
+                         907 --line249
+                         908 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.51::
+                         909 .LDWlin51:
+000002ca 9c0f4900        910 	ld.bu	72[r28],r1
+000002ce dc0a            911 	shl	28,r1
+000002d0 9f0a            912 	shr	31,r1
+000002d2 fd09            913 	cmp	r29,r1
+000002d4 f205*           914 	be	.L560
+                         915 --250:         {
+                         916 --251:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.head_lamp_l = u8LampIO;
+                         917 --line251
+                         918 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.52::
+                         919 .LDWlin52:
+000002d6 9c0f4900        920 	ld.bu	72[r28],r1
+000002da fd0fd630        921 	bins	r29,3,1,r1
+000002de 5c0f4800        922 	st.b	r1,72[r28]
+                         923 .L560:
+                         924 --252:         }
+                         925 --253:         /****************************************
+                         926 --254:          * Tail Lamp I/O Detect
+                         927 --255:          ****************************************/
+                         928 --256:         u8LampIO = W_Button_Detect(&gtbutton_TAIL_LAMP,LAMP_DEBOUNCE_TIME);
+000002e2 260600000000*   929 	mov	_gtbutton_TAIL_LAMP,r6
+000002e8 023a            930 	mov	2,r7
+                         931 	jarl	_W_Button_Detect,lp
+                         931 <EXPANSION BEGIN>
+                         931 jarl22 _W_Button_Detect , lp 
+000002ea 80ff0000*       931 <EXPANSION END>
+000002ee 0ae8            932 	mov	r10,r29
+                         933 --257:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.tail_lamp != u8LampIO)
+                         934 --line257
+                         935 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.53::
+                         936 .LDWlin53:
+000002f0 9c0f4900        937 	ld.bu	72[r28],r1
+000002f4 de0a            938 	shl	30,r1
+000002f6 9f0a            939 	shr	31,r1
+000002f8 fd09            940 	cmp	r29,r1
+000002fa f205*           941 	be	.L562
+                         942 --258:         {
+                         943 --259:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.tail_lamp = u8LampIO;
+                         944 --line259
+                         945 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.54::
+                         946 .LDWlin54:
+000002fc 9c0f4900        947 	ld.bu	72[r28],r1
+00000300 fd0fd210        948 	bins	r29,1,1,r1
+00000304 5c0f4800        949 	st.b	r1,72[r28]
+                         950 .L562:
+                         951 --260:         }
+                         952 --261:         /****************************************
+                         953 --262:          * Reverse Lamp I/O Detect
+                         954 --263:          ****************************************/
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                         955 --264:         u8LampIO = W_Button_Detect(&gtbutton_REVERSE_LAMP,LAMP_DEBOUNCE_TIME);
+00000308 260600000000*   956 	mov	_gtbutton_REVERSE_LAMP,r6
+0000030e 023a            957 	mov	2,r7
+                         958 	jarl	_W_Button_Detect,lp
+                         958 <EXPANSION BEGIN>
+                         958 jarl22 _W_Button_Detect , lp 
+00000310 80ff0000*       958 <EXPANSION END>
+00000314 0ae8            959 	mov	r10,r29
+                         960 --265:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.reverse_lamp != u8LampIO)
+                         961 --line265
+                         962 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.55::
+                         963 .LDWlin55:
+00000316 9c0f4900        964 	ld.bu	72[r28],r1
+0000031a c10e0100        965 	andi	1,r1,r1
+0000031e fd09            966 	cmp	r29,r1
+00000320 f205*           967 	be	.L564
+                         968 --266:         {
+                         969 --267:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.reverse_lamp = u8LampIO;
+                         970 --line267
+                         971 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.56::
+                         972 .LDWlin56:
+00000322 9c0f4900        973 	ld.bu	72[r28],r1
+00000326 fd0fd000        974 	bins	r29,0,1,r1
+0000032a 5c0f4800        975 	st.b	r1,72[r28]
+                         976 .L564:
+                         977 --268:         }
+                         978 --269:         /****************************************
+                         979 --270:          * Left Turn Lamp I/O Detect
+                         980 --271:          ****************************************/
+                         981 --272:         u8LampIO = W_Button_Detect(&gtbutton_LEFT_TURN_LAMP,LAMP_DEBOUNCE_TIME);
+0000032e 260600000000*   982 	mov	_gtbutton_LEFT_TURN_LAMP,r6
+00000334 023a            983 	mov	2,r7
+                         984 	jarl	_W_Button_Detect,lp
+                         984 <EXPANSION BEGIN>
+                         984 jarl22 _W_Button_Detect , lp 
+00000336 80ff0000*       984 <EXPANSION END>
+0000033a 0ae8            985 	mov	r10,r29
+                         986 --273:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp != u8LampIO)
+                         987 --line273
+                         988 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.57::
+                         989 .LDWlin57:
+0000033c 9c0f4900        990 	ld.bu	72[r28],r1
+00000340 db0a            991 	shl	27,r1
+00000342 9f0a            992 	shr	31,r1
+00000344 fd09            993 	cmp	r29,r1
+00000346 a215*           994 	be	.L566
+                         995 --274:         {
+                         996 --275:             /* Hight to Low Edge */
+                         997 --276:             if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp == _HIGHT_LEVEL)
+                         998 --line276
+                         999 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.58::
+                        1000 .LDWlin58:
+00000348 9c0f4900       1001 	ld.bu	72[r28],r1
+0000034c 850a           1002 	shr	5,r1
+0000034e d905*          1003 	bnl	.L568
+                        1004 --277:             {
+                        1005 --278:                 W_BUZZER_START(_BUZZER_TOCK);
+                        1006 --line278
+                        1007 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.59::
+                        1008 .LDWlin59:
+00000350 0232           1009 	mov	2,r6
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1010 	jarl	_W_BUZZER_START,lp
+                        1010 <EXPANSION BEGIN>
+                        1010 jarl22 _W_BUZZER_START , lp 
+00000352 80ff0000*      1010 <EXPANSION END>
+00000356 c505*          1011 	br	.L570
+                        1012 .L568:
+                        1013 --279:             }
+                        1014 --280:             /* Low to Hight Edge */
+                        1015 --281:             else
+                        1016 --282:             {
+                        1017 --283:                 W_BUZZER_START(_BUZZER_TICK);
+                        1018 --line283
+                        1019 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.60::
+                        1020 .LDWlin60:
+00000358 0132           1021 	mov	1,r6
+                        1022 	jarl	_W_BUZZER_START,lp
+                        1022 <EXPANSION BEGIN>
+                        1022 jarl22 _W_BUZZER_START , lp 
+0000035a 80ff0000*      1022 <EXPANSION END>
+                        1023 .L570:
+                        1024 --284:             }
+                        1025 --285:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp = u8LampIO;
+                        1026 --line285
+                        1027 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.61::
+                        1028 .LDWlin61:
+0000035e 9c0f4900       1029 	ld.bu	72[r28],r1
+00000362 fd0fd840       1030 	bins	r29,4,1,r1
+00000366 5c0f4800       1031 	st.b	r1,72[r28]
+                        1032 .L566:
+                        1033 --286:         }
+                        1034 --287:         /****************************************
+                        1035 --288:          * Right Turn Lamp I/O Detect
+                        1036 --289:          ****************************************/
+                        1037 --290:         u8LampIO = W_Button_Detect(&gtbutton_RIGHT_TURN_LAMP,LAMP_DEBOUNCE_TIME);
+0000036a 260600000000*  1038 	mov	_gtbutton_RIGHT_TURN_LAMP,r6
+00000370 023a           1039 	mov	2,r7
+                        1040 	jarl	_W_Button_Detect,lp
+                        1040 <EXPANSION BEGIN>
+                        1040 jarl22 _W_Button_Detect , lp 
+00000372 80ff0000*      1040 <EXPANSION END>
+00000376 0ae8           1041 	mov	r10,r29
+                        1042 --291:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp != u8LampIO)
+                        1043 --line291
+                        1044 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.62::
+                        1045 .LDWlin62:
+00000378 9c0f4900       1046 	ld.bu	72[r28],r1
+0000037c da0a           1047 	shl	26,r1
+0000037e 9f0a           1048 	shr	31,r1
+00000380 fd09           1049 	cmp	r29,r1
+00000382 a215*          1050 	be	.L571
+                        1051 --292:         {
+                        1052 --293:             /* Hight to Low Edge */
+                        1053 --294:             if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp == _HIGHT_LEVEL)
+                        1054 --line294
+                        1055 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.63::
+                        1056 .LDWlin63:
+00000384 9c0f4900       1057 	ld.bu	72[r28],r1
+00000388 860a           1058 	shr	6,r1
+0000038a d905*          1059 	bnl	.L573
+                        1060 --295:             {
+                        1061 --296:                 W_BUZZER_START(_BUZZER_TOCK);
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1062 --line296
+                        1063 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.64::
+                        1064 .LDWlin64:
+0000038c 0232           1065 	mov	2,r6
+                        1066 	jarl	_W_BUZZER_START,lp
+                        1066 <EXPANSION BEGIN>
+                        1066 jarl22 _W_BUZZER_START , lp 
+0000038e 80ff0000*      1066 <EXPANSION END>
+00000392 c505*          1067 	br	.L575
+                        1068 .L573:
+                        1069 --297:             }
+                        1070 --298:             /* Low to Hight Edge */
+                        1071 --299:             else
+                        1072 --300:             {
+                        1073 --301:                 W_BUZZER_START(_BUZZER_TICK);
+                        1074 --line301
+                        1075 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.65::
+                        1076 .LDWlin65:
+00000394 0132           1077 	mov	1,r6
+                        1078 	jarl	_W_BUZZER_START,lp
+                        1078 <EXPANSION BEGIN>
+                        1078 jarl22 _W_BUZZER_START , lp 
+00000396 80ff0000*      1078 <EXPANSION END>
+                        1079 .L575:
+                        1080 --302:             }
+                        1081 --303:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp = u8LampIO;
+                        1082 --line303
+                        1083 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.66::
+                        1084 .LDWlin66:
+0000039a 9c0f4900       1085 	ld.bu	72[r28],r1
+0000039e fd0fda50       1086 	bins	r29,5,1,r1
+000003a2 5c0f4800       1087 	st.b	r1,72[r28]
+                        1088 .L571:
+                        1089 --304:         }
+                        1090 --305:         /****************************************
+                        1091 --306:          * Front Fog Lamp I/O Detect
+                        1092 --307:          ****************************************/
+                        1093 --308:         u8LampIO = W_Button_Detect(&gtbutton_FRONT_FOG_LAMP,LAMP_DEBOUNCE_TIME);
+000003a6 260600000000*  1094 	mov	_gtbutton_FRONT_FOG_LAMP,r6
+000003ac 023a           1095 	mov	2,r7
+                        1096 	jarl	_W_Button_Detect,lp
+                        1096 <EXPANSION BEGIN>
+                        1096 jarl22 _W_Button_Detect , lp 
+000003ae 80ff0000*      1096 <EXPANSION END>
+000003b2 0ae8           1097 	mov	r10,r29
+                        1098 --309:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.f_fog_lamp != u8LampIO)
+                        1099 --line309
+                        1100 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.67::
+                        1101 .LDWlin67:
+000003b4 9c0f4900       1102 	ld.bu	72[r28],r1
+000003b8 d90a           1103 	shl	25,r1
+000003ba 9f0a           1104 	shr	31,r1
+000003bc fd09           1105 	cmp	r29,r1
+000003be f205*          1106 	be	.L576
+                        1107 --310:         {
+                        1108 --311:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.f_fog_lamp = u8LampIO;
+                        1109 --line311
+                        1110 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.68::
+                        1111 .LDWlin68:
+000003c0 9c0f4900       1112 	ld.bu	72[r28],r1
+000003c4 fd0fdc60       1113 	bins	r29,6,1,r1
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+000003c8 5c0f4800       1114 	st.b	r1,72[r28]
+                        1115 .L576:
+                        1116 --312:         }
+                        1117 --313:         /****************************************
+                        1118 --314:          * Rear Fog Lamp I/O Detect
+                        1119 --315:          ****************************************/
+                        1120 --316:         u8LampIO = W_Button_Detect(&gtbutton_REAR_FOG_LAMP,LAMP_DEBOUNCE_TIME);
+000003cc 260600000000*  1121 	mov	_gtbutton_REAR_FOG_LAMP,r6
+000003d2 023a           1122 	mov	2,r7
+                        1123 	jarl	_W_Button_Detect,lp
+                        1123 <EXPANSION BEGIN>
+                        1123 jarl22 _W_Button_Detect , lp 
+000003d4 80ff0000*      1123 <EXPANSION END>
+000003d8 0ae8           1124 	mov	r10,r29
+                        1125 --317:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_fog_lamp != u8LampIO)
+                        1126 --line317
+                        1127 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.69::
+                        1128 .LDWlin69:
+000003da 9c0f4900       1129 	ld.bu	72[r28],r1
+000003de d80a           1130 	shl	24,r1
+000003e0 9f0a           1131 	shr	31,r1
+000003e2 fd09           1132 	cmp	r29,r1
+000003e4 f205*          1133 	be	.L552
+                        1134 --318:         {
+                        1135 --319:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_fog_lamp = u8LampIO;
+                        1136 --line319
+                        1137 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.70::
+                        1138 .LDWlin70:
+000003e6 9c0f4900       1139 	ld.bu	72[r28],r1
+000003ea fd0fde70       1140 	bins	r29,7,1,r1
+000003ee 5c0f4800       1141 	st.b	r1,72[r28]
+                        1142 .L552:
+                        1143 --320:         }
+                        1144 --321:     }
+                        1145 --322: }
+                        1146 --	    .ef
+                        1147 .LDW02:
+000003f2 4006ff00       1148 	dispose	0,{r28,r29,r31},[lp]
+                        1149 	.type	_W_SYS_Check_GPIO,@function
+                        1150 	.size	_W_SYS_Check_GPIO,.-_W_SYS_Check_GPIO
+                        1151 	.align	2
+                        1152 .LDW12:
+                        1153 --_u8LampIO	r29	local
+                        1154 
+                        1155 	.section ".bss","awb"
+                        1156 .L758:
+                        1157 	.type	.L758,@object
+                        1158 	.size	.L758,0
+                        1159 	.data
+                        1160 	.text
+                        1161 
+                        1162 
+                        1163 --323: //*************************************************************************************************************
+                        1164 --324: void W_SYS_DEMO_Turnligth(void)
+                        1165 	.align	2
+                        1166 	.align	2
+                        1167 	.global	_W_SYS_DEMO_Turnligth
+                        1168 _W_SYS_DEMO_Turnligth:
+000003f6 80076100       1169 	prepare	{r29,r31},0
+000003fa 3d0600000000*  1170 	mov	_gtmars_info,r29
+                        1171 --	    .bf
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1172 .LDW22:
+                        1173 --325: {
+                        1174 --326:     if(gtmars_info.tdemo_info.u8turn_status == 0)
+00000400 9d0f8900       1175 	ld.bu	136[r29],r1
+00000404 e009           1176 	cmp	zero,r1
+00000406 da25*          1177 	bne	.L886
+                        1178 --327:     {
+                        1179 --328:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp == 1)
+                        1180 --line328
+                        1181 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.71::
+                        1182 .LDWlin71:
+00000408 9d0f4900       1183 	ld.bu	72[r29],r1
+0000040c 860a           1184 	shr	6,r1
+0000040e 9915*          1185 	bnl	.L888
+                        1186 --329:         {
+                        1187 --330:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp = 0;
+                        1188 --line330
+                        1189 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.72::
+                        1190 .LDWlin72:
+00000410 9d0f4900       1191 	ld.bu	72[r29],r1
+00000414 c10edf00       1192 	andi	223,r1,r1
+00000418 5d0f4800       1193 	st.b	r1,72[r29]
+                        1194 --331:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp = 0;
+0000041c 9d0f4900       1195 	ld.bu	72[r29],r1
+00000420 c10eef00       1196 	andi	239,r1,r1
+00000424 5d0f4800       1197 	st.b	r1,72[r29]
+                        1198 --333:             W_BUZZER_START(_BUZZER_TICK);
+00000428 0132           1199 	mov	1,r6
+                        1200 	jarl	_W_BUZZER_START,lp
+                        1200 <EXPANSION BEGIN>
+                        1200 jarl22 _W_BUZZER_START , lp 
+0000042a 80ff0000*      1200 <EXPANSION END>
+0000042e c555*          1201 	br	.L891
+                        1202 .L888:
+                        1203 --334:         }
+                        1204 --335:         else
+                        1205 --336:         {
+                        1206 --337:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp = 1;
+                        1207 --line337
+                        1208 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.73::
+                        1209 .LDWlin73:
+00000430 9d0f4900       1210 	ld.bu	72[r29],r1
+00000434 810e2000       1211 	ori	32,r1,r1
+00000438 5d0f4800       1212 	st.b	r1,72[r29]
+                        1213 --338:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp = 1;
+0000043c 9d0f4900       1214 	ld.bu	72[r29],r1
+00000440 810e1000       1215 	ori	16,r1,r1
+00000444 5d0f4800       1216 	st.b	r1,72[r29]
+                        1217 --339:             W_BUZZER_START(_BUZZER_TOCK);
+00000448 0232           1218 	mov	2,r6
+                        1219 	jarl	_W_BUZZER_START,lp
+                        1219 <EXPANSION BEGIN>
+                        1219 jarl22 _W_BUZZER_START , lp 
+0000044a 80ff0000*      1219 <EXPANSION END>
+0000044e c545*          1220 	br	.L891
+                        1221 .L886:
+                        1222 --340:         }
+                        1223 --341:     }
+                        1224 --342:     else if(gtmars_info.tdemo_info.u8turn_status == 1)
+                        1225 --line342
+                        1226 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.74::
+
+                                                                      Page 23
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1227 .LDWlin74:
+00000450 9d0f8900       1228 	ld.bu	136[r29],r1
+00000454 610a           1229 	cmp	1,r1
+00000456 fa1d*          1230 	bne	.L892
+                        1231 --343:     {
+                        1232 --344:         gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp = 0;
+                        1233 --line344
+                        1234 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.75::
+                        1235 .LDWlin75:
+00000458 9d0f4900       1236 	ld.bu	72[r29],r1
+0000045c c10edf00       1237 	andi	223,r1,r1
+00000460 5d0f4800       1238 	st.b	r1,72[r29]
+                        1239 --345:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp == 1)
+00000464 9d0f4900       1240 	ld.bu	72[r29],r1
+00000468 850a           1241 	shr	5,r1
+0000046a b90d*          1242 	bnl	.L894
+                        1243 --346:         {
+                        1244 --347:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp = 0;
+                        1245 --line347
+                        1246 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.76::
+                        1247 .LDWlin76:
+0000046c 9d0f4900       1248 	ld.bu	72[r29],r1
+00000470 c10eef00       1249 	andi	239,r1,r1
+00000474 5d0f4800       1250 	st.b	r1,72[r29]
+                        1251 --348:             W_BUZZER_START(_BUZZER_TICK);
+00000478 0132           1252 	mov	1,r6
+                        1253 	jarl	_W_BUZZER_START,lp
+                        1253 <EXPANSION BEGIN>
+                        1253 jarl22 _W_BUZZER_START , lp 
+0000047a 80ff0000*      1253 <EXPANSION END>
+0000047e c52d*          1254 	br	.L891
+                        1255 .L894:
+                        1256 --349:         }
+                        1257 --350:         else
+                        1258 --351:         {
+                        1259 --352:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp = 1;
+                        1260 --line352
+                        1261 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.77::
+                        1262 .LDWlin77:
+00000480 9d0f4900       1263 	ld.bu	72[r29],r1
+00000484 810e1000       1264 	ori	16,r1,r1
+00000488 5d0f4800       1265 	st.b	r1,72[r29]
+                        1266 --353:             W_BUZZER_START(_BUZZER_TOCK);
+0000048c 0232           1267 	mov	2,r6
+                        1268 	jarl	_W_BUZZER_START,lp
+                        1268 <EXPANSION BEGIN>
+                        1268 jarl22 _W_BUZZER_START , lp 
+0000048e 80ff0000*      1268 <EXPANSION END>
+00000492 a525*          1269 	br	.L891
+                        1270 .L892:
+                        1271 --354:         }
+                        1272 --355:     }
+                        1273 --356:     else if(gtmars_info.tdemo_info.u8turn_status == 2)
+                        1274 --line356
+                        1275 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.78::
+                        1276 .LDWlin78:
+00000494 9d0f8900       1277 	ld.bu	136[r29],r1
+00000498 620a           1278 	cmp	2,r1
+0000049a ea1d*          1279 	bne	.L891
+                        1280 --357:     {
+                        1281 --358:         gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.l_turn_lamp = 0;
+
+                                                                      Page 24
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1282 --line358
+                        1283 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.79::
+                        1284 .LDWlin79:
+0000049c 9d0f4900       1285 	ld.bu	72[r29],r1
+000004a0 c10eef00       1286 	andi	239,r1,r1
+000004a4 5d0f4800       1287 	st.b	r1,72[r29]
+                        1288 --359:         if(gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp == 1)
+000004a8 9d0f4900       1289 	ld.bu	72[r29],r1
+000004ac 860a           1290 	shr	6,r1
+000004ae b90d*          1291 	bnl	.L900
+                        1292 --360:         {
+                        1293 --361:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp = 0;
+                        1294 --line361
+                        1295 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.80::
+                        1296 .LDWlin80:
+000004b0 9d0f4900       1297 	ld.bu	72[r29],r1
+000004b4 c10edf00       1298 	andi	223,r1,r1
+000004b8 5d0f4800       1299 	st.b	r1,72[r29]
+                        1300 --362:             W_BUZZER_START(_BUZZER_TICK);
+000004bc 0132           1301 	mov	1,r6
+                        1302 	jarl	_W_BUZZER_START,lp
+                        1302 <EXPANSION BEGIN>
+                        1302 jarl22 _W_BUZZER_START , lp 
+000004be 80ff0000*      1302 <EXPANSION END>
+000004c2 a50d*          1303 	br	.L891
+                        1304 .L900:
+                        1305 --363:         }
+                        1306 --364:         else
+                        1307 --365:         {
+                        1308 --366:             gtmars_info.tcar_info.tcar_power_light_info.tcar_light_info.r_turn_lamp = 1;
+                        1309 --line366
+                        1310 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.81::
+                        1311 .LDWlin81:
+000004c4 9d0f4900       1312 	ld.bu	72[r29],r1
+000004c8 810e2000       1313 	ori	32,r1,r1
+000004cc 5d0f4800       1314 	st.b	r1,72[r29]
+                        1315 --367:             W_BUZZER_START(_BUZZER_TOCK);
+000004d0 0232           1316 	mov	2,r6
+                        1317 	jarl	_W_BUZZER_START,lp
+                        1317 <EXPANSION BEGIN>
+                        1317 jarl22 _W_BUZZER_START , lp 
+000004d2 80ff0000*      1317 <EXPANSION END>
+                        1318 .L891:
+                        1319 --368:         }
+                        1320 --369:     }
+                        1321 --371: }
+                        1322 --	    .ef
+                        1323 .LDW32:
+                        1324 --line371
+                        1325 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.82::
+                        1326 .LDWlin82:
+000004d6 40067f00       1327 	dispose	0,{r29,r31},[lp]
+                        1328 	.type	_W_SYS_DEMO_Turnligth,@function
+                        1329 	.size	_W_SYS_DEMO_Turnligth,.-_W_SYS_DEMO_Turnligth
+                        1330 	.align	2
+                        1331 .LDW42:
+                        1332 
+                        1333 	.section ".bss","awb"
+                        1334 .L1014:
+                        1335 	.type	.L1014,@object
+                        1336 	.size	.L1014,0
+
+                                                                      Page 25
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1337 	.data
+                        1338 	.text
+                        1339 
+                        1340 
+                        1341 --372: //*************************************************************************************************************
+                        1342 --373: void W_SYS_DEMO_Message(void)
+                        1343 	.align	2
+                        1344 	.align	2
+                        1345 	.global	_W_SYS_DEMO_Message
+                        1346 _W_SYS_DEMO_Message:
+000004da 80076100       1347 	prepare	{r29,r31},0
+000004de 3d0600000000*  1348 	mov	_gtmars_info,r29
+                        1349 --	    .bf
+                        1350 .LDW52:
+                        1351 --374: {
+                        1352 --375:     static uint8_t u8ticktok_flg;
+                        1353 --376:     static uint8_t u8demo_state;
+                        1354 --378:     gtmars_info.tcar_info.tcan_id53e_info.tsys_consisterncy_check1.ready_to_drive_light_on = 1;
+000004e4 9d0f2100       1355 	ld.bu	32[r29],r1
+000004e8 810e0100       1356 	ori	1,r1,r1
+000004ec 5d0f2000       1357 	st.b	r1,32[r29]
+                        1358 --379:     if(gtmars_info.tdemo_info.u16timer1 == 0)
+000004f0 fd0f8100       1359 	ld.hu	128[r29],r1
+000004f4 e009           1360 	cmp	zero,r1
+000004f6 ca45*          1361 	bne	.L1094
+                        1362 --380:     {
+                        1363 --381:         gtmars_info.tdemo_info.u16timer1 = 100; // 10ms * 100 = 1s
+                        1364 --line381
+                        1365 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.83::
+                        1366 .LDWlin83:
+000004f8 200e6400       1367 	movea	100,zero,r1
+000004fc 7d0f8000       1368 	st.h	r1,128[r29]
+                        1369 --382:         W_SYS_DEMO_Turnligth();
+                        1370 	jarl	_W_SYS_DEMO_Turnligth,lp
+                        1370 <EXPANSION BEGIN>
+                        1370 jarl22 _W_SYS_DEMO_Turnligth , lp 
+00000500 bffff6fe*      1370 <EXPANSION END>
+                        1371 --384:         /* Seat Belt Check */
+                        1372 --385:         if(gtmars_info.tcar_info.tcan_id434_info.tcabin_status_info.u8cabin_status_byte != 0x07)
+                        1373 --line385
+                        1374 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.84::
+                        1375 .LDWlin84:
+00000504 9d0f2f00       1376 	ld.bu	46[r29],r1
+00000508 670a           1377 	cmp	7,r1
+0000050a d205*          1378 	be	.L1096
+                        1379 --386:         {
+                        1380 --387:             gtmars_info.tcar_info.tcan_id434_info.tcabin_status_info.u8cabin_status_byte = 0x07;
+                        1381 --line387
+                        1382 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.85::
+                        1383 .LDWlin85:
+0000050c 070a           1384 	mov	7,r1
+0000050e 5d0f2e00       1385 	st.b	r1,46[r29]
+00000512 b505*          1386 	br	.L1098
+                        1387 .L1096:
+                        1388 --388:         }
+                        1389 --389:         else
+                        1390 --390:         {
+                        1391 --391:             gtmars_info.tcar_info.tcan_id434_info.tcabin_status_info.u8cabin_status_byte = 0x00;
+                        1392 --line391
+                        1393 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.86::
+                        1394 .LDWlin86:
+
+                                                                      Page 26
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+00000514 5d072e00       1395 	st.b	zero,46[r29]
+                        1396 .L1098:
+                        1397 --392:         }
+                        1398 --393:         /* High Voltage Check*/
+                        1399 --394:         if(gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.hv_sys_fault == 0)
+00000518 9d0f0f00       1400 	ld.bu	14[r29],r1
+0000051c 830a           1401 	shr	3,r1
+0000051e 810d*          1402 	bl	.L1099
+                        1403 --395:         {
+                        1404 --396:             gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.hv_sys_fault = 1;
+                        1405 --line396
+                        1406 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.87::
+                        1407 .LDWlin87:
+00000520 9d0f0f00       1408 	ld.bu	14[r29],r1
+00000524 810e0400       1409 	ori	4,r1,r1
+00000528 5d0f0e00       1410 	st.b	r1,14[r29]
+0000052c f505*          1411 	br	.L1101
+                        1412 .L1099:
+                        1413 --397:         }
+                        1414 --398:         else
+                        1415 --399:         {
+                        1416 --400:             gtmars_info.tcar_info.tcan_id133_info.tfault_code1_info.hv_sys_fault = 0;
+                        1417 --line400
+                        1418 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.88::
+                        1419 .LDWlin88:
+0000052e 9d0f0f00       1420 	ld.bu	14[r29],r1
+00000532 c10efb00       1421 	andi	251,r1,r1
+00000536 5d0f0e00       1422 	st.b	r1,14[r29]
+                        1423 .L1101:
+                        1424 --401:         }
+                        1425 --402:         /* Icon 19 */
+                        1426 --403:         if(gtmars_info.tcar_info.tcan_id287_info.tlamp_form_can_info.front_fog == 0)
+0000053a 9d0f4500       1427 	ld.bu	68[r29],r1
+0000053e 850a           1428 	shr	5,r1
+00000540 810d*          1429 	bl	.L1102
+                        1430 --404:         {
+                        1431 --405:             gtmars_info.tcar_info.tcan_id287_info.tlamp_form_can_info.front_fog = 1;
+                        1432 --line405
+                        1433 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.89::
+                        1434 .LDWlin89:
+00000542 9d0f4500       1435 	ld.bu	68[r29],r1
+00000546 810e1000       1436 	ori	16,r1,r1
+0000054a 5d0f4400       1437 	st.b	r1,68[r29]
+0000054e f505*          1438 	br	.L1104
+                        1439 .L1102:
+                        1440 --406:         }
+                        1441 --407:         else
+                        1442 --408:         {
+                        1443 --409:             gtmars_info.tcar_info.tcan_id287_info.tlamp_form_can_info.front_fog = 0;
+                        1444 --line409
+                        1445 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.90::
+                        1446 .LDWlin90:
+00000550 9d0f4500       1447 	ld.bu	68[r29],r1
+00000554 c10eef00       1448 	andi	239,r1,r1
+00000558 5d0f4400       1449 	st.b	r1,68[r29]
+                        1450 .L1104:
+                        1451 --410:         }
+                        1452 --411:         /* Icon 13 */
+                        1453 --412:         if(gtmars_info.tcar_info.tcan_id434_info.tlamp_status_info.u8head_lamp_auto == 1)
+0000055c bd0f2d00       1454 	ld.bu	45[r29],r1
+00000560 880a           1455 	shr	8,r1
+
+                                                                      Page 27
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+00000562 890d*          1456 	bnl	.L1105
+                        1457 --413:         {
+                        1458 --414:             gtmars_info.tcar_info.tcan_id434_info.tlamp_status_info.u8head_lamp_auto = 0;
+                        1459 --line414
+                        1460 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.91::
+                        1461 .LDWlin91:
+00000564 bd0f2d00       1462 	ld.bu	45[r29],r1
+00000568 c10e7f00       1463 	andi	127,r1,r1
+0000056c 5d0f2d00       1464 	st.b	r1,45[r29]
+00000570 f505*          1465 	br	.L1094
+                        1466 .L1105:
+                        1467 --415:         }
+                        1468 --416:         else
+                        1469 --417:         {
+                        1470 --418:             gtmars_info.tcar_info.tcan_id434_info.tlamp_status_info.u8head_lamp_auto = 1;
+                        1471 --line418
+                        1472 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.92::
+                        1473 .LDWlin92:
+00000572 bd0f2d00       1474 	ld.bu	45[r29],r1
+00000576 810e8000       1475 	ori	128,r1,r1
+0000057a 5d0f2d00       1476 	st.b	r1,45[r29]
+                        1477 .L1094:
+                        1478 --419:         }
+                        1479 --420:     }
+                        1480 --421:     if(gtmars_info.tdemo_info.u16timer2 == 0)
+0000057e fd0f8300       1481 	ld.hu	130[r29],r1
+00000582 e009           1482 	cmp	zero,r1
+00000584 aa25*          1483 	bne	.L1108
+                        1484 --422:     {
+                        1485 --423:         gtmars_info.tdemo_info.u16timer2 = 10; //10ms * 10 = 100ms
+                        1486 --line423
+                        1487 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.93::
+                        1488 .LDWlin93:
+00000586 0a0a           1489 	mov	10,r1
+00000588 7d0f8200       1490 	st.h	r1,130[r29]
+                        1491 --424:         /* padels */
+                        1492 --425:         if((gtmars_info.tcar_info.tcan_id133_info.u8accel_Pedal_map < 100 )&&
+0000058c 9d0f0b00       1493 	ld.bu	10[r29],r1
+00000590 01069cff       1494 	addi	-100,r1,zero
+00000594 b10d*          1495 	bl	.L1110
+00000596 bd0f0b00       1496 	ld.bu	11[r29],r1
+0000059a e009           1497 	cmp	zero,r1
+0000059c fa05*          1498 	bne	.L1110
+                        1499 --426:            (gtmars_info.tcar_info.tcan_id133_info.u8regeneration_map == 0))
+                        1500 --427:         {
+                        1501 --428:             gtmars_info.tcar_info.tcan_id133_info.u8accel_Pedal_map += 10;
+                        1502 --line428
+                        1503 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.94::
+                        1504 .LDWlin94:
+0000059e 9d0f0b00       1505 	ld.bu	10[r29],r1
+000005a2 4a0a           1506 	add	10,r1
+000005a4 5d0f0a00       1507 	st.b	r1,10[r29]
+000005a8 8515*          1508 	br	.L1108
+                        1509 .L1110:
+                        1510 --429:         }
+                        1511 --430:         else if(gtmars_info.tcar_info.tcan_id133_info.u8regeneration_map < 100)
+                        1512 --line430
+                        1513 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.95::
+                        1514 .LDWlin95:
+000005aa bd0f0b00       1515 	ld.bu	11[r29],r1
+000005ae 01069cff       1516 	addi	-100,r1,zero
+
+                                                                      Page 28
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+000005b2 910d*          1517 	bl	.L1114
+                        1518 --431:         {
+                        1519 --432:             gtmars_info.tcar_info.tcan_id133_info.u8accel_Pedal_map = 0;
+                        1520 --line432
+                        1521 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.96::
+                        1522 .LDWlin96:
+000005b4 5d070a00       1523 	st.b	zero,10[r29]
+                        1524 --433:             gtmars_info.tcar_info.tcan_id133_info.u8regeneration_map += 10;
+000005b8 bd0f0b00       1525 	ld.bu	11[r29],r1
+000005bc 4a0a           1526 	add	10,r1
+000005be 5d0f0b00       1527 	st.b	r1,11[r29]
+000005c2 b505*          1528 	br	.L1108
+                        1529 .L1114:
+                        1530 --434:         }
+                        1531 --435:         else
+                        1532 --436:         {
+                        1533 --437:             gtmars_info.tcar_info.tcan_id133_info.u8regeneration_map = 0;
+                        1534 --line437
+                        1535 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.97::
+                        1536 .LDWlin97:
+000005c4 5d070b00       1537 	st.b	zero,11[r29]
+                        1538 .L1108:
+                        1539 --438:         }
+                        1540 --439:     }
+                        1541 --440:     if(gtmars_info.tdemo_info.u16timer3 == 0)
+000005c8 fd0f8500       1542 	ld.hu	132[r29],r1
+000005cc e009           1543 	cmp	zero,r1
+000005ce ea1d*          1544 	bne	.L1117
+                        1545 --441:     {
+                        1546 --442:         gtmars_info.tdemo_info.u16timer3 = 70; //10ms * 70 = 700ms
+                        1547 --line442
+                        1548 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.98::
+                        1549 .LDWlin98:
+000005d0 200e4600       1550 	movea	70,zero,r1
+000005d4 7d0f8400       1551 	st.h	r1,132[r29]
+                        1552 --443:         /* speed */
+                        1553 --444:         if (gtmars_info.tcar_info.tcan_id133_info.u8vehicle_speed < 40)
+000005d8 9d0f0900       1554 	ld.bu	8[r29],r1
+000005dc 0106d8ff       1555 	addi	-40,r1,zero
+000005e0 e105*          1556 	bl	.L1119
+                        1557 --445:         {
+                        1558 --446:             gtmars_info.tcar_info.tcan_id133_info.u8vehicle_speed = 40;
+                        1559 --line446
+                        1560 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.99::
+                        1561 .LDWlin99:
+000005e2 200e2800       1562 	movea	40,zero,r1
+000005e6 5d0f0800       1563 	st.b	r1,8[r29]
+000005ea 8515*          1564 	br	.L1117
+                        1565 .L1119:
+                        1566 --447:         }
+                        1567 --448:         else if(gtmars_info.tcar_info.tcan_id133_info.u8vehicle_speed < 250)
+                        1568 --line448
+                        1569 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.100::
+                        1570 .LDWlin100:
+000005ec 9d0f0900       1571 	ld.bu	8[r29],r1
+000005f0 010606ff       1572 	addi	-250,r1,zero
+000005f4 f105*          1573 	bl	.L1122
+                        1574 --449:         {
+                        1575 --450:             gtmars_info.tcar_info.tcan_id133_info.u8vehicle_speed++;
+                        1576 --line450
+                        1577 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.101::
+
+                                                                      Page 29
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1578 .LDWlin101:
+000005f6 9d0f0900       1579 	ld.bu	8[r29],r1
+000005fa 410a           1580 	add	1,r1
+000005fc 5d0f0800       1581 	st.b	r1,8[r29]
+00000600 d505*          1582 	br	.L1117
+                        1583 .L1122:
+                        1584 --451:         }
+                        1585 --452:         else
+                        1586 --453:         {
+                        1587 --454:             gtmars_info.tcar_info.tcan_id133_info.u8vehicle_speed = 40;
+                        1588 --line454
+                        1589 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.102::
+                        1590 .LDWlin102:
+00000602 200e2800       1591 	movea	40,zero,r1
+00000606 5d0f0800       1592 	st.b	r1,8[r29]
+                        1593 .L1117:
+                        1594 --455:         }
+                        1595 --456:     }
+                        1596 --457:     if(gtmars_info.tdemo_info.u16timer4 <= 10)
+0000060a fd0f8700       1597 	ld.hu	134[r29],r1
+0000060e 6a0a           1598 	cmp	10,r1
+00000610 eb3d*          1599 	bh	.L1125
+                        1600 --458:     {
+                        1601 --459:         gtmars_info.tdemo_info.u16timer4 = _TIME_5000ms; 
+                        1602 --line459
+                        1603 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.103::
+                        1604 .LDWlin103:
+00000612 200ef401       1605 	movea	500,zero,r1
+00000616 7d0f8600       1606 	st.h	r1,134[r29]
+                        1607 --460:         if(gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status < 4)
+0000061a bd0f1100       1608 	ld.bu	17[r29],r1
+0000061e c10e0700       1609 	andi	7,r1,r1
+00000622 640a           1610 	cmp	4,r1
+00000624 c90d*          1611 	bnl	.L1127
+                        1612 --461:             gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status ++;
+                        1613 --line461
+                        1614 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.104::
+                        1615 .LDWlin104:
+00000626 bd771100       1616 	ld.bu	17[r29],r14
+0000062a ce0e0700       1617 	andi	7,r14,r1
+0000062e 410a           1618 	add	1,r1
+00000630 e177d020       1619 	bins	r1,0,3,r14
+00000634 0e08           1620 	mov	r14,r1
+00000636 5d0f1100       1621 	st.b	r1,17[r29]
+0000063a 850d*          1622 	br	.L1129
+                        1623 .L1127:
+                        1624 --462:         else
+                        1625 --463:             gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8Shifter_Status = 0x01;
+                        1626 --line463
+                        1627 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.105::
+                        1628 .LDWlin105:
+0000063c bd0f1100       1629 	ld.bu	17[r29],r1
+00000640 0172           1630 	mov	1,r14
+00000642 ee0fd020       1631 	bins	r14,0,3,r1
+00000646 5d0f1100       1632 	st.b	r1,17[r29]
+                        1633 .L1129:
+                        1634 --464:         if(gtmars_info.tdemo_info.u8turn_status < 2)
+0000064a 9d0f8900       1635 	ld.bu	136[r29],r1
+0000064e 620a           1636 	cmp	2,r1
+00000650 f905*          1637 	bnl	.L1130
+                        1638 --465:             gtmars_info.tdemo_info.u8turn_status ++;
+
+                                                                      Page 30
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1639 --line465
+                        1640 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.106::
+                        1641 .LDWlin106:
+00000652 9d0f8900       1642 	ld.bu	136[r29],r1
+00000656 410a           1643 	add	1,r1
+00000658 5d0f8800       1644 	st.b	r1,136[r29]
+0000065c b505*          1645 	br	.L1132
+                        1646 .L1130:
+                        1647 --466:         else
+                        1648 --467:             gtmars_info.tdemo_info.u8turn_status = 0;
+                        1649 --line467
+                        1650 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.107::
+                        1651 .LDWlin107:
+0000065e 5d078800       1652 	st.b	zero,136[r29]
+                        1653 .L1132:
+                        1654 --468:             
+                        1655 --469:         if(gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8driving_porfile == _DRIVE_SPORT)
+00000662 bd0f1100       1656 	ld.bu	17[r29],r1
+00000666 d90a           1657 	shl	25,r1
+00000668 9d0a           1658 	shr	29,r1
+0000066a 630a           1659 	cmp	3,r1
+0000066c 9a0d*          1660 	bne	.L1133
+                        1661 --470:             gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8driving_porfile = _DRIVE_ECO;
+                        1662 --line470
+                        1663 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.108::
+                        1664 .LDWlin108:
+0000066e bd0f1100       1665 	ld.bu	17[r29],r1
+00000672 0172           1666 	mov	1,r14
+00000674 ee0fd860       1667 	bins	r14,4,3,r1
+00000678 5d0f1100       1668 	st.b	r1,17[r29]
+0000067c 850d*          1669 	br	.L1125
+                        1670 .L1133:
+                        1671 --471:         else
+                        1672 --472:             gtmars_info.tcar_info.tcan_id134_info.tshifter_and_mode_info.u8driving_porfile = _DRIVE_SPORT;
+                        1673 --line472
+                        1674 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.109::
+                        1675 .LDWlin109:
+0000067e bd0f1100       1676 	ld.bu	17[r29],r1
+00000682 0372           1677 	mov	3,r14
+00000684 ee0fd860       1678 	bins	r14,4,3,r1
+00000688 5d0f1100       1679 	st.b	r1,17[r29]
+                        1680 .L1125:
+                        1681 --473:     }
+                        1682 --474: }
+                        1683 --	    .ef
+                        1684 .LDW62:
+0000068c 40067f00       1685 	dispose	0,{r29,r31},[lp]
+                        1686 	.type	_W_SYS_DEMO_Message,@function
+                        1687 	.size	_W_SYS_DEMO_Message,.-_W_SYS_DEMO_Message
+                        1688 	.align	2
+                        1689 .LDW72:
+                        1690 
+                        1691 	.section ".bss","awb"
+                        1692 .L1322:
+                        1693 	.type	.L1322,@object
+                        1694 	.size	.L1322,0
+                        1695 	.data
+                        1696 	.text
+                        1697 
+                        1698 
+                        1699 --476: extern void W_Copy_CAN_to_MEM(void);
+
+                                                                      Page 31
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1700 --477: void W_SYS_Main_Entry(void) 
+                        1701 	.align	2
+                        1702 	.align	2
+                        1703 	.global	_W_SYS_Main_Entry
+                        1704 _W_SYS_Main_Entry:
+00000690 80072100       1705 	prepare	{r31},0
+                        1706 --	    .bf
+                        1707 .LDW82:
+                        1708 --478: {
+                        1709 --479:     W_Copy_CAN_to_MEM(); //test
+                        1710 	jarl	_W_Copy_CAN_to_MEM,lp
+                        1710 <EXPANSION BEGIN>
+                        1710 jarl22 _W_Copy_CAN_to_MEM , lp 
+00000694 80ff0000*      1710 <EXPANSION END>
+                        1711 --481:     W_SYS_ACC_Check();
+                        1712 --line481
+                        1713 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.110::
+                        1714 .LDWlin110:
+                        1715 	jarl	_W_SYS_ACC_Check,lp
+                        1715 <EXPANSION BEGIN>
+                        1715 jarl22 _W_SYS_ACC_Check , lp 
+00000698 bfff58fb*      1715 <EXPANSION END>
+                        1716 --482:     if(gtmars_info.tdemo_info.u8system_mode == _NORMAL_MODE)
+                        1717 --line482
+                        1718 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.111::
+                        1719 .LDWlin111:
+0000069c 210600000000*  1720 	mov	_gtmars_info+137,r1
+000006a2 810f0100       1721 	ld.bu	0[r1],r1
+000006a6 610a           1722 	cmp	1,r1
+000006a8 ea05*          1723 	bne	.L1465
+                        1724 --483:     {
+                        1725 --484:         W_SYS_Check_CAN_Message();
+                        1726 --line484
+                        1727 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.112::
+                        1728 .LDWlin112:
+                        1729 	jarl	_W_SYS_Check_CAN_Message,lp
+                        1729 <EXPANSION BEGIN>
+                        1729 jarl22 _W_SYS_Check_CAN_Message , lp 
+000006aa bfff6ef9*      1729 <EXPANSION END>
+                        1730 --485:         W_SYS_Check_GPIO();
+                        1731 --line485
+                        1732 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.113::
+                        1733 .LDWlin113:
+                        1734 	jarl	_W_SYS_Check_GPIO,lp
+                        1734 <EXPANSION BEGIN>
+                        1734 jarl22 _W_SYS_Check_GPIO , lp 
+000006ae bfff82fb*      1734 <EXPANSION END>
+000006b2 b505*          1735 	br	.L1467
+                        1736 .L1465:
+                        1737 --486:     }
+                        1738 --487:     else
+                        1739 --488:     {
+                        1740 --489:         W_SYS_DEMO_Message();
+                        1741 --line489
+                        1742 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.114::
+                        1743 .LDWlin114:
+                        1744 	jarl	_W_SYS_DEMO_Message,lp
+                        1744 <EXPANSION BEGIN>
+                        1744 jarl22 _W_SYS_DEMO_Message , lp 
+000006b4 bfff26fe*      1744 <EXPANSION END>
+                        1745 .L1467:
+
+                                                                      Page 32
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1746 --490:     }
+                        1747 --491: }
+                        1748 --	    .ef
+                        1749 .LDW92:
+                        1750 --line491
+                        1751 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.115::
+                        1752 .LDWlin115:
+000006b8 40063f00       1753 	dispose	0,{r31},[lp]
+                        1754 	.type	_W_SYS_Main_Entry,@function
+                        1755 	.size	_W_SYS_Main_Entry,.-_W_SYS_Main_Entry
+                        1756 	.align	2
+                        1757 .LDW03:
+                        1758 
+                        1759 	.section ".bss","awb"
+                        1760 .L1510:
+                        1761 	.type	.L1510,@object
+                        1762 	.size	.L1510,0
+                        1763 	.data
+                        1764 	.text
+                        1765 
+                        1766 
+                        1767 --493: void W_SYS_TIMER_ALL(void)
+                        1768 	.align	2
+                        1769 	.align	2
+                        1770 	.global	_W_SYS_TIMER_ALL
+                        1771 _W_SYS_TIMER_ALL:
+000006bc 3e0600000000*  1772 	mov	_gtmars_info+128,ep
+                        1773 --	    .bf
+                        1774 .LDW13:
+                        1775 --494: {
+                        1776 --495:     if(gtmars_info.tdemo_info.u16timer1 > 0)
+000006c2 7008           1777 	sld.hu	0[ep],r1
+000006c4 e009           1778 	cmp	zero,r1
+000006c6 c205*          1779 	be	.L1542
+                        1780 --496:         gtmars_info.tdemo_info.u16timer1--;
+                        1781 --line496
+                        1782 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.116::
+                        1783 .LDWlin116:
+000006c8 7008           1784 	sld.hu	0[ep],r1
+000006ca 5f0a           1785 	add	-1,r1
+000006cc 800c           1786 	sst.h	r1,0[ep]
+                        1787 .L1542:
+                        1788 --497:     if(gtmars_info.tdemo_info.u16timer2 > 0)
+000006ce 7108           1789 	sld.hu	2[ep],r1
+000006d0 e009           1790 	cmp	zero,r1
+000006d2 c205*          1791 	be	.L1544
+                        1792 --498:         gtmars_info.tdemo_info.u16timer2--;
+                        1793 --line498
+                        1794 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.117::
+                        1795 .LDWlin117:
+000006d4 7108           1796 	sld.hu	2[ep],r1
+000006d6 5f0a           1797 	add	-1,r1
+000006d8 810c           1798 	sst.h	r1,2[ep]
+                        1799 .L1544:
+                        1800 --499:     if(gtmars_info.tdemo_info.u16timer3 > 0)
+000006da 7208           1801 	sld.hu	4[ep],r1
+000006dc e009           1802 	cmp	zero,r1
+000006de c205*          1803 	be	.L1546
+                        1804 --500:         gtmars_info.tdemo_info.u16timer3--;
+                        1805 --line500
+                        1806 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.118::
+
+                                                                      Page 33
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poo1.si
+                        1807 .LDWlin118:
+000006e0 7208           1808 	sld.hu	4[ep],r1
+000006e2 5f0a           1809 	add	-1,r1
+000006e4 820c           1810 	sst.h	r1,4[ep]
+                        1811 .L1546:
+                        1812 --501:     if(gtmars_info.tdemo_info.u16timer4 > 0)
+000006e6 7308           1813 	sld.hu	6[ep],r1
+000006e8 e009           1814 	cmp	zero,r1
+000006ea c205*          1815 	be	.L1548
+                        1816 --502:        gtmars_info.tdemo_info.u16timer4 --; 
+                        1817 --line502
+                        1818 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system.119::
+                        1819 .LDWlin119:
+000006ec 7308           1820 	sld.hu	6[ep],r1
+000006ee 5f0a           1821 	add	-1,r1
+000006f0 830c           1822 	sst.h	r1,6[ep]
+                        1823 .L1548:
+                        1824 --503: }
+                        1825 --	    .ef
+                        1826 .LDW23:
+000006f2 7f00           1827 	jmp	[lp]
+                        1828 	.type	_W_SYS_TIMER_ALL,@function
+                        1829 	.size	_W_SYS_TIMER_ALL,.-_W_SYS_TIMER_ALL
+                        1830 	.align	2
+                        1831 .LDW33:
+                        1832 
+                        1833 	.section ".bss","awb"
+                        1834 .L1598:
+                        1835 	.type	.L1598,@object
+                        1836 	.size	.L1598,0
+                        1837 	.data
+                        1838 	.text
+                        1839 
+                        1840 	.align	2
+                        1841 --_gtmars_info	_gtmars_info	import
+                        1842 --_gtbutton_ACC	_gtbutton_ACC	import
+                        1843 --_gtbutton_HEADLAMP_H	_gtbutton_HEADLAMP_H	import
+                        1844 --_gtbutton_HEADLAMP_L	_gtbutton_HEADLAMP_L	import
+                        1845 --_gtbutton_TAIL_LAMP	_gtbutton_TAIL_LAMP	import
+                        1846 --_gtbutton_REVERSE_LAMP	_gtbutton_REVERSE_LAMP	import
+                        1847 --_gtbutton_LEFT_TURN_LAMP	_gtbutton_LEFT_TURN_LAMP	import
+                        1848 --_gtbutton_RIGHT_TURN_LAMP	_gtbutton_RIGHT_TURN_LAMP	import
+                        1849 --_gtbutton_FRONT_FOG_LAMP	_gtbutton_FRONT_FOG_LAMP	import
+                        1850 --_gtbutton_REAR_FOG_LAMP	_gtbutton_REAR_FOG_LAMP	import
+                        1851 --_gtbutton_CHARGE	_gtbutton_CHARGE	import
+                        1852 --_gtbutton_IGN	_gtbutton_IGN	import
+                        1853 
+                        1854 	.data
+                        1855 	.ghsnote version,15
+                        1856 	.ghsnote tools,3
+                        1857 	.ghsnote options,144
+                        1858 	.text
+                        1859 	.align	2
+                        1860 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cw_system...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02B..0::
+                        1861 .rh850_flags DOUBLE,REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,DOUBLE64,G3M

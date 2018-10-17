@@ -1,0 +1,1380 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_bsp_gfx_mipi_csi2.dbo -source=r_bsp_gfx_mipi_csi2.c -o .\obj\gh_0000pj81.o -list=.\obj\r_bsp_gfx_mipi_csi2.lst C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+Source File: r_bsp_gfx_mipi_csi2.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\bsp\board\d1mx_mango\src\gfx\r_bsp_gfx_mipi_csi2.c
+                         171 --		-o .\obj\r_bsp_gfx_mipi_csi2.o
+                         172 --Source File:   ..\..\..\..\..\bsp\board\d1mx_mango\src\gfx\r_bsp_gfx_mipi_csi2.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:53 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : BSP - GFX - MIPI CSI-2
+                         186 --4: FILE    : $Id: r_bsp_gfx_mipi_csi2.c 11057 2016-11-10 08:23:04Z shinya.tomari $
+                         187 --5: ============================================================================
+                         188 --6: DESCRIPTION
+                         189 --7: BSP Implementation D1X MANGO Board
+                         190 --8: ============================================================================
+                         191 --9:                             C O P Y R I G H T
+                         192 --10: ============================================================================
+                         193 --11:                            Copyright (c) 2014
+                         194 --12:                                   by
+                         195 --13:                     Renesas Electronics (Europe) GmbH. 
+                         196 --14:                            Arcadiastrasse 10
+                         197 --15:                           D-40472 Duesseldorf
+                         198 --16:                                Germany
+                         199 --17:                           All rights reserved.
+                         200 --18: ============================================================================
+                         201 --19: Purpose: only for testing
+                         202 --21: DISCLAIMER                                                                   
+                         203 --22: This software is supplied by Renesas Electronics Corporation and is only     
+                         204 --23: intended for use with Renesas products. No other uses are authorized. This   
+                         205 --24: software is owned by Renesas Electronics Corporation and is protected under  
+                         206 --25: all applicable laws, including copyright laws.                               
+                         207 --26: THIS SOFTWARE IS PROVIDED "AS IS" AND RENESAS MAKES NO WARRANTIES REGARDING  
+                         208 --27: THIS SOFTWARE, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT      
+                         209 --28: LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE   
+                         210 --29: AND NON-INFRINGEMENT. ALL SUCH WARRANTIES ARE EXPRESSLY DISCLAIMED.          
+                         211 --30: TO THE MAXIMUM EXTENT PERMITTED NOT PROHIBITED BY LAW, NEITHER RENESAS       
+                         212 --31: ELECTRONICS CORPORATION NOR ANY OF ITS AFFILIATED COMPANIES SHALL BE LIABLE  
+                         213 --32: FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR   
+                         214 --33: ANY REASON RELATED TO THIS SOFTWARE, EVEN IF RENESAS OR ITS AFFILIATES HAVE  
+                         215 --34: BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.                             
+                         216 --35: Renesas reserves the right, without notice, to make changes to this software 
+                         217 --36: and to discontinue the availability of this software. By using this software,
+                         218 --37: you agree to the additional terms and conditions found by accessing the      
+                         219 --38: following link:                                                              
+                         220 --39: http://www.renesas.com/disclaimer *                                          
+                         221 --40: Copyright (C) 2014 Renesas Electronics Corporation. All rights reserved.     
+                         222 --42: ****************************************************************************
+                         223 --43: */
+                         224 --45: /*
+                         225 --46:   Section: BSP SYS GFX description 
+                         226 --47:   
+                         227 --48:   This is the board specific GFX implementation for the BSP. 
+                         228 --49:         
+                         229 --50: */
+                         230 --53: /*******************************************************************************
+                         231 --54:   Section: Includes
+                         232 --55: */
+                         233 --57: #include "r_typedefs.h"     /* Renesas basic types, e.g. uint32_t */
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         234 --59: #include "r_tick_api.h"
+                         235 --60: #include "r_dev_api.h"
+                         236 --61: #include "r_gpio_api.h"
+                         237 --63: #include "r_bsp_gfx_api.h"
+                         238 --64: #include "r_bsp_gfx_sys.h"
+                         239 --65: #include "r_bsp_board_config.h"
+                         240 --67: #ifdef USE_BSP_HMI
+                         241 --68: #include "r_bsp_hmi_api.h"
+                         242 --69: #endif
+                         243 --70: #include "r_bsp_gfx_mipi_csi2.h"
+                         244 --71: #include "r_bsp_stdio_api.h"
+                         245 --73: /*******************************************************************************
+                         246 --74:   Section: Local Defines
+                         247 --75: */
+                         248 --77: /* MIPI CSI-2 video input registers */
+                         249 --78: #define MIPI_BASE_ADDR          0xFFFD3400u
+                         250 --80: #define MIPION_REG              (MIPI_BASE_ADDR + 0x00u)
+                         251 --81: #define MIPIMODE_REG            (MIPI_BASE_ADDR + 0x04u)
+                         252 --82: #define MIPIDATA_DLY_CTL_REG    (MIPI_BASE_ADDR + 0x08u)
+                         253 --83: #define MIPIRST_CTL_REG         (MIPI_BASE_ADDR + 0x0Cu)
+                         254 --84: #define MIPIBUF_CTL_REG         (MIPI_BASE_ADDR + 0x10u)
+                         255 --85: #define MIPISOT_COUNT_REG       (MIPI_BASE_ADDR + 0x14u)
+                         256 --86: #define MIPIRX_STATE_REG        (MIPI_BASE_ADDR + 0x18u)
+                         257 --87: #define MIPIWORD_COUNT_REG      (MIPI_BASE_ADDR + 0x1Cu)
+                         258 --88: #define MIPILP_EN_ON_WC_REG     (MIPI_BASE_ADDR + 0x20u)
+                         259 --89: #define MIPILINE_BLANK_REG      (MIPI_BASE_ADDR + 0x28u)
+                         260 --90: #define MIPIRESET_DLY_CTL0_REG  (MIPI_BASE_ADDR + 0x2Cu)
+                         261 --91: #define MIPIINTSTATUS_REG       (MIPI_BASE_ADDR + 0x40u)
+                         262 --92: #define MIPIINTENSET_REG        (MIPI_BASE_ADDR + 0x48u)
+                         263 --93: #define MIPIINTENCLR_REG        (MIPI_BASE_ADDR + 0x4Cu)
+                         264 --94: #define MIPIINTFFCLR_REG        (MIPI_BASE_ADDR + 0x50u)
+                         265 --95: #define MIPIEOT_COUNT_REG       (MIPI_BASE_ADDR + 0x74u)
+                         266 --96: #define MIPIVIN_MODE_REG        (MIPI_BASE_ADDR + 0x9Cu)
+                         267 --99: /* video selection registers */
+                         268 --100: #define VDCECTL         0xFFC0601Cu
+                         269 --101: #define VDCECTL_PXSL    (1ul<<3)
+                         270 --105: /*******************************************************************************
+                         271 --106:   Section: Local Constants
+                         272 --107: */
+                         273 --109: static const r_dev_PinConfig_t loc_D1M2H_MipiPinConfig1Lane[] = 
+                         274 --110: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         275 --111: {
+                         276 --112:     /* VDCE0 Input MIPI CSI-2 */
+                         277 --113:     {40, 0,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI DATA0P */
+                         278 --114:     {40, 1,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, 
+                         279 --115:     {40, 2,  0u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLUP, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, 
+                         280 --116:     {40, 3,  0u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLDOWN, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI DATA1N */
+                         281 --117:     {40, 4,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI CLKP */
+                         282 --118:     {40, 5,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI CLKN */
+                         283 --119:     
+                         284 --120:     /* delimiter - do not remove */
+                         285 --121:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+                         286 --122: };
+                         287 --124: static const r_dev_PinConfig_t loc_D1M2H_MipiPinConfig2Lane[] = 
+                         288 --125: /*  Port Pin Func      Dir      Feedback     Pull        OpenDrain   HiCurr   HiSpeed  InputType */
+                         289 --126: {
+                         290 --127:     /* VDCE0 Input MIPI CSI-2 */
+                         291 --128:     {40, 0,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI DATA0P */
+                         292 --129:     {40, 1,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, 
+                         293 --130:     {40, 2,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, 
+                         294 --131:     {40, 3,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI DATA1N */
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         295 --132:     {40, 4,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI CLKP */
+                         296 --133:     {40, 5,  1u, R_DEV_PIN_IN,  0u, R_DEV_PIN_PULLNO, 0u, 0u, 0u, R_DEV_PIN_CMOS1}, /* VDCE0 In MIPI CLKN */
+                         297 --134:     
+                         298 --135:     /* delimiter - do not remove */
+                         299 --136:     {0u, R_DEV_PIN_LAST,0u,R_DEV_PIN_OUT,0u,R_DEV_PIN_PULLNO,   0u, 0u, 0u, R_DEV_PIN_CMOS1} 
+                         300 --137: };
+                         301 --140: /*******************************************************************************
+                         302 --141:   Section: Local Variables 
+                         303 --142: */
+                         304 --144: static uint32_t loc_MipiIntOvfCount;
+                         305 --145: static uint32_t loc_MipiIntOvf;
+                         306 --146: static uint32_t loc_MipiIntCtl;
+                         307 --147: static uint8_t loc_NoOfLanes;
+                         308 --149: /*******************************************************************************
+                         309 --150:   Section: Local Functions
+                         310 --151: */
+                         311 --153: /*******************************************************************************
+                         312 --154:   Section: Global ISR Functions
+                         313 --155: */
+                         314 --157: void R_MIPI_IsrOVF(void)
+                         315 	.text
+                         316 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                         317 	.align	2
+                         318 	.global	_R_MIPI_IsrOVF
+                         319 _R_MIPI_IsrOVF:
+00000000 210600000000*   320 	mov	.L38,r1
+                         321 --	    .bf
+                         322 .LDW01:
+                         323 --158: {
+                         324 --159:     
+                         325 --160:     /* MIPI CSI-2 Buffer overflow error occured. */
+                         326 --161:     loc_MipiIntOvf = 1;
+00000006 0172            327 	mov	1,r14
+00000008 61770500        328 	st.w	r14,4[r1]
+                         329 --162:     loc_MipiIntOvfCount++;
+0000000c 01f0            330 	mov	r1,ep
+0000000e 000d            331 	sld.w	0[ep],r1
+00000010 410a            332 	add	1,r1
+00000012 010d            333 	sst.w	r1,0[ep]
+                         334 --163: }
+                         335 --	    .ef
+                         336 .LDW11:
+00000014 7f00            337 	jmp	[lp]
+                         338 	.type	_R_MIPI_IsrOVF,@function
+                         339 	.size	_R_MIPI_IsrOVF,.-_R_MIPI_IsrOVF
+                         340 	.align	2
+                         341 .LDW21:
+                         342 
+                         343 	.section ".bss","awb"
+                         344 	.align	4
+                         345 .L38:
+                         346 	.type	.L38,@object
+                         347 	.size	.L38,0
+                         348 	.global	_loc_MipiIntOvfCount..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.
+                         349 _loc_MipiIntOvfCount..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.:
+00000000 00000000        350 _loc_MipiIntOvfCount:	.space	4
+                         351 	.type	_loc_MipiIntOvfCount..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,@object
+                         352 	.size	_loc_MipiIntOvfCount..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,4
+                         353 	.type	_loc_MipiIntOvfCount,@object
+                         354 	.size	_loc_MipiIntOvfCount,4
+                         355 	.global	_loc_MipiIntOvf..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         356 _loc_MipiIntOvf..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.:
+00000004 00000000        357 _loc_MipiIntOvf:	.space	4
+                         358 	.type	_loc_MipiIntOvf..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,@object
+                         359 	.size	_loc_MipiIntOvf..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,4
+                         360 	.type	_loc_MipiIntOvf,@object
+                         361 	.size	_loc_MipiIntOvf,4
+                         362 	.global	_loc_MipiIntCtl..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.
+                         363 _loc_MipiIntCtl..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.:
+00000008 00000000        364 _loc_MipiIntCtl:	.space	4
+                         365 	.type	_loc_MipiIntCtl..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,@object
+                         366 	.size	_loc_MipiIntCtl..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,4
+                         367 	.type	_loc_MipiIntCtl,@object
+                         368 	.size	_loc_MipiIntCtl,4
+                         369 	.global	_loc_NoOfLanes..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.
+                         370 _loc_NoOfLanes..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.:
+0000000c 00              371 _loc_NoOfLanes:	.space	1
+                         372 	.type	_loc_NoOfLanes..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,@object
+                         373 	.size	_loc_NoOfLanes..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,1
+                         374 	.type	_loc_NoOfLanes,@object
+                         375 	.size	_loc_NoOfLanes,1
+                         376 	.section ".rodata","a"
+                         377 	.align	4
+                         378 	.global	_loc_D1M2H_MipiPinConfig1Lane..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.
+                         379 _loc_D1M2H_MipiPinConfig1Lane..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.:
+00000000 28              380 _loc_D1M2H_MipiPinConfig1Lane:	.byte	40
+00000001 00              381 	.space	1
+00000002 01              382 	.byte	1
+00000003 00              383 	.space	1
+00000004 01000000        384 	.byte	1,0,0,0
+00000008 00              385 	.space	1
+00000009 000000          386 	.space	3
+0000000c 00000000        387 	.space	4
+00000010 00              388 	.space	1
+00000011 00              389 	.space	1
+00000012 00              390 	.space	1
+00000013 01              391 	.byte	1
+00000014 2801            392 	.byte	40,1
+00000016 01              393 	.byte	1
+00000017 00              394 	.space	1
+00000018 01000000        395 	.byte	1,0,0,0
+0000001c 00              396 	.space	1
+0000001d 000000          397 	.space	3
+00000020 00000000        398 	.space	4
+00000024 00              399 	.space	1
+00000025 00              400 	.space	1
+00000026 00              401 	.space	1
+00000027 01              402 	.byte	1
+00000028 2802            403 	.byte	40,2
+0000002a 00              404 	.space	1
+0000002b 00              405 	.space	1
+0000002c 01000000        406 	.byte	1,0,0,0
+00000030 00              407 	.space	1
+00000031 000000          408 	.space	3
+00000034 01000000        409 	.byte	1,0,0,0
+00000038 00              410 	.space	1
+00000039 00              411 	.space	1
+0000003a 00              412 	.space	1
+0000003b 01              413 	.byte	1
+0000003c 2803            414 	.byte	40,3
+0000003e 00              415 	.space	1
+0000003f 00              416 	.space	1
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+00000040 01000000        417 	.byte	1,0,0,0
+00000044 00              418 	.space	1
+00000045 000000          419 	.space	3
+00000048 02000000        420 	.byte	2,0,0,0
+0000004c 00              421 	.space	1
+0000004d 00              422 	.space	1
+0000004e 00              423 	.space	1
+0000004f 01              424 	.byte	1
+00000050 2804            425 	.byte	40,4
+00000052 01              426 	.byte	1
+00000053 00              427 	.space	1
+00000054 01000000        428 	.byte	1,0,0,0
+00000058 00              429 	.space	1
+00000059 000000          430 	.space	3
+0000005c 00000000        431 	.space	4
+00000060 00              432 	.space	1
+00000061 00              433 	.space	1
+00000062 00              434 	.space	1
+00000063 01              435 	.byte	1
+00000064 2805            436 	.byte	40,5
+00000066 01              437 	.byte	1
+00000067 00              438 	.space	1
+00000068 01000000        439 	.byte	1,0,0,0
+0000006c 00              440 	.space	1
+0000006d 000000          441 	.space	3
+00000070 00000000        442 	.space	4
+00000074 00              443 	.space	1
+00000075 00              444 	.space	1
+00000076 00              445 	.space	1
+00000077 01              446 	.byte	1
+00000078 00              447 	.space	1
+00000079 ff              448 	.byte	255
+0000007a 00              449 	.space	1
+0000007b 00              450 	.space	1
+0000007c 00000000        451 	.space	4
+00000080 00              452 	.space	1
+00000081 000000          453 	.space	3
+00000084 00000000        454 	.space	4
+00000088 00              455 	.space	1
+00000089 00              456 	.space	1
+0000008a 00              457 	.space	1
+0000008b 01              458 	.byte	1
+                         459 	.type	_loc_D1M2H_MipiPinConfig1Lane..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,@object
+                         460 	.size	_loc_D1M2H_MipiPinConfig1Lane..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,140
+                         461 	.type	_loc_D1M2H_MipiPinConfig1Lane,@object
+                         462 	.size	_loc_D1M2H_MipiPinConfig1Lane,140
+                         463 	.global	_loc_D1M2H_MipiPinConfig2Lane..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.
+                         464 _loc_D1M2H_MipiPinConfig2Lane..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.:
+0000008c 28              465 _loc_D1M2H_MipiPinConfig2Lane:	.byte	40
+0000008d 00              466 	.space	1
+0000008e 01              467 	.byte	1
+0000008f 00              468 	.space	1
+00000090 01000000        469 	.byte	1,0,0,0
+00000094 00              470 	.space	1
+00000095 000000          471 	.space	3
+00000098 00000000        472 	.space	4
+0000009c 00              473 	.space	1
+0000009d 00              474 	.space	1
+0000009e 00              475 	.space	1
+0000009f 01              476 	.byte	1
+000000a0 2801            477 	.byte	40,1
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+000000a2 01              478 	.byte	1
+000000a3 00              479 	.space	1
+000000a4 01000000        480 	.byte	1,0,0,0
+000000a8 00              481 	.space	1
+000000a9 000000          482 	.space	3
+000000ac 00000000        483 	.space	4
+000000b0 00              484 	.space	1
+000000b1 00              485 	.space	1
+000000b2 00              486 	.space	1
+000000b3 01              487 	.byte	1
+000000b4 2802            488 	.byte	40,2
+000000b6 01              489 	.byte	1
+000000b7 00              490 	.space	1
+000000b8 01000000        491 	.byte	1,0,0,0
+000000bc 00              492 	.space	1
+000000bd 000000          493 	.space	3
+000000c0 00000000        494 	.space	4
+000000c4 00              495 	.space	1
+000000c5 00              496 	.space	1
+000000c6 00              497 	.space	1
+000000c7 01              498 	.byte	1
+000000c8 2803            499 	.byte	40,3
+000000ca 01              500 	.byte	1
+000000cb 00              501 	.space	1
+000000cc 01000000        502 	.byte	1,0,0,0
+000000d0 00              503 	.space	1
+000000d1 000000          504 	.space	3
+000000d4 00000000        505 	.space	4
+000000d8 00              506 	.space	1
+000000d9 00              507 	.space	1
+000000da 00              508 	.space	1
+000000db 01              509 	.byte	1
+000000dc 2804            510 	.byte	40,4
+000000de 01              511 	.byte	1
+000000df 00              512 	.space	1
+000000e0 01000000        513 	.byte	1,0,0,0
+000000e4 00              514 	.space	1
+000000e5 000000          515 	.space	3
+000000e8 00000000        516 	.space	4
+000000ec 00              517 	.space	1
+000000ed 00              518 	.space	1
+000000ee 00              519 	.space	1
+000000ef 01              520 	.byte	1
+000000f0 2805            521 	.byte	40,5
+000000f2 01              522 	.byte	1
+000000f3 00              523 	.space	1
+000000f4 01000000        524 	.byte	1,0,0,0
+000000f8 00              525 	.space	1
+000000f9 000000          526 	.space	3
+000000fc 00000000        527 	.space	4
+00000100 00              528 	.space	1
+00000101 00              529 	.space	1
+00000102 00              530 	.space	1
+00000103 01              531 	.byte	1
+00000104 00              532 	.space	1
+00000105 ff              533 	.byte	255
+00000106 00              534 	.space	1
+00000107 00              535 	.space	1
+00000108 00000000        536 	.space	4
+0000010c 00              537 	.space	1
+0000010d 000000          538 	.space	3
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+00000110 00000000        539 	.space	4
+00000114 00              540 	.space	1
+00000115 00              541 	.space	1
+00000116 00              542 	.space	1
+00000117 01              543 	.byte	1
+                         544 	.type	_loc_D1M2H_MipiPinConfig2Lane..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,@object
+                         545 	.size	_loc_D1M2H_MipiPinConfig2Lane..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.,140
+                         546 	.type	_loc_D1M2H_MipiPinConfig2Lane,@object
+                         547 	.size	_loc_D1M2H_MipiPinConfig2Lane,140
+                         548 	.data
+                         549 	.text
+                         550 
+                         551 
+                         552 --166: void R_MIPI_IsrCTL(void)
+                         553 	.align	2
+                         554 	.align	2
+                         555 	.global	_R_MIPI_IsrCTL
+                         556 _R_MIPI_IsrCTL:
+00000016 80076100        557 	prepare	{r29,r31},0
+                         558 --	    .bf
+                         559 .LDW31:
+                         560 --167: {
+                         561 --168:     uint32_t val;
+                         562 --170:     /* MIPI CSI-2 Controller error occured. - Wait here.*/
+                         563 --171:     val = R_DEV_READ_REG(32, MIPIINTSTATUS_REG);
+0000001a 800709ec68fa    564 	ld.w	4294784064[zero],r29
+                         565 --173:     /* we may lose it so OR it */
+                         566 --174:     loc_MipiIntCtl |= val;
+00000020 3e0600000000*   567 	mov	_loc_MipiIntCtl,ep
+00000026 000d            568 	sld.w	0[ep],r1
+00000028 1d09            569 	or	r29,r1
+0000002a 010d            570 	sst.w	r1,0[ep]
+                         571 --176:     /* we logged it so now clear it */
+                         572 --177:     R_DEV_WRITE_REG(32, MIPIINTFFCLR_REG, val);
+0000002c 80070fed68fa    573 	st.w	r29,4294784080[zero]
+                         574 --179: #ifdef USE_BSP_HMI
+                         575 --180:     R_BSP_HMI_SetLed(1, 1);
+00000032 0132            576 	mov	1,r6
+00000034 013a            577 	mov	1,r7
+                         578 	jarl	_R_BSP_HMI_SetLed,lp
+                         578 <EXPANSION BEGIN>
+                         578 jarl22 _R_BSP_HMI_SetLed , lp 
+00000036 80ff0000*       578 <EXPANSION END>
+                         579 --181:     R_BSP_HMI_SetLed(1, 0);   
+                         580 --line181
+                         581 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.1::
+                         582 .LDWlin1:
+0000003a 0132            583 	mov	1,r6
+0000003c 003a            584 	mov	0,r7
+                         585 	jarl	_R_BSP_HMI_SetLed,lp
+                         585 <EXPANSION BEGIN>
+                         585 jarl22 _R_BSP_HMI_SetLed , lp 
+0000003e 80ff0000*       585 <EXPANSION END>
+                         586 --182: #endif
+                         587 --183: }
+                         588 --	    .ef
+                         589 .LDW41:
+                         590 --line183
+                         591 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.2::
+                         592 .LDWlin2:
+00000042 40067f00        593 	dispose	0,{r29,r31},[lp]
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         594 	.type	_R_MIPI_IsrCTL,@function
+                         595 	.size	_R_MIPI_IsrCTL,.-_R_MIPI_IsrCTL
+                         596 	.align	2
+                         597 .LDW51:
+                         598 --_val	r29	local
+                         599 
+                         600 	.data
+                         601 	.text
+                         602 
+                         603 
+                         604 --186: /*******************************************************************************
+                         605 --187:   Section: Global Functions
+                         606 --188: */
+                         607 --190: void R_BSP_SYS_GFX_MipiCsi2InputConfig(uint32_t PixelClkFreqHz, uint8_t NoOfLanes)
+                         608 	.align	2
+                         609 	.align	2
+                         610 	.global	_R_BSP_SYS_GFX_MipiCsi2InputConfig
+                         611 _R_BSP_SYS_GFX_MipiCsi2InputConfig:
+00000046 8607e110        612 	prepare	{r27,r28,r29,r31},3
+0000004a 06d8            613 	mov	r6,r27
+0000004c c7eeff00        614 	andi	255,r7,r29
+00000050 210600000000*   615 	mov	_loc_MipiIntOvfCount,r1
+00000056 3c06809fd500    616 	mov	14000000,r28
+                         617 --	    .bf
+                         618 .LDW61:
+                         619 --191: {
+                         620 --192:     uint32_t regval32;
+                         621 --193:     r_dev_ClkSelConfig_t mipiClkSelCfg;
+                         622 --195:     /* clear the status flags */
+                         623 --196:     loc_MipiIntOvf = 0;
+0000005c 61070500        624 	st.w	zero,4[r1]
+                         625 --197:     loc_MipiIntOvfCount = 0;
+00000060 2b0600000000*   626 	mov	_loc_MipiIntOvfCount,r11
+00000066 6b070100        627 	st.w	zero,0[r11]
+                         628 --198:     loc_MipiIntCtl = 0;
+0000006a 61070900        629 	st.w	zero,8[r1]
+                         630 --201:     loc_NoOfLanes = NoOfLanes;
+0000006e 41ef0c00        631 	st.b	r29,12[r1]
+                         632 --203:     /* clock settings
+                         633 --204:         MIPIPCLK Clock Controller C_ISO_PCLK
+                         634 --205:           -> active by default
+                         635 --206:         MIPIADCLK Clock Controller C_ISO_MIPIADCLK
+                         636 --207:           -> set to 160 MHz (PLL0/3)
+                         637 --208:         MIPIPIXCLK Clock Controller C_ISO_MIPIPIXCLK
+                         638 --209:           -> select DIV3/6/12 according to pixel clock demand
+                         639 --210:     */
+                         640 --211:     /* MIPIADCLK Clock Controller C_ISO_MIPIADCLK
+                         641 --212:             C_ISO_MIPIADCLK
+                         642 --213:                 -> CKSC_IMIPIPLLS_CTL and fixed DIV3
+                         643 --214:                 Select: PLL0PIX (default) / DIV3
+                         644 --215:     */
+                         645 --216:     mipiClkSelCfg.Cks = R_DEV_CKS_MIPIPLL;
+00000072 200e1c00        646 	movea	28,zero,r1
+00000076 630f0100        647 	st.w	r1,0[sp]
+                         648 --217:     mipiClkSelCfg.SrcId = R_DEV_CKS_SRC_PLL0PIX_3;
+0000007a 200e1800        649 	movea	24,zero,r1
+0000007e 630f0500        650 	st.w	r1,4[sp]
+                         651 --218:     mipiClkSelCfg.StpReqMsk = 0;
+00000082 43070a00        652 	st.b	zero,10[sp]
+                         653 --219:     R_DEV_ClkIdSet(&mipiClkSelCfg);
+00000086 23360000        654 	movea	0,sp,r6
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         655 	jarl	_R_DEV_ClkIdSet,lp
+                         655 <EXPANSION BEGIN>
+                         655 jarl22 _R_DEV_ClkIdSet , lp 
+0000008a 80ff0000*       655 <EXPANSION END>
+                         656 --220:     if ((160*1000*1000) != R_DEV_ClkFrequencyHz(mipiClkSelCfg.Cks))
+                         657 --line220
+                         658 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.3::
+                         659 .LDWlin3:
+0000008e 23370100        660 	ld.w	0[sp],r6
+                         661 	jarl	_R_DEV_ClkFrequencyHz,lp
+                         661 <EXPANSION BEGIN>
+                         661 jarl22 _R_DEV_ClkFrequencyHz , lp 
+00000092 80ff0000*       661 <EXPANSION END>
+00000096 210600688909    662 	mov	160000000,r1
+0000009c e151            663 	cmp	r1,r10
+0000009e a205*           664 	be	.L126
+                         665 --221:     {
+                         666 --222:         for (;;) 
+                         667 .L130:
+                         668 --223: {
+                         669 --line222
+                         670 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.4::
+                         671 .LDWlin4:
+000000a0 8505*           672 	br	.L130
+                         673 .L126:
+                         674 --224:             /* error should have 160 MHz C_ISO_MIPIADCLK here.
+                         675 --225:                C_ISO_MIPIADCLK shall run on PLL0(480MHz) / 3.
+                         676 --226:                480 MHz / 3 = 160 MHz */
+                         677 --227:         }
+                         678 --228:     }
+                         679 --229:     
+                         680 --230:     /* MIPIPIXCLK Clock Controller C_ISO_MIPIPIXCLK
+                         681 --231:             C_ISO_MIPIPIXCLK
+                         682 --232:                 -> CKSC_IMIPIPIXD_CTL (DIV3/6/12 selectable)
+                         683 --233:                     o 01B: MIPIPLLCLK /3 (default)
+                         684 --234:                     o 10B: MIPIPLLCLK /6
+                         685 --235:                     o 11B: MIPIPLLCLK /12
+                         686 --236:                 Select best divider for pixel clock.
+                         687 --237:                 ->  < 14 MHz use DIV12
+                         688 --238:                 -> >= 14 MHz use DIV6
+                         689 --239:                 -> >= 26 MHz use DIV3
+                         690 --240:         (calculated by D1ML_MIPI_CSI-2_size_usecases_check_MIPI-Sync_2013-07-04.xlsx)
+                         691 --241:     */
+                         692 --242:     mipiClkSelCfg.Cks = R_DEV_CKS_MIPIPXL;
+                         693 --line242
+                         694 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.5::
+                         695 .LDWlin5:
+000000a2 200e1d00        696 	movea	29,zero,r1
+000000a6 630f0100        697 	st.w	r1,0[sp]
+                         698 --243:     mipiClkSelCfg.SrcId = R_DEV_CKS_SRC_MIPIPLL;
+000000aa 200e2400        699 	movea	36,zero,r1
+000000ae 630f0500        700 	st.w	r1,4[sp]
+                         701 --244:     mipiClkSelCfg.StpReqMsk = 0;
+000000b2 43070a00        702 	st.b	zero,10[sp]
+                         703 --245:     mipiClkSelCfg.Div = 12;
+000000b6 0c0a            704 	mov	12,r1
+000000b8 630f0800        705 	st.h	r1,8[sp]
+                         706 --246:     if (PixelClkFreqHz >= (14 * 1000 * 1000))
+000000bc fcd9            707 	cmp	r28,r27
+000000be c105*           708 	bl	.L132
+                         709 --247:     {
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         710 --248:         mipiClkSelCfg.Div = 6;
+                         711 --line248
+                         712 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.6::
+                         713 .LDWlin6:
+000000c0 060a            714 	mov	6,r1
+000000c2 630f0800        715 	st.h	r1,8[sp]
+                         716 .L132:
+                         717 --249:     }
+                         718 --250:     if (PixelClkFreqHz >= (26 * 1000 * 1000))
+000000c6 210680ba8c01    719 	mov	26000000,r1
+000000cc e1d9            720 	cmp	r1,r27
+000000ce c105*           721 	bl	.L134
+                         722 --251:     {
+                         723 --252:         mipiClkSelCfg.Div = 3;
+                         724 --line252
+                         725 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.7::
+                         726 .LDWlin7:
+000000d0 030a            727 	mov	3,r1
+000000d2 630f0800        728 	st.h	r1,8[sp]
+                         729 .L134:
+                         730 --253:     }
+                         731 --254:     R_DEV_ClkIdSet(&mipiClkSelCfg);
+000000d6 23360000        732 	movea	0,sp,r6
+                         733 	jarl	_R_DEV_ClkIdSet,lp
+                         733 <EXPANSION BEGIN>
+                         733 jarl22 _R_DEV_ClkIdSet , lp 
+000000da 80ff0000*       733 <EXPANSION END>
+                         734 --255:     
+                         735 --256:     /* divider setting */
+                         736 --257:     R_BSP_STDIO_Printf("MIPI pixel clock divider %d\n", mipiClkSelCfg.Div);
+                         737 --line257
+                         738 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.8::
+                         739 .LDWlin8:
+000000de e33f0900        740 	ld.hu	8[sp],r7
+000000e2 260600000000*   741 	mov	.L539,r6
+                         742 	jarl	_R_BSP_STDIO_Printf,lp
+                         742 <EXPANSION BEGIN>
+                         742 jarl22 _R_BSP_STDIO_Printf , lp 
+000000e8 80ff0000*       742 <EXPANSION END>
+                         743 --258:     
+                         744 --259:     /* Start sequence
+                         745 --260:     
+                         746 --261:     MIPI port setup
+                         747 --262:       1. Select alternative port function: PMC40.PMC40_[5:0] = 11 1111B
+                         748 --263:       2. Set ports as input: PM40.PM40_[5:0] = 11 1111B
+                         749 --264:       3. Wait 20 usec buffer stabilization time
+                         750 --265:     
+                         751 --266:     Start sequence
+                         752 --267:       1. Reset by MIPI_RST_CTL = 0000 0003H
+                         753 --268:       2. Set up following registers:
+                         754 --269:         o MIPInMODE
+                         755 --270:         o MIPInDATA_DLY_CTL
+                         756 --271:         o MIPInBUF_CTL
+                         757 --272:         o MIPInSOT_COUNT
+                         758 --273:         o MIPInWORD_COUNT
+                         759 --274:         o MIPInLP_EN_ON_WC
+                         760 --275:         o MIPInLINE_BLANK
+                         761 --276:         o MIPInRESET_DLY_CTL
+                         762 --277:         o MIPInEOT_COUNT
+                         763 --278:       3. Release reset by MIPInRST_CTL = 0000 0000H
+                         764 --279:       4. Enable MIPI transmission by MIPInON.MIPI_ON = 1.
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         765 --281:     CAUTION
+                         766 --282:       Do not change the registers MIPInMODE, MIPInDATA_DLY_CTL, MIPInBUF_CTL, 
+                         767 --283:       MIPInSOT_COUNT, MIPInWORD_COUNT, MIPInLP_EN_ON_WC, MIPInLINE_BLANK, 
+                         768 --284:       MIPInRESET_DLY_CTL0, MIPInEOT_COUNT while the MIPI interface is active.
+                         769 --285:       These registers may only be changed after the stop sequence.
+                         770 --286:     */
+                         771 --287:     
+                         772 --288:     /* port setup */
+                         773 --289:     if (NoOfLanes == 2)
+                         774 --line289
+                         775 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.9::
+                         776 .LDWlin9:
+000000ec 62ea            777 	cmp	2,r29
+000000ee fa05*           778 	bne	.L136
+                         779 --290:     {
+                         780 --291:         R_DEV_PinInit(loc_D1M2H_MipiPinConfig2Lane);
+                         781 --line291
+                         782 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.10::
+                         783 .LDWlin10:
+000000f0 260600000000*   784 	mov	_loc_D1M2H_MipiPinConfig2Lane,r6
+                         785 	jarl	_R_DEV_PinInit,lp
+                         785 <EXPANSION BEGIN>
+                         785 jarl22 _R_DEV_PinInit , lp 
+000000f6 80ff0000*       785 <EXPANSION END>
+000000fa e505*           786 	br	.L138
+                         787 .L136:
+                         788 --292:     } 
+                         789 --293:     else
+                         790 --294:     { 
+                         791 --295:         R_DEV_PinInit(loc_D1M2H_MipiPinConfig1Lane);
+                         792 --line295
+                         793 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.11::
+                         794 .LDWlin11:
+000000fc 260600000000*   795 	mov	_loc_D1M2H_MipiPinConfig1Lane,r6
+                         796 	jarl	_R_DEV_PinInit,lp
+                         796 <EXPANSION BEGIN>
+                         796 jarl22 _R_DEV_PinInit , lp 
+00000102 80ff0000*       796 <EXPANSION END>
+                         797 .L138:
+                         798 --296:         /* R_GPIO_WritePin(40, 2, 0); */
+                         799 --297:         /* R_GPIO_WritePin(40, 3, 1); */
+                         800 --298:     }
+                         801 --299:     R_TICK_WaitUS(0, 50);   /* wait more than 20us */
+                         802 --line299
+                         803 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.12::
+                         804 .LDWlin12:
+00000106 0032            805 	mov	0,r6
+00000108 203e3200        806 	movea	50,zero,r7
+                         807 	jarl	_R_TICK_WaitUS,lp
+                         807 <EXPANSION BEGIN>
+                         807 jarl22 _R_TICK_WaitUS , lp 
+0000010c 80ff0000*       807 <EXPANSION END>
+                         808 --300:     
+                         809 --301:     /* VDCE input selection (select MIPI) */
+                         810 --302: #if 0 /* done in the VI setup */ 
+                         811 --303:     regval32 = R_DEV_READ_REG(32, VDCECTL);
+                         812 --304:     regval32 |= VDCECTL_PXSL;
+                         813 --305:     R_DEV_WRITE_REG(32, VDCECTL, ((regval32 & 0x3Fu) | 0x10000u));
+                         814 --306: #endif
+                         815 --307:     
+                         816 --308:     /* ensure the MIPI is not on incase we need to do a re-config */
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         817 --309:     R_DEV_WRITE_REG(32, MIPION_REG, 0u);
+                         818 --line309
+                         819 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.13::
+                         820 .LDWlin13:
+00000110 80070f0068fa    821 	st.w	zero,4294784000[zero]
+                         822 --311:     /* 1. step */
+                         823 --312:     R_DEV_WRITE_REG(32, MIPIRST_CTL_REG, 0x00000003u);
+00000116 030a            824 	mov	3,r1
+00000118 8007cf0868fa    825 	st.w	r1,4294784012[zero]
+                         826 --313:     /* 2. step */
+                         827 --314:     regval32 = 0x0u;
+0000011e 000a            828 	mov	0,r1
+                         829 --315:     regval32 |= (1u<<29u);    /* enable clock line noise filter */
+00000120 40760020        830 	movhi	hi(536870912),zero,r14
+00000124 0e09            831 	or	r14,r1
+                         832 --317:     if(2 == NoOfLanes)
+00000126 62ea            833 	cmp	2,r29
+00000128 da05*           834 	bne	.L139
+                         835 --318:     {
+                         836 --319:         regval32 |= (1u<<27u);    /* use 2 data lanes */
+                         837 --line319
+                         838 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.14::
+                         839 .LDWlin14:
+0000012a 40760008        840 	movhi	hi(134217728),zero,r14
+0000012e 0e09            841 	or	r14,r1
+00000130 d505*           842 	br	.L141
+                         843 .L139:
+                         844 --320:     }
+                         845 --321:     else
+                         846 --322:     {
+                         847 --323:         regval32 &= ~(1u<<27u);   /* use 1 data lane */
+                         848 --line323
+                         849 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.15::
+                         850 .LDWlin15:
+00000132 2e06fffffff7    851 	mov	-134217729,r14
+00000138 4e09            852 	and	r14,r1
+                         853 .L141:
+                         854 --324:     }
+                         855 --325:   
+                         856 --326:     regval32 &= ~(1ul<<25u);   /* Select FIFO method for PHY layer sync        */
+0000013a 2e06fffffffd    857 	mov	-33554433,r14
+00000140 4e09            858 	and	r14,r1
+                         859 --327:     regval32 |= (1ul<<24u);    /* Enable reset for clock lane (after time condition)   */
+00000142 2d0680602a00    860 	mov	2777216,r13
+00000148 1c70            861 	mov	r28,r14
+0000014a cd71            862 	add	r13,r14
+0000014c 0e09            863 	or	r14,r1
+                         864 --328:     regval32 |= (1ul<<23u);    /* Enable reset for data lanes (after time condition)   */
+0000014e 40768000        865 	movhi	hi(8388608),zero,r14
+00000152 0e09            866 	or	r14,r1
+                         867 --329:     regval32 &= ~(1ul<<22u);   /* MIPIADCLK       is T_HS-SETTLE count clock   */
+00000154 2e06ffffbfff    868 	mov	-4194305,r14
+0000015a 4e09            869 	and	r14,r1
+                         870 --330:     /* regval32 |= (1<<22) Ext. clock div4 is T_HS-SETTLE count clock   */
+                         871 --331:     regval32 |= (2ul<<16u);    /* RAW8 Input format spec                       */
+0000015c 40760200        872 	movhi	hi(131072),zero,r14
+00000160 0e09            873 	or	r14,r1
+                         874 --334:     /* regval32 |= (1ul<<4u);     disable VTIM             */
+                         875 --336:     regval32 |= (1ul<<1u);     /* Enable ECC check and correction              */
+00000162 810e0200        876 	ori	2,r1,r1
+                         877 --337:     regval32 |= (1ul<<0);     /* Enable CRC package data check                */
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+00000166 810e0100        878 	ori	1,r1,r1
+                         879 --338:     R_DEV_WRITE_REG(32, MIPIMODE_REG, regval32);
+0000016a 80074f0868fa    880 	st.w	r1,4294784004[zero]
+                         881 --339:     
+                         882 --340:     regval32 = (uint32_t)((uint32_t)(0ul<<3u) | (uint32_t)(0ul<<0u));   /* data input delay 0 * 100ps (for lane 1+2) */
+00000170 000a            883 	mov	0,r1
+                         884 --341:     R_DEV_WRITE_REG(32, MIPIDATA_DLY_CTL_REG, regval32);
+00000172 80078f0868fa    885 	st.w	r1,4294784008[zero]
+                         886 --342:     
+                         887 --343:     R_DEV_WRITE_REG(32, MIPIBUF_CTL_REG, 0);    /* MIPI I/F is used */
+00000178 80070f0168fa    888 	st.w	zero,4294784016[zero]
+                         889 --344:     
+                         890 --345:     regval32 = 0;
+0000017e 000a            891 	mov	0,r1
+                         892 --346:     regval32 |= (uint32_t)(20ul<<16u);   /* T_HS-SETTLE time for data count  (Thus CLK_COUNT must be set between 14 and 45.) */
+00000180 40761400        893 	movhi	hi(1310720),zero,r14
+00000184 0e09            894 	or	r14,r1
+                         895 --347:     regval32 |= (uint32_t)(20ul<<0);    /* T_CLK-SETTLE time for clk count (Thus DATA_COUNT must be set between 14 and 23.) */
+00000186 810e1400        896 	ori	20,r1,r1
+                         897 --348:     R_DEV_WRITE_REG(32, MIPISOT_COUNT_REG, regval32);
+0000018a 80074f0968fa    898 	st.w	r1,4294784020[zero]
+                         899 --349:     
+                         900 --350:     regval32 = 0;
+00000190 000a            901 	mov	0,r1
+                         902 --351:     R_DEV_WRITE_REG(32, MIPIWORD_COUNT_REG, regval32);  /* Disable Long Package size limitation */
+00000192 8007cf0968fa    903 	st.w	r1,4294784028[zero]
+                         904 --352:     
+                         905 --353:     regval32 = 0;
+00000198 000a            906 	mov	0,r1
+                         907 --354:     regval32 |= (1u<<24u);    /* Enable noise removal mode. */
+0000019a 2d0680602a00    908 	mov	2777216,r13
+000001a0 1c70            909 	mov	r28,r14
+000001a2 cd71            910 	add	r13,r14
+000001a4 0e09            911 	or	r14,r1
+                         912 --355:     regval32 |= (0x5u<<17u);  /* count value for noise removal (recommended value is 05H) */
+000001a6 40760a00        913 	movhi	hi(655360),zero,r14
+000001aa 0e09            914 	or	r14,r1
+                         915 --356:     /* regval32 |= (1u<<16u)  LP buffer turns on after LP_EN_ON_WC[15:0] read words */
+                         916 --357:     regval32 |= (uint32_t)(0x20ul<<0u);  /* word count (WC) when to switch the LP BUFFER on. (recommended value is 0020H) */
+000001ac 810e2000        917 	ori	32,r1,r1
+                         918 --358:     R_DEV_WRITE_REG(32, MIPILP_EN_ON_WC_REG, regval32);
+000001b0 80070f0a68fa    919 	st.w	r1,4294784032[zero]
+                         920 --359:     
+                         921 --360:     regval32 = 4u;   /* Interval until EOT in MIPIADCLK cycles */
+000001b6 040a            922 	mov	4,r1
+                         923 --361:     R_DEV_WRITE_REG(32, MIPILINE_BLANK_REG, regval32);
+000001b8 80078f0a68fa    924 	st.w	r1,4294784040[zero]
+                         925 --362:     
+                         926 --363:     R_DEV_WRITE_REG(32, MIPIRESET_DLY_CTL0_REG, 0x003F003Fu);
+000001be 2e063f003f00    927 	mov	4128831,r14
+000001c4 8007cf7268fa    928 	st.w	r14,4294784044[zero]
+                         929 --364:     
+                         930 --365:     regval32 = 0;   /*  T_EOT setting - In the case that the data rate is more than
+000001ca 000a            931 	mov	0,r1
+                         932 --366:                         266 Mbps per one lane, this register should be set 0. */
+                         933 --367:     R_DEV_WRITE_REG(32, MIPIEOT_COUNT_REG, regval32);
+000001cc 80074f0f68fa    934 	st.w	r1,4294784116[zero]
+                         935 --368:     
+                         936 --369:                         /* 0 YUV422 VI format */
+                         937 --370:     regval32 = 0x1;     /* 1 RGB888 VI format */
+000001d2 010a            938 	mov	1,r1
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                         939 --371:                         /* 2 RGB565 VI format */
+                         940 --372:     R_DEV_WRITE_REG(32, MIPIVIN_MODE_REG, regval32);
+000001d4 8007cf0969fa    941 	st.w	r1,4294784156[zero]
+                         942 --373:     
+                         943 --374:     
+                         944 --375:     /* 3. step */
+                         945 --376:     R_DEV_WRITE_REG(32, MIPIRST_CTL_REG, 0x00000000u);
+000001da 8007cf0068fa    946 	st.w	zero,4294784012[zero]
+                         947 --377: } 
+                         948 --	    .ef
+                         949 .LDW71:
+000001e0 4606ff10        950 	dispose	3,{r27,r28,r29,r31},[lp]
+                         951 	.type	_R_BSP_SYS_GFX_MipiCsi2InputConfig,@function
+                         952 	.size	_R_BSP_SYS_GFX_MipiCsi2InputConfig,.-_R_BSP_SYS_GFX_MipiCsi2InputConfig
+                         953 	.align	2
+                         954 .LDW81:
+                         955 --_regval32	r1	local
+                         956 --_mipiClkSelCfg	0[sp]	local
+                         957 --.L406	.L539	static
+                         958 
+                         959 --_PixelClkFreqHz	r27	param
+                         960 --_NoOfLanes	r29	param
+                         961 
+                         962 	.section ".rodata","a"
+                         963 .L539:--	"MIPI pixel clock divider %d\n"
+00000118 4d495049        964 	.byte	77,73,80,73
+0000011c 20706978        965 	.byte	32,112,105,120
+00000120 656c2063        966 	.byte	101,108,32,99
+00000124 6c6f636b        967 	.byte	108,111,99,107
+00000128 20646976        968 	.byte	32,100,105,118
+0000012c 69646572        969 	.byte	105,100,101,114
+00000130 2025640a        970 	.byte	32,37,100,10
+00000134 00              971 	.byte	0
+                         972 	.type	.L539,@object
+                         973 	.size	.L539,29
+                         974 	.data
+                         975 	.text
+                         976 
+                         977 
+                         978 --380: void R_BSP_SYS_GFX_MipiCsi2InputEnable(void)
+                         979 	.align	2
+                         980 	.align	2
+                         981 	.global	_R_BSP_SYS_GFX_MipiCsi2InputEnable
+                         982 _R_BSP_SYS_GFX_MipiCsi2InputEnable:
+000001e4 80076100        983 	prepare	{r29,r31},0
+                         984 --	    .bf
+                         985 .LDW91:
+                         986 --381: {
+                         987 --382:     uint32_t regval32;
+                         988 --384:    /* 4. step */
+                         989 --385:     R_DEV_WRITE_REG(32, MIPION_REG, 1u);
+000001e8 010a            990 	mov	1,r1
+000001ea 80070f0868fa    991 	st.w	r1,4294784000[zero]
+                         992 --386:     
+                         993 --387:     /* Enable MIPI Interrupts */
+                         994 --388:     /*  Interrupt setting within MIPI controller */
+                         995 --389:     regval32 = 0x0f03ff2eu;  /* mask all error interrupts */
+000001f0 3d062eff030f    996 	mov	251920174,r29
+                         997 --390:     R_DEV_WRITE_REG(32, MIPIINTENCLR_REG, regval32);    
+000001f6 8007cfec68fa    998 	st.w	r29,4294784076[zero]
+                         999 --391:     regval32 = 0x0f03ff2eu;  /* clear all error interrupts */
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+000001fc 3d062eff030f   1000 	mov	251920174,r29
+                        1001 --392:     R_DEV_WRITE_REG(32, MIPIINTFFCLR_REG, regval32);
+00000202 80070fed68fa   1002 	st.w	r29,4294784080[zero]
+                        1003 --393:    
+                        1004 --394:     /* only enable errors for data lane 1 if there are 2 lanes */
+                        1005 --395:     if (2 == loc_NoOfLanes)
+00000208 210600000000*  1006 	mov	_loc_NoOfLanes,r1
+0000020e 810f0100       1007 	ld.bu	0[r1],r1
+00000212 620a           1008 	cmp	2,r1
+00000214 da05*          1009 	bne	.L607
+                        1010 --396:     {
+                        1011 --397:         /* all error interrupts enabled,
+                        1012 --398:             except Unknown-X trigger and detect reset trigger */
+                        1013 --399:         regval32 = 0x0003ff2eu;
+                        1014 --line399
+                        1015 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.16::
+                        1016 .LDWlin16:
+00000216 3d062eff0300   1017 	mov	261934,r29
+0000021c c505*          1018 	br	.L609
+                        1019 .L607:
+                        1020 --400:     }
+                        1021 --401:     else
+                        1022 --402:     {
+                        1023 --403:         /* all error interrupts enabled (for lane 0),
+                        1024 --404:             except Unknown-X trigger and detect reset trigger */
+                        1025 --405:         regval32 = 0x00021f2eu;
+                        1026 --line405
+                        1027 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.17::
+                        1028 .LDWlin17:
+0000021e 3d062e1f0200   1029 	mov	139054,r29
+                        1030 .L609:
+                        1031 --406:     }
+                        1032 --408:     R_DEV_WRITE_REG(32, MIPIINTENSET_REG, regval32);
+00000224 80078fec68fa   1033 	st.w	r29,4294784072[zero]
+                        1034 --409:     /*  Interrupt setting within INTC controller for MIPI */
+                        1035 --410:     /* MIPI Buffer Overflow interrupt (INTMIPI0OVF) */
+                        1036 --411:     R_DEV_IntSetPrio(R_DEV_INT_MIPICOVF, 3u);
+0000022a 2036ee00       1037 	movea	238,zero,r6
+0000022e 033a           1038 	mov	3,r7
+                        1039 	jarl	_R_DEV_IntSetPrio,lp
+                        1039 <EXPANSION BEGIN>
+                        1039 jarl22 _R_DEV_IntSetPrio , lp 
+00000230 80ff0000*      1039 <EXPANSION END>
+                        1040 --412:     R_DEV_IntEnable(R_DEV_INT_MIPICOVF, 1u);
+                        1041 --line412
+                        1042 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.18::
+                        1043 .LDWlin18:
+00000234 2036ee00       1044 	movea	238,zero,r6
+00000238 013a           1045 	mov	1,r7
+                        1046 	jarl	_R_DEV_IntEnable,lp
+                        1046 <EXPANSION BEGIN>
+                        1046 jarl22 _R_DEV_IntEnable , lp 
+0000023a 80ff0000*      1046 <EXPANSION END>
+                        1047 --413:     /* MIPI Controller interrupt (INTMIPI0CTL) */
+                        1048 --414:     R_DEV_IntSetPrio(R_DEV_INT_MIPICCTL, 3u);
+                        1049 --line414
+                        1050 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.19::
+                        1051 .LDWlin19:
+0000023e 2036ef00       1052 	movea	239,zero,r6
+00000242 033a           1053 	mov	3,r7
+                        1054 	jarl	_R_DEV_IntSetPrio,lp
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                        1054 <EXPANSION BEGIN>
+                        1054 jarl22 _R_DEV_IntSetPrio , lp 
+00000244 80ff0000*      1054 <EXPANSION END>
+                        1055 --415:     R_DEV_IntEnable(R_DEV_INT_MIPICCTL, 1u);
+                        1056 --line415
+                        1057 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.20::
+                        1058 .LDWlin20:
+00000248 2036ef00       1059 	movea	239,zero,r6
+0000024c 013a           1060 	mov	1,r7
+                        1061 	jarl	_R_DEV_IntEnable,lp
+                        1061 <EXPANSION BEGIN>
+                        1061 jarl22 _R_DEV_IntEnable , lp 
+0000024e 80ff0000*      1061 <EXPANSION END>
+                        1062 --416: }
+                        1063 --	    .ef
+                        1064 .LDW02:
+                        1065 --line416
+                        1066 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.21::
+                        1067 .LDWlin21:
+00000252 40067f00       1068 	dispose	0,{r29,r31},[lp]
+                        1069 	.type	_R_BSP_SYS_GFX_MipiCsi2InputEnable,@function
+                        1070 	.size	_R_BSP_SYS_GFX_MipiCsi2InputEnable,.-_R_BSP_SYS_GFX_MipiCsi2InputEnable
+                        1071 	.align	2
+                        1072 .LDW12:
+                        1073 --_regval32	r29	local
+                        1074 
+                        1075 	.data
+                        1076 	.text
+                        1077 
+                        1078 
+                        1079 --418: void R_BSP_SYS_GFX_MipiCsi2InputDisable(void)
+                        1080 	.align	2
+                        1081 	.align	2
+                        1082 	.global	_R_BSP_SYS_GFX_MipiCsi2InputDisable
+                        1083 _R_BSP_SYS_GFX_MipiCsi2InputDisable:
+00000256 80072100       1084 	prepare	{r31},0
+                        1085 --	    .bf
+                        1086 .LDW22:
+                        1087 --419: {
+                        1088 --420:     /* VDCE input selection (de-select MIPI) */
+                        1089 --421: #if 0 /* done in the VI setup */ 
+                        1090 --422:     regval32 = R_DEV_READ_REG(32, VDCECTL);
+                        1091 --423:     regval32 &= ~VDCECTL_PXSL;
+                        1092 --424:     R_DEV_WRITE_REG(32, VDCECTL, ((regval32 & 0x3Fu) | 0x10000u));
+                        1093 --425: #endif
+                        1094 --426:     
+                        1095 --427:     /* Disable MIPI Interrupts */
+                        1096 --428:     R_DEV_IntEnable(R_DEV_INT_MIPICOVF, 0u);
+0000025a 2036ee00       1097 	movea	238,zero,r6
+0000025e 003a           1098 	mov	0,r7
+                        1099 	jarl	_R_DEV_IntEnable,lp
+                        1099 <EXPANSION BEGIN>
+                        1099 jarl22 _R_DEV_IntEnable , lp 
+00000260 80ff0000*      1099 <EXPANSION END>
+                        1100 --429:     R_DEV_IntEnable(R_DEV_INT_MIPICCTL, 0u);
+                        1101 --line429
+                        1102 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.22::
+                        1103 .LDWlin22:
+00000264 2036ef00       1104 	movea	239,zero,r6
+00000268 003a           1105 	mov	0,r7
+                        1106 	jarl	_R_DEV_IntEnable,lp
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                        1106 <EXPANSION BEGIN>
+                        1106 jarl22 _R_DEV_IntEnable , lp 
+0000026a 80ff0000*      1106 <EXPANSION END>
+                        1107 --430:     
+                        1108 --431:     /* Stop sequence */
+                        1109 --432:     /*  1. Disable the MIPI interface by MIPInON.MIPI_ON = 0. */
+                        1110 --433:     R_DEV_WRITE_REG(32, MIPION_REG, 0u);
+                        1111 --line433
+                        1112 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2.23::
+                        1113 .LDWlin23:
+0000026e 80070f0068fa   1114 	st.w	zero,4294784000[zero]
+                        1115 --434: }
+                        1116 --	    .ef
+                        1117 .LDW32:
+00000274 40063f00       1118 	dispose	0,{r31},[lp]
+                        1119 	.type	_R_BSP_SYS_GFX_MipiCsi2InputDisable,@function
+                        1120 	.size	_R_BSP_SYS_GFX_MipiCsi2InputDisable,.-_R_BSP_SYS_GFX_MipiCsi2InputDisable
+                        1121 	.align	2
+                        1122 .LDW42:
+                        1123 
+                        1124 	.section ".bss","awb"
+                        1125 .L778:
+                        1126 	.type	.L778,@object
+                        1127 	.size	.L778,0
+                        1128 	.data
+                        1129 	.text
+                        1130 
+                        1131 
+                        1132 --437: uint32_t R_BSP_GFX_MipiGetIsrStatus(void)
+                        1133 	.align	2
+                        1134 	.align	2
+                        1135 	.global	_R_BSP_GFX_MipiGetIsrStatus
+                        1136 _R_BSP_GFX_MipiGetIsrStatus:
+00000278 210600000000*  1137 	mov	_loc_MipiIntCtl,r1
+0000027e 0168           1138 	mov	r1,r13
+                        1139 --	    .bf
+                        1140 .LDW52:
+                        1141 --438: {
+                        1142 --439:     uint32_t val;
+                        1143 --441:     /* Disable interrupts globally while we get the current ISR value */
+                        1144 --442:     __DI();
+00000280 e0076001       1145 	di
+                        1146 --444:     val = loc_MipiIntCtl;
+00000284 21770100       1147 	ld.w	0[r1],r14
+                        1148 --445:     loc_MipiIntCtl = 0;
+00000288 61070100       1149 	st.w	zero,0[r1]
+                        1150 --446:    
+                        1151 --447:     /* Enable interrupts globally */
+                        1152 --448:     __EI();
+0000028c e0876001       1153 	ei
+                        1154 --450:     return val;
+00000290 0e50           1155 	mov	r14,r10
+                        1156 --	    .ef
+                        1157 .LDW62:
+00000292 7f00           1158 	jmp	[lp]
+                        1159 	.type	_R_BSP_GFX_MipiGetIsrStatus,@function
+                        1160 	.size	_R_BSP_GFX_MipiGetIsrStatus,.-_R_BSP_GFX_MipiGetIsrStatus
+                        1161 	.align	2
+                        1162 .LDW72:
+                        1163 --_val	r14	local
+                        1164 
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+                        1165 	.data
+                        1166 	.text
+                        1167 
+                        1168 --451: }
+                        1169 
+                        1170 --454: uint32_t R_BSP_GFX_MipiGetIsrOvfStatus(void)
+                        1171 	.align	2
+                        1172 	.align	2
+                        1173 	.global	_R_BSP_GFX_MipiGetIsrOvfStatus
+                        1174 _R_BSP_GFX_MipiGetIsrOvfStatus:
+00000294 210600000000*  1175 	mov	_loc_MipiIntOvf,r1
+0000029a 0168           1176 	mov	r1,r13
+                        1177 --	    .bf
+                        1178 .LDW82:
+                        1179 --455: {
+                        1180 --456:     uint32_t val;
+                        1181 --458:     /* Disable interrupts globally while we get the current ISR value */
+                        1182 --459:     __DI();
+0000029c e0076001       1183 	di
+                        1184 --461:     val = loc_MipiIntOvf;
+000002a0 21770100       1185 	ld.w	0[r1],r14
+                        1186 --462:     loc_MipiIntOvf = 0;
+000002a4 61070100       1187 	st.w	zero,0[r1]
+                        1188 --463:    
+                        1189 --464:     /* Enable interrupts globally */
+                        1190 --465:     __EI();
+000002a8 e0876001       1191 	ei
+                        1192 --467:     return val;
+000002ac 0e50           1193 	mov	r14,r10
+                        1194 --	    .ef
+                        1195 .LDW92:
+000002ae 7f00           1196 	jmp	[lp]
+                        1197 	.type	_R_BSP_GFX_MipiGetIsrOvfStatus,@function
+                        1198 	.size	_R_BSP_GFX_MipiGetIsrOvfStatus,.-_R_BSP_GFX_MipiGetIsrOvfStatus
+                        1199 	.align	2
+                        1200 .LDW03:
+                        1201 --_val	r14	local
+                        1202 
+                        1203 	.data
+                        1204 	.text
+                        1205 
+                        1206 --468: }
+                        1207 
+                        1208 --471: uint32_t R_BSP_GFX_MipiGetIsrOvfStatusCount(void)
+                        1209 	.align	2
+                        1210 	.align	2
+                        1211 	.global	_R_BSP_GFX_MipiGetIsrOvfStatusCount
+                        1212 _R_BSP_GFX_MipiGetIsrOvfStatusCount:
+                        1213 --	    .bf
+                        1214 .LDW13:
+                        1215 --472: {
+                        1216 --473:     uint32_t val;
+                        1217 --475:     /* Disable interrupts globally while we get the current ISR value */
+                        1218 --476:     __DI();
+000002b0 e0076001       1219 	di
+                        1220 --478:     val = loc_MipiIntOvfCount;
+000002b4 210600000000*  1221 	mov	_loc_MipiIntOvfCount,r1
+000002ba 210f0100       1222 	ld.w	0[r1],r1
+                        1223 --479:    
+                        1224 --480:     /* Enable interrupts globally */
+                        1225 --481:     __EI();
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000pj81.si
+000002be e0876001       1226 	ei
+                        1227 --483:     return val;
+000002c2 0150           1228 	mov	r1,r10
+                        1229 --	    .ef
+                        1230 .LDW23:
+000002c4 7f00           1231 	jmp	[lp]
+                        1232 	.type	_R_BSP_GFX_MipiGetIsrOvfStatusCount,@function
+                        1233 	.size	_R_BSP_GFX_MipiGetIsrOvfStatusCount,.-_R_BSP_GFX_MipiGetIsrOvfStatusCount
+                        1234 	.align	2
+                        1235 .LDW33:
+                        1236 --_val	r1	local
+                        1237 
+                        1238 	.data
+                        1239 	.text
+                        1240 
+                        1241 --484: }
+                        1242 	.align	2
+                        1243 --_loc_D1M2H_MipiPinConfig1Lane	_loc_D1M2H_MipiPinConfig1Lane	static
+                        1244 --_loc_D1M2H_MipiPinConfig2Lane	_loc_D1M2H_MipiPinConfig2Lane	static
+                        1245 --_loc_MipiIntOvfCount	_loc_MipiIntOvfCount	static
+                        1246 --_loc_MipiIntOvf	_loc_MipiIntOvf	static
+                        1247 --_loc_MipiIntCtl	_loc_MipiIntCtl	static
+                        1248 --_loc_NoOfLanes	_loc_NoOfLanes	static
+                        1249 
+                        1250 	.data
+                        1251 	.ghsnote version,15
+                        1252 	.ghsnote tools,3
+                        1253 	.ghsnote options,144
+                        1254 	.text
+                        1255 	.align	2
+                        1256 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_bsp_gfx_mipi_csi2...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D025..0::
+                        1257 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

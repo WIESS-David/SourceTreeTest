@@ -1,0 +1,1642 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\r_ostm_main.dbo -source=r_ostm_main.c -o .\obj\gh_0000ph81.o -list=.\obj\r_ostm_main.lst C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+Source File: r_ostm_main.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\..\macro\timer\ostm\src\r_ostm_main.c -o
+                         171 --		.\obj\r_ostm_main.o
+                         172 --Source File:   ..\..\..\..\..\macro\timer\ostm\src\r_ostm_main.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:54 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /*
+                         184 --2: ****************************************************************************
+                         185 --3: PROJECT : OSTM driver
+                         186 --4: AUTHOR  : Michael Golczewski
+                         187 --5: FILE    : $Id: r_ostm_main.c 7402 2016-01-27 15:43:39Z florian.zimmermann $
+                         188 --6: ============================================================================ 
+                         189 --7: DESCRIPTION
+                         190 --8: Driver for OSTM macro
+                         191 --10: ============================================================================
+                         192 --11:                             C O P Y R I G H T
+                         193 --12: ============================================================================
+                         194 --13:                        Copyright (c) 2013 - 2014
+                         195 --14:                                   by 
+                         196 --15:                        Renesas Electronics (Europe) GmbH. 
+                         197 --16:                            Arcadiastrasse 10
+                         198 --17:                           D-40472 Duesseldorf
+                         199 --18:                                Germany
+                         200 --19:                           All rights reserved.
+                         201 --20: ============================================================================
+                         202 --21: Purpose: only for testing, not for mass production
+                         203 --23: DISCLAIMER
+                         204 --25: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         205 --26: the license agreement, especially the usage rights. In any case, it is
+                         206 --27: LICENSEE's responsibility to make sure that any user of the software complies
+                         207 --28: with the terms and conditions of the signed license agreement.
+                         208 --30: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         209 --31: mass-production applications. It can only be used for evaluation and
+                         210 --32: demonstration purposes at customer's premises listed in the signed license
+                         211 --33: agreement.
+                         212 --35: ****************************************************************************
+                         213 --37: ****************************************************************************
+                         214 --38: */
+                         215 --41: /*******************************************************************************
+                         216 --42:   Title: Main Module
+                         217 --44:   Implementation of the API and other global functions.
+                         218 --45: */
+                         219 --48: /*******************************************************************************
+                         220 --49:   Section: Includes
+                         221 --50: */
+                         222 --52: #include "r_typedefs.h"
+                         223 --53: #include "r_ostm_api.h"
+                         224 --54: #include "r_ostm_sys.h"
+                         225 --55: #include "r_config_ostm.h"
+                         226 --56: #include "r_ostm_regs.h"
+                         227 --57: #define OSTM_MAIN_GLOBALS_
+                         228 --58: #include "r_ostm_main.h"
+                         229 --61: /*******************************************************************************
+                         230 --62:   Section: Local Variables
+                         231 --63: */
+                         232 --65: /*******************************************************************************
+                         233 --66:   Variable: loc_ErrorHandler
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         234 --68:   A function pointer to a user callback (Applications error handler)  
+                         235 --69:   
+                         236 --70:   The value is assigned by the application using the driver 
+                         237 --71: */
+                         238 --73: static void ( *loc_ErrorHandler )(uint32_t Unit, uint32_t Error) = 0u;
+                         239 --76: /*******************************************************************************
+                         240 --77:   Section: Global Functions
+                         241 --78: */
+                         242 --81: /*******************************************************************************
+                         243 --82:   Function: R_OSTM_ErrorHandler
+                         244 --84:   For API documentation see file ostm_main.h
+                         245 --85: */
+                         246 --87: void R_OSTM_ErrorHandler(uint32_t Unit, r_ostm_Error_t Error) 
+                         247 	.text
+                         248 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D027..0::
+                         249 	.align	2
+                         250 	.global	_R_OSTM_ErrorHandler
+                         251 _R_OSTM_ErrorHandler:
+00000000 8007e170        252 	prepare	{r25,r26,r27,r28,r29,r31},0
+00000004 3d0600000000*   253 	mov	.L46,r29
+0000000a 06e0            254 	mov	r6,r28
+0000000c 07d8            255 	mov	r7,r27
+0000000e 1dd0            256 	mov	r29,r26
+                         257 --	    .bf
+                         258 .LDW01:
+                         259 --88: {
+                         260 --89:     
+                         261 --90:     if (loc_ErrorHandler != 0u) 
+00000010 3d0f0100        262 	ld.w	0[r29],r1
+00000014 e009            263 	cmp	zero,r1
+00000016 820d*           264 	be	.L4
+                         265 --91:     {   /* we've got a registered error handler here ...*/
+                         266 --92:         loc_ErrorHandler(Unit, (uint32_t)Error);   /* ... and we gonna use it!*/
+                         267 --line92
+                         268 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.1::
+                         269 .LDWlin1:
+00000018 3dcf0100        270 	ld.w	0[r29],r25
+0000001c 1c30            271 	mov	r28,r6
+0000001e 1b38            272 	mov	r27,r7
+00000020 f9c760f9        273 	jarl	[r25],lp
+00000024 a505*           274 	br	.L6
+                         275 .L4:
+                         276 --93:     }
+                         277 --94:     else 
+                         278 --95:     {                                /* we don't have a handler */
+                         279 --96:         for (;;)                     /* so let's wait here ... */
+                         280 .L9:
+                         281 --97:         {
+                         282 --line96
+                         283 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.2::
+                         284 .LDWlin2:
+00000026 8505*           285 	br	.L9
+                         286 .L6:
+                         287 --98:         }
+                         288 --99:     }
+                         289 --100: }
+                         290 --	    .ef
+                         291 .LDW11:
+                         292 --line100
+                         293 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.3::
+                         294 .LDWlin3:
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+00000028 4006ff70        295 	dispose	0,{r25,r26,r27,r28,r29,r31},[lp]
+                         296 	.type	_R_OSTM_ErrorHandler,@function
+                         297 	.size	_R_OSTM_ErrorHandler,.-_R_OSTM_ErrorHandler
+                         298 	.align	2
+                         299 .LDW21:
+                         300 
+                         301 --_Unit	r28	param
+                         302 --_Error	r27	param
+                         303 
+                         304 	.data
+                         305 	.align	4
+                         306 .L46:
+                         307 	.type	.L46,@object
+                         308 	.size	.L46,0
+                         309 	.global	_loc_ErrorHandler..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.
+                         310 _loc_ErrorHandler..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.:
+00000000 00000000        311 _loc_ErrorHandler:	.byte	0,0,0,0
+                         312 	.type	_loc_ErrorHandler..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.,@object
+                         313 	.size	_loc_ErrorHandler..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.,4
+                         314 	.type	_loc_ErrorHandler,@object
+                         315 	.size	_loc_ErrorHandler,4
+                         316 	.text
+                         317 
+                         318 
+                         319 --103: /*******************************************************************************
+                         320 --104:   Section: Global API Functions
+                         321 --106:   For API documentation see file <ostm_api.h>
+                         322 --107: */
+                         323 --109: /*******************************************************************************
+                         324 --110:   Function: R_OSTM_Init
+                         325 --112:   For API documentation see file <ostm_api.h>
+                         326 --113: */
+                         327 --115: r_ostm_Error_t R_OSTM_Init(uint32_t Unit, r_ostm_Parameter_t *Config) 
+                         328 	.align	2
+                         329 	.align	2
+                         330 	.global	_R_OSTM_Init
+                         331 _R_OSTM_Init:
+0000002c 8007e170        332 	prepare	{r25,r26,r27,r28,r29,r31},0
+00000030 06e0            333 	mov	r6,r28
+00000032 07d8            334 	mov	r7,r27
+00000034 00ea            335 	mov	0,r29
+00000036 3a0600000000*   336 	mov	_R_OSTM_Dev,r26
+                         337 --	    .bf
+                         338 .LDW31:
+                         339 --116: {
+                         340 --117:     uint32_t        base;
+                         341 --118:     uint32_t        cmpval;
+                         342 --119:     R_OSTM_RegCtl_t regval;
+                         343 --120:     
+                         344 --121:     if (Unit >= R_OSTM_MACRO_NUM) 
+0000003c 62e2            345 	cmp	2,r28
+0000003e e105*           346 	bl	.L72
+                         347 --122:     {
+                         348 --123:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         349 --line123
+                         350 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.4::
+                         351 .LDWlin4:
+00000040 1c30            352 	mov	r28,r6
+00000042 023a            353 	mov	2,r7
+                         354 	jarl	_R_OSTM_ErrorHandler,lp
+                         354 <EXPANSION BEGIN>
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         354 jarl22 _R_OSTM_ErrorHandler , lp 
+00000044 bfffbcff*       354 <EXPANSION END>
+00000048 8525*           355 	br	.L74
+                         356 .L72:
+                         357 --124:     }
+                         358 --125:     else
+                         359 --126:     {
+                         360 --128:         R_OSTM_Dev[Unit].BaseAddr = R_SYS_OSTM_GetBaseAddr(Unit);
+                         361 --line128
+                         362 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.5::
+                         363 .LDWlin5:
+0000004a 1cc8            364 	mov	r28,r25
+0000004c c3ca            365 	shl	3,r25
+0000004e dac9            366 	add	r26,r25
+00000050 1c30            367 	mov	r28,r6
+                         368 	jarl	_R_SYS_OSTM_GetBaseAddr,lp
+                         368 <EXPANSION BEGIN>
+                         368 jarl22 _R_SYS_OSTM_GetBaseAddr , lp 
+00000052 80ff0000*       368 <EXPANSION END>
+00000056 79570100        369 	st.w	r10,0[r25]
+                         370 --129:         base = R_OSTM_Dev[Unit].BaseAddr;
+                         371 --line129
+                         372 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.6::
+                         373 .LDWlin6:
+0000005a 1c08            374 	mov	r28,r1
+0000005c c30a            375 	shl	3,r1
+0000005e da09            376 	add	r26,r1
+00000060 21f70100        377 	ld.w	0[r1],ep
+                         378 --130:         cmpval = Config->CmpVal;
+00000064 3b0f0500        379 	ld.w	4[r27],r1
+                         380 --131:         R_OSTM_WRITE_REG(32, base + R_OSTM_CMP, cmpval);
+00000068 010d            381 	sst.w	r1,0[ep]
+                         382 --133:         regval.Bit.OstmMd1 = Config->Mode;
+0000006a 9b6f0100        383 	ld.bu	0[r27],r13
+0000006e 1d70            384 	mov	r29,r14
+00000070 ed77d210        385 	bins	r13,1,1,r14
+00000074 ceeeffff        386 	andi	65535,r14,r29
+                         387 --134:         regval.Bit.OstmMd0 = Config->IntCtl;
+00000078 9b6f0900        388 	ld.bu	8[r27],r13
+0000007c 1d70            389 	mov	r29,r14
+0000007e ed77d000        390 	bins	r13,0,1,r14
+00000082 ceeeffff        391 	andi	65535,r14,r29
+                         392 --135:         
+                         393 --136:         R_OSTM_WRITE_REG(8, base + R_OSTM_CTL, regval.Byte);
+00000086 a0eb            394 	sst.b	r29,32[ep]
+                         395 .L74:
+                         396 --137:     } 
+                         397 --139:     return R_OSTM_ERR_OK;
+00000088 0052            398 	mov	0,r10
+                         399 --	    .ef
+                         400 .LDW41:
+0000008a 4006ff70        401 	dispose	0,{r25,r26,r27,r28,r29,r31},[lp]
+                         402 	.type	_R_OSTM_Init,@function
+                         403 	.size	_R_OSTM_Init,.-_R_OSTM_Init
+                         404 	.align	2
+                         405 .LDW51:
+                         406 --_base	ep	local
+                         407 --_cmpval	r1	local
+                         408 --_regval	r29	local
+                         409 
+                         410 --_Unit	r28	param
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         411 --_Config	r27	param
+                         412 
+                         413 	.section ".bss","awb"
+                         414 .L130:
+                         415 	.type	.L130,@object
+                         416 	.size	.L130,0
+                         417 	.data
+                         418 	.text
+                         419 
+                         420 --140: }
+                         421 
+                         422 --143: /*******************************************************************************
+                         423 --144:   Function: R_OSTM_DeInit
+                         424 --146:   For API documentation see file <ostm_api.h>
+                         425 --147: */
+                         426 --149: r_ostm_Error_t R_OSTM_DeInit(uint32_t Unit)
+                         427 	.align	2
+                         428 	.align	2
+                         429 	.global	_R_OSTM_DeInit
+                         430 _R_OSTM_DeInit:
+0000008e 8007e110        431 	prepare	{r27,r28,r29,r31},0
+00000092 06e8            432 	mov	r6,r29
+00000094 3b0600000000*   433 	mov	_R_OSTM_Dev,r27
+                         434 --	    .bf
+                         435 .LDW61:
+                         436 --150: {
+                         437 --151:     uint32_t base;
+                         438 --152:     if (Unit >= R_OSTM_MACRO_NUM)
+0000009a 62ea            439 	cmp	2,r29
+0000009c e105*           440 	bl	.L171
+                         441 --153:     {
+                         442 --154:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         443 --line154
+                         444 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.7::
+                         445 .LDWlin7:
+0000009e 1d30            446 	mov	r29,r6
+000000a0 023a            447 	mov	2,r7
+                         448 	jarl	_R_OSTM_ErrorHandler,lp
+                         448 <EXPANSION BEGIN>
+                         448 jarl22 _R_OSTM_ErrorHandler , lp 
+000000a2 bfff5eff*       448 <EXPANSION END>
+000000a6 851d*           449 	br	.L173
+                         450 .L171:
+                         451 --155:     }
+                         452 --156:     else
+                         453 --157:     {
+                         454 --158:         R_OSTM_Dev[Unit].BaseAddr = R_SYS_OSTM_GetBaseAddr(Unit);
+                         455 --line158
+                         456 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.8::
+                         457 .LDWlin8:
+000000a8 1de0            458 	mov	r29,r28
+000000aa c3e2            459 	shl	3,r28
+000000ac dbe1            460 	add	r27,r28
+000000ae 1d30            461 	mov	r29,r6
+                         462 	jarl	_R_SYS_OSTM_GetBaseAddr,lp
+                         462 <EXPANSION BEGIN>
+                         462 jarl22 _R_SYS_OSTM_GetBaseAddr , lp 
+000000b0 80ff0000*       462 <EXPANSION END>
+000000b4 7c570100        463 	st.w	r10,0[r28]
+                         464 --159:         base = R_OSTM_Dev[Unit].BaseAddr;
+                         465 --line159
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         466 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.9::
+                         467 .LDWlin9:
+000000b8 1df0            468 	mov	r29,ep
+000000ba c3f2            469 	shl	3,ep
+000000bc dbf1            470 	add	r27,ep
+000000be 00e5            471 	sld.w	0[ep],r28
+                         472 --161:         R_OSTM_WRITE_REG(8, base + R_OSTM_TT, 0x01);         
+000000c0 010a            473 	mov	1,r1
+000000c2 5c0f1800        474 	st.b	r1,24[r28]
+                         475 --162:         R_OSTM_WRITE_REG(8, base + R_OSTM_CTL, 0); 
+000000c6 5c072000        476 	st.b	zero,32[r28]
+                         477 --163:         R_OSTM_WRITE_REG(8, base + R_OSTM_TO , 0);
+000000ca 5c070800        478 	st.b	zero,8[r28]
+                         479 --164:         R_OSTM_WRITE_REG(8, base + R_OSTM_TOE, 0);
+000000ce 5c070c00        480 	st.b	zero,12[r28]
+                         481 --165:         R_OSTM_WRITE_REG(32, base + R_OSTM_EMU, 0);  
+000000d2 7c072500        482 	st.w	zero,36[r28]
+                         483 .L173:
+                         484 --166:     }   
+                         485 --167:     R_SYS_OSTM_DisableInt(Unit, R_OSTM_INT_TINT);    
+000000d6 1d30            486 	mov	r29,r6
+000000d8 003a            487 	mov	0,r7
+                         488 	jarl	_R_SYS_OSTM_DisableInt,lp
+                         488 <EXPANSION BEGIN>
+                         488 jarl22 _R_SYS_OSTM_DisableInt , lp 
+000000da 80ff0000*       488 <EXPANSION END>
+                         489 --168:     return R_OSTM_ERR_OK;
+                         490 --line168
+                         491 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.10::
+                         492 .LDWlin10:
+000000de 0052            493 	mov	0,r10
+                         494 --	    .ef
+                         495 .LDW71:
+000000e0 4006ff10        496 	dispose	0,{r27,r28,r29,r31},[lp]
+                         497 	.type	_R_OSTM_DeInit,@function
+                         498 	.size	_R_OSTM_DeInit,.-_R_OSTM_DeInit
+                         499 	.align	2
+                         500 .LDW81:
+                         501 --_base	r28	local
+                         502 
+                         503 --_Unit	r29	param
+                         504 
+                         505 	.section ".bss","awb"
+                         506 .L230:
+                         507 	.type	.L230,@object
+                         508 	.size	.L230,0
+                         509 	.data
+                         510 	.text
+                         511 
+                         512 --169: }
+                         513 
+                         514 --172: /*******************************************************************************
+                         515 --173:   Function: R_OSTM_GetStatus
+                         516 --175:   For API documentation see file <ostm_api.h>
+                         517 --176: */
+                         518 --178: uint8_t R_OSTM_GetStatus(uint32_t Unit)
+                         519 	.align	2
+                         520 	.align	2
+                         521 	.global	_R_OSTM_GetStatus
+                         522 _R_OSTM_GetStatus:
+000000e4 8007e100        523 	prepare	{r28,r29,r31},0
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+000000e8 06e0            524 	mov	r6,r28
+                         525 --	    .bf
+                         526 .LDW91:
+                         527 --179: {
+                         528 --180:     uint32_t base;
+                         529 --181:     uint8_t  regval;
+                         530 --182:     
+                         531 --183:     regval = 0u;
+000000ea 00ea            532 	mov	0,r29
+                         533 --184:     
+                         534 --185:     if (Unit >= R_OSTM_MACRO_NUM)
+000000ec 62e2            535 	cmp	2,r28
+000000ee e105*           536 	bl	.L274
+                         537 --186:     {
+                         538 --187:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         539 --line187
+                         540 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.11::
+                         541 .LDWlin11:
+000000f0 1c30            542 	mov	r28,r6
+000000f2 023a            543 	mov	2,r7
+                         544 	jarl	_R_OSTM_ErrorHandler,lp
+                         544 <EXPANSION BEGIN>
+                         544 jarl22 _R_OSTM_ErrorHandler , lp 
+000000f4 bfff0cff*       544 <EXPANSION END>
+000000f8 a50d*           545 	br	.L276
+                         546 .L274:
+                         547 --188:     }
+                         548 --189:     else
+                         549 --190:     {
+                         550 --191:         base   = R_OSTM_Dev[Unit].BaseAddr;
+                         551 --line191
+                         552 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.12::
+                         553 .LDWlin12:
+000000fa 1cf0            554 	mov	r28,ep
+000000fc c3f2            555 	shl	3,ep
+000000fe 2d0600000000*   556 	mov	_R_OSTM_Dev,r13
+00000104 cdf1            557 	add	r13,ep
+00000106 000d            558 	sld.w	0[ep],r1
+                         559 --192:         regval = R_OSTM_READ_REG(8, base + R_OSTM_TE);
+00000108 81ef1100        560 	ld.bu	16[r1],r29
+                         561 .L276:
+                         562 --193:     }
+                         563 --194:     return regval;
+0000010c 1d50            564 	mov	r29,r10
+                         565 --	    .ef
+                         566 .LDW02:
+0000010e 4006ff00        567 	dispose	0,{r28,r29,r31},[lp]
+                         568 	.type	_R_OSTM_GetStatus,@function
+                         569 	.size	_R_OSTM_GetStatus,.-_R_OSTM_GetStatus
+                         570 	.align	2
+                         571 .LDW12:
+                         572 --_base	r1	local
+                         573 --_regval	r29	local
+                         574 
+                         575 --_Unit	r28	param
+                         576 
+                         577 	.section ".bss","awb"
+                         578 .L322:
+                         579 	.type	.L322,@object
+                         580 	.size	.L322,0
+                         581 	.data
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         582 	.text
+                         583 
+                         584 --195: }
+                         585 
+                         586 --198: /*******************************************************************************
+                         587 --199:   Function: R_OSTM_GetCounterValue
+                         588 --201:   For API documentation see file <ostm_api.h>
+                         589 --202: */
+                         590 --204: uint32_t R_OSTM_GetCounterValue(uint32_t Unit)
+                         591 	.align	2
+                         592 	.align	2
+                         593 	.global	_R_OSTM_GetCounterValue
+                         594 _R_OSTM_GetCounterValue:
+00000112 80076100        595 	prepare	{r29,r31},0
+00000116 06e8            596 	mov	r6,r29
+                         597 --	    .bf
+                         598 .LDW22:
+                         599 --205: {
+                         600 --206:     uint32_t base;
+                         601 --207:     uint32_t  regval;
+                         602 --208:     
+                         603 --209:     if (Unit >= R_OSTM_MACRO_NUM)
+00000118 62ea            604 	cmp	2,r29
+0000011a e105*           605 	bl	.L351
+                         606 --210:     {
+                         607 --211:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         608 --line211
+                         609 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.13::
+                         610 .LDWlin13:
+0000011c 1d30            611 	mov	r29,r6
+0000011e 023a            612 	mov	2,r7
+                         613 	jarl	_R_OSTM_ErrorHandler,lp
+                         613 <EXPANSION BEGIN>
+                         613 jarl22 _R_OSTM_ErrorHandler , lp 
+00000120 bfffe0fe*       613 <EXPANSION END>
+00000124 a50d*           614 	br	.L353
+                         615 .L351:
+                         616 --212:     }
+                         617 --213:     else
+                         618 --214:     {
+                         619 --215:         base   = R_OSTM_Dev[Unit].BaseAddr;
+                         620 --line215
+                         621 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.14::
+                         622 .LDWlin14:
+00000126 1d08            623 	mov	r29,r1
+00000128 c30a            624 	shl	3,r1
+0000012a 2e0600000000*   625 	mov	_R_OSTM_Dev,r14
+00000130 ce09            626 	add	r14,r1
+00000132 21f70100        627 	ld.w	0[r1],ep
+                         628 --216:         regval = R_OSTM_READ_REG(32, base + R_OSTM_CNT);
+00000136 020d            629 	sld.w	4[ep],r1
+                         630 .L353:
+                         631 --217:     }
+                         632 --218:     return regval;
+00000138 0150            633 	mov	r1,r10
+                         634 --	    .ef
+                         635 .LDW32:
+0000013a 40067f00        636 	dispose	0,{r29,r31},[lp]
+                         637 	.type	_R_OSTM_GetCounterValue,@function
+                         638 	.size	_R_OSTM_GetCounterValue,.-_R_OSTM_GetCounterValue
+                         639 	.align	2
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         640 .LDW42:
+                         641 --_base	ep	local
+                         642 --_regval	r1	local
+                         643 
+                         644 --_Unit	r29	param
+                         645 
+                         646 	.section ".bss","awb"
+                         647 .L398:
+                         648 	.type	.L398,@object
+                         649 	.size	.L398,0
+                         650 	.data
+                         651 	.text
+                         652 
+                         653 --219: }
+                         654 
+                         655 --221: /*******************************************************************************
+                         656 --222:   Function: R_OSTM_GetCompareRegValue
+                         657 --224:   For API documentation see file <ostm_api.h>
+                         658 --225: */
+                         659 --227: uint32_t R_OSTM_GetCompareRegValue(uint32_t Unit)
+                         660 	.align	2
+                         661 	.align	2
+                         662 	.global	_R_OSTM_GetCompareRegValue
+                         663 _R_OSTM_GetCompareRegValue:
+0000013e 80076100        664 	prepare	{r29,r31},0
+00000142 06e8            665 	mov	r6,r29
+                         666 --	    .bf
+                         667 .LDW52:
+                         668 --228: {
+                         669 --229:     uint32_t base;
+                         670 --230:     uint32_t  regval;
+                         671 --231:     
+                         672 --232:     if (Unit >= R_OSTM_MACRO_NUM)
+00000144 62ea            673 	cmp	2,r29
+00000146 e105*           674 	bl	.L424
+                         675 --233:     {
+                         676 --234:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         677 --line234
+                         678 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.15::
+                         679 .LDWlin15:
+00000148 1d30            680 	mov	r29,r6
+0000014a 023a            681 	mov	2,r7
+                         682 	jarl	_R_OSTM_ErrorHandler,lp
+                         682 <EXPANSION BEGIN>
+                         682 jarl22 _R_OSTM_ErrorHandler , lp 
+0000014c bfffb4fe*       682 <EXPANSION END>
+00000150 a50d*           683 	br	.L426
+                         684 .L424:
+                         685 --235:     }
+                         686 --236:     else
+                         687 --237:     {
+                         688 --238:         base   = R_OSTM_Dev[Unit].BaseAddr;
+                         689 --line238
+                         690 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.16::
+                         691 .LDWlin16:
+00000152 1d08            692 	mov	r29,r1
+00000154 c30a            693 	shl	3,r1
+00000156 2e0600000000*   694 	mov	_R_OSTM_Dev,r14
+0000015c ce09            695 	add	r14,r1
+0000015e 21f70100        696 	ld.w	0[r1],ep
+                         697 --239:         regval = R_OSTM_READ_REG(32, base + R_OSTM_CMP);
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+00000162 000d            698 	sld.w	0[ep],r1
+                         699 .L426:
+                         700 --240:     }
+                         701 --242:     return regval;
+00000164 0150            702 	mov	r1,r10
+                         703 --	    .ef
+                         704 .LDW62:
+00000166 40067f00        705 	dispose	0,{r29,r31},[lp]
+                         706 	.type	_R_OSTM_GetCompareRegValue,@function
+                         707 	.size	_R_OSTM_GetCompareRegValue,.-_R_OSTM_GetCompareRegValue
+                         708 	.align	2
+                         709 .LDW72:
+                         710 --_base	ep	local
+                         711 --_regval	r1	local
+                         712 
+                         713 --_Unit	r29	param
+                         714 
+                         715 	.section ".bss","awb"
+                         716 .L462:
+                         717 	.type	.L462,@object
+                         718 	.size	.L462,0
+                         719 	.data
+                         720 	.text
+                         721 
+                         722 --243: }
+                         723 
+                         724 --245: /*******************************************************************************
+                         725 --246:   Function: R_OSTM_GetOutputState
+                         726 --248:   For API documentation see file <ostm_api.h>
+                         727 --249: */
+                         728 --251: uint8_t R_OSTM_GetOutputState(uint32_t Unit)
+                         729 	.align	2
+                         730 	.align	2
+                         731 	.global	_R_OSTM_GetOutputState
+                         732 _R_OSTM_GetOutputState:
+0000016a 80076100        733 	prepare	{r29,r31},0
+0000016e 06e8            734 	mov	r6,r29
+                         735 --	    .bf
+                         736 .LDW82:
+                         737 --252: {
+                         738 --253:     uint8_t  regval;
+                         739 --254:     uint32_t base;
+                         740 --255:     
+                         741 --256:     if (Unit >= R_OSTM_MACRO_NUM)
+00000170 62ea            742 	cmp	2,r29
+00000172 e105*           743 	bl	.L488
+                         744 --257:     {
+                         745 --258:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         746 --line258
+                         747 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.17::
+                         748 .LDWlin17:
+00000174 1d30            749 	mov	r29,r6
+00000176 023a            750 	mov	2,r7
+                         751 	jarl	_R_OSTM_ErrorHandler,lp
+                         751 <EXPANSION BEGIN>
+                         751 jarl22 _R_OSTM_ErrorHandler , lp 
+00000178 bfff88fe*       751 <EXPANSION END>
+0000017c a50d*           752 	br	.L490
+                         753 .L488:
+                         754 --259:     }
+                         755 --260:     else
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         756 --261:     {
+                         757 --262:         base   = R_OSTM_Dev[Unit].BaseAddr;
+                         758 --line262
+                         759 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.18::
+                         760 .LDWlin18:
+0000017e 1d08            761 	mov	r29,r1
+00000180 c30a            762 	shl	3,r1
+00000182 2e0600000000*   763 	mov	_R_OSTM_Dev,r14
+00000188 ce09            764 	add	r14,r1
+0000018a 21f70100        765 	ld.w	0[r1],ep
+                         766 --263:         regval = R_OSTM_READ_REG(8, base + R_OSTM_TO);
+0000018e 6808            767 	sld.bu	8[ep],r1
+                         768 .L490:
+                         769 --264:     }
+                         770 --265:     return regval;
+00000190 0150            771 	mov	r1,r10
+                         772 --	    .ef
+                         773 .LDW92:
+00000192 40067f00        774 	dispose	0,{r29,r31},[lp]
+                         775 	.type	_R_OSTM_GetOutputState,@function
+                         776 	.size	_R_OSTM_GetOutputState,.-_R_OSTM_GetOutputState
+                         777 	.align	2
+                         778 .LDW03:
+                         779 --_regval	r1	local
+                         780 --_base	ep	local
+                         781 
+                         782 --_Unit	r29	param
+                         783 
+                         784 	.section ".bss","awb"
+                         785 .L526:
+                         786 	.type	.L526,@object
+                         787 	.size	.L526,0
+                         788 	.data
+                         789 	.text
+                         790 
+                         791 --266: }
+                         792 
+                         793 --269: /*******************************************************************************
+                         794 --270:   Function: R_OSTM_Start
+                         795 --272:   For API documentation see file <ostm_api.h>
+                         796 --273: */
+                         797 --275: r_ostm_Error_t R_OSTM_Start(uint32_t Unit)
+                         798 	.align	2
+                         799 	.align	2
+                         800 	.global	_R_OSTM_Start
+                         801 _R_OSTM_Start:
+00000196 80076100        802 	prepare	{r29,r31},0
+0000019a 06e8            803 	mov	r6,r29
+                         804 --	    .bf
+                         805 .LDW13:
+                         806 --276: {
+                         807 --277:     uint32_t base;
+                         808 --279:     if (Unit >= R_OSTM_MACRO_NUM)
+0000019c 62ea            809 	cmp	2,r29
+0000019e e105*           810 	bl	.L552
+                         811 --280:     {
+                         812 --281:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         813 --line281
+                         814 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.19::
+                         815 .LDWlin19:
+000001a0 1d30            816 	mov	r29,r6
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+000001a2 023a            817 	mov	2,r7
+                         818 	jarl	_R_OSTM_ErrorHandler,lp
+                         818 <EXPANSION BEGIN>
+                         818 jarl22 _R_OSTM_ErrorHandler , lp 
+000001a4 bfff5cfe*       818 <EXPANSION END>
+000001a8 b50d*           819 	br	.L554
+                         820 .L552:
+                         821 --282:     }
+                         822 --283:     else
+                         823 --284:     {
+                         824 --285:         base = R_OSTM_Dev[Unit].BaseAddr;
+                         825 --line285
+                         826 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.20::
+                         827 .LDWlin20:
+000001aa 1d08            828 	mov	r29,r1
+000001ac c30a            829 	shl	3,r1
+000001ae 2e0600000000*   830 	mov	_R_OSTM_Dev,r14
+000001b4 ce09            831 	add	r14,r1
+000001b6 21f70100        832 	ld.w	0[r1],ep
+                         833 --286:         R_OSTM_WRITE_REG(8, base + R_OSTM_TS, 0x01);
+000001ba 010a            834 	mov	1,r1
+000001bc 940b            835 	sst.b	r1,20[ep]
+                         836 .L554:
+                         837 --287:     }
+                         838 --288:     return R_OSTM_ERR_OK;
+000001be 0052            839 	mov	0,r10
+                         840 --	    .ef
+                         841 .LDW23:
+000001c0 40067f00        842 	dispose	0,{r29,r31},[lp]
+                         843 	.type	_R_OSTM_Start,@function
+                         844 	.size	_R_OSTM_Start,.-_R_OSTM_Start
+                         845 	.align	2
+                         846 .LDW33:
+                         847 --_base	ep	local
+                         848 
+                         849 --_Unit	r29	param
+                         850 
+                         851 	.section ".bss","awb"
+                         852 .L590:
+                         853 	.type	.L590,@object
+                         854 	.size	.L590,0
+                         855 	.data
+                         856 	.text
+                         857 
+                         858 --290: }
+                         859 
+                         860 --293: /*******************************************************************************
+                         861 --294:   Function: R_OSTM_Stop
+                         862 --296:   For API documentation see file <ostm_api.h>
+                         863 --297: */
+                         864 --299: r_ostm_Error_t R_OSTM_Stop(uint32_t Unit)
+                         865 	.align	2
+                         866 	.align	2
+                         867 	.global	_R_OSTM_Stop
+                         868 _R_OSTM_Stop:
+000001c4 80076100        869 	prepare	{r29,r31},0
+000001c8 06e8            870 	mov	r6,r29
+                         871 --	    .bf
+                         872 .LDW43:
+                         873 --300: {
+                         874 --301:     uint32_t base;
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         875 --302:     
+                         876 --303:     if (Unit >= R_OSTM_MACRO_NUM)
+000001ca 62ea            877 	cmp	2,r29
+000001cc e105*           878 	bl	.L616
+                         879 --304:     {
+                         880 --305:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         881 --line305
+                         882 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.21::
+                         883 .LDWlin21:
+000001ce 1d30            884 	mov	r29,r6
+000001d0 023a            885 	mov	2,r7
+                         886 	jarl	_R_OSTM_ErrorHandler,lp
+                         886 <EXPANSION BEGIN>
+                         886 jarl22 _R_OSTM_ErrorHandler , lp 
+000001d2 bfff2efe*       886 <EXPANSION END>
+000001d6 b50d*           887 	br	.L618
+                         888 .L616:
+                         889 --306:     }
+                         890 --307:     else
+                         891 --308:     {
+                         892 --309:         base = R_OSTM_Dev[Unit].BaseAddr;
+                         893 --line309
+                         894 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.22::
+                         895 .LDWlin22:
+000001d8 1d08            896 	mov	r29,r1
+000001da c30a            897 	shl	3,r1
+000001dc 2e0600000000*   898 	mov	_R_OSTM_Dev,r14
+000001e2 ce09            899 	add	r14,r1
+000001e4 21f70100        900 	ld.w	0[r1],ep
+                         901 --310:         R_OSTM_WRITE_REG(8, base + R_OSTM_TT, 0x01);
+000001e8 010a            902 	mov	1,r1
+000001ea 980b            903 	sst.b	r1,24[ep]
+                         904 .L618:
+                         905 --311:     }
+                         906 --312:     return R_OSTM_ERR_OK;
+000001ec 0052            907 	mov	0,r10
+                         908 --	    .ef
+                         909 .LDW53:
+000001ee 40067f00        910 	dispose	0,{r29,r31},[lp]
+                         911 	.type	_R_OSTM_Stop,@function
+                         912 	.size	_R_OSTM_Stop,.-_R_OSTM_Stop
+                         913 	.align	2
+                         914 .LDW63:
+                         915 --_base	ep	local
+                         916 
+                         917 --_Unit	r29	param
+                         918 
+                         919 	.section ".bss","awb"
+                         920 .L654:
+                         921 	.type	.L654,@object
+                         922 	.size	.L654,0
+                         923 	.data
+                         924 	.text
+                         925 
+                         926 --313: }
+                         927 
+                         928 --316: /*******************************************************************************
+                         929 --317:   Function: R_OSTM_OutputCtl
+                         930 --319:   For API documentation see file <ostm_api.h>
+                         931 --320: */
+                         932 --322: r_ostm_Error_t R_OSTM_OutputCtl(uint32_t Unit, r_ostm_OutputParams_t *Params)
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                         933 	.align	2
+                         934 	.align	2
+                         935 	.global	_R_OSTM_OutputCtl
+                         936 _R_OSTM_OutputCtl:
+000001f2 8007e100        937 	prepare	{r28,r29,r31},0
+000001f6 06e8            938 	mov	r6,r29
+000001f8 07e0            939 	mov	r7,r28
+                         940 --	    .bf
+                         941 .LDW73:
+                         942 --323: {
+                         943 --324:     uint32_t base;
+                         944 --325:         
+                         945 --326:     if (Unit >= R_OSTM_MACRO_NUM)
+000001fa 62ea            946 	cmp	2,r29
+000001fc e105*           947 	bl	.L680
+                         948 --327:     {
+                         949 --328:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                         950 --line328
+                         951 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.23::
+                         952 .LDWlin23:
+000001fe 1d30            953 	mov	r29,r6
+00000200 023a            954 	mov	2,r7
+                         955 	jarl	_R_OSTM_ErrorHandler,lp
+                         955 <EXPANSION BEGIN>
+                         955 jarl22 _R_OSTM_ErrorHandler , lp 
+00000202 bffffefd*       955 <EXPANSION END>
+00000206 951d*           956 	br	.L682
+                         957 .L680:
+                         958 --329:     }
+                         959 --330:     else
+                         960 --331:     {
+                         961 --332:         base = R_OSTM_Dev[Unit].BaseAddr;
+                         962 --line332
+                         963 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.24::
+                         964 .LDWlin24:
+00000208 1d08            965 	mov	r29,r1
+0000020a c30a            966 	shl	3,r1
+0000020c 2e0600000000*   967 	mov	_R_OSTM_Dev,r14
+00000212 ce09            968 	add	r14,r1
+00000214 21f70100        969 	ld.w	0[r1],ep
+                         970 --333:         if (Params->Mode == R_OSTM_OUTPUT_CTL)
+00000218 3c0f0100        971 	ld.w	0[r28],r1
+0000021c e009            972 	cmp	zero,r1
+0000021e ba0d*           973 	bne	.L683
+                         974 --334:         {
+                         975 --335:             R_OSTM_WRITE_REG(8, base + R_OSTM_TOE, 0x00);
+                         976 --line335
+                         977 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.25::
+                         978 .LDWlin25:
+00000220 8c03            979 	sst.b	zero,12[ep]
+                         980 --336:             if (Params->Level == R_OSTM_HIGH)
+00000222 3c0f0500        981 	ld.w	4[r28],r1
+00000226 610a            982 	cmp	1,r1
+00000228 ca05*           983 	bne	.L685
+                         984 --337:             {
+                         985 --338:                 R_OSTM_WRITE_REG(8, base + R_OSTM_TO, 0x01);
+                         986 --line338
+                         987 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.26::
+                         988 .LDWlin26:
+0000022a 010a            989 	mov	1,r1
+0000022c 880b            990 	sst.b	r1,8[ep]
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+0000022e d505*           991 	br	.L682
+                         992 .L685:
+                         993 --339:             }
+                         994 --340:             else
+                         995 --341:             {
+                         996 --343:                 R_OSTM_WRITE_REG(8, base + R_OSTM_TO, 0x00);
+                         997 --line343
+                         998 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.27::
+                         999 .LDWlin27:
+00000230 8803           1000 	sst.b	zero,8[ep]
+00000232 b505*          1001 	br	.L682
+                        1002 .L683:
+                        1003 --344:             }
+                        1004 --345:         }
+                        1005 --346:         else
+                        1006 --347:         {
+                        1007 --349:             R_OSTM_WRITE_REG(8, base + R_OSTM_TOE, 0x01);
+                        1008 --line349
+                        1009 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.28::
+                        1010 .LDWlin28:
+00000234 010a           1011 	mov	1,r1
+00000236 8c0b           1012 	sst.b	r1,12[ep]
+                        1013 .L682:
+                        1014 --350:         }
+                        1015 --351:     }
+                        1016 --352:     return R_OSTM_ERR_OK;
+00000238 0052           1017 	mov	0,r10
+                        1018 --	    .ef
+                        1019 .LDW83:
+0000023a 4006ff00       1020 	dispose	0,{r28,r29,r31},[lp]
+                        1021 	.type	_R_OSTM_OutputCtl,@function
+                        1022 	.size	_R_OSTM_OutputCtl,.-_R_OSTM_OutputCtl
+                        1023 	.align	2
+                        1024 .LDW93:
+                        1025 --_base	ep	local
+                        1026 
+                        1027 --_Unit	r29	param
+                        1028 --_Params	r28	param
+                        1029 
+                        1030 	.section ".bss","awb"
+                        1031 .L738:
+                        1032 	.type	.L738,@object
+                        1033 	.size	.L738,0
+                        1034 	.data
+                        1035 	.text
+                        1036 
+                        1037 --353: }
+                        1038 
+                        1039 --356: /*******************************************************************************
+                        1040 --357:   Function: R_OSTM_SetOutputMode
+                        1041 --359:   For API documentation see file <ostm_api.h>
+                        1042 --360: */
+                        1043 --362: r_ostm_Error_t R_OSTM_SetOutputMode(uint32_t Unit, r_ostm_OutputParams_t *Mode)
+                        1044 	.align	2
+                        1045 	.align	2
+                        1046 	.global	_R_OSTM_SetOutputMode
+                        1047 _R_OSTM_SetOutputMode:
+0000023e 8007e100       1048 	prepare	{r28,r29,r31},0
+00000242 06e8           1049 	mov	r6,r29
+00000244 07e0           1050 	mov	r7,r28
+                        1051 --	    .bf
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                        1052 .LDW04:
+                        1053 --363: {
+                        1054 --364:     uint32_t base;
+                        1055 --365:         
+                        1056 --366:     if (Unit >= R_OSTM_MACRO_NUM)
+00000246 62ea           1057 	cmp	2,r29
+00000248 e105*          1058 	bl	.L779
+                        1059 --367:     {
+                        1060 --368:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                        1061 --line368
+                        1062 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.29::
+                        1063 .LDWlin29:
+0000024a 1d30           1064 	mov	r29,r6
+0000024c 023a           1065 	mov	2,r7
+                        1066 	jarl	_R_OSTM_ErrorHandler,lp
+                        1066 <EXPANSION BEGIN>
+                        1066 jarl22 _R_OSTM_ErrorHandler , lp 
+0000024e bfffb2fd*      1066 <EXPANSION END>
+00000252 9515*          1067 	br	.L781
+                        1068 .L779:
+                        1069 --369:     }
+                        1070 --370:     else
+                        1071 --371:     {
+                        1072 --372:         base = R_OSTM_Dev[Unit].BaseAddr;
+                        1073 --line372
+                        1074 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.30::
+                        1075 .LDWlin30:
+00000254 1d08           1076 	mov	r29,r1
+00000256 c30a           1077 	shl	3,r1
+00000258 2e0600000000*  1078 	mov	_R_OSTM_Dev,r14
+0000025e ce09           1079 	add	r14,r1
+00000260 21f70100       1080 	ld.w	0[r1],ep
+                        1081 --373:         if (Mode->Mode == R_OSTM_OUTPUT_CTL)
+00000264 3c0f0100       1082 	ld.w	0[r28],r1
+00000268 e009           1083 	cmp	zero,r1
+0000026a ba05*          1084 	bne	.L782
+                        1085 --374:         {
+                        1086 --375:             R_OSTM_WRITE_REG(8, base + R_OSTM_TOE, 0x00);
+                        1087 --line375
+                        1088 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.31::
+                        1089 .LDWlin31:
+0000026c 8c03           1090 	sst.b	zero,12[ep]
+0000026e b505*          1091 	br	.L781
+                        1092 .L782:
+                        1093 --376:         
+                        1094 --377:         }
+                        1095 --378:         else
+                        1096 --379:         {
+                        1097 --381:             R_OSTM_WRITE_REG(8, base + R_OSTM_TOE, 0x01);
+                        1098 --line381
+                        1099 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.32::
+                        1100 .LDWlin32:
+00000270 010a           1101 	mov	1,r1
+00000272 8c0b           1102 	sst.b	r1,12[ep]
+                        1103 .L781:
+                        1104 --382:         }
+                        1105 --383:     }
+                        1106 --384:     return R_OSTM_ERR_OK;
+00000274 0052           1107 	mov	0,r10
+                        1108 --	    .ef
+                        1109 .LDW14:
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+00000276 4006ff00       1110 	dispose	0,{r28,r29,r31},[lp]
+                        1111 	.type	_R_OSTM_SetOutputMode,@function
+                        1112 	.size	_R_OSTM_SetOutputMode,.-_R_OSTM_SetOutputMode
+                        1113 	.align	2
+                        1114 .LDW24:
+                        1115 --_base	ep	local
+                        1116 
+                        1117 --_Unit	r29	param
+                        1118 --_Mode	r28	param
+                        1119 
+                        1120 	.section ".bss","awb"
+                        1121 .L822:
+                        1122 	.type	.L822,@object
+                        1123 	.size	.L822,0
+                        1124 	.data
+                        1125 	.text
+                        1126 
+                        1127 --385: }
+                        1128 
+                        1129 --388: /*******************************************************************************
+                        1130 --389:   Function: R_OSTM_SetSvstop
+                        1131 --391:   For API documentation see file <ostm_api.h>
+                        1132 --392: */
+                        1133 --394: r_ostm_Error_t R_OSTM_SetSvstop(uint32_t Unit, r_ostm_SvStop_t Svstop)
+                        1134 	.align	2
+                        1135 	.align	2
+                        1136 	.global	_R_OSTM_SetSvstop
+                        1137 _R_OSTM_SetSvstop:
+0000027a 8007e130       1138 	prepare	{r26,r27,r28,r29,r31},0
+0000027e 06e8           1139 	mov	r6,r29
+00000280 07d8           1140 	mov	r7,r27
+00000282 3c0600000000*  1141 	mov	_R_OSTM_Dev,r28
+                        1142 --	    .bf
+                        1143 .LDW34:
+                        1144 --395: {
+                        1145 --396:     uint32_t base;
+                        1146 --397:     
+                        1147 --398:     if (Unit >= R_OSTM_MACRO_NUM)
+00000288 62ea           1148 	cmp	2,r29
+0000028a e105*          1149 	bl	.L854
+                        1150 --399:     {
+                        1151 --400:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                        1152 --line400
+                        1153 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.33::
+                        1154 .LDWlin33:
+0000028c 1d30           1155 	mov	r29,r6
+0000028e 023a           1156 	mov	2,r7
+                        1157 	jarl	_R_OSTM_ErrorHandler,lp
+                        1157 <EXPANSION BEGIN>
+                        1157 jarl22 _R_OSTM_ErrorHandler , lp 
+00000290 bfff70fd*      1157 <EXPANSION END>
+00000294 f50d*          1158 	br	.L856
+                        1159 .L854:
+                        1160 --401:     }
+                        1161 --402:     else
+                        1162 --403:     {
+                        1163 --405:         R_OSTM_Dev[Unit].BaseAddr = R_SYS_OSTM_GetBaseAddr(Unit);
+                        1164 --line405
+                        1165 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.34::
+                        1166 .LDWlin34:
+00000296 1dd0           1167 	mov	r29,r26
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+00000298 c3d2           1168 	shl	3,r26
+0000029a dcd1           1169 	add	r28,r26
+0000029c 1d30           1170 	mov	r29,r6
+                        1171 	jarl	_R_SYS_OSTM_GetBaseAddr,lp
+                        1171 <EXPANSION BEGIN>
+                        1171 jarl22 _R_SYS_OSTM_GetBaseAddr , lp 
+0000029e 80ff0000*      1171 <EXPANSION END>
+000002a2 7a570100       1172 	st.w	r10,0[r26]
+                        1173 --406:         base = R_OSTM_Dev[Unit].BaseAddr;
+                        1174 --line406
+                        1175 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.35::
+                        1176 .LDWlin35:
+000002a6 1d08           1177 	mov	r29,r1
+000002a8 c30a           1178 	shl	3,r1
+000002aa dc09           1179 	add	r28,r1
+000002ac 21f70100       1180 	ld.w	0[r1],ep
+                        1181 --407:         R_OSTM_WRITE_REG(8, base + R_OSTM_EMU, (uint8_t)Svstop);
+000002b0 a4db           1182 	sst.b	r27,36[ep]
+                        1183 .L856:
+                        1184 --408:     }
+                        1185 --409:     return R_OSTM_ERR_OK;
+000002b2 0052           1186 	mov	0,r10
+                        1187 --	    .ef
+                        1188 .LDW44:
+000002b4 4006ff30       1189 	dispose	0,{r26,r27,r28,r29,r31},[lp]
+                        1190 	.type	_R_OSTM_SetSvstop,@function
+                        1191 	.size	_R_OSTM_SetSvstop,.-_R_OSTM_SetSvstop
+                        1192 	.align	2
+                        1193 .LDW54:
+                        1194 --_base	ep	local
+                        1195 
+                        1196 --_Unit	r29	param
+                        1197 --_Svstop	r27	param
+                        1198 
+                        1199 	.section ".bss","awb"
+                        1200 .L898:
+                        1201 	.type	.L898,@object
+                        1202 	.size	.L898,0
+                        1203 	.data
+                        1204 	.text
+                        1205 
+                        1206 --410: }
+                        1207 
+                        1208 --413: /*******************************************************************************
+                        1209 --414:   Function: R_OSTM_SetCmp
+                        1210 --416:   For API documentation see file <ostm_api.h>
+                        1211 --417: */
+                        1212 --419: r_ostm_Error_t R_OSTM_SetCmp(uint32_t Unit, uint32_t CmpVal)
+                        1213 	.align	2
+                        1214 	.align	2
+                        1215 	.global	_R_OSTM_SetCmp
+                        1216 _R_OSTM_SetCmp:
+000002b8 8007e100       1217 	prepare	{r28,r29,r31},0
+000002bc 06e8           1218 	mov	r6,r29
+000002be 07e0           1219 	mov	r7,r28
+                        1220 --	    .bf
+                        1221 .LDW64:
+                        1222 --420: {
+                        1223 --421:     uint32_t base;
+                        1224 --423:     if (Unit >= R_OSTM_MACRO_NUM)
+000002c0 62ea           1225 	cmp	2,r29
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+000002c2 e105*          1226 	bl	.L927
+                        1227 --424:     {
+                        1228 --425:         R_OSTM_ErrorHandler(Unit, R_OSTM_ERR_RANGE);
+                        1229 --line425
+                        1230 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.36::
+                        1231 .LDWlin36:
+000002c4 1d30           1232 	mov	r29,r6
+000002c6 023a           1233 	mov	2,r7
+                        1234 	jarl	_R_OSTM_ErrorHandler,lp
+                        1234 <EXPANSION BEGIN>
+                        1234 jarl22 _R_OSTM_ErrorHandler , lp 
+000002c8 bfff38fd*      1234 <EXPANSION END>
+000002cc a50d*          1235 	br	.L929
+                        1236 .L927:
+                        1237 --426:     }
+                        1238 --427:     else
+                        1239 --428:     {
+                        1240 --429:         base = R_OSTM_Dev[Unit].BaseAddr;
+                        1241 --line429
+                        1242 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.37::
+                        1243 .LDWlin37:
+000002ce 1d08           1244 	mov	r29,r1
+000002d0 c30a           1245 	shl	3,r1
+000002d2 2e0600000000*  1246 	mov	_R_OSTM_Dev,r14
+000002d8 ce09           1247 	add	r14,r1
+000002da 21f70100       1248 	ld.w	0[r1],ep
+                        1249 --430:         R_OSTM_WRITE_REG(32, base + R_OSTM_CMP, CmpVal);
+000002de 01e5           1250 	sst.w	r28,0[ep]
+                        1251 .L929:
+                        1252 --431:     }
+                        1253 --432:     return R_OSTM_ERR_OK;
+000002e0 0052           1254 	mov	0,r10
+                        1255 --	    .ef
+                        1256 .LDW74:
+000002e2 4006ff00       1257 	dispose	0,{r28,r29,r31},[lp]
+                        1258 	.type	_R_OSTM_SetCmp,@function
+                        1259 	.size	_R_OSTM_SetCmp,.-_R_OSTM_SetCmp
+                        1260 	.align	2
+                        1261 .LDW84:
+                        1262 --_base	ep	local
+                        1263 
+                        1264 --_Unit	r29	param
+                        1265 --_CmpVal	r28	param
+                        1266 
+                        1267 	.section ".bss","awb"
+                        1268 .L974:
+                        1269 	.type	.L974,@object
+                        1270 	.size	.L974,0
+                        1271 	.data
+                        1272 	.text
+                        1273 
+                        1274 --433: }
+                        1275 
+                        1276 --436: /*******************************************************************************
+                        1277 --437:   Function: R_OSTM_EnableInt
+                        1278 --439:   For API documentation see file <ostm_api.h>
+                        1279 --440: */
+                        1280 --442: r_ostm_Error_t R_OSTM_EnableInt(uint32_t Unit, r_ostm_Interrupt_t Interrupt)
+                        1281 	.align	2
+                        1282 	.align	2
+                        1283 	.global	_R_OSTM_EnableInt
+
+                                                                      Page 23
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                        1284 _R_OSTM_EnableInt:
+000002e6 8007e100       1285 	prepare	{r28,r29,r31},0
+000002ea 06e8           1286 	mov	r6,r29
+000002ec 07e0           1287 	mov	r7,r28
+                        1288 --	    .bf
+                        1289 .LDW94:
+                        1290 --443: {
+                        1291 --444:     /* Check range */
+                        1292 --445:     if ((Unit >= R_OSTM_MACRO_NUM) || (Interrupt >= R_OSTM_INT_NUM))
+000002ee 62ea           1293 	cmp	2,r29
+000002f0 b905*          1294 	bnl	.L1001
+000002f2 61e2           1295 	cmp	1,r28
+000002f4 b105*          1296 	bl	.L1000
+                        1297 .L1001:
+                        1298 --446:     {
+                        1299 --447:         return R_OSTM_ERR_RANGE; 
+                        1300 --line447
+                        1301 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.38::
+                        1302 .LDWlin38:
+000002f6 0252           1303 	mov	2,r10
+000002f8 e505*          1304 	br	.L998
+                        1305 .L1000:
+                        1306 --448:     }
+                        1307 --449:     R_SYS_OSTM_EnableInt(Unit, Interrupt); 
+                        1308 --line449
+                        1309 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.39::
+                        1310 .LDWlin39:
+000002fa 1d30           1311 	mov	r29,r6
+000002fc 1c38           1312 	mov	r28,r7
+                        1313 	jarl	_R_SYS_OSTM_EnableInt,lp
+                        1313 <EXPANSION BEGIN>
+                        1313 jarl22 _R_SYS_OSTM_EnableInt , lp 
+000002fe 80ff0000*      1313 <EXPANSION END>
+                        1314 --450:     return R_OSTM_ERR_OK; 
+                        1315 --line450
+                        1316 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.40::
+                        1317 .LDWlin40:
+00000302 0052           1318 	mov	0,r10
+                        1319 .L998:
+                        1320 --	    .ef
+                        1321 .LDW05:
+00000304 4006ff00       1322 	dispose	0,{r28,r29,r31},[lp]
+                        1323 	.type	_R_OSTM_EnableInt,@function
+                        1324 	.size	_R_OSTM_EnableInt,.-_R_OSTM_EnableInt
+                        1325 	.align	2
+                        1326 .LDW15:
+                        1327 
+                        1328 --_Unit	r29	param
+                        1329 --_Interrupt	r28	param
+                        1330 
+                        1331 	.section ".bss","awb"
+                        1332 .L1038:
+                        1333 	.type	.L1038,@object
+                        1334 	.size	.L1038,0
+                        1335 	.data
+                        1336 	.text
+                        1337 
+                        1338 --451: }
+                        1339 
+                        1340 --454: /*******************************************************************************
+                        1341 --455:   Function: R_OSTM_DisableInt
+
+                                                                      Page 24
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                        1342 --457:   For API documentation see file <ostm_api.h>
+                        1343 --458: */
+                        1344 --460: r_ostm_Error_t R_OSTM_DisableInt(uint32_t Unit, r_ostm_Interrupt_t Interrupt)
+                        1345 	.align	2
+                        1346 	.align	2
+                        1347 	.global	_R_OSTM_DisableInt
+                        1348 _R_OSTM_DisableInt:
+00000308 8007e100       1349 	prepare	{r28,r29,r31},0
+0000030c 06e8           1350 	mov	r6,r29
+0000030e 07e0           1351 	mov	r7,r28
+                        1352 --	    .bf
+                        1353 .LDW25:
+                        1354 --461: {
+                        1355 --462:     
+                        1356 --463:     /* Check range */
+                        1357 --464:     if ((Unit >= R_OSTM_MACRO_NUM) || (Interrupt >= R_OSTM_INT_NUM))
+00000310 62ea           1358 	cmp	2,r29
+00000312 b905*          1359 	bnl	.L1065
+00000314 61e2           1360 	cmp	1,r28
+00000316 b105*          1361 	bl	.L1064
+                        1362 .L1065:
+                        1363 --465:     {
+                        1364 --466:         return R_OSTM_ERR_RANGE; 
+                        1365 --line466
+                        1366 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.41::
+                        1367 .LDWlin41:
+00000318 0252           1368 	mov	2,r10
+0000031a e505*          1369 	br	.L1062
+                        1370 .L1064:
+                        1371 --467:     }
+                        1372 --469:     R_SYS_OSTM_DisableInt(Unit, Interrupt); 
+                        1373 --line469
+                        1374 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.42::
+                        1375 .LDWlin42:
+0000031c 1d30           1376 	mov	r29,r6
+0000031e 1c38           1377 	mov	r28,r7
+                        1378 	jarl	_R_SYS_OSTM_DisableInt,lp
+                        1378 <EXPANSION BEGIN>
+                        1378 jarl22 _R_SYS_OSTM_DisableInt , lp 
+00000320 80ff0000*      1378 <EXPANSION END>
+                        1379 --470:     return R_OSTM_ERR_OK; 
+                        1380 --line470
+                        1381 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.43::
+                        1382 .LDWlin43:
+00000324 0052           1383 	mov	0,r10
+                        1384 .L1062:
+                        1385 --	    .ef
+                        1386 .LDW35:
+00000326 4006ff00       1387 	dispose	0,{r28,r29,r31},[lp]
+                        1388 	.type	_R_OSTM_DisableInt,@function
+                        1389 	.size	_R_OSTM_DisableInt,.-_R_OSTM_DisableInt
+                        1390 	.align	2
+                        1391 .LDW45:
+                        1392 
+                        1393 --_Unit	r29	param
+                        1394 --_Interrupt	r28	param
+                        1395 
+                        1396 	.section ".bss","awb"
+                        1397 .L1102:
+                        1398 	.type	.L1102,@object
+                        1399 	.size	.L1102,0
+
+                                                                      Page 25
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                        1400 	.data
+                        1401 	.text
+                        1402 
+                        1403 --471: }
+                        1404 
+                        1405 --474: /*******************************************************************************
+                        1406 --475:   Function: R_OSTM_SetErrorCallback
+                        1407 --477:   For API documentation see file <ostm_api.h>
+                        1408 --478: */
+                        1409 --480: void R_OSTM_SetErrorCallback(void (*ErrorCallback)(uint32_t Unit, uint32_t Error))
+                        1410 	.align	2
+                        1411 	.align	2
+                        1412 	.global	_R_OSTM_SetErrorCallback
+                        1413 _R_OSTM_SetErrorCallback:
+0000032a 0670           1414 	mov	r6,r14
+0000032c 210600000000*  1415 	mov	_loc_ErrorHandler,r1
+                        1416 --	    .bf
+                        1417 .LDW55:
+                        1418 --481: {
+                        1419 --482:     loc_ErrorHandler = ErrorCallback; 
+00000332 2b0600000000*  1420 	mov	_loc_ErrorHandler,r11
+00000338 6b770100       1421 	st.w	r14,0[r11]
+                        1422 --483: }
+                        1423 --	    .ef
+                        1424 .LDW65:
+0000033c 7f00           1425 	jmp	[lp]
+                        1426 	.type	_R_OSTM_SetErrorCallback,@function
+                        1427 	.size	_R_OSTM_SetErrorCallback,.-_R_OSTM_SetErrorCallback
+                        1428 	.align	2
+                        1429 .LDW75:
+                        1430 
+                        1431 --_ErrorCallback	r14	param
+                        1432 
+                        1433 	.data
+                        1434 	.text
+                        1435 
+                        1436 
+                        1437 --486: /*******************************************************************************
+                        1438 --487:   Function: R_OSTM_GetPClock
+                        1439 --489:   For API documentation see file <ostm_api.h>
+                        1440 --490: */
+                        1441 --492: uint32_t R_OSTM_GetClock(uint32_t Unit)
+                        1442 	.align	2
+                        1443 	.align	2
+                        1444 	.global	_R_OSTM_GetClock
+                        1445 _R_OSTM_GetClock:
+0000033e 80076100       1446 	prepare	{r29,r31},0
+00000342 06e8           1447 	mov	r6,r29
+                        1448 --	    .bf
+                        1449 .LDW85:
+                        1450 --493: {
+                        1451 --494:     return R_SYS_OSTM_GetClock(Unit);
+00000344 1d30           1452 	mov	r29,r6
+                        1453 	jarl	_R_SYS_OSTM_GetClock,lp
+                        1453 <EXPANSION BEGIN>
+                        1453 jarl22 _R_SYS_OSTM_GetClock , lp 
+00000346 80ff0000*      1453 <EXPANSION END>
+                        1454 --	    .ef
+                        1455 .LDW95:
+                        1456 --line495
+                        1457 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main.44::
+
+                                                                      Page 26
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000ph81.si
+                        1458 .LDWlin44:
+0000034a 40067f00       1459 	dispose	0,{r29,r31},[lp]
+                        1460 	.type	_R_OSTM_GetClock,@function
+                        1461 	.size	_R_OSTM_GetClock,.-_R_OSTM_GetClock
+                        1462 	.align	2
+                        1463 .LDW06:
+                        1464 
+                        1465 --_Unit	r29	param
+                        1466 
+                        1467 	.section ".bss","awb"
+                        1468 .L1198:
+                        1469 	.type	.L1198,@object
+                        1470 	.size	.L1198,0
+                        1471 	.data
+                        1472 	.text
+                        1473 
+                        1474 --495: }
+                        1475 	.align	2
+                        1476 --_loc_ErrorHandler	_loc_ErrorHandler	static
+                        1477 
+                        1478 	.data
+                        1479 	.section ".bss","awb"
+                        1480 	.align	4
+                        1481 	.align	4
+                        1482 	.global	_R_OSTM_Dev
+00000000 000000000000   1483 _R_OSTM_Dev:	.space	16
+00000006 000000000000 
+0000000c 00000000 
+                        1484 	.type	_R_OSTM_Dev,@object
+                        1485 	.size	_R_OSTM_Dev,16
+                        1486 	.data
+                        1487 	.ghsnote version,15
+                        1488 	.ghsnote tools,3
+                        1489 	.ghsnote options,144
+                        1490 	.text
+                        1491 	.align	2
+                        1492 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cr_ostm_main...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D027..0::
+                        1493 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

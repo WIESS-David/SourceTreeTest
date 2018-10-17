@@ -1,0 +1,888 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\mem_init.dbo -source=mem_init.c -o .\obj\gh_0000oig1.o -list=.\obj\mem_init.lst C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+Source File: mem_init.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c
+                         170 --		..\..\..\..\gfx_apps\simple_draw\src\mem_init.c -o
+                         171 --		.\obj\mem_init.o
+                         172 --Source File:   ..\..\..\..\gfx_apps\simple_draw\src\mem_init.c
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+                         173 --Directory:     
+                         174 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         175 --Compile Date:  Tue Oct 16 19:48:58 2018
+                         176 --Host OS:       Win32
+                         177 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         178 --Release:       Compiler v2014.1.7
+                         179 --Revision Date: Fri Sep 05 14:10:46 2014
+                         180 --Release Date:  Fri Sep 05 14:44:23 2014
+                         181 -- ecom  -g -w
+                         182 
+                         183 --1: /************************************************************************************************
+                         184 --2: PROJECT : simple_draw app
+                         185 --3: FILE    : $Id: mem_init.c 11006 2016-11-07 16:32:44Z michael.golczewski $
+                         186 --4: ============================================================================ 
+                         187 --5: DESCRIPTION
+                         188 --6: Init functions for memory
+                         189 --7: ============================================================================
+                         190 --8:                             C O P Y R I G H T
+                         191 --9: ============================================================================
+                         192 --10:                        Copyright (c) 2013 - 2014
+                         193 --11:                                   by 
+                         194 --12:                        Renesas Electronics (Europe) GmbH.
+                         195 --13:                            Arcadiastrasse 10
+                         196 --14:                           D-40472 Duesseldorf
+                         197 --15:                                Germany
+                         198 --16:                           All rights reserved.
+                         199 --17: ============================================================================
+                         200 --18: Purpose: only for testing, not for mass production
+                         201 --20: DISCLAIMER
+                         202 --22: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         203 --23: the license agreement, especially the usage rights. In any case, it is
+                         204 --24: LICENSEE's responsibility to make sure that any user of the software complies
+                         205 --25: with the terms and conditions of the signed license agreement.
+                         206 --27: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         207 --28: mass-production applications. It can only be used for evaluation and
+                         208 --29: demonstration purposes at customer's premises listed in the signed license
+                         209 --30: agreement.
+                         210 --31: ****************************************************************************
+                         211 --32: */
+                         212 --34: /*******************************************************************************
+                         213 --35:   Section: Includes
+                         214 --36: */
+                         215 --37: #include "r_typedefs.h"     /* Renesas basic types, e.g. uint32_t */
+                         216 --38: #include "r_config_d1x.h"
+                         217 --39: #include "r_dev_api.h"
+                         218 --40: #include "r_cdi_api.h"
+                         219 --41: #include "r_bsp_stdio_api.h"
+                         220 --42: #include "mem_init.h"
+                         221 --43: #include "davehd_driver.h"
+                         222 --44: #include "r_util_dhd.h"
+                         223 --45: #include "config.h"
+                         224 --46: #include "main.h"
+                         225 --48: #include "r_ddb_api.h"
+                         226 --49: #include "r_wm_api.h"
+                         227 --50: /*******************************************************************************
+                         228 --51:   Section: Local defines
+                         229 --52: */
+                         230 --53: #define ALIGN_UP(ADDR,BLOCK)   ( (ADDR+(BLOCK-1)) & ~(BLOCK-1) )
+                         231 --54: #define ALIGN_DOWN(ADDR,BLOCK) ( (ADDR) & ~(BLOCK-1) )
+                         232 --56: #define LOC_VID_HP_BLOCK_SIZE  (0x400u)
+                         233 --57: #define LOC_VID_HP_BLOCK_NB    (loc_VRAM0_SIZE / LOC_VID_HP_BLOCK_SIZE)
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+                         234 --60: /*******************************************************************************
+                         235 --61:   Section: Local variables
+                         236 --62:   
+                         237 --63: */
+                         238 --66: r_cdi_Heap_t       loc_VRAM_heap;
+                         239 --67: r_cdi_Heap_t       loc_lRAM_heap;
+                         240 --68: r_cdi_Heap_t       HMI_VRAM_heap;
+                         241 --69: r_cdi_Heap_t       HMI_lRAM_heap;
+                         242 --71: uint8_t            loc_lRAM_heapMem[LOC_CPU_HP_BLOCK_NB * LOC_CPU_HP_BLOCK_SIZE];
+                         243 --72: r_cdi_HpBlkIndex_t loc_lRAM_heapIdxList[LOC_CPU_HP_BLOCK_NB];
+                         244 --74: //r_cdi_HpBlkIndex_t loc_VRAM_heapIdxList[LOC_VID_HP_BLOCK_NB];
+                         245 --75: uint32_t loc_VRAM0_ADDR          = 0;
+                         246 --76: uint32_t loc_VRAM0_SIZE          = 0;
+                         247 --78: /*******************************************************************************
+                         248 --79:   Section: Local functions
+                         249 --81: */
+                         250 --82: uint32_t loc_VOWE_ImageBuffer_Addr = 0;
+                         251 --83: uint32_t loc_VOWE_DisplayList_Addr = 0;
+                         252 --84: uint32_t loc_GPU_Memory_Addr = 0;
+                         253 --86: /*******************************************************************************
+                         254 --87:   Section: Global functions
+                         255 --88: */
+                         256 --90: /*******************************************************************************
+                         257 --91:   Function: SetupMemManager
+                         258 --93:     See: main.h for details
+                         259 --94: */
+                         260 --95: void loc_SetupMemManager(void)
+                         261 	.text
+                         262 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02A..0::
+                         263 	.align	2
+                         264 	.global	_loc_SetupMemManager
+                         265 _loc_SetupMemManager:
+00000000 8407e170        266 	prepare	{r25,r26,r27,r28,r29,r31},2
+00000004 3c0600000000*   267 	mov	_loc_VRAM0_SIZE,r28
+0000000a 3b0600000000*   268 	mov	_loc_VRAM0_ADDR,r27
+00000010 39060080ce3f    269 	mov	1070497792,r25
+                         270 --	    .bf
+                         271 .LDW01:
+                         272 --96: {
+                         273 --97:     uint32_t x;
+                         274 --98:     r_dev_Device_t dev;
+                         275 --100:     dev = R_DEV_GetDev();
+                         276 	jarl	_R_DEV_GetDev,lp
+                         276 <EXPANSION BEGIN>
+                         276 jarl22 _R_DEV_GetDev , lp 
+00000016 80ff0000*       276 <EXPANSION END>
+0000001a 0ae8            277 	mov	r10,r29
+                         278 --102:     /* ================================
+                         279 --103:        Get device dependant memory info
+                         280 --104:        ================================
+                         281 --105:     */
+                         282 --106:     /* D1M1(H) */
+                         283 --107:     if((dev == R_DEV_R7F701404) ||
+                         284 --line107
+                         285 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.1::
+                         286 .LDWlin1:
+0000001c 1d0684fa        287 	addi	-1404,r29,zero
+00000020 8215*           288 	be	.L5
+00000022 1d0683fa        289 	addi	-1405,r29,zero
+00000026 d20d*           290 	be	.L5
+00000028 1d0682fa        291 	addi	-1406,r29,zero
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+0000002c a20d*           292 	be	.L5
+0000002e 1d0681fa        293 	addi	-1407,r29,zero
+00000032 f205*           294 	be	.L5
+00000034 1d065efa        295 	addi	-1442,r29,zero
+00000038 c205*           296 	be	.L5
+0000003a 1d0676fa        297 	addi	-1418,r29,zero
+0000003e ea0d*           298 	bne	.L4
+                         299 .L5:
+                         300 --108:        (dev == R_DEV_R7F701405) ||
+                         301 --109:        (dev == R_DEV_R7F701406) ||
+                         302 --110:        (dev == R_DEV_R7F701407) ||
+                         303 --111:        (dev == R_DEV_R7F701442) ||
+                         304 --112:        (dev == R_DEV_R7F701418))
+                         305 --113:     {
+                         306 --114:         loc_VRAM0_ADDR = D1M1_VRAM0;
+                         307 --line114
+                         308 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.2::
+                         309 .LDWlin2:
+00000040 2e0600c01800    310 	mov	1622016,r14
+00000046 1908            311 	mov	r25,r1
+00000048 ce09            312 	add	r14,r1
+0000004a 7b0f0100        313 	st.w	r1,0[r27]
+                         314 --115:         loc_VRAM0_SIZE = D1M_VRAM0_SIZE;
+0000004e 210600c01800    315 	mov	1622016,r1
+00000054 7c0f0100        316 	st.w	r1,0[r28]
+00000058 e52d*           317 	br	.L11
+                         318 .L4:
+                         319 --116:     }
+                         320 --117:     /* D1M2(H) */
+                         321 --118:     else if((dev == R_DEV_R7F701408) ||
+                         322 --line118
+                         323 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.3::
+                         324 .LDWlin3:
+0000005a 1d0680fa        325 	addi	-1408,r29,zero
+0000005e a20d*           326 	be	.L13
+00000060 1d067efa        327 	addi	-1410,r29,zero
+00000064 f205*           328 	be	.L13
+00000066 1d067dfa        329 	addi	-1411,r29,zero
+0000006a c205*           330 	be	.L13
+0000006c 1d067cfa        331 	addi	-1412,r29,zero
+00000070 9a0d*           332 	bne	.L12
+                         333 .L13:
+                         334 --119:             (dev == R_DEV_R7F701410) ||
+                         335 --120:             (dev == R_DEV_R7F701411) ||
+                         336 --121:             (dev == R_DEV_R7F701412))
+                         337 --122:     {
+                         338 --123:         loc_VRAM0_ADDR = D1M2_VRAM0;
+                         339 --line123
+                         340 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.4::
+                         341 .LDWlin4:
+00000072 7bcf0100        342 	st.w	r25,0[r27]
+                         343 --124:         loc_VRAM0_SIZE = D1M_VRAM0_SIZE + D1M2_VRAM1_SIZE;
+00000076 210600803100    344 	mov	3244032,r1
+0000007c 7c0f0100        345 	st.w	r1,0[r28]
+00000080 a51d*           346 	br	.L11
+                         347 .L12:
+                         348 --125:     }
+                         349 --126:     /* D1M1A */
+                         350 --127:     else if(dev == R_DEV_R7F701441 ||
+                         351 --line127
+                         352 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.5::
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+                         353 .LDWlin5:
+00000082 1d065ffa        354 	addi	-1441,r29,zero
+00000086 f205*           355 	be	.L19
+00000088 1d065efa        356 	addi	-1442,r29,zero
+0000008c c205*           357 	be	.L19
+0000008e 1d064cfa        358 	addi	-1460,r29,zero
+00000092 ea0d*           359 	bne	.L18
+                         360 .L19:
+                         361 --128:             dev == R_DEV_R7F701442 ||
+                         362 --129:             dev == R_DEV_R7F701460)
+                         363 --130:     {
+                         364 --131:         loc_VRAM0_ADDR = D1M1A_VRAM0;
+                         365 --line131
+                         366 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.6::
+                         367 .LDWlin6:
+00000094 2e0600400b00    368 	mov	737280,r14
+0000009a 1908            369 	mov	r25,r1
+0000009c ce09            370 	add	r14,r1
+0000009e 7b0f0100        371 	st.w	r1,0[r27]
+                         372 --132:         loc_VRAM0_SIZE = D1M1A_VRAM0_SIZE + D1M1A_VRAM1_SIZE;
+000000a2 210600402600    373 	mov	2506752,r1
+000000a8 7c0f0100        374 	st.w	r1,0[r28]
+000000ac c505*           375 	br	.L11
+                         376 .L18:
+                         377 --133:     }
+                         378 --134:     else
+                         379 --135:     {
+                         380 --136:         loc_Error(ERR_NG);
+                         381 --line136
+                         382 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.7::
+                         383 .LDWlin7:
+000000ae 1f32            384 	mov	-1,r6
+                         385 	jarl	_loc_Error,lp
+                         385 <EXPANSION BEGIN>
+                         385 jarl22 _loc_Error , lp 
+000000b0 80ff0000*       385 <EXPANSION END>
+                         386 .L11:
+                         387 --137:     }
+                         388 --138:     
+                         389 --139:     /* ============================== 
+                         390 --140:        Distribute memory among macros 
+                         391 --141:        ==============================
+                         392 --142:     */
+                         393 --143:     /* You may also use the CDI together with the R_CDI_AllocAlign function to 
+                         394 --144:        reserve the reqired buffers. But as the buffers set up here are completely 
+                         395 --145:        static during runtime, we can do a fixed assignment. 
+                         396 --146:     */
+                         397 --147:     
+                         398 --148:   #if LOC_VOWE_ENABLE == 1
+                         399 --149:     /* 1st is VOWE image buffer. Aligned to upper border of VRAM address window. 
+                         400 --150:        As VRAM touches alignment border of 0x40000000, we can use the region
+                         401 --151:        0x3FCxxxxx - (0x40000000-1) to get a block of 2^n in size that is 
+                         402 --152:        also automatically aligned to the same 2^n. */
+                         403 --153:     if ( loc_VRAM0_SIZE > LOC_VOWE_WORK_BUFF_SIZE)
+                         404 --154:     {
+                         405 --155:         loc_VOWE_ImageBuffer_Addr = (loc_VRAM0_ADDR + loc_VRAM0_SIZE) - LOC_VOWE_WORK_BUFF_SIZE;
+                         406 --156:         loc_VRAM0_SIZE -= LOC_VOWE_WORK_BUFF_SIZE;
+                         407 --157:         R_BSP_STDIO_Printf("VOWE Buf: 0x%08X / size %d\n", loc_VOWE_ImageBuffer_Addr, LOC_VOWE_WORK_BUFF_SIZE);
+                         408 --158:     }
+                         409 --159:     else
+                         410 --160:     {
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+                         411 --161:         R_BSP_STDIO_Printf("Not enough memory space for VOWE buffer! "
+                         412 --162:              "Please consider changing to Ringbuffer mode, to reduce the ringbuffer size or to reduce display resolution.\n");
+                         413 --163:         loc_Error(ERR_NG);
+                         414 --164:     }
+                         415 --165:     
+                         416 --166:     /* 2nd is VOWE display list. We reserve space for two display lists. */
+                         417 --167:     if ( loc_VRAM0_SIZE > (LOC_VOWE_DL_BUF_SIZE*2u) )
+                         418 --168:     {
+                         419 --169:         loc_VOWE_DisplayList_Addr = (loc_VRAM0_ADDR + loc_VRAM0_SIZE) - (LOC_VOWE_DL_BUF_SIZE*2u);
+                         420 --170:         loc_VRAM0_SIZE -= LOC_VOWE_DL_BUF_SIZE*2u;
+                         421 --171:         R_BSP_STDIO_Printf("VOWE DL:  0x%08X / size %d\n", loc_VOWE_DisplayList_Addr, LOC_VOWE_DL_BUF_SIZE*2u);
+                         422 --172:     }
+                         423 --173:     else
+                         424 --174:     {
+                         425 --175:         R_BSP_STDIO_Printf("Not enough memory space for VOWE display list! "
+                         426 --176:              "Please consider changing to Ringbuffer mode, to reduce the ringbuffer size or to reduce display resolution.\n");
+                         427 --177:         loc_Error(ERR_NG);
+                         428 --178:     }
+                         429 --179:   #endif /* LOC_VOWE_ENABLE */
+                         430 --180:     
+                         431 --181:     /* 3rd is GPU2D. GPU is happy with almost any alignment, so it comes last.*/
+                         432 --182:     if ( loc_VRAM0_SIZE > DHD_MEMORY_SIZE)
+                         433 --line182
+                         434 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.8::
+                         435 .LDWlin8:
+000000b4 3c0f0100        436 	ld.w	0[r28],r1
+000000b8 01067fe7        437 	addi	-6273,r1,zero
+000000bc 8925*           438 	bnl	.L23
+                         439 --183:     {
+                         440 --184:         loc_GPU_Memory_Addr = (loc_VRAM0_ADDR + loc_VRAM0_SIZE) - DHD_MEMORY_SIZE;
+                         441 --line184
+                         442 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.9::
+                         443 .LDWlin9:
+000000be 3c0f0100        444 	ld.w	0[r28],r1
+000000c2 3b770100        445 	ld.w	0[r27],r14
+000000c6 2b0600000000*   446 	mov	_loc_GPU_Memory_Addr,r11
+000000cc ce09            447 	add	r14,r1
+000000ce 010e80e7        448 	addi	-6272,r1,r1
+000000d2 6b0f0100        449 	st.w	r1,0[r11]
+                         450 --185:         loc_VRAM0_SIZE -= DHD_MEMORY_SIZE;
+000000d6 3c0f0100        451 	ld.w	0[r28],r1
+000000da 010e80e7        452 	addi	-6272,r1,r1
+000000de 7c0f0100        453 	st.w	r1,0[r28]
+                         454 --186:         R_BSP_STDIO_Printf("GPU2D:    0x%08X / size %d\n", loc_GPU_Memory_Addr, DHD_MEMORY_SIZE);
+000000e2 270600000000*   455 	mov	_loc_GPU_Memory_Addr,r7
+000000e8 273f0100        456 	ld.w	0[r7],r7
+000000ec 20468018        457 	movea	6272,zero,r8
+000000f0 260600000000*   458 	mov	.L262,r6
+                         459 	jarl	_R_BSP_STDIO_Printf,lp
+                         459 <EXPANSION BEGIN>
+                         459 jarl22 _R_BSP_STDIO_Printf , lp 
+000000f6 80ff0000*       459 <EXPANSION END>
+000000fa 950d*           460 	br	.L25
+                         461 .L23:
+                         462 --187:     }
+                         463 --188:     else
+                         464 --189:     {
+                         465 --190:         R_BSP_STDIO_Printf("Not enough space for GPU memory! "
+                         466 --line190
+                         467 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.10::
+                         468 .LDWlin10:
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+000000fc 260600000000*   469 	mov	.L264,r6
+                         470 	jarl	_R_BSP_STDIO_Printf,lp
+                         470 <EXPANSION BEGIN>
+                         470 jarl22 _R_BSP_STDIO_Printf , lp 
+00000102 80ff0000*       470 <EXPANSION END>
+                         471 --191:              "Please consider changing VOWE to Ringbuffer mode, to reduce the ringbuffer size or to reduce display resolution.\n");
+                         472 --192:         loc_Error(ERR_NG);
+                         473 --line192
+                         474 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.11::
+                         475 .LDWlin11:
+00000106 1f32            476 	mov	-1,r6
+                         477 	jarl	_loc_Error,lp
+                         477 <EXPANSION BEGIN>
+                         477 jarl22 _loc_Error , lp 
+00000108 80ff0000*       477 <EXPANSION END>
+                         478 .L25:
+                         479 --193:     }
+                         480 --194:     
+                         481 --195:     /* ============================== 
+                         482 --196:        Initialise CDI Memory Managers 
+                         483 --197:        ==============================
+                         484 --198:     */
+                         485 --199:     x = R_CDI_InitHeapManager((uint32_t)loc_lRAM_heapMem,
+                         486 --line199
+                         487 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.12::
+                         488 .LDWlin12:
+0000010c 200e4000        489 	movea	64,zero,r1
+00000110 204e0008        490 	movea	2048,zero,r9
+00000114 260600000000*   491 	mov	_loc_lRAM_heapMem,r6
+0000011a 630f0100        492 	st.w	r1,0[sp]
+0000011e 270600000000*   493 	mov	_loc_lRAM_heap,r7
+00000124 280600000000*   494 	mov	_loc_lRAM_heapIdxList,r8
+                         495 	jarl	_R_CDI_InitHeapManager,lp
+                         495 <EXPANSION BEGIN>
+                         495 jarl22 _R_CDI_InitHeapManager , lp 
+0000012a 80ff0000*       495 <EXPANSION END>
+0000012e 0ad0            496 	mov	r10,r26
+                         497 --200:                               &loc_lRAM_heap,
+                         498 --201:                               loc_lRAM_heapIdxList, /* Example: Here we use the optional parameter HeapIdxList */
+                         499 --202:                               LOC_CPU_HP_BLOCK_NB,
+                         500 --203:                               LOC_CPU_HP_BLOCK_SIZE);
+                         501 --204:     if (x == 1)
+                         502 --line204
+                         503 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.13::
+                         504 .LDWlin13:
+00000130 61d2            505 	cmp	1,r26
+00000132 ca05*           506 	bne	.L26
+                         507 --205:     {
+                         508 --206:          loc_Error(ERR_NG);
+                         509 --line206
+                         510 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.14::
+                         511 .LDWlin14:
+00000134 1f32            512 	mov	-1,r6
+                         513 	jarl	_loc_Error,lp
+                         513 <EXPANSION BEGIN>
+                         513 jarl22 _loc_Error , lp 
+00000136 80ff0000*       513 <EXPANSION END>
+                         514 .L26:
+                         515 --207:     }
+                         516 --209:     x = R_CDI_InitHeapManager(loc_VRAM0_ADDR,
+                         517 --line209
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+                         518 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.15::
+                         519 .LDWlin15:
+0000013a 3c0f0100        520 	ld.w	0[r28],r1
+0000013e 0042            521 	mov	0,r8
+00000140 3b370100        522 	ld.w	0[r27],r6
+00000144 270600000000*   523 	mov	_loc_VRAM_heap,r7
+0000014a 8a0a            524 	shr	10,r1
+0000014c 0148            525 	mov	r1,r9
+0000014e 200e0004        526 	movea	1024,zero,r1
+00000152 630f0100        527 	st.w	r1,0[sp]
+                         528 	jarl	_R_CDI_InitHeapManager,lp
+                         528 <EXPANSION BEGIN>
+                         528 jarl22 _R_CDI_InitHeapManager , lp 
+00000156 80ff0000*       528 <EXPANSION END>
+0000015a 0ad0            529 	mov	r10,r26
+                         530 --210:                               &loc_VRAM_heap,
+                         531 --211:                               0,                    /* Example: Here we don't use the optional parameter HeapIdxList */
+                         532 --212:                               LOC_VID_HP_BLOCK_NB,
+                         533 --213:                               LOC_VID_HP_BLOCK_SIZE);
+                         534 --214:     if (x == 1)
+                         535 --line214
+                         536 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.16::
+                         537 .LDWlin16:
+0000015c 61d2            538 	cmp	1,r26
+0000015e ca05*           539 	bne	.L28
+                         540 --215:     {
+                         541 --216:          loc_Error(ERR_NG);
+                         542 --line216
+                         543 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.17::
+                         544 .LDWlin17:
+00000160 1f32            545 	mov	-1,r6
+                         546 	jarl	_loc_Error,lp
+                         546 <EXPANSION BEGIN>
+                         546 jarl22 _loc_Error , lp 
+00000162 80ff0000*       546 <EXPANSION END>
+                         547 .L28:
+                         548 --217:     }
+                         549 --218:     R_BSP_STDIO_Printf("VRAM CDI: 0x%08X / size %d\n", loc_VRAM0_ADDR, ALIGN_DOWN(loc_VRAM0_SIZE,LOC_VID_HP_BLOCK_SIZE));
+                         550 --line218
+                         551 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.18::
+                         552 .LDWlin18:
+00000166 3c0f0100        553 	ld.w	0[r28],r1
+0000016a 207600fc        554 	movea	-1024,zero,r14
+0000016e 3b3f0100        555 	ld.w	0[r27],r7
+00000172 260600000000*   556 	mov	.L263,r6
+00000178 4e09            557 	and	r14,r1
+0000017a 0140            558 	mov	r1,r8
+                         559 	jarl	_R_BSP_STDIO_Printf,lp
+                         559 <EXPANSION BEGIN>
+                         559 jarl22 _R_BSP_STDIO_Printf , lp 
+0000017c 80ff0000*       559 <EXPANSION END>
+                         560 --221: }
+                         561 --	    .ef
+                         562 .LDW11:
+                         563 --line221
+                         564 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init.19::
+                         565 .LDWlin19:
+00000180 4406ff70        566 	dispose	2,{r25,r26,r27,r28,r29,r31},[lp]
+                         567 	.type	_loc_SetupMemManager,@function
+                         568 	.size	_loc_SetupMemManager,.-_loc_SetupMemManager
+                         569 	.align	2
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+                         570 .LDW21:
+                         571 --_x	r26	local
+                         572 --_dev	r29	local
+                         573 --.L183	.L262	static
+                         574 --.L184	.L264	static
+                         575 --.L185	.L263	static
+                         576 
+                         577 	.section ".bss","awb"
+                         578 .L182:
+                         579 	.type	.L182,@object
+                         580 	.size	.L182,0
+                         581 	.section ".rodata","a"
+                         582 .L262:--	"GPU2D:    0x%08X / size %d\n"
+00000000 47505532        583 	.byte	71,80,85,50
+00000004 443a2020        584 	.byte	68,58,32,32
+00000008 20203078        585 	.byte	32,32,48,120
+0000000c 25303858        586 	.byte	37,48,56,88
+00000010 202f2073        587 	.byte	32,47,32,115
+00000014 697a6520        588 	.byte	105,122,101,32
+00000018 25640a00        589 	.byte	37,100,10,0
+                         590 	.type	.L262,@object
+                         591 	.size	.L262,28
+                         592 .L263:--	"VRAM CDI: 0x%08X / size %d\n"
+0000001c 5652414d        593 	.byte	86,82,65,77
+00000020 20434449        594 	.byte	32,67,68,73
+00000024 3a203078        595 	.byte	58,32,48,120
+00000028 25303858        596 	.byte	37,48,56,88
+0000002c 202f2073        597 	.byte	32,47,32,115
+00000030 697a6520        598 	.byte	105,122,101,32
+00000034 25640a00        599 	.byte	37,100,10,0
+                         600 	.type	.L263,@object
+                         601 	.size	.L263,28
+                         602 .L264:--	"Not enough space for GPU memory! Please consider changing VOWE to Rin..."
+00000038 4e6f7420        603 	.byte	78,111,116,32
+0000003c 656e6f75        604 	.byte	101,110,111,117
+00000040 67682073        605 	.byte	103,104,32,115
+00000044 70616365        606 	.byte	112,97,99,101
+00000048 20666f72        607 	.byte	32,102,111,114
+0000004c 20475055        608 	.byte	32,71,80,85
+00000050 206d656d        609 	.byte	32,109,101,109
+00000054 6f727921        610 	.byte	111,114,121,33
+00000058 20506c65        611 	.byte	32,80,108,101
+0000005c 61736520        612 	.byte	97,115,101,32
+00000060 636f6e73        613 	.byte	99,111,110,115
+00000064 69646572        614 	.byte	105,100,101,114
+00000068 20636861        615 	.byte	32,99,104,97
+0000006c 6e67696e        616 	.byte	110,103,105,110
+00000070 6720564f        617 	.byte	103,32,86,79
+00000074 57452074        618 	.byte	87,69,32,116
+00000078 6f205269        619 	.byte	111,32,82,105
+0000007c 6e676275        620 	.byte	110,103,98,117
+00000080 66666572        621 	.byte	102,102,101,114
+00000084 206d6f64        622 	.byte	32,109,111,100
+00000088 652c2074        623 	.byte	101,44,32,116
+0000008c 6f207265        624 	.byte	111,32,114,101
+00000090 64756365        625 	.byte	100,117,99,101
+00000094 20746865        626 	.byte	32,116,104,101
+00000098 2072696e        627 	.byte	32,114,105,110
+0000009c 67627566        628 	.byte	103,98,117,102
+000000a0 66657220        629 	.byte	102,101,114,32
+000000a4 73697a65        630 	.byte	115,105,122,101
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+000000a8 206f7220        631 	.byte	32,111,114,32
+000000ac 746f2072        632 	.byte	116,111,32,114
+000000b0 65647563        633 	.byte	101,100,117,99
+000000b4 65206469        634 	.byte	101,32,100,105
+000000b8 73706c61        635 	.byte	115,112,108,97
+000000bc 79207265        636 	.byte	121,32,114,101
+000000c0 736f6c75        637 	.byte	115,111,108,117
+000000c4 74696f6e        638 	.byte	116,105,111,110
+000000c8 2e0a            639 	.byte	46,10
+000000ca 00              640 	.byte	0
+                         641 	.type	.L264,@object
+                         642 	.size	.L264,147
+                         643 	.data
+                         644 	.text
+                         645 
+                         646 	.align	2
+                         647 
+                         648 	.data
+                         649 	.align	4
+                         650 	.global	_loc_VRAM0_ADDR
+00000000 00000000        651 _loc_VRAM0_ADDR:	.byte	0,0,0,0
+                         652 	.type	_loc_VRAM0_ADDR,@object
+                         653 	.size	_loc_VRAM0_ADDR,4
+                         654 	.global	_loc_VRAM0_SIZE
+00000004 00000000        655 _loc_VRAM0_SIZE:	.byte	0,0,0,0
+                         656 	.type	_loc_VRAM0_SIZE,@object
+                         657 	.size	_loc_VRAM0_SIZE,4
+                         658 	.global	_loc_VOWE_ImageBuffer_Addr
+00000008 00000000        659 _loc_VOWE_ImageBuffer_Addr:	.byte	0,0,0,0
+                         660 	.type	_loc_VOWE_ImageBuffer_Addr,@object
+                         661 	.size	_loc_VOWE_ImageBuffer_Addr,4
+                         662 	.global	_loc_VOWE_DisplayList_Addr
+0000000c 00000000        663 _loc_VOWE_DisplayList_Addr:	.byte	0,0,0,0
+                         664 	.type	_loc_VOWE_DisplayList_Addr,@object
+                         665 	.size	_loc_VOWE_DisplayList_Addr,4
+                         666 	.global	_loc_GPU_Memory_Addr
+00000010 00000000        667 _loc_GPU_Memory_Addr:	.byte	0,0,0,0
+                         668 	.type	_loc_GPU_Memory_Addr,@object
+                         669 	.size	_loc_GPU_Memory_Addr,4
+                         670 	.section ".bss","awb"
+                         671 	.align	4
+                         672 	.align	4
+                         673 	.global	_loc_VRAM_heap
+00000000 000000000000    674 _loc_VRAM_heap:	.space	24
+00000006 000000000000 
+0000000c 000000000000 
+00000012 000000000000 
+                         675 	.type	_loc_VRAM_heap,@object
+                         676 	.size	_loc_VRAM_heap,24
+                         677 	.align	4
+                         678 	.global	_loc_lRAM_heap
+00000018 000000000000    679 _loc_lRAM_heap:	.space	24
+0000001e 000000000000 
+00000024 000000000000 
+0000002a 000000000000 
+                         680 	.type	_loc_lRAM_heap,@object
+                         681 	.size	_loc_lRAM_heap,24
+                         682 	.align	4
+                         683 	.global	_HMI_VRAM_heap
+00000030 000000000000    684 _HMI_VRAM_heap:	.space	24
+00000036 000000000000 
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+0000003c 000000000000 
+00000042 000000000000 
+                         685 	.type	_HMI_VRAM_heap,@object
+                         686 	.size	_HMI_VRAM_heap,24
+                         687 	.align	4
+                         688 	.global	_HMI_lRAM_heap
+00000048 000000000000    689 _HMI_lRAM_heap:	.space	24
+0000004e 000000000000 
+00000054 000000000000 
+0000005a 000000000000 
+                         690 	.type	_HMI_lRAM_heap,@object
+                         691 	.size	_HMI_lRAM_heap,24
+                         692 	.align	2
+                         693 	.global	_loc_lRAM_heapIdxList
+00000060 000000000000    694 _loc_lRAM_heapIdxList:	.space	4096
+00000066 000000000000 
+0000006c 000000000000 
+00000072 000000000000 
+00000078 000000000000 
+0000007e 000000000000 
+00000084 000000000000 
+0000008a 000000000000 
+00000090 000000000000 
+00000096 000000000000 
+0000009c 000000000000 
+000000a2 000000000000 
+000000a8 000000000000 
+000000ae 000000000000 
+000000b4 000000000000 
+000000ba 000000000000 
+000000c0 000000000000 
+000000c6 000000000000 
+000000cc 000000000000 
+000000d2 000000000000 
+000000d8 000000000000 
+000000de 000000000000 
+000000e4 000000000000 
+000000ea 000000000000 
+000000f0 000000000000 
+000000f6 000000000000 
+000000fc 000000000000 
+00000102 000000000000 
+00000108 000000000000 
+0000010e 000000000000 
+00000114 000000000000 
+0000011a 000000000000 
+00000120 000000000000 
+00000126 000000000000 
+0000012c 000000000000 
+00000132 000000000000 
+00000138 000000000000 
+0000013e 000000000000 
+00000144 000000000000 
+0000014a 000000000000 
+00000150 000000000000 
+00000156 000000000000 
+0000015c 00000000 
+                         695 	.type	_loc_lRAM_heapIdxList,@object
+                         696 	.size	_loc_lRAM_heapIdxList,4096
+                         697 	.global	_loc_lRAM_heapMem
+00001060 000000000000    698 _loc_lRAM_heapMem:	.space	131072
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000oig1.si
+00001066 000000000000 
+0000106c 000000000000 
+00001072 000000000000 
+00001078 000000000000 
+0000107e 000000000000 
+00001084 000000000000 
+0000108a 000000000000 
+00001090 000000000000 
+00001096 000000000000 
+0000109c 000000000000 
+000010a2 000000000000 
+000010a8 000000000000 
+000010ae 000000000000 
+000010b4 000000000000 
+000010ba 000000000000 
+000010c0 000000000000 
+000010c6 000000000000 
+000010cc 000000000000 
+000010d2 000000000000 
+000010d8 000000000000 
+000010de 000000000000 
+000010e4 000000000000 
+000010ea 000000000000 
+000010f0 000000000000 
+000010f6 000000000000 
+000010fc 000000000000 
+00001102 000000000000 
+00001108 000000000000 
+0000110e 000000000000 
+00001114 000000000000 
+0000111a 000000000000 
+00001120 000000000000 
+00001126 000000000000 
+0000112c 000000000000 
+00001132 000000000000 
+00001138 000000000000 
+0000113e 000000000000 
+00001144 000000000000 
+0000114a 000000000000 
+00001150 000000000000 
+00001156 000000000000 
+0000115c 00000000 
+                         699 	.type	_loc_lRAM_heapMem,@object
+                         700 	.size	_loc_lRAM_heapMem,131072
+                         701 	.data
+                         702 	.ghsnote version,15
+                         703 	.ghsnote tools,3
+                         704 	.ghsnote options,144
+                         705 	.text
+                         706 	.align	2
+                         707 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cmem_init...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02A..0::
+                         708 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M

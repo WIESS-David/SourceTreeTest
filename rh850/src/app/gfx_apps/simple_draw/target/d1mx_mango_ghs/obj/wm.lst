@@ -1,0 +1,1378 @@
+                                                                      Page 1
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+Command Line: C:\GHS\V800.V2014.1.7\comp_201417\ease850.exe -w -elf -b0 -I../../../../../app/common/dhd -I../../../../../app/gfx_apps/simple_draw/src -I../../../../../app/gfx_apps/simple_draw/lib -I../../../../../bsp/board//config -I../../../../../bsp/board//src/gfx -I../../../../../bsp/board//src/hmi -I../../../../../bsp/board//src/stdio -I../../../../../bsp/board/d1mx_mango/config -I../../../../../bsp/board/d1mx_mango/src -I../../../../../bsp/board/d1mx_mango/src/gfx -I../../../../../bsp/board/d1mx_mango/src/hmi -I../../../../../bsp/board/d1mx_mango/src/stdio -I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src -I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src -I../../../../../bsp/lib -I../../../../../bsp/stdio/lib -I../../../../../bsp/stdio/src -I../../../../../cdi/lib -I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc -I../../../../../device/d1mx/lib -I../../../../../device/d1mx/macro_cfg -I../../../../../device/d1mx/macro_cfg/csisw -I../../../../../device/d1mx/macro_cfg/davehd -I../../../../../device/d1mx/macro_cfg/ddb -I../../../../../device/d1mx/macro_cfg/drw2d -I../../../../../device/d1mx/macro_cfg/gfxbus -I../../../../../device/d1mx/macro_cfg/gpio -I../../../../../device/d1mx/macro_cfg/hypb -I../../../../../device/d1mx/macro_cfg/hypdb -I../../../../../device/d1mx/macro_cfg/jcua -I../../../../../device/d1mx/macro_cfg/nfmabare -I../../../../../device/d1mx/macro_cfg/octa -I../../../../../device/d1mx/macro_cfg/octacdb -I../../../../../device/d1mx/macro_cfg/ostm -I../../../../../device/d1mx/macro_cfg/pbg -I../../../../../device/d1mx/macro_cfg/riic -I../../../../../device/d1mx/macro_cfg/sfcdb -I../../../../../device/d1mx/macro_cfg/sfma -I../../../../../device/d1mx/macro_cfg/spea -I../../../../../device/d1mx/macro_cfg/tauj -I../../../../../device/d1mx/macro_cfg/tick -I../../../../../device/d1mx/macro_cfg/vdce -I../../../../../device/d1mx/macro_cfg/vowe -I../../../../../device/d1mx/macro_cfg/wm -I../../../../../device/d1mx/macro_cfg/xbus -I../../../../../device/d1mx/src/dev -I../../../../../device/d1mx/src/dhd -I../../../../../device/d1mx/src/hypb -I../../../../../device/d1mx/src/jcua -I../../../../../device/d1mx/src/nfmabare -I../../../../../device/d1mx/src/octa -I../../../../../device/d1mx/src/rh850_ghs -I../../../../../device/d1mx/src/vowe -I../../../../../device/d1x_common/macro_cfg -I../../../../../device/d1x_common/macro_cfg/csisw -I../../../../../device/d1x_common/macro_cfg/davehd -I../../../../../device/d1x_common/macro_cfg/ddb -I../../../../../device/d1x_common/macro_cfg/drw2d -I../../../../../device/d1x_common/macro_cfg/gfxbus -I../../../../../device/d1x_common/macro_cfg/gpio -I../../../../../device/d1x_common/macro_cfg/hypb -I../../../../../device/d1x_common/macro_cfg/hypdb -I../../../../../device/d1x_common/macro_cfg/jcua -I../../../../../device/d1x_common/macro_cfg/nfmabare -I../../../../../device/d1x_common/macro_cfg/octa -I../../../../../device/d1x_common/macro_cfg/octacdb -I../../../../../device/d1x_common/macro_cfg/ostm -I../../../../../device/d1x_common/macro_cfg/pbg -I../../../../../device/d1x_common/macro_cfg/riic -I../../../../../device/d1x_common/macro_cfg/sfcdb -I../../../../../device/d1x_common/macro_cfg/sfma -I../../../../../device/d1x_common/macro_cfg/spea -I../../../../../device/d1x_common/macro_cfg/tauj -I../../../../../device/d1x_common/macro_cfg/tick -I../../../../../device/d1x_common/macro_cfg/vdce -I../../../../../device/d1x_common/macro_cfg/vowe -I../../../../../device/d1x_common/macro_cfg/wm -I../../../../../device/d1x_common/macro_cfg/xbus -I../../../../../device/d1x_common/src/csisw -I../../../../../device/d1x_common/src/ddb -I../../../../../device/d1x_common/src/dev -I../../../../../device/d1x_common/src/gfxbus -I../../../../../device/d1x_common/src/gpio -I../../../../../device/d1x_common/src/ostm -I../../../../../device/d1x_common/src/pbg -I../../../../../device/d1x_common/src/riic -I../../../../../device/d1x_common/src/sfma -I../../../../../device/d1x_common/src/spea -I../../../../../device/d1x_common/src/tauj -I../../../../../device/d1x_common/src/tick -I../../../../../device/d1x_common/src/vdce -I../../../../../device/d1x_common/src/wm -I../../../../../device/d1x_common/src/xbus -I../../../../../device/lib -I../../../../../macro/bus/pbg/lib -I../../../../../macro/bus/pbg/src -I../../../../../macro/csi/csisw/lib -I../../../../../macro/csi/csisw/src -I../../../../../macro/drw2d/lib -I../../../../../macro/drw2d/platform/davehd -I../../../../../macro/drw2d/platform/os/no_os -I../../../../../macro/drw2d/src -I../../../../../macro/flashc/hypb/lib -I../../../../../macro/flashc/hypb/src -I../../../../../macro/flashc/hypdb/lib -I../../../../../macro/flashc/hypdb/src -I../../../../../macro/flashc/nfmabare/lib -I../../../../../macro/flashc/nfmabare/src -I../../../../../macro/flashc/octa/lib -I../../../../../macro/flashc/octa/src -I../../../../../macro/flashc/octacdb/lib -I../../../../../macro/flashc/octacdb/src -I../../../../../macro/flashc/sfcdb/lib -I../../../../../macro/flashc/sfcdb/src -I../../../../../macro/flashc/sfma/lib -I../../../../../macro/flashc/sfma/src -I../../../../../macro/gfxbus/lib -I../../../../../macro/gfxbus/src -I../../../../../macro/gfxbus/xbus/lib -I../../../../../macro/gfxbus/xbus/src -I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src -I../../../../../macro/gpu/davehd/common/inc -I../../../../../macro/gpu/davehd/common/inc/platform -I../../../../../macro/gpu/davehd/common/inc/platform/d1mx -I../../../../../macro/gpu/davehd/docs -I../../../../../macro/gpu/davehd/kernel/inc -I../../../../../macro/gpu/davehd/kernel/platform/d1mx -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge -I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded -I../../../../../macro/gpu/davehd/kernel/platform/ree -I../../../../../macro/gpu/davehd/kernel/src -I../../../../../macro/gpu/davehd/user/inc -I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os -I../../../../../macro/gpu/davehd/user/src -I../../../../../macro/gpu/jcua/lib -I../../../../../macro/gpu/jcua/src -I../../../../../macro/i2c/riic/lib -I../../../../../macro/i2c/riic/src -I../../../../../macro/tick/lib -I../../../../../macro/tick/src -I../../../../../macro/timer/ostm/lib -I../../../../../macro/timer/ostm/src -I../../../../../macro/timer/tauj/lib -I../../../../../macro/timer/tauj/src -I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src -I../../../../../macro/vo/ddb/lib -I../../../../../macro/vo/ddb/src -I../../../../../macro/vo/spea/lib -I../../../../../macro/vo/spea/src -I../../../../../macro/vo/vowe/lib -I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib -I../../../../../macro/wm/src -I../../../../../macro/pwm/lib -I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib -I../../../../../macro/uart/rlin3/lib -I../../../../../macro/uart/rlin3/src -I../../../../../device/d1x_common/macro_cfg/rlin3 -I../../../../../macro/stbc/lib -I../../../../../macro/adc/lib -I../../../../../device/d1x_common/macro_cfg/adc7010 -IC:\GHS\V800.V2014.1.7\comp_201417\lib\rh850_22 -cg_underscore -cpu=rh850g3m -no_v850_simd -rh850_fpsimd=none -nomacro -patch_dbo=C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs\obj\wm.dbo -source=wm.c -o .\obj\gh_0000poc1.o -list=.\obj\wm.lst C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si 
+Original File: C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+Source File: wm.c
+Directory: C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+Host OS: Windows
+EASE: Copyright (C) 1983-2014 Green Hills Software.  All Rights Reversed.
+Release: Compiler v2014.1.7
+Build Directory: [Directory] BTOWINBOX:c:/build_2014_1_bto/2014-09-04.2200-2014_1_bto/win32-comp-ecom
+Revision: [VCInfo] http://toolsvc/branches/release-branch-2014-1-bto/src@515859 (built by build)
+Revision Date: Fri Sep 05 14:05:06 2014
+
+Release Date: Fri Sep 05 14:43:29 2014
+
+                           1 --Driver Command: ccv850 -c -MD -I../../../../../app/common/dhd
+                           2 --		-I../../../../../app/gfx_apps/simple_draw/src
+                           3 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                           4 --		-I../../../../../bsp/board//config
+                           5 --		-I../../../../../bsp/board//src/gfx
+                           6 --		-I../../../../../bsp/board//src/hmi
+                           7 --		-I../../../../../bsp/board//src/stdio
+                           8 --		-I../../../../../bsp/board/d1mx_mango/config
+                           9 --		-I../../../../../bsp/board/d1mx_mango/src
+                          10 --		-I../../../../../bsp/board/d1mx_mango/src/gfx
+                          11 --		-I../../../../../bsp/board/d1mx_mango/src/hmi
+                          12 --		-I../../../../../bsp/board/d1mx_mango/src/stdio
+                          13 --		-I../../../../../bsp/gfx/lib -I../../../../../bsp/gfx/src
+                          14 --		-I../../../../../bsp/hmi/lib -I../../../../../bsp/hmi/src
+                          15 --		-I../../../../../bsp/lib -I../../../../../bsp/stdio/lib
+                          16 --		-I../../../../../bsp/stdio/src -I../../../../../cdi/lib
+                          17 --		-I../../../../../cdi/src -I../../../../../compiler/rh850_ghs/inc
+                          18 --		-I../../../../../device/d1mx/lib
+                          19 --		-I../../../../../device/d1mx/macro_cfg
+                          20 --		-I../../../../../device/d1mx/macro_cfg/csisw
+                          21 --		-I../../../../../device/d1mx/macro_cfg/davehd
+                          22 --		-I../../../../../device/d1mx/macro_cfg/ddb
+                          23 --		-I../../../../../device/d1mx/macro_cfg/drw2d
+                          24 --		-I../../../../../device/d1mx/macro_cfg/gfxbus
+                          25 --		-I../../../../../device/d1mx/macro_cfg/gpio
+                          26 --		-I../../../../../device/d1mx/macro_cfg/hypb
+                          27 --		-I../../../../../device/d1mx/macro_cfg/hypdb
+                          28 --		-I../../../../../device/d1mx/macro_cfg/jcua
+                          29 --		-I../../../../../device/d1mx/macro_cfg/nfmabare
+                          30 --		-I../../../../../device/d1mx/macro_cfg/octa
+                          31 --		-I../../../../../device/d1mx/macro_cfg/octacdb
+                          32 --		-I../../../../../device/d1mx/macro_cfg/ostm
+                          33 --		-I../../../../../device/d1mx/macro_cfg/pbg
+                          34 --		-I../../../../../device/d1mx/macro_cfg/riic
+                          35 --		-I../../../../../device/d1mx/macro_cfg/sfcdb
+                          36 --		-I../../../../../device/d1mx/macro_cfg/sfma
+                          37 --		-I../../../../../device/d1mx/macro_cfg/spea
+                          38 --		-I../../../../../device/d1mx/macro_cfg/tauj
+                          39 --		-I../../../../../device/d1mx/macro_cfg/tick
+                          40 --		-I../../../../../device/d1mx/macro_cfg/vdce
+                          41 --		-I../../../../../device/d1mx/macro_cfg/vowe
+                          42 --		-I../../../../../device/d1mx/macro_cfg/wm
+                          43 --		-I../../../../../device/d1mx/macro_cfg/xbus
+                          44 --		-I../../../../../device/d1mx/src/dev
+                          45 --		-I../../../../../device/d1mx/src/dhd
+                          46 --		-I../../../../../device/d1mx/src/hypb
+                          47 --		-I../../../../../device/d1mx/src/jcua
+                          48 --		-I../../../../../device/d1mx/src/nfmabare
+                          49 --		-I../../../../../device/d1mx/src/octa
+                          50 --		-I../../../../../device/d1mx/src/rh850_ghs
+
+                                                                      Page 2
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                          51 --		-I../../../../../device/d1mx/src/vowe
+                          52 --		-I../../../../../device/d1x_common/macro_cfg
+                          53 --		-I../../../../../device/d1x_common/macro_cfg/csisw
+                          54 --		-I../../../../../device/d1x_common/macro_cfg/davehd
+                          55 --		-I../../../../../device/d1x_common/macro_cfg/ddb
+                          56 --		-I../../../../../device/d1x_common/macro_cfg/drw2d
+                          57 --		-I../../../../../device/d1x_common/macro_cfg/gfxbus
+                          58 --		-I../../../../../device/d1x_common/macro_cfg/gpio
+                          59 --		-I../../../../../device/d1x_common/macro_cfg/hypb
+                          60 --		-I../../../../../device/d1x_common/macro_cfg/hypdb
+                          61 --		-I../../../../../device/d1x_common/macro_cfg/jcua
+                          62 --		-I../../../../../device/d1x_common/macro_cfg/nfmabare
+                          63 --		-I../../../../../device/d1x_common/macro_cfg/octa
+                          64 --		-I../../../../../device/d1x_common/macro_cfg/octacdb
+                          65 --		-I../../../../../device/d1x_common/macro_cfg/ostm
+                          66 --		-I../../../../../device/d1x_common/macro_cfg/pbg
+                          67 --		-I../../../../../device/d1x_common/macro_cfg/riic
+                          68 --		-I../../../../../device/d1x_common/macro_cfg/sfcdb
+                          69 --		-I../../../../../device/d1x_common/macro_cfg/sfma
+                          70 --		-I../../../../../device/d1x_common/macro_cfg/spea
+                          71 --		-I../../../../../device/d1x_common/macro_cfg/tauj
+                          72 --		-I../../../../../device/d1x_common/macro_cfg/tick
+                          73 --		-I../../../../../device/d1x_common/macro_cfg/vdce
+                          74 --		-I../../../../../device/d1x_common/macro_cfg/vowe
+                          75 --		-I../../../../../device/d1x_common/macro_cfg/wm
+                          76 --		-I../../../../../device/d1x_common/macro_cfg/xbus
+                          77 --		-I../../../../../device/d1x_common/src/csisw
+                          78 --		-I../../../../../device/d1x_common/src/ddb
+                          79 --		-I../../../../../device/d1x_common/src/dev
+                          80 --		-I../../../../../device/d1x_common/src/gfxbus
+                          81 --		-I../../../../../device/d1x_common/src/gpio
+                          82 --		-I../../../../../device/d1x_common/src/ostm
+                          83 --		-I../../../../../device/d1x_common/src/pbg
+                          84 --		-I../../../../../device/d1x_common/src/riic
+                          85 --		-I../../../../../device/d1x_common/src/sfma
+                          86 --		-I../../../../../device/d1x_common/src/spea
+                          87 --		-I../../../../../device/d1x_common/src/tauj
+                          88 --		-I../../../../../device/d1x_common/src/tick
+                          89 --		-I../../../../../device/d1x_common/src/vdce
+                          90 --		-I../../../../../device/d1x_common/src/wm
+                          91 --		-I../../../../../device/d1x_common/src/xbus
+                          92 --		-I../../../../../device/lib -I../../../../../macro/bus/pbg/lib
+                          93 --		-I../../../../../macro/bus/pbg/src
+                          94 --		-I../../../../../macro/csi/csisw/lib
+                          95 --		-I../../../../../macro/csi/csisw/src
+                          96 --		-I../../../../../macro/drw2d/lib
+                          97 --		-I../../../../../macro/drw2d/platform/davehd
+                          98 --		-I../../../../../macro/drw2d/platform/os/no_os
+                          99 --		-I../../../../../macro/drw2d/src
+                         100 --		-I../../../../../macro/flashc/hypb/lib
+                         101 --		-I../../../../../macro/flashc/hypb/src
+                         102 --		-I../../../../../macro/flashc/hypdb/lib
+                         103 --		-I../../../../../macro/flashc/hypdb/src
+                         104 --		-I../../../../../macro/flashc/nfmabare/lib
+                         105 --		-I../../../../../macro/flashc/nfmabare/src
+                         106 --		-I../../../../../macro/flashc/octa/lib
+                         107 --		-I../../../../../macro/flashc/octa/src
+                         108 --		-I../../../../../macro/flashc/octacdb/lib
+                         109 --		-I../../../../../macro/flashc/octacdb/src
+                         110 --		-I../../../../../macro/flashc/sfcdb/lib
+                         111 --		-I../../../../../macro/flashc/sfcdb/src
+
+                                                                      Page 3
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         112 --		-I../../../../../macro/flashc/sfma/lib
+                         113 --		-I../../../../../macro/flashc/sfma/src
+                         114 --		-I../../../../../macro/gfxbus/lib
+                         115 --		-I../../../../../macro/gfxbus/src
+                         116 --		-I../../../../../macro/gfxbus/xbus/lib
+                         117 --		-I../../../../../macro/gfxbus/xbus/src
+                         118 --		-I../../../../../macro/gpio/lib -I../../../../../macro/gpio/src
+                         119 --		-I../../../../../macro/gpu/davehd/common/inc
+                         120 --		-I../../../../../macro/gpu/davehd/common/inc/platform
+                         121 --		-I../../../../../macro/gpu/davehd/common/inc/platform/d1mx
+                         122 --		-I../../../../../macro/gpu/davehd/docs
+                         123 --		-I../../../../../macro/gpu/davehd/kernel/inc
+                         124 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx
+                         125 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/bridge
+                         126 --		-I../../../../../macro/gpu/davehd/kernel/platform/d1mx/non_threaded
+                         127 --		-I../../../../../macro/gpu/davehd/kernel/platform/ree
+                         128 --		-I../../../../../macro/gpu/davehd/kernel/src
+                         129 --		-I../../../../../macro/gpu/davehd/user/inc
+                         130 --		-I../../../../../macro/gpu/davehd/user/platform/d1mx/no_os
+                         131 --		-I../../../../../macro/gpu/davehd/user/src
+                         132 --		-I../../../../../macro/gpu/jcua/lib
+                         133 --		-I../../../../../macro/gpu/jcua/src
+                         134 --		-I../../../../../macro/i2c/riic/lib
+                         135 --		-I../../../../../macro/i2c/riic/src
+                         136 --		-I../../../../../macro/tick/lib -I../../../../../macro/tick/src
+                         137 --		-I../../../../../macro/timer/ostm/lib
+                         138 --		-I../../../../../macro/timer/ostm/src
+                         139 --		-I../../../../../macro/timer/tauj/lib
+                         140 --		-I../../../../../macro/timer/tauj/src
+                         141 --		-I../../../../../macro/vdce/lib -I../../../../../macro/vdce/src
+                         142 --		-I../../../../../macro/vo/ddb/lib
+                         143 --		-I../../../../../macro/vo/ddb/src
+                         144 --		-I../../../../../macro/vo/spea/lib
+                         145 --		-I../../../../../macro/vo/spea/src
+                         146 --		-I../../../../../macro/vo/vowe/lib
+                         147 --		-I../../../../../macro/vo/vowe/src -I../../../../../macro/wm/lib
+                         148 --		-I../../../../../macro/wm/src -I../../../../../macro/pwm/lib
+                         149 --		-I../../../../../macro/i2c/riic/lib
+                         150 --		-I../../../../../macro/reset/lib -I../../../../../macro/rscan/lib
+                         151 --		-I../../../../../macro/uart/rlin3/lib
+                         152 --		-I../../../../../macro/uart/rlin3/src
+                         153 --		-I../../../../../device/d1x_common/macro_cfg/rlin3
+                         154 --		-I../../../../../macro/stbc/lib
+                         155 --		-I../../../../../app/gfx_apps/simple_draw/lib
+                         156 --		-I../../../../../macro/adc/lib
+                         157 --		-I../../../../../device/d1x_common/macro_cfg/adc7010 -G
+                         158 --		--no_commons --no_implicit_include --prototype_errors
+                         159 --		-DRENESAS_D1X -DR_DRW2D_OS_NO_OS -DR_DRW2D_SYS_DHD
+                         160 --		-DUSED_CPU=RH850G3M -DUSE_BSP_GFX -DUSE_BSP_HMI -DUSE_BSP_STDIO
+                         161 --		-DUSE_CDI -DUSE_CSISW -DUSE_DAVEHD -DUSE_DDB -DUSE_DRW2D
+                         162 --		-DUSE_GFXBUS -DUSE_GPIO -DUSE_HYPB -DUSE_HYPDB -DUSE_JCUA
+                         163 --		-DUSE_NFMABARE -DUSE_OCTA -DUSE_OCTACDB -DUSE_OSTM -DUSE_PBG
+                         164 --		-DUSE_RIIC -DUSE_SFCDB -DUSE_SFMA -DUSE_SPEA -DUSE_TAUJ
+                         165 --		-DUSE_TICK -DUSE_VDCE -DUSE_WM -DUSE_XBUS -DMAG -MD -Zuse1bit
+                         166 --		-allocate_ep -cpu=rh850g3m -large_sda -list -no_callt -notda
+                         167 --		-passsource -preprocess_assembly_files -registermode=22
+                         168 --		-reserve_r2 --diag_warning 1 -object_dir=./obj -DUSE_VDCE_OPENLDI
+                         169 --		-gnu99 -filetype.c ..\..\..\..\gfx_apps\simple_draw\src\wm.c -o
+                         170 --		.\obj\wm.o
+                         171 --Source File:   ..\..\..\..\gfx_apps\simple_draw\src\wm.c
+                         172 --Directory:     
+
+                                                                      Page 4
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         173 --		C:\git\rh850\src\app\gfx_apps\simple_draw\target\d1mx_mango_ghs
+                         174 --Compile Date:  Tue Oct 16 19:48:59 2018
+                         175 --Host OS:       Win32
+                         176 --Version:       C-RH850 2014.1.7 RELEASE VERSION
+                         177 --Release:       Compiler v2014.1.7
+                         178 --Revision Date: Fri Sep 05 14:10:46 2014
+                         179 --Release Date:  Fri Sep 05 14:44:23 2014
+                         180 -- ecom  -g -w
+                         181 
+                         182 --1: /************************************************************************************************
+                         183 --2: PROJECT : simple_draw app
+                         184 --3: FILE    : $Id: wm.c 11006 2016-11-07 16:32:44Z michael.golczewski $
+                         185 --4: ============================================================================ 
+                         186 --5: DESCRIPTION
+                         187 --6: ============================================================================
+                         188 --7:                             C O P Y R I G H T
+                         189 --8: ============================================================================
+                         190 --9:                        Copyright (c) 2013 - 2014
+                         191 --10:                                   by 
+                         192 --11:                        Renesas Electronics (Europe) GmbH.
+                         193 --12:                            Arcadiastrasse 10
+                         194 --13:                           D-40472 Duesseldorf
+                         195 --14:                                Germany
+                         196 --15:                           All rights reserved.
+                         197 --16: ============================================================================
+                         198 --17: Purpose: only for testing, not for mass production
+                         199 --19: DISCLAIMER
+                         200 --21: LICENSEE has read, understood and accepted the terms and conditions defined in
+                         201 --22: the license agreement, especially the usage rights. In any case, it is
+                         202 --23: LICENSEE's responsibility to make sure that any user of the software complies
+                         203 --24: with the terms and conditions of the signed license agreement.
+                         204 --26: SAMPLE CODE is not part of the licensed software, as such it must not be used in
+                         205 --27: mass-production applications. It can only be used for evaluation and
+                         206 --28: demonstration purposes at customer's premises listed in the signed license
+                         207 --29: agreement.
+                         208 --30: ****************************************************************************
+                         209 --31: */
+                         210 --34: /*******************************************************************************
+                         211 --35:   Section: Includes
+                         212 --36: */
+                         213 --37: #include "r_typedefs.h"     /* Renesas basic types, e.g. uint32_t */
+                         214 --38: #include "r_drw2d_os.h"
+                         215 --39: #include "r_ddb_api.h"
+                         216 --40: #include "r_cdi_api.h"
+                         217 --41: #include "r_wm_api.h"
+                         218 --42: #include "r_bsp_stdio_api.h"
+                         219 --44: #include "config.h"
+                         220 --45: #include "w_system.h"
+                         221 --46: #include "wm.h"
+                         222 --47: #include "main.h"
+                         223 --49: #include <strings.h>
+                         224 --51: #include "r_config_d1x.h"
+                         225 --52: #include "r_vdce_api.h"
+                         226 --53: #include "w_mag.h"
+                         227 --54: #include "w_canio_pics_gen.h"
+                         228 --55: #include "w_cluster_task.h"
+                         229 --57: extern void W_SYS_Main_Entry();
+                         230 --59: /*******************************************************************************
+                         231 --60:   Section: Local defines
+                         232 --61: */
+                         233 --62: #define WM_MSG_QUEUE_LEN 32
+
+                                                                      Page 5
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         234 --65: /*******************************************************************************
+                         235 --66:   Section: Local variables
+                         236 --67:   
+                         237 --68: */
+                         238 --69: static r_wm_Msg_t wm_msg_queue[WM_MSG_QUEUE_LEN];
+                         239 --70: //static r_wm_Msg_t wm_msg_hmi[WM_MSG_QUEUE_LEN];
+                         240 --72: //TODO: refine this with all image struct
+                         241 --73: void * addr_pic_background = (void *)_PIC_C_BG_RLE; //_PIC_BASE
+                         242 --75: r_wm_WinBuffer_t RLE_buf;
+                         243 --76: void* sdram_img_addr = BASE_IMG_SDRAM;
+                         244 --78: /*******************************************************************************
+                         245 --79:   Section: Local functions
+                         246 --81: */
+                         247 --84: /*******************************************************************************
+                         248 --85:   Function: loc_InitWM
+                         249 --87:     See: main.h for details
+                         250 --88: */
+                         251 --89: void loc_InitWM(r_cdi_Heap_t *Cpu, r_cdi_Heap_t *Vid)
+                         252 	.text
+                         253 ..bof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02B..0::
+                         254 	.align	2
+                         255 	.global	_loc_InitWM
+                         256 _loc_InitWM:
+00000000 8407e110        257 	prepare	{r27,r28,r29,r31},2
+00000004 06e0            258 	mov	r6,r28
+00000006 07d8            259 	mov	r7,r27
+                         260 --	    .bf
+                         261 .LDW01:
+                         262 --90: {
+                         263 --91:     r_wm_Error_t wmErr;
+                         264 --92:     wmErr = R_WM_DevInit(LOC_WM_UNIT, wm_msg_queue, WM_MSG_QUEUE_LEN, 0, (void*)Cpu, (void*)Vid);
+00000008 63e70100        265 	st.w	r28,0[sp]
+0000000c 0032            266 	mov	0,r6
+0000000e 63df0500        267 	st.w	r27,4[sp]
+00000012 20462000        268 	movea	32,zero,r8
+00000016 270600000000*   269 	mov	_wm_msg_queue,r7
+0000001c 004a            270 	mov	0,r9
+                         271 	jarl	_R_WM_DevInit,lp
+                         271 <EXPANSION BEGIN>
+                         271 jarl22 _R_WM_DevInit , lp 
+0000001e 80ff0000*       271 <EXPANSION END>
+00000022 0ae8            272 	mov	r10,r29
+                         273 --93:     if(R_WM_ERR_OK != wmErr)
+                         274 --line93
+                         275 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.1::
+                         276 .LDWlin1:
+00000024 e0e9            277 	cmp	zero,r29
+00000026 c205*           278 	be	.L4
+                         279 --94:     {
+                         280 --95:        loc_Error(1);
+                         281 --line95
+                         282 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.2::
+                         283 .LDWlin2:
+00000028 0132            284 	mov	1,r6
+                         285 	jarl	_loc_Error,lp
+                         285 <EXPANSION BEGIN>
+                         285 jarl22 _loc_Error , lp 
+0000002a 80ff0000*       285 <EXPANSION END>
+                         286 .L4:
+                         287 --96:     }
+                         288 --98:     wmErr = R_WM_ScreenTimingSetByName(LOC_WM_UNIT, (const int8_t*)LOC_DISPLAY_NAME);
+
+                                                                      Page 6
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         289 --line98
+                         290 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.3::
+                         291 .LDWlin3:
+0000002e 270600000000*   292 	mov	.L130,r7
+00000034 0032            293 	mov	0,r6
+                         294 	jarl	_R_WM_ScreenTimingSetByName,lp
+                         294 <EXPANSION BEGIN>
+                         294 jarl22 _R_WM_ScreenTimingSetByName , lp 
+00000036 80ff0000*       294 <EXPANSION END>
+0000003a 0ae8            295 	mov	r10,r29
+                         296 --99:     if(R_WM_ERR_OK != wmErr)
+                         297 --line99
+                         298 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.4::
+                         299 .LDWlin4:
+0000003c e0e9            300 	cmp	zero,r29
+0000003e c205*           301 	be	.L6
+                         302 --100:     {
+                         303 --101:        loc_Error(1);
+                         304 --line101
+                         305 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.5::
+                         306 .LDWlin5:
+00000040 0132            307 	mov	1,r6
+                         308 	jarl	_loc_Error,lp
+                         308 <EXPANSION BEGIN>
+                         308 jarl22 _loc_Error , lp 
+00000042 80ff0000*       308 <EXPANSION END>
+                         309 .L6:
+                         310 --102:     }
+                         311 --104:     wmErr = R_WM_ScreenColorFormatSet(LOC_WM_UNIT, (R_WM_OUTCOLORFMT_RGB888));
+                         312 --line104
+                         313 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.6::
+                         314 .LDWlin6:
+00000046 0032            315 	mov	0,r6
+00000048 003a            316 	mov	0,r7
+                         317 	jarl	_R_WM_ScreenColorFormatSet,lp
+                         317 <EXPANSION BEGIN>
+                         317 jarl22 _R_WM_ScreenColorFormatSet , lp 
+0000004a 80ff0000*       317 <EXPANSION END>
+0000004e 0ae8            318 	mov	r10,r29
+                         319 --105:     if(R_WM_ERR_OK != wmErr)
+                         320 --line105
+                         321 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.7::
+                         322 .LDWlin7:
+00000050 e0e9            323 	cmp	zero,r29
+00000052 c205*           324 	be	.L8
+                         325 --106:     {
+                         326 --107:        loc_Error(1);
+                         327 --line107
+                         328 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.8::
+                         329 .LDWlin8:
+00000054 0132            330 	mov	1,r6
+                         331 	jarl	_loc_Error,lp
+                         331 <EXPANSION BEGIN>
+                         331 jarl22 _loc_Error , lp 
+00000056 80ff0000*       331 <EXPANSION END>
+                         332 .L8:
+                         333 --108:     }
+                         334 --110:     wmErr = R_WM_ScreenEnable(LOC_WM_UNIT);
+                         335 --line110
+                         336 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.9::
+                         337 .LDWlin9:
+
+                                                                      Page 7
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+0000005a 0032            338 	mov	0,r6
+                         339 	jarl	_R_WM_ScreenEnable,lp
+                         339 <EXPANSION BEGIN>
+                         339 jarl22 _R_WM_ScreenEnable , lp 
+0000005c 80ff0000*       339 <EXPANSION END>
+00000060 0ae8            340 	mov	r10,r29
+                         341 --111:     if(R_WM_ERR_OK != wmErr)
+                         342 --line111
+                         343 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.10::
+                         344 .LDWlin10:
+00000062 e0e9            345 	cmp	zero,r29
+00000064 c205*           346 	be	.L10
+                         347 --112:     {
+                         348 --113:        loc_Error(1);
+                         349 --line113
+                         350 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.11::
+                         351 .LDWlin11:
+00000066 0132            352 	mov	1,r6
+                         353 	jarl	_loc_Error,lp
+                         353 <EXPANSION BEGIN>
+                         353 jarl22 _loc_Error , lp 
+00000068 80ff0000*       353 <EXPANSION END>
+                         354 .L10:
+                         355 --114:     }
+                         356 --115:     R_WM_ScreenBgColorSet(LOC_WM_UNIT, 0, 0, 0);
+                         357 --line115
+                         358 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.12::
+                         359 .LDWlin12:
+0000006c 0032            360 	mov	0,r6
+0000006e 003a            361 	mov	0,r7
+00000070 0042            362 	mov	0,r8
+00000072 004a            363 	mov	0,r9
+                         364 	jarl	_R_WM_ScreenBgColorSet,lp
+                         364 <EXPANSION BEGIN>
+                         364 jarl22 _R_WM_ScreenBgColorSet , lp 
+00000074 80ff0000*       364 <EXPANSION END>
+                         365 --116:     if(R_WM_ERR_OK != wmErr)
+                         366 --line116
+                         367 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.13::
+                         368 .LDWlin13:
+00000078 e0e9            369 	cmp	zero,r29
+0000007a c205*           370 	be	.L12
+                         371 --117:     {
+                         372 --118:         loc_Error(1);
+                         373 --line118
+                         374 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.14::
+                         375 .LDWlin14:
+0000007c 0132            376 	mov	1,r6
+                         377 	jarl	_loc_Error,lp
+                         377 <EXPANSION BEGIN>
+                         377 jarl22 _loc_Error , lp 
+0000007e 80ff0000*       377 <EXPANSION END>
+                         378 .L12:
+                         379 --119:     }
+                         380 --120: }
+                         381 --	    .ef
+                         382 .LDW11:
+                         383 --line120
+                         384 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.15::
+                         385 .LDWlin15:
+00000082 4406ff10        386 	dispose	2,{r27,r28,r29,r31},[lp]
+
+                                                                      Page 8
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         387 	.type	_loc_InitWM,@function
+                         388 	.size	_loc_InitWM,.-_loc_InitWM
+                         389 	.align	2
+                         390 .LDW21:
+                         391 --_wmErr	r29	local
+                         392 --.L91	.L130	static
+                         393 
+                         394 --_Cpu	r28	param
+                         395 --_Vid	r27	param
+                         396 
+                         397 	.section ".bss","awb"
+                         398 	.align	4
+                         399 .L90:
+                         400 	.type	.L90,@object
+                         401 	.size	.L90,0
+                         402 	.global	_wm_msg_queue..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.
+                         403 _wm_msg_queue..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.:
+00000000 000000000000    404 _wm_msg_queue:	.space	640
+00000006 000000000000 
+0000000c 000000000000 
+00000012 000000000000 
+00000018 000000000000 
+0000001e 000000000000 
+00000024 000000000000 
+0000002a 000000000000 
+00000030 000000000000 
+00000036 000000000000 
+0000003c 000000000000 
+00000042 000000000000 
+00000048 000000000000 
+0000004e 000000000000 
+00000054 000000000000 
+0000005a 000000000000 
+00000060 000000000000 
+00000066 000000000000 
+0000006c 000000000000 
+00000072 000000000000 
+00000078 000000000000 
+0000007e 000000000000 
+00000084 000000000000 
+0000008a 000000000000 
+00000090 000000000000 
+00000096 000000000000 
+0000009c 000000000000 
+000000a2 000000000000 
+000000a8 000000000000 
+000000ae 000000000000 
+000000b4 000000000000 
+000000ba 000000000000 
+000000c0 000000000000 
+000000c6 000000000000 
+000000cc 000000000000 
+000000d2 000000000000 
+000000d8 000000000000 
+000000de 000000000000 
+000000e4 000000000000 
+000000ea 000000000000 
+000000f0 000000000000 
+000000f6 000000000000 
+000000fc 00000000 
+                         405 	.type	_wm_msg_queue..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.,@object
+
+                                                                      Page 9
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         406 	.size	_wm_msg_queue..C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.,640
+                         407 	.type	_wm_msg_queue,@object
+                         408 	.size	_wm_msg_queue,640
+                         409 	.section ".rodata","a"
+                         410 .L130:--	"BOE_1280x480_30Hz"
+00000000 424f455f        411 	.byte	66,79,69,95
+00000004 31323830        412 	.byte	49,50,56,48
+00000008 78343830        413 	.byte	120,52,56,48
+0000000c 5f333048        414 	.byte	95,51,48,72
+00000010 7a00            415 	.byte	122,0
+                         416 	.type	.L130,@object
+                         417 	.size	.L130,18
+                         418 	.data
+                         419 	.text
+                         420 
+                         421 
+                         422 --122: void *loc_CreateWindow(r_wm_WinMode_t      Mode,
+                         423 	.align	2
+                         424 	.align	2
+                         425 	.global	_loc_CreateWindow
+                         426 _loc_CreateWindow:
+00000086 8207e170        427 	prepare	{r25,r26,r27,r28,r29,r31},1
+0000008a 06d8            428 	mov	r6,r27
+0000008c 07d0            429 	mov	r7,r26
+0000008e 634f0100        430 	st.w	r9,0[sp]
+00000092 08c8            431 	mov	r8,r25
+00000094 23ef2d00        432 	ld.w	44[sp],r29
+                         433 --	    .bf
+                         434 .LDW31:
+                         435 --123:                           uint32_t            PosX,
+                         436 --124:                           uint32_t            PosY,
+                         437 --125:                           uint32_t            PosZ,
+                         438 --126:                           uint32_t            Width,
+                         439 --127:                           uint32_t            Height,
+                         440 --128:                           uint32_t            Pitch,
+                         441 --129:                           r_wm_WinColorFmt_t  ColorFmt,
+                         442 --130:                           r_wm_Window_t*      Window)
+                         443 --131: {
+                         444 --132:     r_wm_Error_t wmErr;
+                         445 --134:     /* clear */
+                         446 --135:     memset(Window, 0, sizeof(r_wm_Window_t));
+00000098 1d30            447 	mov	r29,r6
+0000009a 003a            448 	mov	0,r7
+0000009c 20465400        449 	movea	84,zero,r8
+                         450 	jarl	_memset,lp
+                         450 <EXPANSION BEGIN>
+                         450 jarl22 _memset , lp 
+000000a0 80ff0000*       450 <EXPANSION END>
+                         451 --137:     Window->Mode      = Mode;
+                         452 --line137
+                         453 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.16::
+                         454 .LDWlin16:
+000000a4 7ddf0500        455 	st.w	r27,4[r29]
+                         456 --138:     Window->Status    = R_WM_WINSTATUS_NOT_INITIALIZED;
+000000a8 7d070100        457 	st.w	zero,0[r29]
+                         458 --139:     Window->ColorFmt  = ColorFmt;
+000000ac 235f2900        459 	ld.w	40[sp],r11
+000000b0 7d5f0900        460 	st.w	r11,8[r29]
+                         461 --140:     Window->Alpha     = 0xff;
+000000b4 200eff00        462 	movea	255,zero,r1
+000000b8 5d0f3800        463 	st.b	r1,56[r29]
+
+                                                                      Page 10
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         464 --141:     Window->PosX      = PosX;
+000000bc 7dd70d00        465 	st.w	r26,12[r29]
+                         466 --142:     Window->PosY      = PosY;
+000000c0 7dcf1100        467 	st.w	r25,16[r29]
+                         468 --143:     Window->PosZ      = PosZ;
+000000c4 235f0100        469 	ld.w	0[sp],r11
+000000c8 7d5f1500        470 	st.w	r11,20[r29]
+                         471 --144:     Window->Width     = Width;
+000000cc 235f1d00        472 	ld.w	28[sp],r11
+000000d0 7d5f1d00        473 	st.w	r11,28[r29]
+                         474 --145:     Window->Height    = Height;
+000000d4 235f2100        475 	ld.w	32[sp],r11
+000000d8 7d5f2100        476 	st.w	r11,32[r29]
+                         477 --146:     Window->Pitch     = Pitch;
+000000dc 235f2500        478 	ld.w	36[sp],r11
+000000e0 7d5f1900        479 	st.w	r11,24[r29]
+                         480 --148:     if(Mode == R_WM_WINMODE_FB)
+000000e4 e0d9            481 	cmp	zero,r27
+000000e6 9a0d*           482 	bne	.L151
+                         483 --149:     {
+                         484 --150:         
+                         485 --151:         Window->Surface.Fb.BufNum    = 2;
+                         486 --line151
+                         487 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.17::
+                         488 .LDWlin17:
+000000e8 020a            489 	mov	2,r1
+000000ea 5d0f3000        490 	st.b	r1,48[r29]
+                         491 --152:         Window->Surface.Fb.Buffer    = 0;
+000000ee 7d072d00        492 	st.w	zero,44[r29]
+                         493 --153:         Window->Surface.Fb.BufMode   = R_WM_WINBUF_ALLOC_INTERNAL;
+000000f2 010a            494 	mov	1,r1
+000000f4 7d0f3500        495 	st.w	r1,52[r29]
+                         496 .L151:
+                         497 --154:     }
+                         498 --156:     wmErr = R_WM_WindowCreate(LOC_WM_UNIT, Window);
+000000f8 1d38            499 	mov	r29,r7
+000000fa 0032            500 	mov	0,r6
+                         501 	jarl	_R_WM_WindowCreate,lp
+                         501 <EXPANSION BEGIN>
+                         501 jarl22 _R_WM_WindowCreate , lp 
+000000fc 80ff0000*       501 <EXPANSION END>
+00000100 0ae0            502 	mov	r10,r28
+                         503 --157:     if(R_WM_ERR_OK != wmErr)
+                         504 --line157
+                         505 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.18::
+                         506 .LDWlin18:
+00000102 e0e1            507 	cmp	zero,r28
+00000104 b20d*           508 	be	.L153
+                         509 --158:     {
+                         510 --159:         if (R_WM_ERR_MALLOC_FAILED == wmErr)
+                         511 --line159
+                         512 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.19::
+                         513 .LDWlin19:
+00000106 67e2            514 	cmp	7,r28
+00000108 ea05*           515 	bne	.L155
+                         516 --160:         {
+                         517 --161:             R_BSP_STDIO_Printf("11Not enough space for Window Framebuffers! "
+                         518 --line161
+                         519 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.20::
+                         520 .LDWlin20:
+0000010a 260600000000*   521 	mov	.L322,r6
+
+                                                                      Page 11
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         522 	jarl	_R_BSP_STDIO_Printf,lp
+                         522 <EXPANSION BEGIN>
+                         522 jarl22 _R_BSP_STDIO_Printf , lp 
+00000110 80ff0000*       522 <EXPANSION END>
+                         523 .L155:
+                         524 --162:                 "Please consider changing VOWE to Ringbuffer mode to reduce the ringbuffer size or reduce display resolution.\n");
+                         525 --163:         }
+                         526 --164:         loc_Error(1);
+                         527 --line164
+                         528 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.21::
+                         529 .LDWlin21:
+00000114 0132            530 	mov	1,r6
+                         531 	jarl	_loc_Error,lp
+                         531 <EXPANSION BEGIN>
+                         531 jarl22 _loc_Error , lp 
+00000116 80ff0000*       531 <EXPANSION END>
+                         532 .L153:
+                         533 --165:     }
+                         534 --166:     wmErr = R_WM_WindowEnable(LOC_WM_UNIT, Window);
+                         535 --line166
+                         536 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.22::
+                         537 .LDWlin22:
+0000011a 1d38            538 	mov	r29,r7
+0000011c 0032            539 	mov	0,r6
+                         540 	jarl	_R_WM_WindowEnable,lp
+                         540 <EXPANSION BEGIN>
+                         540 jarl22 _R_WM_WindowEnable , lp 
+0000011e 80ff0000*       540 <EXPANSION END>
+00000122 0ae0            541 	mov	r10,r28
+                         542 --167:     if(R_WM_ERR_OK != wmErr)
+                         543 --line167
+                         544 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.23::
+                         545 .LDWlin23:
+00000124 e0e1            546 	cmp	zero,r28
+00000126 c205*           547 	be	.L157
+                         548 --168:     {
+                         549 --169:        loc_Error(1);
+                         550 --line169
+                         551 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.24::
+                         552 .LDWlin24:
+00000128 0132            553 	mov	1,r6
+                         554 	jarl	_loc_Error,lp
+                         554 <EXPANSION BEGIN>
+                         554 jarl22 _loc_Error , lp 
+0000012a 80ff0000*       554 <EXPANSION END>
+                         555 .L157:
+                         556 --170:     }
+                         557 --172:     return Window;
+                         558 --line172
+                         559 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.25::
+                         560 .LDWlin25:
+0000012e 1d50            561 	mov	r29,r10
+                         562 --	    .ef
+                         563 .LDW41:
+00000130 4206ff70        564 	dispose	1,{r25,r26,r27,r28,r29,r31},[lp]
+                         565 	.type	_loc_CreateWindow,@function
+                         566 	.size	_loc_CreateWindow,.-_loc_CreateWindow
+                         567 	.align	2
+                         568 .LDW51:
+                         569 --_wmErr	r28	local
+                         570 --.L267	.L322	static
+
+                                                                      Page 12
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         571 
+                         572 --_Mode	r27	param
+                         573 --_PosX	r26	param
+                         574 --_PosY	r25	param
+                         575 --_PosZ	0[sp]	param
+                         576 --_Width	28[sp]	param
+                         577 --_Height	32[sp]	param
+                         578 --_Pitch	36[sp]	param
+                         579 --_ColorFmt	40[sp]	param
+                         580 --_Window	r29	param
+                         581 
+                         582 	.section ".bss","awb"
+                         583 .L266:
+                         584 	.type	.L266,@object
+                         585 	.size	.L266,0
+                         586 	.section ".rodata","a"
+                         587 .L322:--	"11Not enough space for Window Framebuffers! Please consider changing ..."
+00000012 31314e6f        588 	.byte	49,49,78,111
+00000016 7420656e        589 	.byte	116,32,101,110
+0000001a 6f756768        590 	.byte	111,117,103,104
+0000001e 20737061        591 	.byte	32,115,112,97
+00000022 63652066        592 	.byte	99,101,32,102
+00000026 6f722057        593 	.byte	111,114,32,87
+0000002a 696e646f        594 	.byte	105,110,100,111
+0000002e 77204672        595 	.byte	119,32,70,114
+00000032 616d6562        596 	.byte	97,109,101,98
+00000036 75666665        597 	.byte	117,102,102,101
+0000003a 72732120        598 	.byte	114,115,33,32
+0000003e 506c6561        599 	.byte	80,108,101,97
+00000042 73652063        600 	.byte	115,101,32,99
+00000046 6f6e7369        601 	.byte	111,110,115,105
+0000004a 64657220        602 	.byte	100,101,114,32
+0000004e 6368616e        603 	.byte	99,104,97,110
+00000052 67696e67        604 	.byte	103,105,110,103
+00000056 20564f57        605 	.byte	32,86,79,87
+0000005a 4520746f        606 	.byte	69,32,116,111
+0000005e 2052696e        607 	.byte	32,82,105,110
+00000062 67627566        608 	.byte	103,98,117,102
+00000066 66657220        609 	.byte	102,101,114,32
+0000006a 6d6f6465        610 	.byte	109,111,100,101
+0000006e 20746f20        611 	.byte	32,116,111,32
+00000072 72656475        612 	.byte	114,101,100,117
+00000076 63652074        613 	.byte	99,101,32,116
+0000007a 68652072        614 	.byte	104,101,32,114
+0000007e 696e6762        615 	.byte	105,110,103,98
+00000082 75666665        616 	.byte	117,102,102,101
+00000086 72207369        617 	.byte	114,32,115,105
+0000008a 7a65206f        618 	.byte	122,101,32,111
+0000008e 72207265        619 	.byte	114,32,114,101
+00000092 64756365        620 	.byte	100,117,99,101
+00000096 20646973        621 	.byte	32,100,105,115
+0000009a 706c6179        622 	.byte	112,108,97,121
+0000009e 20726573        623 	.byte	32,114,101,115
+000000a2 6f6c7574        624 	.byte	111,108,117,116
+000000a6 696f6e2e        625 	.byte	105,111,110,46
+000000aa 0a00            626 	.byte	10,0
+                         627 	.type	.L322,@object
+                         628 	.size	.L322,154
+                         629 	.data
+                         630 	.text
+                         631 
+
+                                                                      Page 13
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         632 --173: }
+                         633 
+                         634 --177: void *loc_CreateWindow_EXT(r_wm_WinMode_t      Mode,
+                         635 	.align	2
+                         636 	.align	2
+                         637 	.global	_loc_CreateWindow_EXT
+                         638 _loc_CreateWindow_EXT:
+00000134 8807e170        639 	prepare	{r25,r26,r27,r28,r29,r31},4
+00000138 63370100        640 	st.w	r6,0[sp]
+0000013c 633f0500        641 	st.w	r7,4[sp]
+00000140 63470900        642 	st.w	r8,8[sp]
+00000144 634f0d00        643 	st.w	r9,12[sp]
+00000148 23df2900        644 	ld.w	40[sp],r27
+0000014c 23d72d00        645 	ld.w	44[sp],r26
+00000150 23cf3100        646 	ld.w	48[sp],r25
+00000154 23ef3900        647 	ld.w	56[sp],r29
+                         648 --	    .bf
+                         649 .LDW61:
+                         650 --178:                           uint32_t            PosX,
+                         651 --179:                           uint32_t            PosY,
+                         652 --180:                           uint32_t            PosZ,
+                         653 --181:                           uint32_t            Width,
+                         654 --182:                           uint32_t            Height,
+                         655 --183:                           uint32_t            Pitch,
+                         656 --184:                           r_wm_WinColorFmt_t  ColorFmt,
+                         657 --185:                           r_wm_Window_t*      Window,
+                         658 --186:                           r_wm_WinBuffer_t *ExtFB)
+                         659 --187: {
+                         660 --188:     r_wm_Error_t wmErr;
+                         661 --189:     
+                         662 --190:     /* clear */
+                         663 --191:     memset(Window, 0, sizeof(r_wm_Window_t));
+00000158 1d30            664 	mov	r29,r6
+0000015a 003a            665 	mov	0,r7
+0000015c 20465400        666 	movea	84,zero,r8
+                         667 	jarl	_memset,lp
+                         667 <EXPANSION BEGIN>
+                         667 jarl22 _memset , lp 
+00000160 80ff0000*       667 <EXPANSION END>
+                         668 --195: 	Window->Mode		= R_WM_WINMODE_FB;
+                         669 --line195
+                         670 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.26::
+                         671 .LDWlin26:
+00000164 7d070500        672 	st.w	zero,4[r29]
+                         673 --196: 	Window->Status	= R_WM_WINSTATUS_NOT_INITIALIZED;
+00000168 7d070100        674 	st.w	zero,0[r29]
+                         675 --197: 	Window->ColorFmt	= R_WM_COLORFMT_ARGB8888;
+0000016c 050a            676 	mov	5,r1
+0000016e 7d0f0900        677 	st.w	r1,8[r29]
+                         678 --198: 	Window->Alpha	= 0xff;
+00000172 200eff00        679 	movea	255,zero,r1
+00000176 5d0f3800        680 	st.b	r1,56[r29]
+                         681 --199: 	Window->PosX		= 00;
+0000017a 7d070d00        682 	st.w	zero,12[r29]
+                         683 --200: 	Window->PosY		= 00;
+0000017e 7d071100        684 	st.w	zero,16[r29]
+                         685 --201: 	Window->PosZ		= 00;
+00000182 7d071500        686 	st.w	zero,20[r29]
+                         687 --202: 	Window->Width	= Width;
+00000186 7ddf1d00        688 	st.w	r27,28[r29]
+                         689 --203: 	Window->Height	= Height;
+
+                                                                      Page 14
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+0000018a 7dd72100        690 	st.w	r26,32[r29]
+                         691 --204: 	Window->Pitch	= Pitch;
+0000018e 7dcf1900        692 	st.w	r25,24[r29]
+                         693 --205: 	Window->Surface.Fb.BufMode 	= R_WM_WINBUF_ALLOC_EXTERNAL;
+00000192 7d073500        694 	st.w	zero,52[r29]
+                         695 --206: 	Window->Surface.Fb.BufNum	= 2;
+00000196 020a            696 	mov	2,r1
+00000198 5d0f3000        697 	st.b	r1,48[r29]
+                         698 --207: 	Window->Surface.Fb.Buffer	= ExtFB;
+0000019c 235f3d00        699 	ld.w	60[sp],r11
+000001a0 7d5f2d00        700 	st.w	r11,44[r29]
+                         701 --209: 	
+                         702 --210: 	
+                         703 --211:     wmErr = R_WM_WindowCreate(LOC_WM_UNIT, Window);
+000001a4 1d38            704 	mov	r29,r7
+000001a6 0032            705 	mov	0,r6
+                         706 	jarl	_R_WM_WindowCreate,lp
+                         706 <EXPANSION BEGIN>
+                         706 jarl22 _R_WM_WindowCreate , lp 
+000001a8 80ff0000*       706 <EXPANSION END>
+000001ac 0ae0            707 	mov	r10,r28
+                         708 --212:     if(R_WM_ERR_OK != wmErr)
+                         709 --line212
+                         710 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.27::
+                         711 .LDWlin27:
+000001ae e0e1            712 	cmp	zero,r28
+000001b0 b20d*           713 	be	.L351
+                         714 --213:     {
+                         715 --214:         if (R_WM_ERR_MALLOC_FAILED == wmErr)
+                         716 --line214
+                         717 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.28::
+                         718 .LDWlin28:
+000001b2 67e2            719 	cmp	7,r28
+000001b4 ea05*           720 	bne	.L353
+                         721 --215:         {
+                         722 --216:             R_BSP_STDIO_Printf("Not enough space for Window Framebuffers! "
+                         723 --line216
+                         724 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.29::
+                         725 .LDWlin29:
+000001b6 260600000000*   726 	mov	.L524,r6
+                         727 	jarl	_R_BSP_STDIO_Printf,lp
+                         727 <EXPANSION BEGIN>
+                         727 jarl22 _R_BSP_STDIO_Printf , lp 
+000001bc 80ff0000*       727 <EXPANSION END>
+                         728 .L353:
+                         729 --217:                 "Please consider changing VOWE to Ringbuffer mode to reduce the ringbuffer size or reduce display resolution.\n");
+                         730 --218:         }
+                         731 --219:         loc_Error(1);
+                         732 --line219
+                         733 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.30::
+                         734 .LDWlin30:
+000001c0 0132            735 	mov	1,r6
+                         736 	jarl	_loc_Error,lp
+                         736 <EXPANSION BEGIN>
+                         736 jarl22 _loc_Error , lp 
+000001c2 80ff0000*       736 <EXPANSION END>
+                         737 .L351:
+                         738 --220:     }
+                         739 --221:     wmErr = R_WM_WindowEnable(LOC_WM_UNIT, Window);
+                         740 --line221
+                         741 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.31::
+
+                                                                      Page 15
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         742 .LDWlin31:
+000001c6 1d38            743 	mov	r29,r7
+000001c8 0032            744 	mov	0,r6
+                         745 	jarl	_R_WM_WindowEnable,lp
+                         745 <EXPANSION BEGIN>
+                         745 jarl22 _R_WM_WindowEnable , lp 
+000001ca 80ff0000*       745 <EXPANSION END>
+000001ce 0ae0            746 	mov	r10,r28
+                         747 --222:     if(R_WM_ERR_OK != wmErr)
+                         748 --line222
+                         749 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.32::
+                         750 .LDWlin32:
+000001d0 e0e1            751 	cmp	zero,r28
+000001d2 c205*           752 	be	.L355
+                         753 --223:     {
+                         754 --224:        loc_Error(1);
+                         755 --line224
+                         756 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.33::
+                         757 .LDWlin33:
+000001d4 0132            758 	mov	1,r6
+                         759 	jarl	_loc_Error,lp
+                         759 <EXPANSION BEGIN>
+                         759 jarl22 _loc_Error , lp 
+000001d6 80ff0000*       759 <EXPANSION END>
+                         760 .L355:
+                         761 --225:     }
+                         762 --226:     return Window;
+                         763 --line226
+                         764 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.34::
+                         765 .LDWlin34:
+000001da 1d50            766 	mov	r29,r10
+                         767 --	    .ef
+                         768 .LDW71:
+000001dc 4806ff70        769 	dispose	4,{r25,r26,r27,r28,r29,r31},[lp]
+                         770 	.type	_loc_CreateWindow_EXT,@function
+                         771 	.size	_loc_CreateWindow_EXT,.-_loc_CreateWindow_EXT
+                         772 	.align	2
+                         773 .LDW81:
+                         774 --_wmErr	r28	local
+                         775 --.L471	.L524	static
+                         776 
+                         777 --_Mode	0[sp]	param
+                         778 --_PosX	4[sp]	param
+                         779 --_PosY	8[sp]	param
+                         780 --_PosZ	12[sp]	param
+                         781 --_Width	r27	param
+                         782 --_Height	r26	param
+                         783 --_Pitch	r25	param
+                         784 --_ColorFmt	52[sp]	param
+                         785 --_Window	r29	param
+                         786 --_ExtFB	60[sp]	param
+                         787 
+                         788 	.section ".bss","awb"
+                         789 .L470:
+                         790 	.type	.L470,@object
+                         791 	.size	.L470,0
+                         792 	.section ".rodata","a"
+                         793 .L524:--	"Not enough space for Window Framebuffers! Please consider changing VO..."
+000000ac 4e6f7420        794 	.byte	78,111,116,32
+000000b0 656e6f75        795 	.byte	101,110,111,117
+000000b4 67682073        796 	.byte	103,104,32,115
+
+                                                                      Page 16
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+000000b8 70616365        797 	.byte	112,97,99,101
+000000bc 20666f72        798 	.byte	32,102,111,114
+000000c0 2057696e        799 	.byte	32,87,105,110
+000000c4 646f7720        800 	.byte	100,111,119,32
+000000c8 4672616d        801 	.byte	70,114,97,109
+000000cc 65627566        802 	.byte	101,98,117,102
+000000d0 66657273        803 	.byte	102,101,114,115
+000000d4 2120506c        804 	.byte	33,32,80,108
+000000d8 65617365        805 	.byte	101,97,115,101
+000000dc 20636f6e        806 	.byte	32,99,111,110
+000000e0 73696465        807 	.byte	115,105,100,101
+000000e4 72206368        808 	.byte	114,32,99,104
+000000e8 616e6769        809 	.byte	97,110,103,105
+000000ec 6e672056        810 	.byte	110,103,32,86
+000000f0 4f574520        811 	.byte	79,87,69,32
+000000f4 746f2052        812 	.byte	116,111,32,82
+000000f8 696e6762        813 	.byte	105,110,103,98
+000000fc 75666665        814 	.byte	117,102,102,101
+00000100 72206d6f        815 	.byte	114,32,109,111
+00000104 64652074        816 	.byte	100,101,32,116
+00000108 6f207265        817 	.byte	111,32,114,101
+0000010c 64756365        818 	.byte	100,117,99,101
+00000110 20746865        819 	.byte	32,116,104,101
+00000114 2072696e        820 	.byte	32,114,105,110
+00000118 67627566        821 	.byte	103,98,117,102
+0000011c 66657220        822 	.byte	102,101,114,32
+00000120 73697a65        823 	.byte	115,105,122,101
+00000124 206f7220        824 	.byte	32,111,114,32
+00000128 72656475        825 	.byte	114,101,100,117
+0000012c 63652064        826 	.byte	99,101,32,100
+00000130 6973706c        827 	.byte	105,115,112,108
+00000134 61792072        828 	.byte	97,121,32,114
+00000138 65736f6c        829 	.byte	101,115,111,108
+0000013c 7574696f        830 	.byte	117,116,105,111
+00000140 6e2e0a00        831 	.byte	110,46,10,0
+                         832 	.type	.L524,@object
+                         833 	.size	.L524,152
+                         834 	.data
+                         835 	.text
+                         836 
+                         837 --227: }
+                         838 
+                         839 --229: void *Copy_And_Get(void **addr_pic, uint32_t size ) 
+                         840 	.align	2
+                         841 	.align	2
+                         842 	.global	_Copy_And_Get
+                         843 _Copy_And_Get:
+000001e0 8007e110        844 	prepare	{r27,r28,r29,r31},0
+000001e4 06e8            845 	mov	r6,r29
+000001e6 07e0            846 	mov	r7,r28
+000001e8 3b06f8ffff0f    847 	mov	268435448,r27
+                         848 --	    .bf
+                         849 .LDW91:
+                         850 --230: {
+                         851 --231:     if (*addr_pic >= (void *)_PIC_BASE)
+000001ee 3d0f0100        852 	ld.w	0[r29],r1
+000001f2 fb09            853 	cmp	r27,r1
+000001f4 f115*           854 	bl	.L552
+                         855 --232:     {
+                         856 --233:         memcpy((void *)(BASE_IMG_SDRAM + (*addr_pic - (void *)_PIC_BASE)), *addr_pic, size);
+                         857 --line233
+
+                                                                      Page 17
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                         858 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.35::
+                         859 .LDWlin35:
+000001f6 3d0f0100        860 	ld.w	0[r29],r1
+000001fa 1c40            861 	mov	r28,r8
+000001fc 2e06080000f0    862 	mov	-268435448,r14
+00000202 0138            863 	mov	r1,r7
+00000204 ce09            864 	add	r14,r1
+00000206 41369640        865 	movhi	16534,r1,r6
+                         866 	jarl	_memcpy,lp
+                         866 <EXPANSION BEGIN>
+                         866 jarl22 _memcpy , lp 
+0000020a 80ff0000*       866 <EXPANSION END>
+                         867 --234:         *addr_pic = (void *)(BASE_IMG_SDRAM + (*addr_pic - (void *)_PIC_BASE));
+                         868 --line234
+                         869 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.36::
+                         870 .LDWlin36:
+0000020e 3d0f0100        871 	ld.w	0[r29],r1
+00000212 2e06080000f0    872 	mov	-268435448,r14
+00000218 ce09            873 	add	r14,r1
+0000021a 410e9640        874 	movhi	16534,r1,r1
+0000021e 7d0f0100        875 	st.w	r1,0[r29]
+                         876 .L552:
+                         877 --235:     }
+                         878 --236:     return *addr_pic;
+00000222 3d570100        879 	ld.w	0[r29],r10
+                         880 --	    .ef
+                         881 .LDW02:
+00000226 4006ff10        882 	dispose	0,{r27,r28,r29,r31},[lp]
+                         883 	.type	_Copy_And_Get,@function
+                         884 	.size	_Copy_And_Get,.-_Copy_And_Get
+                         885 	.align	2
+                         886 .LDW12:
+                         887 
+                         888 --_addr_pic	r29	param
+                         889 --_size	r28	param
+                         890 
+                         891 	.section ".bss","awb"
+                         892 .L586:
+                         893 	.type	.L586,@object
+                         894 	.size	.L586,0
+                         895 	.data
+                         896 	.text
+                         897 
+                         898 --237: /*
+                         899 --238:     if (*addr_pic >= (void *)_PIC_START_ADDR)
+                         900 --239:     {
+                         901 --240:         memcpy((void *)(sdram_img_addr ), *addr_pic, size);
+                         902 --241:         *addr_pic = (void *)(sdram_img_addr);
+                         903 --242:     }
+                         904 --243:     sdram_img_addr = *addr_pic + size;    
+                         905 --244:     return *addr_pic;
+                         906 --245: */
+                         907 --246: }
+                         908 
+                         909 --248: void *loc_CreateRLEWindow(r_wm_WinMode_t      Mode,
+                         910 	.align	2
+                         911 	.align	2
+                         912 	.global	_loc_CreateRLEWindow
+                         913 _loc_CreateRLEWindow:
+0000022a 8607e170        914 	prepare	{r25,r26,r27,r28,r29,r31},3
+0000022e 633f0100        915 	st.w	r7,0[sp]
+
+                                                                      Page 18
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+00000232 06d0            916 	mov	r6,r26
+00000234 63470500        917 	st.w	r8,4[sp]
+00000238 634f0900        918 	st.w	r9,8[sp]
+0000023c 23cf2500        919 	ld.w	36[sp],r25
+00000240 23ef3500        920 	ld.w	52[sp],r29
+00000244 3b0600000000*   921 	mov	_RLE_buf,r27
+                         922 --	    .bf
+                         923 .LDW22:
+                         924 --249:                           uint32_t              PosX,
+                         925 --250:                           uint32_t              PosY,
+                         926 --251:                           uint32_t              PosZ,
+                         927 --252:                           uint32_t              Width,
+                         928 --253:                           uint32_t              Height,
+                         929 --254:                           uint32_t              Pitch,
+                         930 --255:                           r_wm_WinColorFmt_t    ColorFmt,
+                         931 --256:                           r_wm_Window_t*        Window
+                         932 --257:                           )
+                         933 --258: {
+                         934 --259:     r_wm_Error_t wmErr;
+                         935 --260:     /* clear */
+                         936 --261:     memset(Window, 0, sizeof(r_wm_Window_t));
+0000024a 1d30            937 	mov	r29,r6
+0000024c 003a            938 	mov	0,r7
+0000024e 20465400        939 	movea	84,zero,r8
+                         940 	jarl	_memset,lp
+                         940 <EXPANSION BEGIN>
+                         940 jarl22 _memset , lp 
+00000252 80ff0000*       940 <EXPANSION END>
+                         941 --263:     Window->Mode      = Mode;
+                         942 --line263
+                         943 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.37::
+                         944 .LDWlin37:
+00000256 7dd70500        945 	st.w	r26,4[r29]
+                         946 --264:     Window->Status    = R_WM_WINSTATUS_NOT_INITIALIZED;
+0000025a 7d070100        947 	st.w	zero,0[r29]
+                         948 --265:     Window->ColorFmt  = ColorFmt;
+0000025e 235f3100        949 	ld.w	48[sp],r11
+00000262 7d5f0900        950 	st.w	r11,8[r29]
+                         951 --266:     Window->Alpha     = 0xff;
+00000266 200eff00        952 	movea	255,zero,r1
+0000026a 5d0f3800        953 	st.b	r1,56[r29]
+                         954 --267:     Window->PosX      = PosX;
+0000026e 235f0100        955 	ld.w	0[sp],r11
+00000272 7d5f0d00        956 	st.w	r11,12[r29]
+                         957 --268:     Window->PosY      = PosY;
+00000276 235f0500        958 	ld.w	4[sp],r11
+0000027a 7d5f1100        959 	st.w	r11,16[r29]
+                         960 --269:     Window->PosZ      = PosZ;
+0000027e 235f0900        961 	ld.w	8[sp],r11
+00000282 7d5f1500        962 	st.w	r11,20[r29]
+                         963 --270:     Window->Width     = Width;
+00000286 7dcf1d00        964 	st.w	r25,28[r29]
+                         965 --271:     Window->Height    = Height;
+0000028a 235f2900        966 	ld.w	40[sp],r11
+0000028e 7d5f2100        967 	st.w	r11,32[r29]
+                         968 --272:     Window->Pitch     = (((Width * 4 + 127)& ~127) + 128) / 4;;
+00000292 1908            969 	mov	r25,r1
+00000294 c20a            970 	shl	2,r1
+00000296 010e7f00        971 	addi	127,r1,r1
+0000029a 207680ff        972 	movea	-128,zero,r14
+0000029e 4e09            973 	and	r14,r1
+
+                                                                      Page 19
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+000002a0 010e8000        974 	addi	128,r1,r1
+000002a4 820a            975 	shr	2,r1
+000002a6 7d0f1900        976 	st.w	r1,24[r29]
+                         977 --274: 	RLE_buf.Status = R_WM_WINBUF_FREE;
+000002aa 7b070500        978 	st.w	zero,4[r27]
+                         979 --275:     //RLE_buf.Data   = _PIC_C_BG_RLE; 
+                         980 --276:     RLE_buf.Data   = (void *)Copy_And_Get(&addr_pic_background, 217190); //_PIC_C_BG_RLE, size
+000002ae 260600000000*   981 	mov	_addr_pic_background,r6
+000002b4 270666500300    982 	mov	217190,r7
+                         983 	jarl	_Copy_And_Get,lp
+                         983 <EXPANSION BEGIN>
+                         983 jarl22 _Copy_And_Get , lp 
+000002ba bfff26ff*       983 <EXPANSION END>
+000002be 7b570100        984 	st.w	r10,0[r27]
+                         985 --279: 	if( Mode == R_WM_WINMODE_FB )
+                         986 --line279
+                         987 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.38::
+                         988 .LDWlin38:
+000002c2 e0d1            989 	cmp	zero,r26
+000002c4 8a0d*           990 	bne	.L609
+                         991 --280: 	{
+                         992 --281: 		Window->Surface.Fb.BufMode = R_WM_WINBUF_ALLOC_EXTERNAL;
+                         993 --line281
+                         994 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.39::
+                         995 .LDWlin39:
+000002c6 7d073500        996 	st.w	zero,52[r29]
+                         997 --282: 		Window->Surface.Fb.BufNum = 1;
+000002ca 010a            998 	mov	1,r1
+000002cc 5d0f3000        999 	st.b	r1,48[r29]
+                        1000 --283: 		Window->Surface.Fb.Buffer = &RLE_buf;
+000002d0 7ddf2d00       1001 	st.w	r27,44[r29]
+                        1002 .L609:
+                        1003 --284: 	}
+                        1004 --286:     
+                        1005 --287: 	wmErr = R_WM_WindowCreate(LOC_WM_UNIT, Window);
+000002d4 1d38           1006 	mov	r29,r7
+000002d6 0032           1007 	mov	0,r6
+                        1008 	jarl	_R_WM_WindowCreate,lp
+                        1008 <EXPANSION BEGIN>
+                        1008 jarl22 _R_WM_WindowCreate , lp 
+000002d8 80ff0000*      1008 <EXPANSION END>
+000002dc 0ae0           1009 	mov	r10,r28
+                        1010 --288: 	if(R_WM_ERR_OK != wmErr)
+                        1011 --line288
+                        1012 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.40::
+                        1013 .LDWlin40:
+000002de e0e1           1014 	cmp	zero,r28
+000002e0 b20d*          1015 	be	.L611
+                        1016 --289: 	{
+                        1017 --290: 		if (R_WM_ERR_MALLOC_FAILED == wmErr)
+                        1018 --line290
+                        1019 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.41::
+                        1020 .LDWlin41:
+000002e2 67e2           1021 	cmp	7,r28
+000002e4 ea05*          1022 	bne	.L613
+                        1023 --291: 		{
+                        1024 --292: 			R_BSP_STDIO_Printf("RLE Not enough space for Window Framebuffers! "
+                        1025 --line292
+                        1026 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.42::
+                        1027 .LDWlin42:
+000002e6 260600000000*  1028 	mov	.L798,r6
+
+                                                                      Page 20
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                        1029 	jarl	_R_BSP_STDIO_Printf,lp
+                        1029 <EXPANSION BEGIN>
+                        1029 jarl22 _R_BSP_STDIO_Printf , lp 
+000002ec 80ff0000*      1029 <EXPANSION END>
+                        1030 .L613:
+                        1031 --293: 				"Please consider changing VOWE to Ringbuffer mode to reduce the ringbuffer size or reduce display resolution.\n");
+                        1032 --294: 		}
+                        1033 --295: 		loc_Error(1);
+                        1034 --line295
+                        1035 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.43::
+                        1036 .LDWlin43:
+000002f0 0132           1037 	mov	1,r6
+                        1038 	jarl	_loc_Error,lp
+                        1038 <EXPANSION BEGIN>
+                        1038 jarl22 _loc_Error , lp 
+000002f2 80ff0000*      1038 <EXPANSION END>
+                        1039 .L611:
+                        1040 --296: 	}
+                        1041 --297: 	wmErr = R_WM_WindowEnable(LOC_WM_UNIT, Window);
+                        1042 --line297
+                        1043 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.44::
+                        1044 .LDWlin44:
+000002f6 1d38           1045 	mov	r29,r7
+000002f8 0032           1046 	mov	0,r6
+                        1047 	jarl	_R_WM_WindowEnable,lp
+                        1047 <EXPANSION BEGIN>
+                        1047 jarl22 _R_WM_WindowEnable , lp 
+000002fa 80ff0000*      1047 <EXPANSION END>
+000002fe 0ae0           1048 	mov	r10,r28
+                        1049 --298: 	if(R_WM_ERR_OK != wmErr)
+                        1050 --line298
+                        1051 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.45::
+                        1052 .LDWlin45:
+00000300 e0e1           1053 	cmp	zero,r28
+00000302 c205*          1054 	be	.L615
+                        1055 --299: 	{
+                        1056 --300: 	   loc_Error(1);
+                        1057 --line300
+                        1058 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.46::
+                        1059 .LDWlin46:
+00000304 0132           1060 	mov	1,r6
+                        1061 	jarl	_loc_Error,lp
+                        1061 <EXPANSION BEGIN>
+                        1061 jarl22 _loc_Error , lp 
+00000306 80ff0000*      1061 <EXPANSION END>
+                        1062 .L615:
+                        1063 --301: 	}
+                        1064 --302: 	
+                        1065 --303: 	return Window;
+                        1066 --line303
+                        1067 ..lin.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm.47::
+                        1068 .LDWlin47:
+0000030a 1d50           1069 	mov	r29,r10
+                        1070 --	    .ef
+                        1071 .LDW32:
+0000030c 4606ff70       1072 	dispose	3,{r25,r26,r27,r28,r29,r31},[lp]
+                        1073 	.type	_loc_CreateRLEWindow,@function
+                        1074 	.size	_loc_CreateRLEWindow,.-_loc_CreateRLEWindow
+                        1075 	.align	2
+                        1076 .LDW42:
+                        1077 --_wmErr	r28	local
+
+                                                                      Page 21
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                        1078 --.L739	.L798	static
+                        1079 
+                        1080 --_Mode	r26	param
+                        1081 --_PosX	0[sp]	param
+                        1082 --_PosY	4[sp]	param
+                        1083 --_PosZ	8[sp]	param
+                        1084 --_Width	r25	param
+                        1085 --_Height	40[sp]	param
+                        1086 --_Pitch	44[sp]	param
+                        1087 --_ColorFmt	48[sp]	param
+                        1088 --_Window	r29	param
+                        1089 
+                        1090 	.section ".bss","awb"
+                        1091 .L738:
+                        1092 	.type	.L738,@object
+                        1093 	.size	.L738,0
+                        1094 	.section ".rodata","a"
+                        1095 .L798:--	"RLE Not enough space for Window Framebuffers! Please consider changin..."
+00000144 524c4520       1096 	.byte	82,76,69,32
+00000148 4e6f7420       1097 	.byte	78,111,116,32
+0000014c 656e6f75       1098 	.byte	101,110,111,117
+00000150 67682073       1099 	.byte	103,104,32,115
+00000154 70616365       1100 	.byte	112,97,99,101
+00000158 20666f72       1101 	.byte	32,102,111,114
+0000015c 2057696e       1102 	.byte	32,87,105,110
+00000160 646f7720       1103 	.byte	100,111,119,32
+00000164 4672616d       1104 	.byte	70,114,97,109
+00000168 65627566       1105 	.byte	101,98,117,102
+0000016c 66657273       1106 	.byte	102,101,114,115
+00000170 2120506c       1107 	.byte	33,32,80,108
+00000174 65617365       1108 	.byte	101,97,115,101
+00000178 20636f6e       1109 	.byte	32,99,111,110
+0000017c 73696465       1110 	.byte	115,105,100,101
+00000180 72206368       1111 	.byte	114,32,99,104
+00000184 616e6769       1112 	.byte	97,110,103,105
+00000188 6e672056       1113 	.byte	110,103,32,86
+0000018c 4f574520       1114 	.byte	79,87,69,32
+00000190 746f2052       1115 	.byte	116,111,32,82
+00000194 696e6762       1116 	.byte	105,110,103,98
+00000198 75666665       1117 	.byte	117,102,102,101
+0000019c 72206d6f       1118 	.byte	114,32,109,111
+000001a0 64652074       1119 	.byte	100,101,32,116
+000001a4 6f207265       1120 	.byte	111,32,114,101
+000001a8 64756365       1121 	.byte	100,117,99,101
+000001ac 20746865       1122 	.byte	32,116,104,101
+000001b0 2072696e       1123 	.byte	32,114,105,110
+000001b4 67627566       1124 	.byte	103,98,117,102
+000001b8 66657220       1125 	.byte	102,101,114,32
+000001bc 73697a65       1126 	.byte	115,105,122,101
+000001c0 206f7220       1127 	.byte	32,111,114,32
+000001c4 72656475       1128 	.byte	114,101,100,117
+000001c8 63652064       1129 	.byte	99,101,32,100
+000001cc 6973706c       1130 	.byte	105,115,112,108
+000001d0 61792072       1131 	.byte	97,121,32,114
+000001d4 65736f6c       1132 	.byte	101,115,111,108
+000001d8 7574696f       1133 	.byte	117,116,105,111
+000001dc 6e2e0a00       1134 	.byte	110,46,10,0
+                        1135 	.type	.L798,@object
+                        1136 	.size	.L798,156
+                        1137 	.data
+                        1138 	.text
+
+                                                                      Page 22
+                                                              C:\Users\Frank\AppData\Local\Temp\gh_0000poc1.si
+                        1139 
+                        1140 --304: }
+                        1141 	.align	2
+                        1142 --_wm_msg_queue	_wm_msg_queue	static
+                        1143 
+                        1144 	.data
+                        1145 	.align	4
+                        1146 	.global	_addr_pic_background
+00000000 f8c97b10       1147 _addr_pic_background:	.byte	248,201,123,16
+                        1148 	.type	_addr_pic_background,@object
+                        1149 	.size	_addr_pic_background,4
+                        1150 	.global	_sdram_img_addr
+00000004 00009640       1151 _sdram_img_addr:	.byte	0,0,150,64
+                        1152 	.type	_sdram_img_addr,@object
+                        1153 	.size	_sdram_img_addr,4
+                        1154 	.section ".bss","awb"
+                        1155 	.align	4
+                        1156 	.global	_RLE_buf
+00000280 000000000000   1157 _RLE_buf:	.space	8
+00000286 0000 
+                        1158 	.type	_RLE_buf,@object
+                        1159 	.size	_RLE_buf,8
+                        1160 	.data
+                        1161 	.ghsnote version,15
+                        1162 	.ghsnote tools,3
+                        1163 	.ghsnote options,144
+                        1164 	.text
+                        1165 	.align	2
+                        1166 ..eof.C.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs.5Cobj.5Cwm...43.3A.5Cgit.5Crh850.5Csrc.5Capp.5Cgfx_apps.5Csimple_draw.5Ctarget.5Cd1mx_mango_ghs..5BC5D02B..0::
+                        1167 .rh850_flags REGMODE22,DATA_ALIGN8,GP_FIX,EP_NONFIX,TP_FIX,REG2_RESERVE,G3M
