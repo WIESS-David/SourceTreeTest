@@ -1,2 +1,0 @@
-image_bin difference with image_bin_mars
-background_rle.bmp at MARS white black at left, the MAG white is average on both sides
